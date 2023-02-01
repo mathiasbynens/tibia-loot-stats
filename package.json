@@ -1,0 +1,7 @@
+{
+	"private": true,
+	"scripts": {
+		"build": "npm run fetch",
+		"fetch": "node --no-warnings fetch.mjs"
+	}
+}
