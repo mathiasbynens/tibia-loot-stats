@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 31791
+			"timesDropped": 31791,
+			"dropRate": 0.8997537712619931
 		},
 		{
 			"itemName": "Vampire Teeth",
-			"timesDropped": 2761
+			"timesDropped": 2761,
+			"dropRate": 0.07814224662496816
 		},
 		{
 			"itemName": "Blood Preservation",
-			"timesDropped": 1790
+			"timesDropped": 1790,
+			"dropRate": 0.05066085529108765
 		},
 		{
 			"itemName": "Grave Flower",
-			"timesDropped": 689
+			"timesDropped": 689,
+			"dropRate": 0.01950018396399966
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 631
+			"timesDropped": 631,
+			"dropRate": 0.017858659043953246
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 541
+			"timesDropped": 541,
+			"dropRate": 0.015311465202501911
 		},
 		{
 			"itemName": "Katana",
-			"timesDropped": 513
+			"timesDropped": 513,
+			"dropRate": 0.014519004896272607
 		},
 		{
 			"itemName": "Spike Sword",
-			"timesDropped": 361
+			"timesDropped": 361,
+			"dropRate": 0.010217077519599242
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 355
+			"timesDropped": 355,
+			"dropRate": 0.010047264596835819
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 168
+			"timesDropped": 168,
+			"dropRate": 0.004754761837375825
 		},
 		{
 			"itemName": "Strange Helmet",
-			"timesDropped": 146
+			"timesDropped": 146,
+			"dropRate": 0.004132114453909943
 		},
 		{
 			"itemName": "Bronze Amulet",
-			"timesDropped": 80
+			"timesDropped": 80,
+			"dropRate": 0.0022641723035122974
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 0.0020660572269549714
 		},
 		{
 			"itemName": "Vampire Shield",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.0019528486117793564
 		}
 	]
 }

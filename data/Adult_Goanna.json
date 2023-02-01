@@ -4,123 +4,153 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6802
+			"timesDropped": 6802,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Envenomed Arrow",
-			"timesDropped": 3844
+			"timesDropped": 3844,
+			"dropRate": 0.5651279035577771
 		},
 		{
 			"itemName": "Earth Arrow",
-			"timesDropped": 967
+			"timesDropped": 967,
+			"dropRate": 0.14216406939135548
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 778
+			"timesDropped": 778,
+			"dropRate": 0.1143781240811526
 		},
 		{
 			"itemName": "Goanna Meat",
-			"timesDropped": 733
+			"timesDropped": 733,
+			"dropRate": 0.10776242281681858
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 608
+			"timesDropped": 608,
+			"dropRate": 0.0893854748603352
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 590
+			"timesDropped": 590,
+			"dropRate": 0.08673919435460159
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 546
+			"timesDropped": 546,
+			"dropRate": 0.08027050867391944
 		},
 		{
 			"itemName": "Red Goanna Scale",
-			"timesDropped": 540
+			"timesDropped": 540,
+			"dropRate": 0.07938841517200823
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 523
+			"timesDropped": 523,
+			"dropRate": 0.07688915024992649
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 498
+			"timesDropped": 498,
+			"dropRate": 0.07321376065862982
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 432
+			"timesDropped": 432,
+			"dropRate": 0.0635107321376066
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 419
+			"timesDropped": 419,
+			"dropRate": 0.061599529550132315
 		},
 		{
 			"itemName": "Goanna Claw",
-			"timesDropped": 349
+			"timesDropped": 349,
+			"dropRate": 0.051308438694501614
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 293
+			"timesDropped": 293,
+			"dropRate": 0.04307556600999706
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 285
+			"timesDropped": 285,
+			"dropRate": 0.04189944134078212
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 238
+			"timesDropped": 238,
+			"dropRate": 0.03498970890914437
 		},
 		{
 			"itemName": "Scared Frog",
-			"timesDropped": 188
+			"timesDropped": 188,
+			"dropRate": 0.027638929726551013
 		},
 		{
 			"itemName": "Serpent Sword",
-			"timesDropped": 172
+			"timesDropped": 172,
+			"dropRate": 0.025286680388121142
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 159
+			"timesDropped": 159,
+			"dropRate": 0.023375477800646867
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.02175830638047633
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.021170244045868862
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 114
+			"timesDropped": 114,
+			"dropRate": 0.01675977653631285
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 106
+			"timesDropped": 106,
+			"dropRate": 0.015583651867097913
 		},
 		{
 			"itemName": "Lizard Heart",
-			"timesDropped": 96
+			"timesDropped": 96,
+			"dropRate": 0.014113496030579242
 		},
 		{
 			"itemName": "Fur Armor",
-			"timesDropped": 92
+			"timesDropped": 92,
+			"dropRate": 0.013525433695971773
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.011467215524845633
 		},
 		{
 			"itemName": "Coral Brooch",
-			"timesDropped": 76
+			"timesDropped": 76,
+			"dropRate": 0.0111731843575419
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 75
+			"timesDropped": 75,
+			"dropRate": 0.011026168773890033
 		},
 		{
 			"itemName": "Small Tortoise",
-			"timesDropped": 70
+			"timesDropped": 70,
+			"dropRate": 0.010291090855630698
 		}
 	]
 }

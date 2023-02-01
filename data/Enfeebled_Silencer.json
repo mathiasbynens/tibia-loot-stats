@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19433
+			"timesDropped": 19433,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7764
+			"timesDropped": 7764,
+			"dropRate": 0.39952657850048884
 		},
 		{
 			"itemName": "Fairy Wings",
-			"timesDropped": 2293
+			"timesDropped": 2293,
+			"dropRate": 0.1179951628672876
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 1367
+			"timesDropped": 1367,
+			"dropRate": 0.07034425976431843
 		},
 		{
 			"itemName": "Silencer Claws",
-			"timesDropped": 753
+			"timesDropped": 753,
+			"dropRate": 0.038748520557814026
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 299
+			"timesDropped": 299,
+			"dropRate": 0.015386198734112077
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 256
+			"timesDropped": 256,
+			"dropRate": 0.01317346781248392
 		},
 		{
 			"itemName": "Shadow Sceptre",
-			"timesDropped": 183
+			"timesDropped": 183,
+			"dropRate": 0.009416971131580302
 		},
 		{
 			"itemName": "Glorious Axe",
-			"timesDropped": 181
+			"timesDropped": 181,
+			"dropRate": 0.009314053414295271
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 169
+			"timesDropped": 169,
+			"dropRate": 0.008696547110585087
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 162
+			"timesDropped": 162,
+			"dropRate": 0.00833633510008748
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 143
+			"timesDropped": 143,
+			"dropRate": 0.0073586167858796896
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 95
+			"timesDropped": 95,
+			"dropRate": 0.004888591571038954
 		}
 	]
 }

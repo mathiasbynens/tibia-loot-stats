@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1367
+			"timesDropped": 1367,
+			"dropRate": 0.5679268799335272
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1188
+			"timesDropped": 1188,
+			"dropRate": 0.493560448691317
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 121
+			"timesDropped": 121,
+			"dropRate": 0.050270045700041545
 		},
 		{
 			"itemName": "Ring of Red Plasma",
-			"timesDropped": 105
+			"timesDropped": 105,
+			"dropRate": 0.043622766929788115
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 94
+			"timesDropped": 94,
+			"dropRate": 0.039052762775238885
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.023680930619027835
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.02077274615704196
 		},
 		{
 			"itemName": "Wand of Everblazing",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.017449106771915246
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.016618196925633568
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.01578728707935189
 		},
 		{
 			"itemName": "Ring of Green Plasma",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.014540922309929373
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.011217282924802658
 		},
 		{
 			"itemName": "Alloy Legs",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.01080182800166182
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.007062733693394266
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.006647278770253427
 		}
 	]
 }

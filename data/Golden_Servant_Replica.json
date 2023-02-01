@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3453
+			"timesDropped": 3453,
+			"dropRate": 0.8530138339920948
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 221
+			"timesDropped": 221,
+			"dropRate": 0.05459486166007905
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 180
+			"timesDropped": 180,
+			"dropRate": 0.044466403162055336
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 106
+			"timesDropped": 106,
+			"dropRate": 0.026185770750988144
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.016057312252964428
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.009881422924901186
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.004693675889328063
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.004199604743083004
 		},
 		{
 			"itemName": "Slime Mould",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.0032114624505928855
 		},
 		{
 			"itemName": "Golden Can of Oil",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.00024703557312252963
 		}
 	]
 }

@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2436
+			"timesDropped": 2436,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2324
+			"timesDropped": 2324,
+			"dropRate": 0.9540229885057471
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 378
+			"timesDropped": 378,
+			"dropRate": 0.15517241379310345
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 372
+			"timesDropped": 372,
+			"dropRate": 0.15270935960591134
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 367
+			"timesDropped": 367,
+			"dropRate": 0.1506568144499179
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 364
+			"timesDropped": 364,
+			"dropRate": 0.14942528735632185
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 358
+			"timesDropped": 358,
+			"dropRate": 0.1469622331691297
 		},
 		{
 			"itemName": "Crystalline Spikes",
-			"timesDropped": 350
+			"timesDropped": 350,
+			"dropRate": 0.14367816091954022
 		},
 		{
 			"itemName": "Battle Stone",
-			"timesDropped": 299
+			"timesDropped": 299,
+			"dropRate": 0.12274220032840723
 		},
 		{
 			"itemName": "Envenomed Arrow",
-			"timesDropped": 267
+			"timesDropped": 267,
+			"dropRate": 0.10960591133004927
 		},
 		{
 			"itemName": "Drill Bolt",
-			"timesDropped": 186
+			"timesDropped": 186,
+			"dropRate": 0.07635467980295567
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 153
+			"timesDropped": 153,
+			"dropRate": 0.06280788177339902
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.059113300492610835
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 99
+			"timesDropped": 99,
+			"dropRate": 0.04064039408866995
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.02586206896551724
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 37
+			"timesDropped": 37,
+			"dropRate": 0.015188834154351396
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.012315270935960592
 		},
 		{
 			"itemName": "Bonebreaker",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.010673234811165846
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.006157635467980296
 		},
 		{
 			"itemName": "Crystalline Armor",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.002052545155993432
 		}
 	]
 }

@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3141
+			"timesDropped": 3141,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 313
+			"timesDropped": 313,
+			"dropRate": 0.09964979305953518
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 275
+			"timesDropped": 275,
+			"dropRate": 0.08755173511620502
 		},
 		{
 			"itemName": "Copper Shield",
-			"timesDropped": 239
+			"timesDropped": 239,
+			"dropRate": 0.0760904170646291
 		},
 		{
 			"itemName": "Soldier Helmet",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.06685768863419293
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 131
+			"timesDropped": 131,
+			"dropRate": 0.04170646290990131
 		},
 		{
 			"itemName": "Studded Shield",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.041069723018147083
 		},
 		{
 			"itemName": "Brass Armor",
-			"timesDropped": 127
+			"timesDropped": 127,
+			"dropRate": 0.04043298312639287
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 103
+			"timesDropped": 103,
+			"dropRate": 0.03279210442534225
 		},
 		{
 			"itemName": "Crowbar",
-			"timesDropped": 94
+			"timesDropped": 94,
+			"dropRate": 0.029926774912448266
 		},
 		{
 			"itemName": "Studded Armor",
-			"timesDropped": 83
+			"timesDropped": 83,
+			"dropRate": 0.026424705507800062
 		},
 		{
 			"itemName": "Viking Helmet",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.026106335561922954
 		}
 	]
 }

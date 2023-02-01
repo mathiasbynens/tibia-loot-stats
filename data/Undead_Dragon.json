@@ -4,103 +4,128 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16012
+			"timesDropped": 16012,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7940
+			"timesDropped": 7940,
+			"dropRate": 0.4958780914314264
 		},
 		{
 			"itemName": "Unholy Bone",
-			"timesDropped": 5415
+			"timesDropped": 5415,
+			"dropRate": 0.33818386210342244
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 4417
+			"timesDropped": 4417,
+			"dropRate": 0.27585560829377964
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 4029
+			"timesDropped": 4029,
+			"dropRate": 0.25162378216337744
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 3949
+			"timesDropped": 3949,
+			"dropRate": 0.24662752935298526
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 3939
+			"timesDropped": 3939,
+			"dropRate": 0.24600299775168624
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 3594
+			"timesDropped": 3594,
+			"dropRate": 0.22445665750686986
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 2469
+			"timesDropped": 2469,
+			"dropRate": 0.15419685236072944
 		},
 		{
 			"itemName": "Hardened Bone",
-			"timesDropped": 2453
+			"timesDropped": 2453,
+			"dropRate": 0.15319760179865102
 		},
 		{
 			"itemName": "Power Bolt",
-			"timesDropped": 2334
+			"timesDropped": 2334,
+			"dropRate": 0.1457656757431926
 		},
 		{
 			"itemName": "Golden Mug",
-			"timesDropped": 819
+			"timesDropped": 819,
+			"dropRate": 0.05114913814639021
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 785
+			"timesDropped": 785,
+			"dropRate": 0.04902573070197352
 		},
 		{
 			"itemName": "Dragonbone Staff",
-			"timesDropped": 665
+			"timesDropped": 665,
+			"dropRate": 0.04153135148638521
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 295
+			"timesDropped": 295,
+			"dropRate": 0.01842368223832126
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 255
+			"timesDropped": 255,
+			"dropRate": 0.015925555833125157
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.01311516362727954
 		},
 		{
 			"itemName": "Royal Helmet",
-			"timesDropped": 183
+			"timesDropped": 183,
+			"dropRate": 0.01142892830377217
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 174
+			"timesDropped": 174,
+			"dropRate": 0.010866849862603048
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 165
+			"timesDropped": 165,
+			"dropRate": 0.010304771421433925
 		},
 		{
 			"itemName": "Dragon Slayer",
-			"timesDropped": 160
+			"timesDropped": 160,
+			"dropRate": 0.009992505620784412
 		},
 		{
 			"itemName": "Spellweaver's Robe",
-			"timesDropped": 147
+			"timesDropped": 147,
+			"dropRate": 0.009180614539095678
 		},
 		{
 			"itemName": "Golden Armor",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.006495128653509868
 		},
 		{
 			"itemName": "Divine Plate",
-			"timesDropped": 71
+			"timesDropped": 71,
+			"dropRate": 0.004434174369223083
 		},
 		{
 			"itemName": "Skullcracker Armor",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.0031226580064951286
 		}
 	]
 }

@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7753
+			"timesDropped": 7753,
+			"dropRate": 0.6519508913555331
 		},
 		{
 			"itemName": "Wild Flowers",
-			"timesDropped": 2564
+			"timesDropped": 2564,
+			"dropRate": 0.21560713084426505
 		},
 		{
 			"itemName": "Fresh Fruit",
-			"timesDropped": 1782
+			"timesDropped": 1782,
+			"dropRate": 0.14984863773965693
 		},
 		{
 			"itemName": "Colourful Snail Shell",
-			"timesDropped": 1428
+			"timesDropped": 1428,
+			"dropRate": 0.12008072653884964
 		},
 		{
 			"itemName": "Dandelion Seeds",
-			"timesDropped": 1423
+			"timesDropped": 1423,
+			"dropRate": 0.1196602758156744
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 401
+			"timesDropped": 401,
+			"dropRate": 0.03372014799865456
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 281
+			"timesDropped": 281,
+			"dropRate": 0.023629330642448706
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 226
+			"timesDropped": 226,
+			"dropRate": 0.01900437268752102
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 223
+			"timesDropped": 223,
+			"dropRate": 0.018752102253615874
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 132
+			"timesDropped": 132,
+			"dropRate": 0.011099899091826439
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 109
+			"timesDropped": 109,
+			"dropRate": 0.009165825765220317
 		},
 		{
 			"itemName": "Butterfly Ring",
-			"timesDropped": 97
+			"timesDropped": 97,
+			"dropRate": 0.008156744029599731
 		},
 		{
 			"itemName": "Dream Blossom Staff",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.007231752438614195
 		},
 		{
 			"itemName": "Hibiscus Dress",
-			"timesDropped": 75
+			"timesDropped": 75,
+			"dropRate": 0.006306760847628658
 		},
 		{
 			"itemName": "Blue Rose",
-			"timesDropped": 67
+			"timesDropped": 67,
+			"dropRate": 0.005634039690548267
 		},
 		{
 			"itemName": "Flower Wreath",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.005549949545913219
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.0036158762193070973
 		}
 	]
 }

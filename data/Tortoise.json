@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18959
+			"timesDropped": 18959,
+			"dropRate": 0.6015865460891638
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 1588
+			"timesDropped": 1588,
+			"dropRate": 0.05038870379184515
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 918
+			"timesDropped": 918,
+			"dropRate": 0.029128986197049025
 		},
 		{
 			"itemName": "Tortoise Egg",
-			"timesDropped": 346
+			"timesDropped": 346,
+			"dropRate": 0.01097889893701412
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 277
+			"timesDropped": 277,
+			"dropRate": 0.008789465333967952
 		},
 		{
 			"itemName": "Turtle Shell",
-			"timesDropped": 252
+			"timesDropped": 252,
+			"dropRate": 0.007996192289386007
 		},
 		{
 			"itemName": "Tortoise Shield",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.0015230842455973346
 		}
 	]
 }

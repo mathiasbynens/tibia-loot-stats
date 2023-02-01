@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2312
+			"timesDropped": 2312,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2312
+			"timesDropped": 2312,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.011678200692041523
 		}
 	]
 }

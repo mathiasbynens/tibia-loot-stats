@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1527
+			"timesDropped": 1527,
+			"dropRate": 0.6
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 179
+			"timesDropped": 179,
+			"dropRate": 0.07033398821218075
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 120
+			"timesDropped": 120,
+			"dropRate": 0.047151277013752456
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.034970530451866405
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 75
+			"timesDropped": 75,
+			"dropRate": 0.029469548133595286
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.02711198428290766
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.02593320235756385
 		},
 		{
 			"itemName": "Jade Hammer",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.01218074656188605
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.010609037328094302
 		},
 		{
 			"itemName": "Crown Shield",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.006286836935166994
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.00550098231827112
 		}
 	]
 }

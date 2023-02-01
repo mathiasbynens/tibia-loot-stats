@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 14797
+			"timesDropped": 14797,
+			"dropRate": 0.677518315018315
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 2195
+			"timesDropped": 2195,
+			"dropRate": 0.10050366300366301
 		},
 		{
 			"itemName": "Sabre",
-			"timesDropped": 2192
+			"timesDropped": 2192,
+			"dropRate": 0.10036630036630037
 		},
 		{
 			"itemName": "Worn Leather Boots",
-			"timesDropped": 2160
+			"timesDropped": 2160,
+			"dropRate": 0.0989010989010989
 		},
 		{
 			"itemName": "Compass",
-			"timesDropped": 2144
+			"timesDropped": 2144,
+			"dropRate": 0.09816849816849817
 		},
 		{
 			"itemName": "Throwing Knife",
-			"timesDropped": 1962
+			"timesDropped": 1962,
+			"dropRate": 0.08983516483516484
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 882
+			"timesDropped": 882,
+			"dropRate": 0.04038461538461539
 		},
 		{
 			"itemName": "Pirate Shirt",
-			"timesDropped": 247
+			"timesDropped": 247,
+			"dropRate": 0.01130952380952381
 		},
 		{
 			"itemName": "Treasure Map (Pirate)",
-			"timesDropped": 225
+			"timesDropped": 225,
+			"dropRate": 0.010302197802197802
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 224
+			"timesDropped": 224,
+			"dropRate": 0.010256410256410256
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 154
+			"timesDropped": 154,
+			"dropRate": 0.007051282051282051
 		},
 		{
 			"itemName": "Pirate Backpack",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.004899267399267399
 		},
 		{
 			"itemName": "Peg Leg",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.004761904761904762
 		},
 		{
 			"itemName": "Hook",
-			"timesDropped": 101
+			"timesDropped": 101,
+			"dropRate": 0.004624542124542125
 		},
 		{
 			"itemName": "Eye Patch",
-			"timesDropped": 97
+			"timesDropped": 97,
+			"dropRate": 0.004441391941391941
 		},
 		{
 			"itemName": "Rum Flask",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.001282051282051282
 		},
 		{
 			"itemName": "Die",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.0005494505494505495
 		}
 	]
 }

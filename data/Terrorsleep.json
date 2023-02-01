@@ -4,95 +4,118 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2489
+			"timesDropped": 2489,
+			"dropRate": 0.9995983935742971
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2489
+			"timesDropped": 2489,
+			"dropRate": 0.9995983935742971
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 867
+			"timesDropped": 867,
+			"dropRate": 0.3481927710843373
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 544
+			"timesDropped": 544,
+			"dropRate": 0.21847389558232932
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 416
+			"timesDropped": 416,
+			"dropRate": 0.1670682730923695
 		},
 		{
 			"itemName": "Bowl of Terror Sweat",
-			"timesDropped": 415
+			"timesDropped": 415,
+			"dropRate": 0.16666666666666666
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 370
+			"timesDropped": 370,
+			"dropRate": 0.14859437751004015
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 360
+			"timesDropped": 360,
+			"dropRate": 0.14457831325301204
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 337
+			"timesDropped": 337,
+			"dropRate": 0.13534136546184738
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 320
+			"timesDropped": 320,
+			"dropRate": 0.1285140562248996
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 305
+			"timesDropped": 305,
+			"dropRate": 0.12248995983935743
 		},
 		{
 			"itemName": "Trapped Bad Dream Monster",
-			"timesDropped": 305
+			"timesDropped": 305,
+			"dropRate": 0.12248995983935743
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 223
+			"timesDropped": 223,
+			"dropRate": 0.0895582329317269
 		},
 		{
 			"itemName": "White Piece of Cloth",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.040160642570281124
 		},
 		{
 			"itemName": "Blue Piece of Cloth",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.03453815261044177
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.02289156626506024
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.021686746987951807
 		},
 		{
 			"itemName": "Broken Dream",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.021285140562248995
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.01646586345381526
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.01646586345381526
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.012048192771084338
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.011244979919678716
 		},
 		{
 			"itemName": "Cluster of Solace",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.008032128514056224
 		}
 	]
 }

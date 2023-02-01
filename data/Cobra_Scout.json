@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2287
+			"timesDropped": 2287,
+			"dropRate": 0.7365539452495974
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 700
+			"timesDropped": 700,
+			"dropRate": 0.22544283413848631
 		},
 		{
 			"itemName": "Earth Arrow",
-			"timesDropped": 647
+			"timesDropped": 647,
+			"dropRate": 0.20837359098228664
 		},
 		{
 			"itemName": "Cobra Crest",
-			"timesDropped": 436
+			"timesDropped": 436,
+			"dropRate": 0.14041867954911433
 		},
 		{
 			"itemName": "Cheesy Figurine",
-			"timesDropped": 421
+			"timesDropped": 421,
+			"dropRate": 0.1355877616747182
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 197
+			"timesDropped": 197,
+			"dropRate": 0.06344605475040258
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 189
+			"timesDropped": 189,
+			"dropRate": 0.06086956521739131
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 150
+			"timesDropped": 150,
+			"dropRate": 0.04830917874396135
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 127
+			"timesDropped": 127,
+			"dropRate": 0.04090177133655395
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 103
+			"timesDropped": 103,
+			"dropRate": 0.03317230273752013
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 90
+			"timesDropped": 90,
+			"dropRate": 0.028985507246376812
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.020289855072463767
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 62
+			"timesDropped": 62,
+			"dropRate": 0.01996779388083736
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.017391304347826087
 		},
 		{
 			"itemName": "Ring of Red Plasma",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.0051529790660225444
 		}
 	]
 }

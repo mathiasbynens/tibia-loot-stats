@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8284
+			"timesDropped": 8284,
+			"dropRate": 0.8649890362326407
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 967
+			"timesDropped": 967,
+			"dropRate": 0.10097107653753785
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 883
+			"timesDropped": 883,
+			"dropRate": 0.0922000626500992
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 768
+			"timesDropped": 768,
+			"dropRate": 0.08019212697086771
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 433
+			"timesDropped": 433,
+			"dropRate": 0.0452124882531064
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.02192753471859664
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 196
+			"timesDropped": 196,
+			"dropRate": 0.020465699070690194
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 143
+			"timesDropped": 143,
+			"dropRate": 0.014931606975044377
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 126
+			"timesDropped": 126,
+			"dropRate": 0.013156520831157982
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 119
+			"timesDropped": 119,
+			"dropRate": 0.012425603007204761
 		},
 		{
 			"itemName": "Sentinel Shield",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.003550172287772789
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.0009397514879398559
 		}
 	]
 }

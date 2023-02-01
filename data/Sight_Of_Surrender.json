@@ -4,103 +4,128 @@
 	"items": [
 		{
 			"itemName": "Broken Visor",
-			"timesDropped": 4505
+			"timesDropped": 4505,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4505
+			"timesDropped": 4505,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Sight of Surrender's Eye",
-			"timesDropped": 4505
+			"timesDropped": 4505,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 3468
+			"timesDropped": 3468,
+			"dropRate": 0.769811320754717
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 3450
+			"timesDropped": 3450,
+			"dropRate": 0.7658157602663707
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 3404
+			"timesDropped": 3404,
+			"dropRate": 0.7556048834628191
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 1544
+			"timesDropped": 1544,
+			"dropRate": 0.3427302996670366
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 1485
+			"timesDropped": 1485,
+			"dropRate": 0.32963374028856823
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 1476
+			"timesDropped": 1476,
+			"dropRate": 0.3276359600443951
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 1131
+			"timesDropped": 1131,
+			"dropRate": 0.25105438401775804
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 1111
+			"timesDropped": 1111,
+			"dropRate": 0.24661487236403995
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 1078
+			"timesDropped": 1078,
+			"dropRate": 0.2392896781354051
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 649
+			"timesDropped": 649,
+			"dropRate": 0.14406215316315205
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 230
+			"timesDropped": 230,
+			"dropRate": 0.051054384017758046
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 225
+			"timesDropped": 225,
+			"dropRate": 0.049944506104328525
 		},
 		{
 			"itemName": "Cluster of Solace",
-			"timesDropped": 132
+			"timesDropped": 132,
+			"dropRate": 0.0293007769145394
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 106
+			"timesDropped": 106,
+			"dropRate": 0.023529411764705882
 		},
 		{
 			"itemName": "Magic Plate Armor",
-			"timesDropped": 84
+			"timesDropped": 84,
+			"dropRate": 0.018645948945615984
 		},
 		{
 			"itemName": "Onyx Flail",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.012652608213096559
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.01220865704772475
 		},
 		{
 			"itemName": "Jade Hammer",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.011986681465038845
 		},
 		{
 			"itemName": "Hammer of Wrath",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.008657047724750278
 		},
 		{
 			"itemName": "Crusader Helmet",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.00776914539400666
 		},
 		{
 			"itemName": "Crown Legs",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.004661487236403996
 		},
 		{
 			"itemName": "String of Mending",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.004217536071032186
 		}
 	]
 }

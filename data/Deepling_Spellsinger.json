@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 53029
+			"timesDropped": 53029,
+			"dropRate": 0.8006673612054778
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 49745
+			"timesDropped": 49745,
+			"dropRate": 0.7510833295586659
 		},
 		{
 			"itemName": "Spellsinger's Seal",
-			"timesDropped": 10100
+			"timesDropped": 10100,
+			"dropRate": 0.15249656505261885
 		},
 		{
 			"itemName": "Deepling Filet",
-			"timesDropped": 9887
+			"timesDropped": 9887,
+			"dropRate": 0.1492805483836874
 		},
 		{
 			"itemName": "Key to the Drowned Library",
-			"timesDropped": 7104
+			"timesDropped": 7104,
+			"dropRate": 0.10726095031027766
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 2336
+			"timesDropped": 2336,
+			"dropRate": 0.03527049266959581
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 1947
+			"timesDropped": 1947,
+			"dropRate": 0.029397110114598904
 		},
 		{
 			"itemName": "Eye of a Deepling",
-			"timesDropped": 1671
+			"timesDropped": 1671,
+			"dropRate": 0.025229877247814468
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 1621
+			"timesDropped": 1621,
+			"dropRate": 0.02447494375745497
 		},
 		{
 			"itemName": "Deepling Staff",
-			"timesDropped": 1332
+			"timesDropped": 1332,
+			"dropRate": 0.02011142818317706
 		},
 		{
 			"itemName": "Necklace of the Deep",
-			"timesDropped": 515
+			"timesDropped": 515,
+			"dropRate": 0.007775814950702843
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 332
+			"timesDropped": 332,
+			"dropRate": 0.005012758375987076
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.002023221754163458
 		}
 	]
 }

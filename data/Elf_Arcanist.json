@@ -4,87 +4,108 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10258
+			"timesDropped": 10258,
+			"dropRate": 0.3710885215063488
 		},
 		{
 			"itemName": "Scroll",
-			"timesDropped": 8424
+			"timesDropped": 8424,
+			"dropRate": 0.3047426111492964
 		},
 		{
 			"itemName": "Melon",
-			"timesDropped": 6029
+			"timesDropped": 6029,
+			"dropRate": 0.21810223202980863
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 4960
+			"timesDropped": 4960,
+			"dropRate": 0.1794305972578953
 		},
 		{
 			"itemName": "Bread",
-			"timesDropped": 3846
+			"timesDropped": 3846,
+			"dropRate": 0.13913106392215027
 		},
 		{
 			"itemName": "Elvish Talisman",
-			"timesDropped": 2776
+			"timesDropped": 2776,
+			"dropRate": 0.10042325362659625
 		},
 		{
 			"itemName": "Elven Astral Observer",
-			"timesDropped": 2157
+			"timesDropped": 2157,
+			"dropRate": 0.07803060449300003
 		},
 		{
 			"itemName": "Green Tunic",
-			"timesDropped": 2017
+			"timesDropped": 2017,
+			"dropRate": 0.07296603118330137
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 1687
+			"timesDropped": 1687,
+			"dropRate": 0.061028108381868826
 		},
 		{
 			"itemName": "Sling Herb",
-			"timesDropped": 1342
+			"timesDropped": 1342,
+			"dropRate": 0.048547552725825706
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 1119
+			"timesDropped": 1119,
+			"dropRate": 0.04048041095394856
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 827
+			"timesDropped": 827,
+			"dropRate": 0.029917158050862785
 		},
 		{
 			"itemName": "Candlestick",
-			"timesDropped": 604
+			"timesDropped": 604,
+			"dropRate": 0.02185001627898564
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 568
+			"timesDropped": 568,
+			"dropRate": 0.02054769742792027
 		},
 		{
 			"itemName": "Holy Orchid",
-			"timesDropped": 562
+			"timesDropped": 562,
+			"dropRate": 0.02033064428607604
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 313
+			"timesDropped": 313,
+			"dropRate": 0.011322938899540572
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 291
+			"timesDropped": 291,
+			"dropRate": 0.010527077379445067
 		},
 		{
 			"itemName": "Sandals",
-			"timesDropped": 269
+			"timesDropped": 269,
+			"dropRate": 0.009731215859349563
 		},
 		{
 			"itemName": "Inkwell",
-			"timesDropped": 262
+			"timesDropped": 262,
+			"dropRate": 0.009477987193864631
 		},
 		{
 			"itemName": "Grave Flower",
-			"timesDropped": 225
+			"timesDropped": 225,
+			"dropRate": 0.008139492819158557
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.0004702818073291611
 		}
 	]
 }

@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 8954
+			"timesDropped": 8954,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7226
+			"timesDropped": 7226,
+			"dropRate": 0.8070136251954434
 		},
 		{
 			"itemName": "Beetroot",
-			"timesDropped": 2268
+			"timesDropped": 2268,
+			"dropRate": 0.25329461693098054
 		},
 		{
 			"itemName": "Werebadger Claws",
-			"timesDropped": 1336
+			"timesDropped": 1336,
+			"dropRate": 0.14920705829796738
 		},
 		{
 			"itemName": "Werebadger Skull",
-			"timesDropped": 1249
+			"timesDropped": 1249,
+			"dropRate": 0.13949073039982132
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 655
+			"timesDropped": 655,
+			"dropRate": 0.07315166406075498
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 471
+			"timesDropped": 471,
+			"dropRate": 0.05260218896582533
 		},
 		{
 			"itemName": "Troll Green",
-			"timesDropped": 458
+			"timesDropped": 458,
+			"dropRate": 0.051150323877596604
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 336
+			"timesDropped": 336,
+			"dropRate": 0.037525128434219346
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 185
+			"timesDropped": 185,
+			"dropRate": 0.02066115702479339
 		},
 		{
 			"itemName": "Moonlight Crystals",
-			"timesDropped": 181
+			"timesDropped": 181,
+			"dropRate": 0.020214429305338396
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 149
+			"timesDropped": 149,
+			"dropRate": 0.01664060754969846
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 84
+			"timesDropped": 84,
+			"dropRate": 0.009381282108554836
 		},
 		{
 			"itemName": "Badger Boots",
-			"timesDropped": 76
+			"timesDropped": 76,
+			"dropRate": 0.008487826669644852
 		},
 		{
 			"itemName": "Werewolf Amulet",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.006365870002233639
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.005360732633459906
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.0037971856153674335
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.0037971856153674335
 		},
 		{
 			"itemName": "Werebadger Trophy",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.0030154121063211974
 		}
 	]
 }

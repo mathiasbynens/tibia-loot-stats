@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.07272727272727272
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.07272727272727272
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.07272727272727272
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.05454545454545454
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.05454545454545454
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.03636363636363636
 		}
 	]
 }

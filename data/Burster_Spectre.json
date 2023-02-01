@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 11801
+			"timesDropped": 11801,
+			"dropRate": 0.7517518155179004
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 3553
+			"timesDropped": 3553,
+			"dropRate": 0.22633456491272774
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 1163
+			"timesDropped": 1163,
+			"dropRate": 0.07408587081156835
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 1125
+			"timesDropped": 1125,
+			"dropRate": 0.0716651802777424
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 515
+			"timesDropped": 515,
+			"dropRate": 0.032806726971588734
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 483
+			"timesDropped": 483,
+			"dropRate": 0.0307682507325774
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 344
+			"timesDropped": 344,
+			"dropRate": 0.021913619569371896
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 339
+			"timesDropped": 339,
+			"dropRate": 0.021595107657026373
 		},
 		{
 			"itemName": "Blue Ectoplasm",
-			"timesDropped": 308
+			"timesDropped": 308,
+			"dropRate": 0.019620333800484138
 		},
 		{
 			"itemName": "Dragon Necklace",
-			"timesDropped": 269
+			"timesDropped": 269,
+			"dropRate": 0.017135940884189068
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 223
+			"timesDropped": 223,
+			"dropRate": 0.014205631290610268
 		},
 		{
 			"itemName": "Orb",
-			"timesDropped": 208
+			"timesDropped": 208,
+			"dropRate": 0.013250095553573704
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 147
+			"timesDropped": 147,
+			"dropRate": 0.009364250222958339
 		},
 		{
 			"itemName": "Hexagonal Ruby",
-			"timesDropped": 105
+			"timesDropped": 105,
+			"dropRate": 0.006688750159255956
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 90
+			"timesDropped": 90,
+			"dropRate": 0.005733214422219391
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 80
+			"timesDropped": 80,
+			"dropRate": 0.0050961905975283476
 		},
 		{
 			"itemName": "Garlic Necklace",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.003822142948146261
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.003694738183208052
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.001656261944196713
 		},
 		{
 			"itemName": "Strange Symbol",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.0009555357370365652
 		}
 	]
 }

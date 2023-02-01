@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Chasm Spawn Tail",
-			"timesDropped": 4786
+			"timesDropped": 4786,
+			"dropRate": 0.6437987624428302
 		},
 		{
 			"itemName": "Chasm Spawn Head",
-			"timesDropped": 2495
+			"timesDropped": 2495,
+			"dropRate": 0.335620123755717
 		},
 		{
 			"itemName": "Wood Mushroom",
-			"timesDropped": 2095
+			"timesDropped": 2095,
+			"dropRate": 0.28181329028786656
 		},
 		{
 			"itemName": "Chasm Spawn Abdomen",
-			"timesDropped": 1920
+			"timesDropped": 1920,
+			"dropRate": 0.258272800645682
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 1424
+			"timesDropped": 1424,
+			"dropRate": 0.19155232714554749
 		},
 		{
 			"itemName": "Orange Mushroom",
-			"timesDropped": 1124
+			"timesDropped": 1124,
+			"dropRate": 0.15119720204465967
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 817
+			"timesDropped": 817,
+			"dropRate": 0.10990045735808447
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 629
+			"timesDropped": 629,
+			"dropRate": 0.08461124562819478
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 587
+			"timesDropped": 587,
+			"dropRate": 0.07896152811407049
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 531
+			"timesDropped": 531,
+			"dropRate": 0.07142857142857142
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 366
+			"timesDropped": 366,
+			"dropRate": 0.04923325262308313
 		},
 		{
 			"itemName": "Suspicious Device",
-			"timesDropped": 109
+			"timesDropped": 109,
+			"dropRate": 0.014662362119989239
 		},
 		{
 			"itemName": "Mushroom Backpack",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.0045735808447672855
 		}
 	]
 }

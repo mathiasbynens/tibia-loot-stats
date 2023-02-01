@@ -4,107 +4,133 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3239
+			"timesDropped": 3239,
+			"dropRate": 0.7364711232378354
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 594
+			"timesDropped": 594,
+			"dropRate": 0.13506139154160982
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 451
+			"timesDropped": 451,
+			"dropRate": 0.10254661209640746
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 255
+			"timesDropped": 255,
+			"dropRate": 0.05798090040927694
 		},
 		{
 			"itemName": "Bashmu Tongue",
-			"timesDropped": 240
+			"timesDropped": 240,
+			"dropRate": 0.054570259208731244
 		},
 		{
 			"itemName": "Bashmu Feather",
-			"timesDropped": 182
+			"timesDropped": 182,
+			"dropRate": 0.04138244656662119
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 163
+			"timesDropped": 163,
+			"dropRate": 0.03706230104592997
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 146
+			"timesDropped": 146,
+			"dropRate": 0.03319690768531151
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 101
+			"timesDropped": 101,
+			"dropRate": 0.022964984083674398
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 99
+			"timesDropped": 99,
+			"dropRate": 0.022510231923601638
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 99
+			"timesDropped": 99,
+			"dropRate": 0.022510231923601638
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 94
+			"timesDropped": 94,
+			"dropRate": 0.021373351523419737
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 92
+			"timesDropped": 92,
+			"dropRate": 0.020918599363346977
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.019554342883128694
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.017507958162801273
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 70
+			"timesDropped": 70,
+			"dropRate": 0.015916325602546612
 		},
 		{
 			"itemName": "Bashmu Fang",
-			"timesDropped": 67
+			"timesDropped": 67,
+			"dropRate": 0.015234197362437472
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 67
+			"timesDropped": 67,
+			"dropRate": 0.015234197362437472
 		},
 		{
 			"itemName": "Lightning Boots",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.01477944520236471
 		},
 		{
 			"itemName": "Dragonbone Staff",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.01432469304229195
 		},
 		{
 			"itemName": "Amber Staff",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.013415188722146431
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.010459299681673489
 		},
 		{
 			"itemName": "Pair of Iron Fists",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.010231923601637109
 		},
 		{
 			"itemName": "Spellweaver's Robe",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.010004547521600727
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.009322419281491587
 		},
 		{
 			"itemName": "Chaos Mace",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.008867667121418827
 		}
 	]
 }

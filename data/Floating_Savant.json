@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 4695
+			"timesDropped": 4695,
+			"dropRate": 0.7148294762484775
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 2003
+			"timesDropped": 2003,
+			"dropRate": 0.3049634591961023
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 1560
+			"timesDropped": 1560,
+			"dropRate": 0.23751522533495736
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 1353
+			"timesDropped": 1353,
+			"dropRate": 0.2059987819732034
 		},
 		{
 			"itemName": "Book of Necromantic Rituals",
-			"timesDropped": 1316
+			"timesDropped": 1316,
+			"dropRate": 0.20036540803897684
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 1272
+			"timesDropped": 1272,
+			"dropRate": 0.19366626065773446
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 1014
+			"timesDropped": 1014,
+			"dropRate": 0.1543848964677223
 		},
 		{
 			"itemName": "Pick",
-			"timesDropped": 343
+			"timesDropped": 343,
+			"dropRate": 0.052222898903775884
 		},
 		{
 			"itemName": "Black Skull",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.0025883069427527407
 		},
 		{
 			"itemName": "Sample of Monster Blood",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.0010657734470158344
 		}
 	]
 }

@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2412
+			"timesDropped": 2412,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2412
+			"timesDropped": 2412,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 876
+			"timesDropped": 876,
+			"dropRate": 0.36318407960199006
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 507
+			"timesDropped": 507,
+			"dropRate": 0.21019900497512436
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 436
+			"timesDropped": 436,
+			"dropRate": 0.18076285240464346
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 389
+			"timesDropped": 389,
+			"dropRate": 0.1612769485903814
 		},
 		{
 			"itemName": "Bowl of Terror Sweat",
-			"timesDropped": 354
+			"timesDropped": 354,
+			"dropRate": 0.14676616915422885
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 339
+			"timesDropped": 339,
+			"dropRate": 0.14054726368159204
 		},
 		{
 			"itemName": "Trapped Bad Dream Monster",
-			"timesDropped": 307
+			"timesDropped": 307,
+			"dropRate": 0.12728026533996684
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 306
+			"timesDropped": 306,
+			"dropRate": 0.12686567164179105
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 297
+			"timesDropped": 297,
+			"dropRate": 0.12313432835820895
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 261
+			"timesDropped": 261,
+			"dropRate": 0.10820895522388059
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 249
+			"timesDropped": 249,
+			"dropRate": 0.10323383084577115
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.013681592039800995
 		},
 		{
 			"itemName": "Cluster of Solace",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.008291873963515755
 		}
 	]
 }

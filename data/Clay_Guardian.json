@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10618
+			"timesDropped": 10618,
+			"dropRate": 0.976816927322907
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 2766
+			"timesDropped": 2766,
+			"dropRate": 0.2544618215271389
 		},
 		{
 			"itemName": "Lump of Earth",
-			"timesDropped": 2702
+			"timesDropped": 2702,
+			"dropRate": 0.24857405703771848
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 1106
+			"timesDropped": 1106,
+			"dropRate": 0.10174793008279669
 		},
 		{
 			"itemName": "Earth Arrow",
-			"timesDropped": 555
+			"timesDropped": 555,
+			"dropRate": 0.05105795768169273
 		},
 		{
 			"itemName": "Clay Lump",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.00984360625574977
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.004139834406623735
 		}
 	]
 }

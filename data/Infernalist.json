@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4835
+			"timesDropped": 4835,
+			"dropRate": 0.9777553083923155
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 958
+			"timesDropped": 958,
+			"dropRate": 0.1937310414560162
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 943
+			"timesDropped": 943,
+			"dropRate": 0.19069767441860466
 		},
 		{
 			"itemName": "Raspberry",
-			"timesDropped": 394
+			"timesDropped": 394,
+			"dropRate": 0.07967644084934276
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 324
+			"timesDropped": 324,
+			"dropRate": 0.06552072800808897
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 226
+			"timesDropped": 226,
+			"dropRate": 0.04570273003033367
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.021031344792719918
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.011729019211324571
 		},
 		{
 			"itemName": "Royal Tapestry",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.008088978766430738
 		},
 		{
 			"itemName": "Magic Sulphur",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.006875631951466127
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.004448938321536906
 		},
 		{
 			"itemName": "Black Skull",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.004246713852376138
 		},
 		{
 			"itemName": "Red Tome",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.0028311425682507585
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.0020222446916076846
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.0014155712841253793
 		},
 		{
 			"itemName": "Crystal of Power",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.0010111223458038423
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0008088978766430738
 		}
 	]
 }

@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1643
+			"timesDropped": 1643,
+			"dropRate": 0.8053921568627451
 		},
 		{
 			"itemName": "Quara Eye",
-			"timesDropped": 367
+			"timesDropped": 367,
+			"dropRate": 0.17990196078431372
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 217
+			"timesDropped": 217,
+			"dropRate": 0.10637254901960784
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 151
+			"timesDropped": 151,
+			"dropRate": 0.07401960784313726
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 150
+			"timesDropped": 150,
+			"dropRate": 0.07352941176470588
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 131
+			"timesDropped": 131,
+			"dropRate": 0.0642156862745098
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 118
+			"timesDropped": 118,
+			"dropRate": 0.05784313725490196
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 109
+			"timesDropped": 109,
+			"dropRate": 0.053431372549019605
 		},
 		{
 			"itemName": "Spirit Cloak",
-			"timesDropped": 108
+			"timesDropped": 108,
+			"dropRate": 0.052941176470588235
 		},
 		{
 			"itemName": "Green Piece of Cloth",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.028431372549019607
 		},
 		{
 			"itemName": "Yellow Piece of Cloth",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.027941176470588237
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.025490196078431372
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.0196078431372549
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.012254901960784314
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.012254901960784314
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.010784313725490196
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.007352941176470588
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.005392156862745098
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0004901960784313725
 		}
 	]
 }

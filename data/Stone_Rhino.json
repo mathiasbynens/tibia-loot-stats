@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Raw Meat",
-			"timesDropped": 378
+			"timesDropped": 378,
+			"dropRate": 0.1755689735253135
 		},
 		{
 			"itemName": "Hardened Bone",
-			"timesDropped": 215
+			"timesDropped": 215,
+			"dropRate": 0.09986065954482118
 		},
 		{
 			"itemName": "Rhino Hide",
-			"timesDropped": 189
+			"timesDropped": 189,
+			"dropRate": 0.08778448676265675
 		},
 		{
 			"itemName": "Rhino Horn",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.046446818392940084
 		},
 		{
 			"itemName": "Tusk Shield",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.013469577333952624
 		}
 	]
 }

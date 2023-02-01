@@ -4,99 +4,123 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2209
+			"timesDropped": 2209,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 618
+			"timesDropped": 618,
+			"dropRate": 0.27976459936622905
 		},
 		{
 			"itemName": "Lavafungus Ring",
-			"timesDropped": 332
+			"timesDropped": 332,
+			"dropRate": 0.15029425079221367
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 166
+			"timesDropped": 166,
+			"dropRate": 0.07514712539610684
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 143
+			"timesDropped": 143,
+			"dropRate": 0.0647351742870077
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 127
+			"timesDropped": 127,
+			"dropRate": 0.057492077863286556
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 112
+			"timesDropped": 112,
+			"dropRate": 0.05070167496604799
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 99
+			"timesDropped": 99,
+			"dropRate": 0.04481665912177456
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 93
+			"timesDropped": 93,
+			"dropRate": 0.04210049796287913
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 92
+			"timesDropped": 92,
+			"dropRate": 0.04164780443639656
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 91
+			"timesDropped": 91,
+			"dropRate": 0.04119511090991399
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.038931643277501135
 		},
 		{
 			"itemName": "Lavafungus Head",
-			"timesDropped": 83
+			"timesDropped": 83,
+			"dropRate": 0.03757356269805342
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 79
+			"timesDropped": 79,
+			"dropRate": 0.03576278859212313
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.03531009506564056
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.032593933906745136
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 71
+			"timesDropped": 71,
+			"dropRate": 0.03214124038026256
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.028519692168401993
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.027161611588954276
 		},
 		{
 			"itemName": "Spellbook of Warding",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.027161611588954276
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.02399275690357628
 		},
 		{
 			"itemName": "Metal Spats",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.02399275690357628
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.022634676324128564
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.015844273426889995
 		}
 	]
 }

@@ -4,107 +4,133 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9110
+			"timesDropped": 9110,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9107
+			"timesDropped": 9107,
+			"dropRate": 0.9996706915477497
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 1397
+			"timesDropped": 1397,
+			"dropRate": 0.15334796926454447
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1294
+			"timesDropped": 1294,
+			"dropRate": 0.1420417124039517
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 1231
+			"timesDropped": 1231,
+			"dropRate": 0.13512623490669595
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 800
+			"timesDropped": 800,
+			"dropRate": 0.08781558726673985
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 741
+			"timesDropped": 741,
+			"dropRate": 0.08133918770581779
 		},
 		{
 			"itemName": "Drill Bolt",
-			"timesDropped": 726
+			"timesDropped": 726,
+			"dropRate": 0.0796926454445664
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 691
+			"timesDropped": 691,
+			"dropRate": 0.07585071350164654
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 607
+			"timesDropped": 607,
+			"dropRate": 0.06663007683863886
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 429
+			"timesDropped": 429,
+			"dropRate": 0.04709110867178924
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 350
+			"timesDropped": 350,
+			"dropRate": 0.038419319429198684
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 325
+			"timesDropped": 325,
+			"dropRate": 0.03567508232711306
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 211
+			"timesDropped": 211,
+			"dropRate": 0.023161361141602634
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 197
+			"timesDropped": 197,
+			"dropRate": 0.021624588364434687
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 181
+			"timesDropped": 181,
+			"dropRate": 0.01986827661909989
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 128
+			"timesDropped": 128,
+			"dropRate": 0.014050493962678375
 		},
 		{
 			"itemName": "Clay Lump",
-			"timesDropped": 91
+			"timesDropped": 91,
+			"dropRate": 0.009989023051591658
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 83
+			"timesDropped": 83,
+			"dropRate": 0.009110867178924259
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 74
+			"timesDropped": 74,
+			"dropRate": 0.008122941822173435
 		},
 		{
 			"itemName": "Magic Sulphur",
-			"timesDropped": 70
+			"timesDropped": 70,
+			"dropRate": 0.007683863885839737
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.006586169045005488
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.0060373216245883645
 		},
 		{
 			"itemName": "Chaos Mace",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.004829857299670692
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.003951701427003293
 		},
 		{
 			"itemName": "Royal Helmet",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.002305159165751921
 		}
 	]
 }

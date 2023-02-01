@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 56160
+			"timesDropped": 56160,
+			"dropRate": 0.7764198418404026
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 7111
+			"timesDropped": 7111,
+			"dropRate": 0.09831056793673616
 		},
 		{
 			"itemName": "Compass",
-			"timesDropped": 7024
+			"timesDropped": 7024,
+			"dropRate": 0.09710778078858597
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 3663
+			"timesDropped": 3663,
+			"dropRate": 0.05064148647901344
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 3632
+			"timesDropped": 3632,
+			"dropRate": 0.05021290715036222
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 2201
+			"timesDropped": 2201,
+			"dropRate": 0.030429132334236577
 		},
 		{
 			"itemName": "Treasure Map (Pirate)",
-			"timesDropped": 686
+			"timesDropped": 686,
+			"dropRate": 0.009484045788862467
 		},
 		{
 			"itemName": "Bandana",
-			"timesDropped": 666
+			"timesDropped": 666,
+			"dropRate": 0.009207542996184261
 		},
 		{
 			"itemName": "Eye Patch",
-			"timesDropped": 384
+			"timesDropped": 384,
+			"dropRate": 0.005308853619421556
 		},
 		{
 			"itemName": "Hook",
-			"timesDropped": 372
+			"timesDropped": 372,
+			"dropRate": 0.005142951943814632
 		},
 		{
 			"itemName": "Peg Leg",
-			"timesDropped": 355
+			"timesDropped": 355,
+			"dropRate": 0.0049079245700381574
 		},
 		{
 			"itemName": "Pirate Bag",
-			"timesDropped": 336
+			"timesDropped": 336,
+			"dropRate": 0.0046452469169938615
 		},
 		{
 			"itemName": "Die",
-			"timesDropped": 75
+			"timesDropped": 75,
+			"dropRate": 0.0010368854725432727
 		},
 		{
 			"itemName": "Rum Flask",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.0009954100536415417
 		},
 		{
 			"itemName": "Empty Goldfish Bowl",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.0008433335176685284
 		}
 	]
 }

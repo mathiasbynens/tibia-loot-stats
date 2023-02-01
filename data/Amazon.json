@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Skull",
-			"timesDropped": 21104
+			"timesDropped": 21104,
+			"dropRate": 0.8012148823082764
 		},
 		{
 			"itemName": "Dagger",
-			"timesDropped": 21072
+			"timesDropped": 21072,
+			"dropRate": 0.8
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10571
+			"timesDropped": 10571,
+			"dropRate": 0.40132877752467727
 		},
 		{
 			"itemName": "Brown Bread",
-			"timesDropped": 7780
+			"timesDropped": 7780,
+			"dropRate": 0.2953682611996963
 		},
 		{
 			"itemName": "Sabre",
-			"timesDropped": 6114
+			"timesDropped": 6114,
+			"dropRate": 0.23211845102505696
 		},
 		{
 			"itemName": "Girlish Hair Decoration",
-			"timesDropped": 2593
+			"timesDropped": 2593,
+			"dropRate": 0.09844343204252089
 		},
 		{
 			"itemName": "Protective Charm",
-			"timesDropped": 1387
+			"timesDropped": 1387,
+			"dropRate": 0.05265755504935459
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 266
+			"timesDropped": 266,
+			"dropRate": 0.010098709187547456
 		},
 		{
 			"itemName": "Crystal Necklace",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.0023917995444191343
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.0012908124525436598
 		}
 	]
 }

@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7169
+			"timesDropped": 7169,
+			"dropRate": 0.9542126979901504
 		},
 		{
 			"itemName": "Grave Flower",
-			"timesDropped": 5253
+			"timesDropped": 5253,
+			"dropRate": 0.6991880740050579
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 1525
+			"timesDropped": 1525,
+			"dropRate": 0.2029814987355251
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 1488
+			"timesDropped": 1488,
+			"dropRate": 0.19805670171702383
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 363
+			"timesDropped": 363,
+			"dropRate": 0.048316251830161056
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 164
+			"timesDropped": 164,
+			"dropRate": 0.02182883002795155
 		},
 		{
 			"itemName": "Daramian Waraxe",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.009583388792759218
 		}
 	]
 }

@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8248
+			"timesDropped": 8248,
+			"dropRate": 0.8482978504576777
 		},
 		{
 			"itemName": "Vampire Teeth",
-			"timesDropped": 753
+			"timesDropped": 753,
+			"dropRate": 0.07744523295279235
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 728
+			"timesDropped": 728,
+			"dropRate": 0.07487401007919367
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 592
+			"timesDropped": 592,
+			"dropRate": 0.06088655764681682
 		},
 		{
 			"itemName": "Tooth File",
-			"timesDropped": 520
+			"timesDropped": 520,
+			"dropRate": 0.05348143577085262
 		},
 		{
 			"itemName": "Vampire's Cape Chain",
-			"timesDropped": 380
+			"timesDropped": 380,
+			"dropRate": 0.03908258767869999
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 326
+			"timesDropped": 326,
+			"dropRate": 0.033528746271726834
 		},
 		{
 			"itemName": "Blood Preservation",
-			"timesDropped": 294
+			"timesDropped": 294,
+			"dropRate": 0.03023758099352052
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 263
+			"timesDropped": 263,
+			"dropRate": 0.02704926463025815
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 79
+			"timesDropped": 79,
+			"dropRate": 0.00812506428057184
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 37
+			"timesDropped": 37,
+			"dropRate": 0.0038054098529260514
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.002776920703486578
 		},
 		{
 			"itemName": "Vampire Shield",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.0021598272138228943
 		}
 	]
 }

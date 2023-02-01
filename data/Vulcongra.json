@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8098
+			"timesDropped": 8098,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1173
+			"timesDropped": 1173,
+			"dropRate": 0.1448505803902198
 		},
 		{
 			"itemName": "Magma Clump",
-			"timesDropped": 989
+			"timesDropped": 989,
+			"dropRate": 0.12212892072116573
 		},
 		{
 			"itemName": "Banana",
-			"timesDropped": 770
+			"timesDropped": 770,
+			"dropRate": 0.09508520622375895
 		},
 		{
 			"itemName": "Fiery Heart",
-			"timesDropped": 729
+			"timesDropped": 729,
+			"dropRate": 0.09002222771054581
 		},
 		{
 			"itemName": "Blazing Bone",
-			"timesDropped": 643
+			"timesDropped": 643,
+			"dropRate": 0.07940232156087923
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 600
+			"timesDropped": 600,
+			"dropRate": 0.07409236848604593
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 589
+			"timesDropped": 589,
+			"dropRate": 0.07273400839713509
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 395
+			"timesDropped": 395,
+			"dropRate": 0.048777475919980245
 		},
 		{
 			"itemName": "Sword Ring",
-			"timesDropped": 249
+			"timesDropped": 249,
+			"dropRate": 0.030748332921709063
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 197
+			"timesDropped": 197,
+			"dropRate": 0.02432699431958508
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 76
+			"timesDropped": 76,
+			"dropRate": 0.009385033341565818
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.008891084218325513
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.008397135095085207
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.0029636947394418374
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.0016053346505309953
 		}
 	]
 }

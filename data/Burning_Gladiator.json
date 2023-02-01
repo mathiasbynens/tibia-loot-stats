@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6958
+			"timesDropped": 6958,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Fafnar Symbol",
-			"timesDropped": 709
+			"timesDropped": 709,
+			"dropRate": 0.10189709686691578
 		},
 		{
 			"itemName": "Secret Instruction",
-			"timesDropped": 539
+			"timesDropped": 539,
+			"dropRate": 0.07746478873239436
 		},
 		{
 			"itemName": "Dragon Necklace",
-			"timesDropped": 419
+			"timesDropped": 419,
+			"dropRate": 0.06021845357861454
 		},
 		{
 			"itemName": "Strange Talisman",
-			"timesDropped": 356
+			"timesDropped": 356,
+			"dropRate": 0.05116412762288014
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 320
+			"timesDropped": 320,
+			"dropRate": 0.045990227076746194
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 298
+			"timesDropped": 298,
+			"dropRate": 0.042828398965219894
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 297
+			"timesDropped": 297,
+			"dropRate": 0.04268467950560506
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 292
+			"timesDropped": 292,
+			"dropRate": 0.0419660822075309
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 262
+			"timesDropped": 262,
+			"dropRate": 0.03765449841908594
 		},
 		{
 			"itemName": "Empty Honey Glass",
-			"timesDropped": 180
+			"timesDropped": 180,
+			"dropRate": 0.025869502730669732
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 178
+			"timesDropped": 178,
+			"dropRate": 0.02558206381144007
 		},
 		{
 			"itemName": "Lightning Boots",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.015377982178787008
 		},
 		{
 			"itemName": "Spellweaver's Robe",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.011210117849956885
 		},
 		{
 			"itemName": "Golden Mask",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.008335728657660248
 		},
 		{
 			"itemName": "Sea Horse Figurine",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.005748778384593274
 		}
 	]
 }

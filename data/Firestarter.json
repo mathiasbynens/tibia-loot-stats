@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 35038
+			"timesDropped": 35038,
+			"dropRate": 0.7843216260380991
 		},
 		{
 			"itemName": "Flaming Arrow",
-			"timesDropped": 13189
+			"timesDropped": 13189,
+			"dropRate": 0.2952342578291138
 		},
 		{
 			"itemName": "Grapes",
-			"timesDropped": 8897
+			"timesDropped": 8897,
+			"dropRate": 0.19915832829673405
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 6834
+			"timesDropped": 6834,
+			"dropRate": 0.1529783090457323
 		},
 		{
 			"itemName": "Longsword",
-			"timesDropped": 2683
+			"timesDropped": 2683,
+			"dropRate": 0.060058648400599914
 		},
 		{
 			"itemName": "Elvish Talisman",
-			"timesDropped": 2239
+			"timesDropped": 2239,
+			"dropRate": 0.0501197591386296
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 1737
+			"timesDropped": 1737,
+			"dropRate": 0.038882546504600095
 		},
 		{
 			"itemName": "Heaven Blossom",
-			"timesDropped": 404
+			"timesDropped": 404,
+			"dropRate": 0.009043493832963982
 		},
 		{
 			"itemName": "Flintstone",
-			"timesDropped": 158
+			"timesDropped": 158,
+			"dropRate": 0.0035368119445750227
 		},
 		{
 			"itemName": "Elvish Bow",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.0010744745148076019
 		}
 	]
 }

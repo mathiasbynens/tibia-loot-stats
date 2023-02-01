@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4197
+			"timesDropped": 4197,
+			"dropRate": 0.682439024390244
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 618
+			"timesDropped": 618,
+			"dropRate": 0.10048780487804879
 		},
 		{
 			"itemName": "Nail",
-			"timesDropped": 76
+			"timesDropped": 76,
+			"dropRate": 0.012357723577235772
 		},
 		{
 			"itemName": "Sword Ring",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.004878048780487805
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.0040650406504065045
 		},
 		{
 			"itemName": "Gear Crystal",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.002113821138211382
 		}
 	]
 }

@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1918
+			"timesDropped": 1918,
+			"dropRate": 0.7468847352024922
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 1413
+			"timesDropped": 1413,
+			"dropRate": 0.5502336448598131
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 1147
+			"timesDropped": 1147,
+			"dropRate": 0.44665109034267914
 		},
 		{
 			"itemName": "Rubbish Amulet",
-			"timesDropped": 217
+			"timesDropped": 217,
+			"dropRate": 0.08450155763239875
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 169
+			"timesDropped": 169,
+			"dropRate": 0.06580996884735202
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 163
+			"timesDropped": 163,
+			"dropRate": 0.06347352024922118
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 158
+			"timesDropped": 158,
+			"dropRate": 0.061526479750778816
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.05763239875389408
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.00895638629283489
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.008177570093457943
 		},
 		{
 			"itemName": "Gold Ring",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.003115264797507788
 		}
 	]
 }

@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1886
+			"timesDropped": 1886,
+			"dropRate": 0.9656938044034818
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 1537
+			"timesDropped": 1537,
+			"dropRate": 0.7869943676395289
 		},
 		{
 			"itemName": "Dragon Blood",
-			"timesDropped": 381
+			"timesDropped": 381,
+			"dropRate": 0.19508448540706605
 		},
 		{
 			"itemName": "Dragon Tongue",
-			"timesDropped": 234
+			"timesDropped": 234,
+			"dropRate": 0.11981566820276497
 		},
 		{
 			"itemName": "Shiver Arrow",
-			"timesDropped": 155
+			"timesDropped": 155,
+			"dropRate": 0.07936507936507936
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.044034818228366614
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 80
+			"timesDropped": 80,
+			"dropRate": 0.0409626216077829
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.039938556067588324
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.03481822836661547
 		},
 		{
 			"itemName": "Golden Mug",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.029185867895545316
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.022017409114183307
 		},
 		{
 			"itemName": "Glacier Mask",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.010752688172043012
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.00972862263184844
 		},
 		{
 			"itemName": "Shard",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.00972862263184844
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.006656426011264721
 		},
 		{
 			"itemName": "Dragon Scale Mail",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.002560163850486431
 		}
 	]
 }

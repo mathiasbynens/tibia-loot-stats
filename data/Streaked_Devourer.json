@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2551
+			"timesDropped": 2551,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 341
+			"timesDropped": 341,
+			"dropRate": 0.1336730693845551
 		},
 		{
 			"itemName": "Streaked Devourer Maw",
-			"timesDropped": 309
+			"timesDropped": 309,
+			"dropRate": 0.12112896903175226
 		},
 		{
 			"itemName": "Streaked Devourer Eyes",
-			"timesDropped": 269
+			"timesDropped": 269,
+			"dropRate": 0.10544884359074873
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.08232065856526852
 		},
 		{
 			"itemName": "Streaked Devourer Legs",
-			"timesDropped": 151
+			"timesDropped": 151,
+			"dropRate": 0.05919247353978832
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.04076832614660917
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 51
+			"timesDropped": 51,
+			"dropRate": 0.0199921599372795
 		},
 		{
 			"itemName": "Relic Sword",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.01568012544100353
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.013328106624852998
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.012544100352802822
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.011760094080752646
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.011760094080752646
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.011368090944727557
 		},
 		{
 			"itemName": "Guardian Halberd",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.01097608780870247
 		},
 		{
 			"itemName": "Noble Axe",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.00862406899255194
 		}
 	]
 }

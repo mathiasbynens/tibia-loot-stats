@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 3822
+			"timesDropped": 3822,
+			"dropRate": 0.565050266114725
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1582
+			"timesDropped": 1582,
+			"dropRate": 0.23388527498521586
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 962
+			"timesDropped": 962,
+			"dropRate": 0.14222353636901242
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 609
+			"timesDropped": 609,
+			"dropRate": 0.0900354819633353
 		},
 		{
 			"itemName": "Rod (Creature Product)",
-			"timesDropped": 247
+			"timesDropped": 247,
+			"dropRate": 0.03651685393258427
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 235
+			"timesDropped": 235,
+			"dropRate": 0.03474275576581904
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 225
+			"timesDropped": 225,
+			"dropRate": 0.03326434062684802
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 206
+			"timesDropped": 206,
+			"dropRate": 0.030455351862803074
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 180
+			"timesDropped": 180,
+			"dropRate": 0.026611472501478415
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 162
+			"timesDropped": 162,
+			"dropRate": 0.023950325251330572
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.02188054405677114
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.019810762862211707
 		},
 		{
 			"itemName": "Jaws",
-			"timesDropped": 115
+			"timesDropped": 115,
+			"dropRate": 0.017001774098166764
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 110
+			"timesDropped": 110,
+			"dropRate": 0.016262566528681254
 		},
 		{
 			"itemName": "Glacier Kilt",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.00960969840331165
 		},
 		{
 			"itemName": "Goblet of Gloom",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.008870490833826138
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.007983441750443524
 		},
 		{
 			"itemName": "Skullcracker Armor",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.007244234180958013
 		}
 	]
 }

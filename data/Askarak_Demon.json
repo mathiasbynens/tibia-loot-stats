@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16636
+			"timesDropped": 16636,
+			"dropRate": 0.9465718349928877
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1089
+			"timesDropped": 1089,
+			"dropRate": 0.06196301564722617
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 931
+			"timesDropped": 931,
+			"dropRate": 0.05297297297297297
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 892
+			"timesDropped": 892,
+			"dropRate": 0.050753911806543386
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 860
+			"timesDropped": 860,
+			"dropRate": 0.048933143669985774
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 677
+			"timesDropped": 677,
+			"dropRate": 0.03852062588904694
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 192
+			"timesDropped": 192,
+			"dropRate": 0.010924608819345661
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 179
+			"timesDropped": 179,
+			"dropRate": 0.010184921763869132
 		},
 		{
 			"itemName": "Mastermind Potion",
-			"timesDropped": 84
+			"timesDropped": 84,
+			"dropRate": 0.004779516358463727
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.004665718349928876
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.0011948790896159317
 		},
 		{
 			"itemName": "Magic Sulphur",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.001081081081081081
 		}
 	]
 }

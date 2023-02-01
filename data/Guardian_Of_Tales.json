@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2312
+			"timesDropped": 2312,
+			"dropRate": 0.848440366972477
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 1577
+			"timesDropped": 1577,
+			"dropRate": 0.5787155963302753
 		},
 		{
 			"itemName": "Book Page",
-			"timesDropped": 1208
+			"timesDropped": 1208,
+			"dropRate": 0.44330275229357796
 		},
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 1051
+			"timesDropped": 1051,
+			"dropRate": 0.3856880733944954
 		},
 		{
 			"itemName": "Burnt Scroll",
-			"timesDropped": 1028
+			"timesDropped": 1028,
+			"dropRate": 0.3772477064220183
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 262
+			"timesDropped": 262,
+			"dropRate": 0.09614678899082568
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 260
+			"timesDropped": 260,
+			"dropRate": 0.09541284403669725
 		},
 		{
 			"itemName": "Spellbook of Warding",
-			"timesDropped": 151
+			"timesDropped": 151,
+			"dropRate": 0.055412844036697245
 		},
 		{
 			"itemName": "Piece of Hellfire Armor",
-			"timesDropped": 142
+			"timesDropped": 142,
+			"dropRate": 0.052110091743119265
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 115
+			"timesDropped": 115,
+			"dropRate": 0.04220183486238532
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.012110091743119266
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.009174311926605505
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.008807339449541285
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.002568807339449541
 		}
 	]
 }

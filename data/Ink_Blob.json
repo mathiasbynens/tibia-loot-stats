@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1843
+			"timesDropped": 1843,
+			"dropRate": 0.7467585089141004
 		},
 		{
 			"itemName": "Envenomed Arrow",
-			"timesDropped": 1723
+			"timesDropped": 1723,
+			"dropRate": 0.6981361426256077
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 1647
+			"timesDropped": 1647,
+			"dropRate": 0.6673419773095624
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 1218
+			"timesDropped": 1218,
+			"dropRate": 0.49351701782820095
 		},
 		{
 			"itemName": "Inkwell (Black)",
-			"timesDropped": 1078
+			"timesDropped": 1078,
+			"dropRate": 0.4367909238249595
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 869
+			"timesDropped": 869,
+			"dropRate": 0.3521069692058347
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 374
+			"timesDropped": 374,
+			"dropRate": 0.15153970826580226
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 136
+			"timesDropped": 136,
+			"dropRate": 0.055105348460291734
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 132
+			"timesDropped": 132,
+			"dropRate": 0.05348460291734198
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 124
+			"timesDropped": 124,
+			"dropRate": 0.050243111831442464
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 70
+			"timesDropped": 70,
+			"dropRate": 0.028363047001620744
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.018638573743922204
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.017828200972447326
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.011750405186385737
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.01012965964343598
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.006888168557536467
 		},
 		{
 			"itemName": "Clay Lump",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.005672609400324149
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.004862236628849271
 		},
 		{
 			"itemName": "Swamplair Armor",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0008103727714748784
 		}
 	]
 }

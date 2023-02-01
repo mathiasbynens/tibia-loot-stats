@@ -4,91 +4,113 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4245
+			"timesDropped": 4245,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 3123
+			"timesDropped": 3123,
+			"dropRate": 0.7356890459363957
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 1840
+			"timesDropped": 1840,
+			"dropRate": 0.4334511189634865
 		},
 		{
 			"itemName": "Broken Longbow",
-			"timesDropped": 640
+			"timesDropped": 640,
+			"dropRate": 0.15076560659599528
 		},
 		{
 			"itemName": "Lion Cloak Patch",
-			"timesDropped": 392
+			"timesDropped": 392,
+			"dropRate": 0.09234393404004712
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 388
+			"timesDropped": 388,
+			"dropRate": 0.09140164899882214
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 342
+			"timesDropped": 342,
+			"dropRate": 0.08056537102473499
 		},
 		{
 			"itemName": "Mino Shield",
-			"timesDropped": 320
+			"timesDropped": 320,
+			"dropRate": 0.07538280329799764
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 305
+			"timesDropped": 305,
+			"dropRate": 0.071849234393404
 		},
 		{
 			"itemName": "Lion Crest",
-			"timesDropped": 300
+			"timesDropped": 300,
+			"dropRate": 0.0706713780918728
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 266
+			"timesDropped": 266,
+			"dropRate": 0.06266195524146054
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 221
+			"timesDropped": 221,
+			"dropRate": 0.05206124852767962
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 219
+			"timesDropped": 219,
+			"dropRate": 0.051590106007067135
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.03392226148409894
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 131
+			"timesDropped": 131,
+			"dropRate": 0.030859835100117784
 		},
 		{
 			"itemName": "Glacier Shoes",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.020259128386336867
 		},
 		{
 			"itemName": "Coral Brooch",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.01342756183745583
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.011307420494699646
 		},
 		{
 			"itemName": "Assassin Dagger",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.011071849234393404
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.009422850412249705
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.005653710247349823
 		},
 		{
 			"itemName": "Elvish Bow",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.003297997644287397
 		}
 	]
 }

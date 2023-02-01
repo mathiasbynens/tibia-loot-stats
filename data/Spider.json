@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 11839
+			"timesDropped": 11839,
+			"dropRate": 0.6482505612440453
 		},
 		{
 			"itemName": "Spider Fangs",
-			"timesDropped": 177
+			"timesDropped": 177,
+			"dropRate": 0.009691726441438975
 		}
 	]
 }

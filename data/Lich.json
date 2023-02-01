@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12053
+			"timesDropped": 12053,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2357
+			"timesDropped": 2357,
+			"dropRate": 0.19555297436322908
 		},
 		{
 			"itemName": "Spellbook",
-			"timesDropped": 1248
+			"timesDropped": 1248,
+			"dropRate": 0.10354268646809923
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 943
+			"timesDropped": 943,
+			"dropRate": 0.0782377831245333
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 626
+			"timesDropped": 626,
+			"dropRate": 0.05193727702646644
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 587
+			"timesDropped": 587,
+			"dropRate": 0.04870156807433834
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 292
+			"timesDropped": 292,
+			"dropRate": 0.02422633369285655
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 285
+			"timesDropped": 285,
+			"dropRate": 0.02364556541939766
 		},
 		{
 			"itemName": "Ancient Shield",
-			"timesDropped": 247
+			"timesDropped": 247,
+			"dropRate": 0.020492823363477974
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 199
+			"timesDropped": 199,
+			"dropRate": 0.016510412345474155
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 92
+			"timesDropped": 92,
+			"dropRate": 0.007632954451173982
 		},
 		{
 			"itemName": "Strange Helmet",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.0071351530739235045
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.004148344810420642
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.003899444121795404
 		},
 		{
 			"itemName": "Lightning Boots",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.0027379075748776237
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.0027379075748776237
 		},
 		{
 			"itemName": "Castle Shield",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.002654940678669211
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.002157139301418734
 		},
 		{
 			"itemName": "Maxilla Maximus",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.0004148344810420642
 		}
 	]
 }

@@ -4,91 +4,113 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3533
+			"timesDropped": 3533,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 548
+			"timesDropped": 548,
+			"dropRate": 0.15510897254457967
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 436
+			"timesDropped": 436,
+			"dropRate": 0.12340786866685537
 		},
 		{
 			"itemName": "Hydrophytes",
-			"timesDropped": 402
+			"timesDropped": 402,
+			"dropRate": 0.11378431927540333
 		},
 		{
 			"itemName": "Two-Headed Turtle Heads",
-			"timesDropped": 313
+			"timesDropped": 313,
+			"dropRate": 0.08859326351542599
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 234
+			"timesDropped": 234,
+			"dropRate": 0.06623266345881687
 		},
 		{
 			"itemName": "Glacier Shoes",
-			"timesDropped": 149
+			"timesDropped": 149,
+			"dropRate": 0.04217378998018681
 		},
 		{
 			"itemName": "Small Tropical Fish",
-			"timesDropped": 145
+			"timesDropped": 145,
+			"dropRate": 0.041041607698839515
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 128
+			"timesDropped": 128,
+			"dropRate": 0.0362298330031135
 		},
 		{
 			"itemName": "Coral Brooch",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.02887064817435607
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 81
+			"timesDropped": 81,
+			"dropRate": 0.022926691197282762
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 79
+			"timesDropped": 79,
+			"dropRate": 0.022360600056609115
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.021794508915935467
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.019530144353240873
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.015001415227851684
 		},
 		{
 			"itemName": "Gold Nugget",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.014152278516841211
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.014152278516841211
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.013586187376167564
 		},
 		{
 			"itemName": "Cape",
-			"timesDropped": 37
+			"timesDropped": 37,
+			"dropRate": 0.010472686102462497
 		},
 		{
 			"itemName": "Clay Lump",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.00735918482875743
 		},
 		{
 			"itemName": "White Gem",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.005094820266062836
 		},
 		{
 			"itemName": "Turtle Shell",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0002830455703368242
 		}
 	]
 }

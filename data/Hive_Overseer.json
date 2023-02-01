@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3981
+			"timesDropped": 3981,
+			"dropRate": 0.9834486166007905
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3428
+			"timesDropped": 3428,
+			"dropRate": 0.8468379446640316
 		},
 		{
 			"itemName": "Kollos Shell",
-			"timesDropped": 1174
+			"timesDropped": 1174,
+			"dropRate": 0.2900197628458498
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 1155
+			"timesDropped": 1155,
+			"dropRate": 0.28532608695652173
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 750
+			"timesDropped": 750,
+			"dropRate": 0.18527667984189725
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 746
+			"timesDropped": 746,
+			"dropRate": 0.1842885375494071
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 641
+			"timesDropped": 641,
+			"dropRate": 0.1583498023715415
 		},
 		{
 			"itemName": "Gooey Mass",
-			"timesDropped": 512
+			"timesDropped": 512,
+			"dropRate": 0.12648221343873517
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 497
+			"timesDropped": 497,
+			"dropRate": 0.12277667984189723
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 254
+			"timesDropped": 254,
+			"dropRate": 0.06274703557312253
 		},
 		{
 			"itemName": "Hive Scythe",
-			"timesDropped": 62
+			"timesDropped": 62,
+			"dropRate": 0.015316205533596838
 		},
 		{
 			"itemName": "Calopteryx Cape",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.014822134387351778
 		},
 		{
 			"itemName": "Carapace Shield",
-			"timesDropped": 37
+			"timesDropped": 37,
+			"dropRate": 0.009140316205533596
 		},
 		{
 			"itemName": "Hive Bow",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.005681818181818182
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.004693675889328063
 		}
 	]
 }

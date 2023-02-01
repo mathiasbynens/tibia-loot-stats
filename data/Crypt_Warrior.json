@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5294
+			"timesDropped": 5294,
+			"dropRate": 0.7892069171138939
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 4093
+			"timesDropped": 4093,
+			"dropRate": 0.6101669648181276
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 2062
+			"timesDropped": 2062,
+			"dropRate": 0.3073941562313655
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 1353
+			"timesDropped": 1353,
+			"dropRate": 0.2016994633273703
 		},
 		{
 			"itemName": "Pelvis Bone",
-			"timesDropped": 1302
+			"timesDropped": 1302,
+			"dropRate": 0.19409660107334525
 		},
 		{
 			"itemName": "Unholy Bone",
-			"timesDropped": 789
+			"timesDropped": 789,
+			"dropRate": 0.11762075134168157
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 348
+			"timesDropped": 348,
+			"dropRate": 0.0518783542039356
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 322
+			"timesDropped": 322,
+			"dropRate": 0.04800238521168754
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 199
+			"timesDropped": 199,
+			"dropRate": 0.029666070363744784
 		},
 		{
 			"itemName": "Mammoth Whopper",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.019230769230769232
 		},
 		{
 			"itemName": "Ruthless Axe",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.005217650566487776
 		}
 	]
 }

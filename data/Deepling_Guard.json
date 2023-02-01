@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 55638
+			"timesDropped": 55638,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 39030
+			"timesDropped": 39030,
+			"dropRate": 0.7014989755203278
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 8382
+			"timesDropped": 8382,
+			"dropRate": 0.1506524317912218
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 8353
+			"timesDropped": 8353,
+			"dropRate": 0.15013120529134763
 		},
 		{
 			"itemName": "Deepling Breaktime Snack",
-			"timesDropped": 8345
+			"timesDropped": 8345,
+			"dropRate": 0.14998741867069268
 		},
 		{
 			"itemName": "Deepling Guard Belt Buckle",
-			"timesDropped": 6653
+			"timesDropped": 6653,
+			"dropRate": 0.11957654840217118
 		},
 		{
 			"itemName": "Eye of a Deepling",
-			"timesDropped": 5476
+			"timesDropped": 5476,
+			"dropRate": 0.09842194183831195
 		},
 		{
 			"itemName": "Deepling Claw",
-			"timesDropped": 4985
+			"timesDropped": 4985,
+			"dropRate": 0.08959703799561451
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 1579
+			"timesDropped": 1579,
+			"dropRate": 0.028379884251770373
 		},
 		{
 			"itemName": "Heavy Trident",
-			"timesDropped": 831
+			"timesDropped": 831,
+			"dropRate": 0.014935835220532729
 		},
 		{
 			"itemName": "Guardian Axe",
-			"timesDropped": 490
+			"timesDropped": 490,
+			"dropRate": 0.00880693051511557
 		},
 		{
 			"itemName": "Deepling Squelcher",
-			"timesDropped": 398
+			"timesDropped": 398,
+			"dropRate": 0.007153384377583666
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 229
+			"timesDropped": 229,
+			"dropRate": 0.004115892016247888
 		},
 		{
 			"itemName": "Deepling Backpack",
-			"timesDropped": 171
+			"timesDropped": 171,
+			"dropRate": 0.0030734390164995147
 		},
 		{
 			"itemName": "Foxtail",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.00016175994823681658
 		}
 	]
 }

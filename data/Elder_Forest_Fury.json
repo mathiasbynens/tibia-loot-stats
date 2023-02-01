@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 478
+			"timesDropped": 478,
+			"dropRate": 0.9018867924528302
 		},
 		{
 			"itemName": "Bolt",
-			"timesDropped": 236
+			"timesDropped": 236,
+			"dropRate": 0.44528301886792454
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 117
+			"timesDropped": 117,
+			"dropRate": 0.22075471698113208
 		},
 		{
 			"itemName": "Venison",
-			"timesDropped": 97
+			"timesDropped": 97,
+			"dropRate": 0.1830188679245283
 		},
 		{
 			"itemName": "Piercing Bolt",
-			"timesDropped": 92
+			"timesDropped": 92,
+			"dropRate": 0.17358490566037735
 		},
 		{
 			"itemName": "Elven Hoof",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.12830188679245283
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.0830188679245283
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.035849056603773584
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.03018867924528302
 		},
 		{
 			"itemName": "Raspberry",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.007547169811320755
 		},
 		{
 			"itemName": "Bullseye Potion",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.005660377358490566
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0037735849056603774
 		}
 	]
 }

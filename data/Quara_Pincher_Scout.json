@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 43596
+			"timesDropped": 43596,
+			"dropRate": 0.8991461452790496
 		},
 		{
 			"itemName": "Quara Pincers",
-			"timesDropped": 4806
+			"timesDropped": 4806,
+			"dropRate": 0.09912139586684816
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 2409
+			"timesDropped": 2409,
+			"dropRate": 0.049684444994431386
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 1861
+			"timesDropped": 1861,
+			"dropRate": 0.03838221342243122
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 996
+			"timesDropped": 996,
+			"dropRate": 0.02054201212721198
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 393
+			"timesDropped": 393,
+			"dropRate": 0.008105432495978221
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 379
+			"timesDropped": 379,
+			"dropRate": 0.007816689353627851
 		}
 	]
 }

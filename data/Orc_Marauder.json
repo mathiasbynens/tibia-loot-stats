@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8167
+			"timesDropped": 8167,
+			"dropRate": 0.5505224132119987
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 3670
+			"timesDropped": 3670,
+			"dropRate": 0.24738793394000674
 		},
 		{
 			"itemName": "Shaggy Tail",
-			"timesDropped": 1499
+			"timesDropped": 1499,
+			"dropRate": 0.1010448264239973
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 766
+			"timesDropped": 766,
+			"dropRate": 0.05163464779238288
 		},
 		{
 			"itemName": "Broken Crossbow",
-			"timesDropped": 743
+			"timesDropped": 743,
+			"dropRate": 0.050084260195483656
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 583
+			"timesDropped": 583,
+			"dropRate": 0.039298955173576004
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 566
+			"timesDropped": 566,
+			"dropRate": 0.03815301651499831
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 207
+			"timesDropped": 207,
+			"dropRate": 0.013953488372093023
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 159
+			"timesDropped": 159,
+			"dropRate": 0.010717896865520727
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 0.004920795416245366
 		},
 		{
 			"itemName": "Silkweaver Bow",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.0006740815638692282
 		}
 	]
 }

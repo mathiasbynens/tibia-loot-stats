@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5364
+			"timesDropped": 5364,
+			"dropRate": 0.1314802559011692
 		},
 		{
 			"itemName": "Throwing Knife",
-			"timesDropped": 4534
+			"timesDropped": 4534,
+			"dropRate": 0.11113562271735666
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 3595
+			"timesDropped": 3595,
+			"dropRate": 0.0881192244527784
 		},
 		{
 			"itemName": "Brass Shield",
-			"timesDropped": 2302
+			"timesDropped": 2302,
+			"dropRate": 0.05642571757727284
 		},
 		{
 			"itemName": "Brass Legs",
-			"timesDropped": 1444
+			"timesDropped": 1444,
+			"dropRate": 0.0353947594185847
 		},
 		{
 			"itemName": "Miraculum",
-			"timesDropped": 628
+			"timesDropped": 628,
+			"dropRate": 0.015393288722209967
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 486
+			"timesDropped": 486,
+			"dropRate": 0.011912640635340834
 		},
 		{
 			"itemName": "Katana",
-			"timesDropped": 209
+			"timesDropped": 209,
+			"dropRate": 0.00512292570532147
 		}
 	]
 }

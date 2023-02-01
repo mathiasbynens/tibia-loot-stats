@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Sulphur Powder",
-			"timesDropped": 393
+			"timesDropped": 393,
+			"dropRate": 0.3058365758754864
 		},
 		{
 			"itemName": "Sulphider Shell",
-			"timesDropped": 314
+			"timesDropped": 314,
+			"dropRate": 0.2443579766536965
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 198
+			"timesDropped": 198,
+			"dropRate": 0.15408560311284047
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 178
+			"timesDropped": 178,
+			"dropRate": 0.13852140077821012
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 51
+			"timesDropped": 51,
+			"dropRate": 0.03968871595330739
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.022568093385214007
 		},
 		{
 			"itemName": "Amber Staff",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.01556420233463035
 		},
 		{
 			"itemName": "Crown Shield",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.013229571984435798
 		},
 		{
 			"itemName": "Amulet of Loss",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.012451361867704281
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.011673151750972763
 		}
 	]
 }

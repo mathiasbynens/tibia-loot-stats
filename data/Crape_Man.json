@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2038
+			"timesDropped": 2038,
+			"dropRate": 0.7967161845191556
 		},
 		{
 			"itemName": "Crab Man Claws",
-			"timesDropped": 137
+			"timesDropped": 137,
+			"dropRate": 0.053557466770914774
 		},
 		{
 			"itemName": "Guardian Halberd",
-			"timesDropped": 125
+			"timesDropped": 125,
+			"dropRate": 0.04886630179827991
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.024628616106333073
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.022283033620015637
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 56
+			"timesDropped": 56,
+			"dropRate": 0.0218921032056294
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.018764659890539485
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.018764659890539485
 		},
 		{
 			"itemName": "Warrior's Shield",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.01524628616106333
 		},
 		{
 			"itemName": "Glacier Kilt",
-			"timesDropped": 37
+			"timesDropped": 37,
+			"dropRate": 0.014464425332290852
 		},
 		{
 			"itemName": "Hammer of Wrath",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.010164190774042221
 		},
 		{
 			"itemName": "Noble Axe",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.007036747458952306
 		},
 		{
 			"itemName": "Ring of the Sky",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.001563721657544957
 		}
 	]
 }

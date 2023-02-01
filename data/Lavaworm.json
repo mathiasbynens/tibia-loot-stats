@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2615
+			"timesDropped": 2615,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 450
+			"timesDropped": 450,
+			"dropRate": 0.17208413001912046
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 350
+			"timesDropped": 350,
+			"dropRate": 0.1338432122370937
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 241
+			"timesDropped": 241,
+			"dropRate": 0.09216061185468451
 		},
 		{
 			"itemName": "Lavaworm Spike Roots",
-			"timesDropped": 224
+			"timesDropped": 224,
+			"dropRate": 0.08565965583173996
 		},
 		{
 			"itemName": "Lavaworm Spikes",
-			"timesDropped": 161
+			"timesDropped": 161,
+			"dropRate": 0.0615678776290631
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 143
+			"timesDropped": 143,
+			"dropRate": 0.054684512428298276
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 112
+			"timesDropped": 112,
+			"dropRate": 0.04282982791586998
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 110
+			"timesDropped": 110,
+			"dropRate": 0.04206500956022945
 		},
 		{
 			"itemName": "Lavaworm Jaws",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.03747609942638623
 		},
 		{
 			"itemName": "Butterfly Ring",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.029445506692160613
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 56
+			"timesDropped": 56,
+			"dropRate": 0.02141491395793499
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.012237093690248566
 		},
 		{
 			"itemName": "Crusader Helmet",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.0076481835564053535
 		},
 		{
 			"itemName": "Strange Helmet",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.0034416826003824093
 		}
 	]
 }

@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5213
+			"timesDropped": 5213,
+			"dropRate": 0.5006242197253433
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 2598
+			"timesDropped": 2598,
+			"dropRate": 0.2494958225295304
 		},
 		{
 			"itemName": "Dagger",
-			"timesDropped": 1893
+			"timesDropped": 1893,
+			"dropRate": 0.18179199078075484
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 1351
+			"timesDropped": 1351,
+			"dropRate": 0.12974166906751178
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 1318
+			"timesDropped": 1318,
+			"dropRate": 0.12657255353884567
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 1037
+			"timesDropped": 1037,
+			"dropRate": 0.09958705464323442
 		},
 		{
 			"itemName": "Small Axe",
-			"timesDropped": 982
+			"timesDropped": 982,
+			"dropRate": 0.09430519542879093
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 935
+			"timesDropped": 935,
+			"dropRate": 0.08979160664553923
 		},
 		{
 			"itemName": "Leather Armor",
-			"timesDropped": 799
+			"timesDropped": 799,
+			"dropRate": 0.07673100931527897
 		},
 		{
 			"itemName": "Mouldy Cheese",
-			"timesDropped": 726
+			"timesDropped": 726,
+			"dropRate": 0.06972054163065398
 		},
 		{
 			"itemName": "Bone Club",
-			"timesDropped": 522
+			"timesDropped": 522,
+			"dropRate": 0.05012964563526361
 		}
 	]
 }

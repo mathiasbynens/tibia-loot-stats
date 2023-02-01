@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 24414
+			"timesDropped": 24414,
+			"dropRate": 0.9193402620876638
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 1339
+			"timesDropped": 1339,
+			"dropRate": 0.05042175026359391
 		},
 		{
 			"itemName": "Royal Helmet",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.0017698448561530352
 		}
 	]
 }

@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 232
+			"timesDropped": 232,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Fairy Wings",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.16379310344827586
 		},
 		{
 			"itemName": "Shimmering Beetles",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.15517241379310345
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.09482758620689655
 		},
 		{
 			"itemName": "Cave Turnip",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.09051724137931035
 		},
 		{
 			"itemName": "Goat Grass",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.08620689655172414
 		},
 		{
 			"itemName": "Leaf Star",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.06465517241379311
 		},
 		{
 			"itemName": "Prismatic Quartz",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.0603448275862069
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.05603448275862069
 		},
 		{
 			"itemName": "Dark Mushroom",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.05172413793103448
 		},
 		{
 			"itemName": "Panpipes",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.03879310344827586
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.02586206896551724
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.021551724137931036
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.017241379310344827
 		},
 		{
 			"itemName": "Leaf Legs",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.008620689655172414
 		},
 		{
 			"itemName": "Mandrake",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.004310344827586207
 		},
 		{
 			"itemName": "Wooden Spellbook",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.004310344827586207
 		}
 	]
 }

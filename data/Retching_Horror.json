@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1243
+			"timesDropped": 1243,
+			"dropRate": 0.8336686787391012
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1198
+			"timesDropped": 1198,
+			"dropRate": 0.8034875922199866
 		},
 		{
 			"itemName": "Goosebump Leather",
-			"timesDropped": 195
+			"timesDropped": 195,
+			"dropRate": 0.13078470824949698
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 175
+			"timesDropped": 175,
+			"dropRate": 0.11737089201877934
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 174
+			"timesDropped": 174,
+			"dropRate": 0.11670020120724346
 		},
 		{
 			"itemName": "Pool of Chitinous Glue",
-			"timesDropped": 172
+			"timesDropped": 172,
+			"dropRate": 0.1153588195841717
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 162
+			"timesDropped": 162,
+			"dropRate": 0.10865191146881288
 		},
 		{
 			"itemName": "Broken Dream",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.04225352112676056
 		},
 		{
 			"itemName": "Beastslayer Axe",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.038900067069081154
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.019450033534540577
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.018108651911468814
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.015425888665325285
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.01341381623071764
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.012072434607645875
 		},
 		{
 			"itemName": "Crown Shield",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.009389671361502348
 		},
 		{
 			"itemName": "Onyx Flail",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.009389671361502348
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.009389671361502348
 		},
 		{
 			"itemName": "Butcher's Axe",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.004694835680751174
 		},
 		{
 			"itemName": "Cluster of Solace",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.004024144869215292
 		}
 	]
 }

@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 231901
+			"timesDropped": 231901,
+			"dropRate": 0.9999655037105072
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 69395
+			"timesDropped": 69395,
+			"dropRate": 0.2992337511696398
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 58018
+			"timesDropped": 58018,
+			"dropRate": 0.25017571547460427
 		},
 		{
 			"itemName": "Weaver's Wandtip",
-			"timesDropped": 46398
+			"timesDropped": 46398,
+			"dropRate": 0.20006985498622304
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 16271
+			"timesDropped": 16271,
+			"dropRate": 0.07016114079229353
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 11667
+			"timesDropped": 11667,
+			"dropRate": 0.05030852618915178
 		},
 		{
 			"itemName": "Draken Sulphur",
-			"timesDropped": 9143
+			"timesDropped": 9143,
+			"dropRate": 0.039424946854154
 		},
 		{
 			"itemName": "Luminous Orb",
-			"timesDropped": 4688
+			"timesDropped": 4688,
+			"dropRate": 0.020214825642816795
 		},
 		{
 			"itemName": "Zaoan Shoes",
-			"timesDropped": 4637
+			"timesDropped": 4637,
+			"dropRate": 0.019994911797299803
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 3685
+			"timesDropped": 3685,
+			"dropRate": 0.015889853347649294
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 3429
+			"timesDropped": 3429,
+			"dropRate": 0.014785972083877727
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 2324
+			"timesDropped": 2324,
+			"dropRate": 0.010021172097676244
 		},
 		{
 			"itemName": "Zaoan Legs",
-			"timesDropped": 2087
+			"timesDropped": 2087,
+			"dropRate": 0.008999219521450224
 		},
 		{
 			"itemName": "Zaoan Robe",
-			"timesDropped": 1857
+			"timesDropped": 1857,
+			"dropRate": 0.008007451198530458
 		},
 		{
 			"itemName": "Spellweaver's Robe",
-			"timesDropped": 1540
+			"timesDropped": 1540,
+			"dropRate": 0.006640535727375824
 		},
 		{
 			"itemName": "Ring of the Sky",
-			"timesDropped": 885
+			"timesDropped": 885,
+			"dropRate": 0.003816152025147795
 		},
 		{
 			"itemName": "Bamboo Leaves",
-			"timesDropped": 505
+			"timesDropped": 505,
+			"dropRate": 0.0021775782742368775
 		},
 		{
 			"itemName": "Harness",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.0002500980988232453
 		},
 		{
 			"itemName": "Draken Trophy",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.00009486479610536892
 		}
 	]
 }

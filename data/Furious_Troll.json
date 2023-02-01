@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1975
+			"timesDropped": 1975,
+			"dropRate": 0.9333648393194707
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 112
+			"timesDropped": 112,
+			"dropRate": 0.052930056710775046
 		},
 		{
 			"itemName": "Bunch of Troll Hair",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.04725897920604915
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.008034026465028356
 		}
 	]
 }

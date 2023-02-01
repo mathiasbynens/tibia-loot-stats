@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18194
+			"timesDropped": 18194,
+			"dropRate": 0.9995604878584771
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 18150
+			"timesDropped": 18150,
+			"dropRate": 0.9971431710801011
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 5506
+			"timesDropped": 5506,
+			"dropRate": 0.3024942314031425
 		},
 		{
 			"itemName": "Ancient Stone",
-			"timesDropped": 3638
+			"timesDropped": 3638,
+			"dropRate": 0.19986814635754313
 		},
 		{
 			"itemName": "Spiked Iron Ball",
-			"timesDropped": 1816
+			"timesDropped": 1816,
+			"dropRate": 0.09976925612570048
 		},
 		{
 			"itemName": "Zaoan Halberd",
-			"timesDropped": 363
+			"timesDropped": 363,
+			"dropRate": 0.019942863421602022
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 305
+			"timesDropped": 305,
+			"dropRate": 0.01675640039556093
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 147
+			"timesDropped": 147,
+			"dropRate": 0.008076035600483464
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 145
+			"timesDropped": 145,
+			"dropRate": 0.007966157565102735
 		},
 		{
 			"itemName": "Clay Lump",
-			"timesDropped": 136
+			"timesDropped": 136,
+			"dropRate": 0.0074717064058894625
 		},
 		{
 			"itemName": "Guardian Halberd",
-			"timesDropped": 103
+			"timesDropped": 103,
+			"dropRate": 0.00565871882210746
 		},
 		{
 			"itemName": "Piece of Marble Rock",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.004889572574442369
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 80
+			"timesDropped": 80,
+			"dropRate": 0.004395121415229096
 		},
 		{
 			"itemName": "Zaoan Sword",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.0010438413361169101
 		}
 	]
 }

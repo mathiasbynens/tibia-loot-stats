@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1464
+			"timesDropped": 1464,
+			"dropRate": 0.6633439057544177
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 917
+			"timesDropped": 917,
+			"dropRate": 0.4154961486180335
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 867
+			"timesDropped": 867,
+			"dropRate": 0.3928409605799728
 		},
 		{
 			"itemName": "Gloom Wolf Fur",
-			"timesDropped": 182
+			"timesDropped": 182,
+			"dropRate": 0.082464884458541
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 159
+			"timesDropped": 159,
+			"dropRate": 0.07204349796103307
 		},
 		{
 			"itemName": "Wolf Paw",
-			"timesDropped": 71
+			"timesDropped": 71,
+			"dropRate": 0.032170367014046214
 		}
 	]
 }

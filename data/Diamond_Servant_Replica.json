@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3954
+			"timesDropped": 3954,
+			"dropRate": 0.9356365357311879
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 1923
+			"timesDropped": 1923,
+			"dropRate": 0.455040227165168
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 415
+			"timesDropped": 415,
+			"dropRate": 0.09820160908660672
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 256
+			"timesDropped": 256,
+			"dropRate": 0.06057737813535258
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 242
+			"timesDropped": 242,
+			"dropRate": 0.057264552768575484
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 241
+			"timesDropped": 241,
+			"dropRate": 0.05702792238523426
 		},
 		{
 			"itemName": "Gear Crystal",
-			"timesDropped": 215
+			"timesDropped": 215,
+			"dropRate": 0.05087553241836252
 		},
 		{
 			"itemName": "Crystal Pedestal (Cyan)",
-			"timesDropped": 202
+			"timesDropped": 202,
+			"dropRate": 0.04779933743492665
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.010884997633696167
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.007335541883577852
 		},
 		{
 			"itemName": "Slime Mould",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.005205868433506862
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.005205868433506862
 		},
 		{
 			"itemName": "Mastermind Potion",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.0049692380501656416
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.004259346900141978
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.001656412683388547
 		},
 		{
 			"itemName": "Bonebreaker",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.000473260766682442
 		},
 		{
 			"itemName": "Crystalline Armor",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.000236630383341221
 		}
 	]
 }

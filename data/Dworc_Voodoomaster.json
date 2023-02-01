@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 30375
+			"timesDropped": 30375,
+			"dropRate": 0.7484476641040805
 		},
 		{
 			"itemName": "Leather Armor",
-			"timesDropped": 4097
+			"timesDropped": 4097,
+			"dropRate": 0.10095111373940469
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 2363
+			"timesDropped": 2363,
+			"dropRate": 0.058224916223142124
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 2243
+			"timesDropped": 2243,
+			"dropRate": 0.05526808594520008
 		},
 		{
 			"itemName": "Big Bone",
-			"timesDropped": 1246
+			"timesDropped": 1246,
+			"dropRate": 0.03070175438596491
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 803
+			"timesDropped": 803,
+			"dropRate": 0.019786122609895526
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 408
+			"timesDropped": 408,
+			"dropRate": 0.010053222945002957
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 238
+			"timesDropped": 238,
+			"dropRate": 0.005864380051251725
 		},
 		{
 			"itemName": "Strange Symbol",
-			"timesDropped": 205
+			"timesDropped": 205,
+			"dropRate": 0.005051251724817662
 		},
 		{
 			"itemName": "Tribal Mask",
-			"timesDropped": 196
+			"timesDropped": 196,
+			"dropRate": 0.004829489453972009
 		},
 		{
 			"itemName": "Voodoo Doll",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.0011827321111768185
 		}
 	]
 }

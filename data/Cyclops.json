@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6306
+			"timesDropped": 6306,
+			"dropRate": 0.8235601410474076
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 2260
+			"timesDropped": 2260,
+			"dropRate": 0.29515476035000654
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 616
+			"timesDropped": 616,
+			"dropRate": 0.08044926211309912
 		},
 		{
 			"itemName": "Cyclops Toe",
-			"timesDropped": 399
+			"timesDropped": 399,
+			"dropRate": 0.052109181141439205
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 202
+			"timesDropped": 202,
+			"dropRate": 0.02638108919942536
 		},
 		{
 			"itemName": "Heavy Old Tome",
-			"timesDropped": 159
+			"timesDropped": 159,
+			"dropRate": 0.020765312785686302
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 111
+			"timesDropped": 111,
+			"dropRate": 0.014496539114535719
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.009403160506725872
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.003003787384092987
 		},
 		{
 			"itemName": "Old Rag",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.002873187932610683
 		},
 		{
 			"itemName": "Dark Helmet",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.002350790126681468
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.0014365939663053414
 		},
 		{
 			"itemName": "Cyclops Trophy",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0010447956118584303
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0005223978059292151
 		}
 	]
 }

@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4451
+			"timesDropped": 4451,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 500
+			"timesDropped": 500,
+			"dropRate": 0.11233430689732644
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 289
+			"timesDropped": 289,
+			"dropRate": 0.06492922938665469
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 217
+			"timesDropped": 217,
+			"dropRate": 0.04875308919343967
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 136
+			"timesDropped": 136,
+			"dropRate": 0.030554931476072793
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 133
+			"timesDropped": 133,
+			"dropRate": 0.029880925634688835
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 123
+			"timesDropped": 123,
+			"dropRate": 0.027634239496742305
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 99
+			"timesDropped": 99,
+			"dropRate": 0.022242192765670635
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.007189395641428892
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.0051673781172770165
 		},
 		{
 			"itemName": "Scarf",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.0051673781172770165
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.004044035048303752
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.0022466861379465287
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.001797348910357223
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.00044933722758930576
 		}
 	]
 }

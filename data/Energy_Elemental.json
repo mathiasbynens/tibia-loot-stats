@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 17707
+			"timesDropped": 17707,
+			"dropRate": 0.9805626315206557
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 2163
+			"timesDropped": 2163,
+			"dropRate": 0.11978070661202792
 		},
 		{
 			"itemName": "Flash Arrow",
-			"timesDropped": 1835
+			"timesDropped": 1835,
+			"dropRate": 0.10161701185070329
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 1803
+			"timesDropped": 1803,
+			"dropRate": 0.09984494406911064
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1434
+			"timesDropped": 1434,
+			"dropRate": 0.07941078746262044
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 1087
+			"timesDropped": 1087,
+			"dropRate": 0.06019492745597519
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 910
+			"timesDropped": 910,
+			"dropRate": 0.05039317753904087
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 660
+			"timesDropped": 660,
+			"dropRate": 0.03654889799534832
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 371
+			"timesDropped": 371,
+			"dropRate": 0.02054491084283974
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 196
+			"timesDropped": 196,
+			"dropRate": 0.010853915162254956
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 170
+			"timesDropped": 170,
+			"dropRate": 0.009414110089710931
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 106
+			"timesDropped": 106,
+			"dropRate": 0.00586997452652564
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 51
+			"timesDropped": 51,
+			"dropRate": 0.0028242330269132795
 		}
 	]
 }

@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 7731
+			"timesDropped": 7731,
+			"dropRate": 0.796353522867738
 		},
 		{
 			"itemName": "Carrot",
-			"timesDropped": 916
+			"timesDropped": 916,
+			"dropRate": 0.09435517099299547
 		}
 	]
 }

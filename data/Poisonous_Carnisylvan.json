@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1035
+			"timesDropped": 1035,
+			"dropRate": 0.9495412844036697
 		},
 		{
 			"itemName": "Carnisylvan Bark",
-			"timesDropped": 135
+			"timesDropped": 135,
+			"dropRate": 0.12385321100917432
 		},
 		{
 			"itemName": "Mushroom Pie",
-			"timesDropped": 105
+			"timesDropped": 105,
+			"dropRate": 0.0963302752293578
 		},
 		{
 			"itemName": "Carnisylvan Finger",
-			"timesDropped": 96
+			"timesDropped": 96,
+			"dropRate": 0.08807339449541285
 		},
 		{
 			"itemName": "Wooden Trash",
-			"timesDropped": 88
+			"timesDropped": 88,
+			"dropRate": 0.08073394495412844
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 79
+			"timesDropped": 79,
+			"dropRate": 0.07247706422018349
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 70
+			"timesDropped": 70,
+			"dropRate": 0.06422018348623854
 		},
 		{
 			"itemName": "Guardian Halberd",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.062385321100917435
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.05779816513761468
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.05229357798165138
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.047706422018348627
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.045871559633027525
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.045871559633027525
 		},
 		{
 			"itemName": "Collar of Blue Plasma",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.044036697247706424
 		},
 		{
 			"itemName": "Fire Mushroom",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.03486238532110092
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.022935779816513763
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.02110091743119266
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.010091743119266056
 		},
 		{
 			"itemName": "Human Teeth",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.0027522935779816515
 		}
 	]
 }

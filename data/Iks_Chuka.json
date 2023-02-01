@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.20408163265306123
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.16326530612244897
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.16326530612244897
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.04081632653061224
 		},
 		{
 			"itemName": "Gold-Brocaded Cloth",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.04081632653061224
 		},
 		{
 			"itemName": "Royal Spear",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.04081632653061224
 		},
 		{
 			"itemName": "Broken Iks Spear",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.02040816326530612
 		},
 		{
 			"itemName": "Rotten Feather",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.02040816326530612
 		}
 	]
 }

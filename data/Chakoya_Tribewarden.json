@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10371
+			"timesDropped": 10371,
+			"dropRate": 0.7986292930848606
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 2580
+			"timesDropped": 2580,
+			"dropRate": 0.1986754966887417
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 640
+			"timesDropped": 640,
+			"dropRate": 0.04928384413984291
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.010318804866779609
 		},
 		{
 			"itemName": "Fireproof Horn",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.004697366394578777
 		},
 		{
 			"itemName": "Mammoth Whopper",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.0014631141229015864
 		},
 		{
 			"itemName": "Rainbow Trout",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.0010780840905590637
 		},
 		{
 			"itemName": "Green Perch",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.00084706607115355
 		},
 		{
 			"itemName": "Northern Pike",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0006160480517480363
 		}
 	]
 }

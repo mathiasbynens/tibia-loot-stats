@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 11310
+			"timesDropped": 11310,
+			"dropRate": 0.8604031951312286
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 1747
+			"timesDropped": 1747,
+			"dropRate": 0.13290224419931532
 		},
 		{
 			"itemName": "Ice Flower (Item)",
-			"timesDropped": 1722
+			"timesDropped": 1722,
+			"dropRate": 0.13100038037276532
 		},
 		{
 			"itemName": "Miraculum",
-			"timesDropped": 1332
+			"timesDropped": 1332,
+			"dropRate": 0.10133130467858502
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1224
+			"timesDropped": 1224,
+			"dropRate": 0.09311525294788893
 		},
 		{
 			"itemName": "Dream Essence Egg",
-			"timesDropped": 1113
+			"timesDropped": 1113,
+			"dropRate": 0.08467097755800684
 		},
 		{
 			"itemName": "Tiger Eye",
-			"timesDropped": 907
+			"timesDropped": 907,
+			"dropRate": 0.06899961962723469
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 821
+			"timesDropped": 821,
+			"dropRate": 0.062457208063902626
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 782
+			"timesDropped": 782,
+			"dropRate": 0.059490300494484595
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 656
+			"timesDropped": 656,
+			"dropRate": 0.049904906808672496
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 326
+			"timesDropped": 326,
+			"dropRate": 0.02480030429821225
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 94
+			"timesDropped": 94,
+			"dropRate": 0.007151007987828071
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.001901863826550019
 		}
 	]
 }

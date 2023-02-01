@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 65534
+			"timesDropped": 65534,
+			"dropRate": 0.7025062710374547
 		},
 		{
 			"itemName": "Wolf Paw",
-			"timesDropped": 965
+			"timesDropped": 965,
+			"dropRate": 0.010344531869733936
 		}
 	]
 }

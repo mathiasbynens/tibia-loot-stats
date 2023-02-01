@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5912
+			"timesDropped": 5912,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Fafnar Symbol",
-			"timesDropped": 542
+			"timesDropped": 542,
+			"dropRate": 0.09167794316644114
 		},
 		{
 			"itemName": "Secret Instruction",
-			"timesDropped": 432
+			"timesDropped": 432,
+			"dropRate": 0.07307171853856563
 		},
 		{
 			"itemName": "Empty Honey Glass",
-			"timesDropped": 174
+			"timesDropped": 174,
+			"dropRate": 0.02943166441136671
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 161
+			"timesDropped": 161,
+			"dropRate": 0.027232746955345062
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.021820027063599458
 		},
 		{
 			"itemName": "Golden Sickle",
-			"timesDropped": 103
+			"timesDropped": 103,
+			"dropRate": 0.017422192151556156
 		},
 		{
 			"itemName": "Wand of Everblazing",
-			"timesDropped": 79
+			"timesDropped": 79,
+			"dropRate": 0.013362652232746955
 		},
 		{
 			"itemName": "Relic Sword",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.013193504736129905
 		},
 		{
 			"itemName": "Sea Horse Figurine",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.006765899864682003
 		},
 		{
 			"itemName": "Golden Mask",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.005581867388362652
 		}
 	]
 }

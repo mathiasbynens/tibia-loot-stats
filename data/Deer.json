@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 9884
+			"timesDropped": 9884,
+			"dropRate": 0.8009075439591605
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 6277
+			"timesDropped": 6277,
+			"dropRate": 0.5086297706830889
 		},
 		{
 			"itemName": "Antlers",
-			"timesDropped": 130
+			"timesDropped": 130,
+			"dropRate": 0.0105339923831132
 		}
 	]
 }

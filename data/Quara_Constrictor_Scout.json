@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 53242
+			"timesDropped": 53242,
+			"dropRate": 0.9995306662661686
 		},
 		{
 			"itemName": "Quara Tentacle",
-			"timesDropped": 8051
+			"timesDropped": 8051,
+			"dropRate": 0.15114423564308108
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 5336
+			"timesDropped": 5336,
+			"dropRate": 0.1001745921489853
 		},
 		{
 			"itemName": "Longsword",
-			"timesDropped": 4305
+			"timesDropped": 4305,
+			"dropRate": 0.08081926896577618
 		},
 		{
 			"itemName": "Brass Armor",
-			"timesDropped": 2708
+			"timesDropped": 2708,
+			"dropRate": 0.05083823004862297
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 2135
+			"timesDropped": 2135,
+			"dropRate": 0.04008110086920608
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 274
+			"timesDropped": 274,
+			"dropRate": 0.005143897722792724
 		}
 	]
 }

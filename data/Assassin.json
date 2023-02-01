@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 17474
+			"timesDropped": 17474,
+			"dropRate": 0.830197643481566
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 6337
+			"timesDropped": 6337,
+			"dropRate": 0.3010737362219688
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 2084
+			"timesDropped": 2084,
+			"dropRate": 0.09901178259217028
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 1469
+			"timesDropped": 1469,
+			"dropRate": 0.06979285442797416
 		},
 		{
 			"itemName": "Viper Star",
-			"timesDropped": 873
+			"timesDropped": 873,
+			"dropRate": 0.04147662485746864
 		},
 		{
 			"itemName": "Combat Knife",
-			"timesDropped": 842
+			"timesDropped": 842,
+			"dropRate": 0.04000380083618396
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 636
+			"timesDropped": 636,
+			"dropRate": 0.030216647662485746
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 401
+			"timesDropped": 401,
+			"dropRate": 0.019051691372101862
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 346
+			"timesDropped": 346,
+			"dropRate": 0.016438616495629037
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 206
+			"timesDropped": 206,
+			"dropRate": 0.009787153173698214
 		},
 		{
 			"itemName": "Leopard Armor",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.004656024325351577
 		},
 		{
 			"itemName": "Horseman Helmet",
-			"timesDropped": 51
+			"timesDropped": 51,
+			"dropRate": 0.0024230330672748005
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.002280501710376283
 		}
 	]
 }

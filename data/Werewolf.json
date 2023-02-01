@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19054
+			"timesDropped": 19054,
+			"dropRate": 0.9875608997615839
 		},
 		{
 			"itemName": "Werewolf Fangs",
-			"timesDropped": 2844
+			"timesDropped": 2844,
+			"dropRate": 0.14740333782523063
 		},
 		{
 			"itemName": "Werewolf Fur",
-			"timesDropped": 1895
+			"timesDropped": 1895,
+			"dropRate": 0.09821706229916036
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 1873
+			"timesDropped": 1873,
+			"dropRate": 0.09707681144397222
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 1539
+			"timesDropped": 1539,
+			"dropRate": 0.07976573027884316
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 1323
+			"timesDropped": 1323,
+			"dropRate": 0.06857054006426869
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1014
+			"timesDropped": 1014,
+			"dropRate": 0.05255519850730797
 		},
 		{
 			"itemName": "Wolf Paw",
-			"timesDropped": 1000
+			"timesDropped": 1000,
+			"dropRate": 0.0518295843267337
 		},
 		{
 			"itemName": "Troll Green",
-			"timesDropped": 969
+			"timesDropped": 969,
+			"dropRate": 0.05022286721260495
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 599
+			"timesDropped": 599,
+			"dropRate": 0.031045921011713485
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 399
+			"timesDropped": 399,
+			"dropRate": 0.020680004146366747
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 185
+			"timesDropped": 185,
+			"dropRate": 0.009588473100445735
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 173
+			"timesDropped": 173,
+			"dropRate": 0.00896651808852493
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 154
+			"timesDropped": 154,
+			"dropRate": 0.00798175598631699
 		},
 		{
 			"itemName": "Moonlight Crystals",
-			"timesDropped": 135
+			"timesDropped": 135,
+			"dropRate": 0.00699699388410905
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 112
+			"timesDropped": 112,
+			"dropRate": 0.005804913444594174
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 88
+			"timesDropped": 88,
+			"dropRate": 0.004561003420752566
 		},
 		{
 			"itemName": "Relic Sword",
-			"timesDropped": 74
+			"timesDropped": 74,
+			"dropRate": 0.0038353892401782937
 		},
 		{
 			"itemName": "Bonebreaker",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.0026951383849901523
 		},
 		{
 			"itemName": "Dreaded Cleaver",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.0010884212708614077
 		}
 	]
 }

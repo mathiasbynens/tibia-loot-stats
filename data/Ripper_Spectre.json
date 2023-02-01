@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7316
+			"timesDropped": 7316,
+			"dropRate": 0.744328008953098
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2280
+			"timesDropped": 2280,
+			"dropRate": 0.23196662936209178
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 1235
+			"timesDropped": 1235,
+			"dropRate": 0.12564859090446637
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 630
+			"timesDropped": 630,
+			"dropRate": 0.06409604232373588
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 362
+			"timesDropped": 362,
+			"dropRate": 0.03682978939871808
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 355
+			"timesDropped": 355,
+			"dropRate": 0.03611761115067657
 		},
 		{
 			"itemName": "Twin Hooks",
-			"timesDropped": 308
+			"timesDropped": 308,
+			"dropRate": 0.031335842913826434
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 263
+			"timesDropped": 263,
+			"dropRate": 0.026757554176416724
 		},
 		{
 			"itemName": "Green Ectoplasm",
-			"timesDropped": 191
+			"timesDropped": 191,
+			"dropRate": 0.019432292196561198
 		},
 		{
 			"itemName": "Coral Brooch",
-			"timesDropped": 113
+			"timesDropped": 113,
+			"dropRate": 0.011496591718384373
 		},
 		{
 			"itemName": "Serpent Sword",
-			"timesDropped": 110
+			"timesDropped": 110,
+			"dropRate": 0.011191372469223726
 		},
 		{
 			"itemName": "Assassin Dagger",
-			"timesDropped": 88
+			"timesDropped": 88,
+			"dropRate": 0.00895309797537898
 		},
 		{
 			"itemName": "Hexagonal Ruby",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.007833960728456608
 		},
 		{
 			"itemName": "Spike Sword",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.003866110489368196
 		},
 		{
 			"itemName": "Wyvern Fang",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.0015260962458032354
 		}
 	]
 }

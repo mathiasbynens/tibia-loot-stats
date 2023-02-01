@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4725
+			"timesDropped": 4725,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 962
+			"timesDropped": 962,
+			"dropRate": 0.2035978835978836
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 773
+			"timesDropped": 773,
+			"dropRate": 0.1635978835978836
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 648
+			"timesDropped": 648,
+			"dropRate": 0.13714285714285715
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 394
+			"timesDropped": 394,
+			"dropRate": 0.08338624338624338
 		},
 		{
 			"itemName": "Red Mushroom",
-			"timesDropped": 373
+			"timesDropped": 373,
+			"dropRate": 0.07894179894179894
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 248
+			"timesDropped": 248,
+			"dropRate": 0.052486772486772484
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.01037037037037037
 		}
 	]
 }

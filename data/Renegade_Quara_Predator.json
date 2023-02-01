@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2030
+			"timesDropped": 2030,
+			"dropRate": 0.7998423955870765
 		},
 		{
 			"itemName": "Quara Bone",
-			"timesDropped": 253
+			"timesDropped": 253,
+			"dropRate": 0.09968479117415288
 		},
 		{
 			"itemName": "Royal Spear",
-			"timesDropped": 200
+			"timesDropped": 200,
+			"dropRate": 0.07880220646178093
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 178
+			"timesDropped": 178,
+			"dropRate": 0.07013396375098503
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 158
+			"timesDropped": 158,
+			"dropRate": 0.062253743104806934
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 130
+			"timesDropped": 130,
+			"dropRate": 0.0512214342001576
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 122
+			"timesDropped": 122,
+			"dropRate": 0.04806934594168637
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.038613081166272656
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 51
+			"timesDropped": 51,
+			"dropRate": 0.02009456264775414
 		},
 		{
 			"itemName": "Relic Sword",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.01103230890464933
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.01024428684003152
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.005516154452324665
 		},
 		{
 			"itemName": "Abyss Hammer",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.004728132387706856
 		},
 		{
 			"itemName": "Skull Helmet",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.004334121355397951
 		},
 		{
 			"itemName": "Frozen Plate",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0015760441292356187
 		},
 		{
 			"itemName": "Giant Shrimp",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0003940110323089047
 		}
 	]
 }

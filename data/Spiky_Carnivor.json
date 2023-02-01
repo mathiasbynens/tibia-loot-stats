@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1054
+			"timesDropped": 1054,
+			"dropRate": 0.6616446955430006
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 220
+			"timesDropped": 220,
+			"dropRate": 0.13810420590081607
 		},
 		{
 			"itemName": "Green Glass Plate",
-			"timesDropped": 167
+			"timesDropped": 167,
+			"dropRate": 0.10483364720652856
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.0903954802259887
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 109
+			"timesDropped": 109,
+			"dropRate": 0.06842435655994979
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 0.045825486503452605
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.02824858757062147
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 37
+			"timesDropped": 37,
+			"dropRate": 0.02322661644695543
 		},
 		{
 			"itemName": "Talon",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.020087884494664157
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.017576898932831136
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.016321406151914627
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.016321406151914627
 		},
 		{
 			"itemName": "Prismatic Quartz",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.011927181418706842
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.010671688637790333
 		},
 		{
 			"itemName": "Doublet",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0025109855618330196
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0025109855618330196
 		},
 		{
 			"itemName": "Buckle",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.0018832391713747645
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0012554927809165098
 		}
 	]
 }

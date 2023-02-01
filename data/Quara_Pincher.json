@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 17928
+			"timesDropped": 17928,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7274
+			"timesDropped": 7274,
+			"dropRate": 0.4057340473003124
 		},
 		{
 			"itemName": "Quara Pincers",
-			"timesDropped": 2616
+			"timesDropped": 2616,
+			"dropRate": 0.1459170013386881
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 1839
+			"timesDropped": 1839,
+			"dropRate": 0.10257697456492637
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 1364
+			"timesDropped": 1364,
+			"dropRate": 0.07608210620258812
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 1239
+			"timesDropped": 1239,
+			"dropRate": 0.06910977242302543
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 873
+			"timesDropped": 873,
+			"dropRate": 0.048694779116465865
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 292
+			"timesDropped": 292,
+			"dropRate": 0.016287371709058456
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 269
+			"timesDropped": 269,
+			"dropRate": 0.01500446229361892
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.002788933511825078
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.0010597947344935298
 		},
 		{
 			"itemName": "Giant Shrimp",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0004462293618920125
 		}
 	]
 }

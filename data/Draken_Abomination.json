@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 35065
+			"timesDropped": 35065,
+			"dropRate": 0.9709799795087641
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 18148
+			"timesDropped": 18148,
+			"dropRate": 0.5025337136211336
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 18061
+			"timesDropped": 18061,
+			"dropRate": 0.5001246088666131
 		},
 		{
 			"itemName": "Eye of Corruption",
-			"timesDropped": 4350
+			"timesDropped": 4350,
+			"dropRate": 0.12045523772602663
 		},
 		{
 			"itemName": "Scale of Corruption",
-			"timesDropped": 3958
+			"timesDropped": 3958,
+			"dropRate": 0.10960042090106056
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 3311
+			"timesDropped": 3311,
+			"dropRate": 0.09168443496801706
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 3276
+			"timesDropped": 3276,
+			"dropRate": 0.09071525489435937
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 3000
+			"timesDropped": 3000,
+			"dropRate": 0.08307257774208733
 		},
 		{
 			"itemName": "Tail of Corruption",
-			"timesDropped": 2262
+			"timesDropped": 2262,
+			"dropRate": 0.06263672361753385
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 1784
+			"timesDropped": 1784,
+			"dropRate": 0.049400492897294604
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 1027
+			"timesDropped": 1027,
+			"dropRate": 0.028438512447041233
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 372
+			"timesDropped": 372,
+			"dropRate": 0.01030099964001883
 		},
 		{
 			"itemName": "Zaoan Legs",
-			"timesDropped": 297
+			"timesDropped": 297,
+			"dropRate": 0.008224185196466647
 		},
 		{
 			"itemName": "Zaoan Armor",
-			"timesDropped": 272
+			"timesDropped": 272,
+			"dropRate": 0.007531913715282585
 		},
 		{
 			"itemName": "Zaoan Helmet",
-			"timesDropped": 227
+			"timesDropped": 227,
+			"dropRate": 0.006285825049151275
 		},
 		{
 			"itemName": "Draken Boots",
-			"timesDropped": 197
+			"timesDropped": 197,
+			"dropRate": 0.005455099271730402
 		},
 		{
 			"itemName": "Bamboo Leaves",
-			"timesDropped": 114
+			"timesDropped": 114,
+			"dropRate": 0.003156757954199319
 		},
 		{
 			"itemName": "Shield of Corruption",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.00013845429623681222
 		},
 		{
 			"itemName": "Snake God's Wristguard",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.00013845429623681222
 		}
 	]
 }

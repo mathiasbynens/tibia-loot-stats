@@ -4,91 +4,113 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16517
+			"timesDropped": 16517,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 16516
+			"timesDropped": 16516,
+			"dropRate": 0.9999394563177333
 		},
 		{
 			"itemName": "Mushroom Pie",
-			"timesDropped": 2820
+			"timesDropped": 2820,
+			"dropRate": 0.1707331839922504
 		},
 		{
 			"itemName": "Drill Bolt",
-			"timesDropped": 2499
+			"timesDropped": 2499,
+			"dropRate": 0.1512986619846219
 		},
 		{
 			"itemName": "Brown Piece of Cloth",
-			"timesDropped": 2452
+			"timesDropped": 2452,
+			"dropRate": 0.1484531089180844
 		},
 		{
 			"itemName": "Humongous Chunk",
-			"timesDropped": 1726
+			"timesDropped": 1726,
+			"dropRate": 0.10449839559241993
 		},
 		{
 			"itemName": "White Piece of Cloth",
-			"timesDropped": 1690
+			"timesDropped": 1690,
+			"dropRate": 0.10231882303081673
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 825
+			"timesDropped": 825,
+			"dropRate": 0.04994853787007326
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 823
+			"timesDropped": 823,
+			"dropRate": 0.049827450505539744
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 821
+			"timesDropped": 821,
+			"dropRate": 0.04970636314100624
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 804
+			"timesDropped": 804,
+			"dropRate": 0.04867712054247139
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 796
+			"timesDropped": 796,
+			"dropRate": 0.04819277108433735
 		},
 		{
 			"itemName": "Blue Piece of Cloth",
-			"timesDropped": 738
+			"timesDropped": 738,
+			"dropRate": 0.04468123751286553
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 436
+			"timesDropped": 436,
+			"dropRate": 0.02639704546830538
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 362
+			"timesDropped": 362,
+			"dropRate": 0.021916812980565477
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 329
+			"timesDropped": 329,
+			"dropRate": 0.019918871465762548
 		},
 		{
 			"itemName": "Angelic Axe",
-			"timesDropped": 232
+			"timesDropped": 232,
+			"dropRate": 0.014046134285887267
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 174
+			"timesDropped": 174,
+			"dropRate": 0.01053460071441545
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 139
+			"timesDropped": 139,
+			"dropRate": 0.00841557183507901
 		},
 		{
 			"itemName": "Muck Rod",
-			"timesDropped": 110
+			"timesDropped": 110,
+			"dropRate": 0.006659805049343101
 		},
 		{
 			"itemName": "Mycological Bow",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.0012108736453351092
 		},
 		{
 			"itemName": "Mushroom Backpack",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.0001816310468002664
 		}
 	]
 }

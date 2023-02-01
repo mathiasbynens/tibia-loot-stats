@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6152
+			"timesDropped": 6152,
+			"dropRate": 0.9228922892289229
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 849
+			"timesDropped": 849,
+			"dropRate": 0.12736273627362737
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 553
+			"timesDropped": 553,
+			"dropRate": 0.08295829582958296
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 429
+			"timesDropped": 429,
+			"dropRate": 0.06435643564356436
 		},
 		{
 			"itemName": "Mutated Bat Ear",
-			"timesDropped": 330
+			"timesDropped": 330,
+			"dropRate": 0.04950495049504951
 		},
 		{
 			"itemName": "Star Herb",
-			"timesDropped": 308
+			"timesDropped": 308,
+			"dropRate": 0.0462046204620462
 		},
 		{
 			"itemName": "Bat Wing",
-			"timesDropped": 303
+			"timesDropped": 303,
+			"dropRate": 0.045454545454545456
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.009150915091509152
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 56
+			"timesDropped": 56,
+			"dropRate": 0.0084008400840084
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.007050705070507051
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.0058505850585058505
 		},
 		{
 			"itemName": "Batwing Hat",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.0013501350135013501
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0012001200120012002
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.00105010501050105
 		}
 	]
 }

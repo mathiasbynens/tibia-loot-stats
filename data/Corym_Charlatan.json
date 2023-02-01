@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15902
+			"timesDropped": 15902,
+			"dropRate": 0.814276204618772
 		},
 		{
 			"itemName": "Rat Cheese",
-			"timesDropped": 2883
+			"timesDropped": 2883,
+			"dropRate": 0.1476266065850786
 		},
 		{
 			"itemName": "Soft Cheese",
-			"timesDropped": 2443
+			"timesDropped": 2443,
+			"dropRate": 0.12509601106047416
 		},
 		{
 			"itemName": "Cheese",
-			"timesDropped": 1890
+			"timesDropped": 1890,
+			"dropRate": 0.09677914895795996
 		},
 		{
 			"itemName": "Bola",
-			"timesDropped": 1540
+			"timesDropped": 1540,
+			"dropRate": 0.07885708433611552
 		},
 		{
 			"itemName": "Earflap",
-			"timesDropped": 1443
+			"timesDropped": 1443,
+			"dropRate": 0.07389011214091863
 		},
 		{
 			"itemName": "Cheese Cutter",
-			"timesDropped": 1270
+			"timesDropped": 1270,
+			"dropRate": 0.06503149162783553
 		},
 		{
 			"itemName": "Ratana",
-			"timesDropped": 123
+			"timesDropped": 123,
+			"dropRate": 0.00629832556710533
 		},
 		{
 			"itemName": "Life Preserver",
-			"timesDropped": 117
+			"timesDropped": 117,
+			"dropRate": 0.005991090173587997
 		},
 		{
 			"itemName": "Cheesy Figurine",
-			"timesDropped": 101
+			"timesDropped": 101,
+			"dropRate": 0.005171795790875109
 		},
 		{
 			"itemName": "Leather Harness",
-			"timesDropped": 91
+			"timesDropped": 91,
+			"dropRate": 0.004659736801679554
 		},
 		{
 			"itemName": "Spike Shield",
-			"timesDropped": 84
+			"timesDropped": 84,
+			"dropRate": 0.004301295509242665
 		},
 		{
 			"itemName": "Rat God Doll",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.000051205898919555534
 		}
 	]
 }

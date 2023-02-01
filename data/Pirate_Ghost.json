@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 908
+			"timesDropped": 908,
+			"dropRate": 0.4630290668026517
 		},
 		{
 			"itemName": "Tattered Piece of Robe",
-			"timesDropped": 85
+			"timesDropped": 85,
+			"dropRate": 0.043345232024477306
 		},
 		{
 			"itemName": "Parchment (Rewritable)",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.00815910249872514
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.006629270780214177
 		},
 		{
 			"itemName": "Spike Sword",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.0015298317185109638
 		},
 		{
 			"itemName": "Red Robe",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0005099439061703213
 		}
 	]
 }

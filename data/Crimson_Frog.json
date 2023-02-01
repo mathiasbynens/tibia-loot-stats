@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2754
+			"timesDropped": 2754,
+			"dropRate": 0.7543138866064092
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 359
+			"timesDropped": 359,
+			"dropRate": 0.09832922486989866
 		}
 	]
 }

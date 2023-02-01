@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21621
+			"timesDropped": 21621,
+			"dropRate": 0.8988152151319891
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 9671
+			"timesDropped": 9671,
+			"dropRate": 0.402036998545001
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 7186
+			"timesDropped": 7186,
+			"dropRate": 0.29873207233423404
 		},
 		{
 			"itemName": "Thick Fur",
-			"timesDropped": 1841
+			"timesDropped": 1841,
+			"dropRate": 0.07653294533361048
 		},
 		{
 			"itemName": "Mammoth Tusk",
-			"timesDropped": 1792
+			"timesDropped": 1792,
+			"dropRate": 0.07449594678860944
 		},
 		{
 			"itemName": "Mammoth Whopper",
-			"timesDropped": 587
+			"timesDropped": 587,
+			"dropRate": 0.024402411141134898
 		},
 		{
 			"itemName": "Furry Club",
-			"timesDropped": 126
+			"timesDropped": 126,
+			"dropRate": 0.005237996258574101
 		},
 		{
 			"itemName": "Tusk Shield",
-			"timesDropped": 118
+			"timesDropped": 118,
+			"dropRate": 0.004905425067553523
 		}
 	]
 }

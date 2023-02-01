@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Bread",
-			"timesDropped": 4397
+			"timesDropped": 4397,
+			"dropRate": 0.20458775358272846
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3106
+			"timesDropped": 3106,
+			"dropRate": 0.14451889075004654
 		},
 		{
 			"itemName": "Dark Rosary",
-			"timesDropped": 2189
+			"timesDropped": 2189,
+			"dropRate": 0.10185185185185185
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 1296
+			"timesDropped": 1296,
+			"dropRate": 0.06030150753768844
 		},
 		{
 			"itemName": "Book of Prayers",
-			"timesDropped": 420
+			"timesDropped": 420,
+			"dropRate": 0.01954215522054718
 		},
 		{
 			"itemName": "Scroll",
-			"timesDropped": 395
+			"timesDropped": 395,
+			"dropRate": 0.01837893169551461
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 217
+			"timesDropped": 217,
+			"dropRate": 0.01009678019728271
 		},
 		{
 			"itemName": "Safety Pin",
-			"timesDropped": 206
+			"timesDropped": 206,
+			"dropRate": 0.00958496184626838
 		},
 		{
 			"itemName": "Ankh",
-			"timesDropped": 197
+			"timesDropped": 197,
+			"dropRate": 0.009166201377256654
 		},
 		{
 			"itemName": "Sandals",
-			"timesDropped": 183
+			"timesDropped": 183,
+			"dropRate": 0.008514796203238414
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 182
+			"timesDropped": 182,
+			"dropRate": 0.008468267262237112
 		},
 		{
 			"itemName": "Lamp",
-			"timesDropped": 123
+			"timesDropped": 123,
+			"dropRate": 0.005723059743160246
 		},
 		{
 			"itemName": "Brown Flask",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.0038153731621068305
 		},
 		{
 			"itemName": "Power Ring",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.001209752466033873
 		}
 	]
 }

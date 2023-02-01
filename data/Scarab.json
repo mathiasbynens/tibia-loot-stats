@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 83960
+			"timesDropped": 83960,
+			"dropRate": 0.873164441116519
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 38398
+			"timesDropped": 38398,
+			"dropRate": 0.39933025500228797
 		},
 		{
 			"itemName": "Piece of Scarab Shell",
-			"timesDropped": 4835
+			"timesDropped": 4835,
+			"dropRate": 0.050282873663629934
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 1064
+			"timesDropped": 1064,
+			"dropRate": 0.011065352136112152
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 487
+			"timesDropped": 487,
+			"dropRate": 0.005064686551021257
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 335
+			"timesDropped": 335,
+			"dropRate": 0.0034839219601480926
 		},
 		{
 			"itemName": "Daramian Mace",
-			"timesDropped": 292
+			"timesDropped": 292,
+			"dropRate": 0.0030367319772037107
 		}
 	]
 }

@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 11813
+			"timesDropped": 11813,
+			"dropRate": 0.5511851437103397
 		},
 		{
 			"itemName": "Chain Helmet",
-			"timesDropped": 2282
+			"timesDropped": 2282,
+			"dropRate": 0.1064762971257932
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 2192
+			"timesDropped": 2192,
+			"dropRate": 0.1022769690182904
 		},
 		{
 			"itemName": "Lamp",
-			"timesDropped": 1739
+			"timesDropped": 1739,
+			"dropRate": 0.08114035087719298
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 1501
+			"timesDropped": 1501,
+			"dropRate": 0.0700354609929078
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 1271
+			"timesDropped": 1271,
+			"dropRate": 0.05930384471817843
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 1061
+			"timesDropped": 1061,
+			"dropRate": 0.04950541246733856
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 204
+			"timesDropped": 204,
+			"dropRate": 0.009518477043673012
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 108
+			"timesDropped": 108,
+			"dropRate": 0.005039193729003359
 		},
 		{
 			"itemName": "Beastslayer Axe",
-			"timesDropped": 74
+			"timesDropped": 74,
+			"dropRate": 0.003452780888391191
 		},
 		{
 			"itemName": "Shard",
-			"timesDropped": 67
+			"timesDropped": 67,
+			"dropRate": 0.003126166480029862
 		},
 		{
 			"itemName": "Fur Boots",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.0008398656215005599
 		}
 	]
 }

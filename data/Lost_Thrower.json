@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12746
+			"timesDropped": 12746,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 8958
+			"timesDropped": 8958,
+			"dropRate": 0.7028087243056645
 		},
 		{
 			"itemName": "Broken Throwing Axe",
-			"timesDropped": 1912
+			"timesDropped": 1912,
+			"dropRate": 0.15000784559861918
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 1909
+			"timesDropped": 1909,
+			"dropRate": 0.14977247764004392
 		},
 		{
 			"itemName": "Mad Froth",
-			"timesDropped": 1832
+			"timesDropped": 1832,
+			"dropRate": 0.14373136670327946
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 1770
+			"timesDropped": 1770,
+			"dropRate": 0.13886709555939117
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1743
+			"timesDropped": 1743,
+			"dropRate": 0.13674878393221404
 		},
 		{
 			"itemName": "Lost Bracers",
-			"timesDropped": 1576
+			"timesDropped": 1576,
+			"dropRate": 0.12364663423819237
 		},
 		{
 			"itemName": "Red Hair Dye",
-			"timesDropped": 1564
+			"timesDropped": 1564,
+			"dropRate": 0.12270516240389141
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 1530
+			"timesDropped": 1530,
+			"dropRate": 0.12003765887337203
 		},
 		{
 			"itemName": "Bloody Dwarven Beard",
-			"timesDropped": 1499
+			"timesDropped": 1499,
+			"dropRate": 0.1176055233014279
 		},
 		{
 			"itemName": "Basalt Figurine",
-			"timesDropped": 1127
+			"timesDropped": 1127,
+			"dropRate": 0.08841989643809822
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 1086
+			"timesDropped": 1086,
+			"dropRate": 0.08520320100423662
 		},
 		{
 			"itemName": "Basalt Fetish",
-			"timesDropped": 898
+			"timesDropped": 898,
+			"dropRate": 0.07045347560018829
 		},
 		{
 			"itemName": "Helmet of the Lost",
-			"timesDropped": 202
+			"timesDropped": 202,
+			"dropRate": 0.015848109210732778
 		},
 		{
 			"itemName": "Buckle",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.00768868664679115
 		}
 	]
 }

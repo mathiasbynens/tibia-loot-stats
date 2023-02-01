@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 26029
+			"timesDropped": 26029,
+			"dropRate": 0.8736322749546889
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 23827
+			"timesDropped": 23827,
+			"dropRate": 0.7997247768006981
 		},
 		{
 			"itemName": "Frosty Heart",
-			"timesDropped": 1507
+			"timesDropped": 1507,
+			"dropRate": 0.05058065382291736
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 166
+			"timesDropped": 166,
+			"dropRate": 0.00557159159562328
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 147
+			"timesDropped": 147,
+			"dropRate": 0.004933879304557964
 		}
 	]
 }

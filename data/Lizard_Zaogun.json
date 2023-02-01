@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 20257
+			"timesDropped": 20257,
+			"dropRate": 0.9414854062093326
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10688
+			"timesDropped": 10688,
+			"dropRate": 0.496746607176055
 		},
 		{
 			"itemName": "Zaogun Shoulderplates",
-			"timesDropped": 3226
+			"timesDropped": 3226,
+			"dropRate": 0.1499349321435211
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 3157
+			"timesDropped": 3157,
+			"dropRate": 0.1467280163599182
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 2596
+			"timesDropped": 2596,
+			"dropRate": 0.12065439672801637
 		},
 		{
 			"itemName": "Zaogun Flag",
-			"timesDropped": 1806
+			"timesDropped": 1806,
+			"dropRate": 0.08393753485778026
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 1556
+			"timesDropped": 1556,
+			"dropRate": 0.0723182747722625
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1074
+			"timesDropped": 1074,
+			"dropRate": 0.049916341327384275
 		},
 		{
 			"itemName": "Red Lantern",
-			"timesDropped": 451
+			"timesDropped": 451,
+			"dropRate": 0.020961145194274028
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 421
+			"timesDropped": 421,
+			"dropRate": 0.0195668339840119
 		},
 		{
 			"itemName": "Zaoan Shoes",
-			"timesDropped": 243
+			"timesDropped": 243,
+			"dropRate": 0.011293920803123258
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 221
+			"timesDropped": 221,
+			"dropRate": 0.010271425915597696
 		},
 		{
 			"itemName": "Zaoan Legs",
-			"timesDropped": 196
+			"timesDropped": 196,
+			"dropRate": 0.00910949990704592
 		},
 		{
 			"itemName": "Zaoan Armor",
-			"timesDropped": 111
+			"timesDropped": 111,
+			"dropRate": 0.005158951477969883
 		}
 	]
 }

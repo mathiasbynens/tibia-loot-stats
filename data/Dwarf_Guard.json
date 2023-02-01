@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 18512
+			"timesDropped": 18512,
+			"dropRate": 0.5522343535588569
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 13430
+			"timesDropped": 13430,
+			"dropRate": 0.40063242049997017
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 13396
+			"timesDropped": 13396,
+			"dropRate": 0.39961816120756516
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 3017
+			"timesDropped": 3017,
+			"dropRate": 0.09000059662311317
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 2015
+			"timesDropped": 2015,
+			"dropRate": 0.06010977865282501
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 1291
+			"timesDropped": 1291,
+			"dropRate": 0.038512021955730565
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 521
+			"timesDropped": 521,
+			"dropRate": 0.015542032098323489
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 198
+			"timesDropped": 198,
+			"dropRate": 0.0059065688204761055
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 162
+			"timesDropped": 162,
+			"dropRate": 0.004832647216753177
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 131
+			"timesDropped": 131,
+			"dropRate": 0.0039078813913251
 		},
 		{
 			"itemName": "Axe Ring",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.001968856273492035
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.001939025117833065
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.001193246226358809
 		}
 	]
 }

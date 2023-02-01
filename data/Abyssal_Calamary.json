@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Fish",
-			"timesDropped": 237
+			"timesDropped": 237,
+			"dropRate": 0.10304347826086957
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 219
+			"timesDropped": 219,
+			"dropRate": 0.09521739130434782
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.01217391304347826
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.006521739130434782
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.00608695652173913
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.00608695652173913
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.0026086956521739132
 		}
 	]
 }

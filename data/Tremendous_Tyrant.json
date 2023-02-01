@@ -4,87 +4,108 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1130
+			"timesDropped": 1130,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 154
+			"timesDropped": 154,
+			"dropRate": 0.13628318584070798
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 111
+			"timesDropped": 111,
+			"dropRate": 0.09823008849557523
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 83
+			"timesDropped": 83,
+			"dropRate": 0.07345132743362832
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 75
+			"timesDropped": 75,
+			"dropRate": 0.06637168141592921
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.06017699115044248
 		},
 		{
 			"itemName": "Spellbook of Warding",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.05575221238938053
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.05398230088495575
 		},
 		{
 			"itemName": "Tremendous Tyrant Shell",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.05221238938053097
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.04247787610619469
 		},
 		{
 			"itemName": "Tremendous Tyrant Head",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.03805309734513274
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.03716814159292035
 		},
 		{
 			"itemName": "Dragonbone Staff",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.036283185840707964
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.03185840707964602
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.030973451327433628
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.03008849557522124
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.02743362831858407
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.024778761061946902
 		},
 		{
 			"itemName": "Warrior's Shield",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.024778761061946902
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.023893805309734513
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.023008849557522124
 		}
 	]
 }

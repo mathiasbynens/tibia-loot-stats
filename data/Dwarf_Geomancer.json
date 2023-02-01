@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3132
+			"timesDropped": 3132,
+			"dropRate": 0.754516983859311
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 2450
+			"timesDropped": 2450,
+			"dropRate": 0.5902192242833052
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 1387
+			"timesDropped": 1387,
+			"dropRate": 0.33413635268609976
 		},
 		{
 			"itemName": "Pear",
-			"timesDropped": 1029
+			"timesDropped": 1029,
+			"dropRate": 0.2478920741989882
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 576
+			"timesDropped": 576,
+			"dropRate": 0.13876174415803422
 		},
 		{
 			"itemName": "Geomancer's Robe",
-			"timesDropped": 338
+			"timesDropped": 338,
+			"dropRate": 0.08142616237051313
 		},
 		{
 			"itemName": "Geomancer's Staff",
-			"timesDropped": 276
+			"timesDropped": 276,
+			"dropRate": 0.06649000240905806
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.010599855456516502
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.006504456757407854
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.005781739339918092
 		},
 		{
 			"itemName": "Spellbook",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.00481811611659841
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.003854492893278728
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.0031317754757889667
 		}
 	]
 }

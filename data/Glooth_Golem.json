@@ -4,87 +4,108 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6381
+			"timesDropped": 6381,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3798
+			"timesDropped": 3798,
+			"dropRate": 0.5952045133991537
 		},
 		{
 			"itemName": "Glooth Injection Tube",
-			"timesDropped": 983
+			"timesDropped": 983,
+			"dropRate": 0.15405108917097635
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 774
+			"timesDropped": 774,
+			"dropRate": 0.12129760225669958
 		},
 		{
 			"itemName": "Glooth Sandwich",
-			"timesDropped": 664
+			"timesDropped": 664,
+			"dropRate": 0.10405892493339602
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 522
+			"timesDropped": 522,
+			"dropRate": 0.08180535966149506
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 483
+			"timesDropped": 483,
+			"dropRate": 0.07569346497414198
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 351
+			"timesDropped": 351,
+			"dropRate": 0.05500705218617771
 		},
 		{
 			"itemName": "Bronze Gear Wheel",
-			"timesDropped": 196
+			"timesDropped": 196,
+			"dropRate": 0.030716188685159067
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 117
+			"timesDropped": 117,
+			"dropRate": 0.018335684062059238
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 116
+			"timesDropped": 116,
+			"dropRate": 0.01817896881366557
 		},
 		{
 			"itemName": "Glooth Amulet",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.016298385832941544
 		},
 		{
 			"itemName": "Glooth Spear",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.016298385832941544
 		},
 		{
 			"itemName": "Glooth Axe",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.01567152483936687
 		},
 		{
 			"itemName": "Heat Core",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.01567152483936687
 		},
 		{
 			"itemName": "Glooth Blade",
-			"timesDropped": 95
+			"timesDropped": 95,
+			"dropRate": 0.014887948597398526
 		},
 		{
 			"itemName": "Rubber Cap",
-			"timesDropped": 74
+			"timesDropped": 74,
+			"dropRate": 0.011596928381131483
 		},
 		{
 			"itemName": "Gearwheel Chain",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.009559630152013792
 		},
 		{
 			"itemName": "Glooth Club",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.009559630152013792
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.008932769158439116
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0001567152483936687
 		}
 	]
 }

@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 27973
+			"timesDropped": 27973,
+			"dropRate": 0.9363347280334728
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 3076
+			"timesDropped": 3076,
+			"dropRate": 0.10296234309623431
 		},
 		{
 			"itemName": "Vampire Teeth",
-			"timesDropped": 2985
+			"timesDropped": 2985,
+			"dropRate": 0.0999163179916318
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2973
+			"timesDropped": 2973,
+			"dropRate": 0.09951464435146444
 		},
 		{
 			"itemName": "Moonlight Rod",
-			"timesDropped": 1558
+			"timesDropped": 1558,
+			"dropRate": 0.05215062761506276
 		},
 		{
 			"itemName": "Blood Preservation",
-			"timesDropped": 1496
+			"timesDropped": 1496,
+			"dropRate": 0.05007531380753138
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1441
+			"timesDropped": 1441,
+			"dropRate": 0.04823430962343096
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 312
+			"timesDropped": 312,
+			"dropRate": 0.010443514644351464
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 309
+			"timesDropped": 309,
+			"dropRate": 0.010343096234309623
 		},
 		{
 			"itemName": "Velvet Tapestry",
-			"timesDropped": 308
+			"timesDropped": 308,
+			"dropRate": 0.010309623430962343
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 303
+			"timesDropped": 303,
+			"dropRate": 0.01014225941422594
 		},
 		{
 			"itemName": "Hibiscus Dress",
-			"timesDropped": 292
+			"timesDropped": 292,
+			"dropRate": 0.009774058577405858
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.002209205020920502
 		},
 		{
 			"itemName": "Flower Bouquet",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.0017405857740585774
 		},
 		{
 			"itemName": "Mysterious Voodoo Skull",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.001405857740585774
 		},
 		{
 			"itemName": "Blood Goblet",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.0010041841004184101
 		},
 		{
 			"itemName": "Leather Whip",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.00033472803347280337
 		}
 	]
 }

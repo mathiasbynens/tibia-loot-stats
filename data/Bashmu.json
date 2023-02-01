@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2148
+			"timesDropped": 2148,
+			"dropRate": 0.700815660685155
 		},
 		{
 			"itemName": "Guardian Halberd",
-			"timesDropped": 274
+			"timesDropped": 274,
+			"dropRate": 0.08939641109298532
 		},
 		{
 			"itemName": "Bashmu Feather",
-			"timesDropped": 186
+			"timesDropped": 186,
+			"dropRate": 0.06068515497553018
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 141
+			"timesDropped": 141,
+			"dropRate": 0.04600326264274062
 		},
 		{
 			"itemName": "Bashmu Tongue",
-			"timesDropped": 127
+			"timesDropped": 127,
+			"dropRate": 0.04143556280587276
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 123
+			"timesDropped": 123,
+			"dropRate": 0.04013050570962479
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 122
+			"timesDropped": 122,
+			"dropRate": 0.039804241435562805
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 101
+			"timesDropped": 101,
+			"dropRate": 0.03295269168026101
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 97
+			"timesDropped": 97,
+			"dropRate": 0.03164763458401305
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 94
+			"timesDropped": 94,
+			"dropRate": 0.03066884176182708
 		},
 		{
 			"itemName": "Bashmu Fang",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.022185970636215333
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.018597063621533443
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.01598694942903752
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.009461663947797716
 		},
 		{
 			"itemName": "Collar of Blue Plasma",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.008156606851549755
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.007830342577487765
 		},
 		{
 			"itemName": "Glorious Axe",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.007504078303425775
 		},
 		{
 			"itemName": "Collar of Red Plasma",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.007177814029363785
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.0065252854812398045
 		}
 	]
 }

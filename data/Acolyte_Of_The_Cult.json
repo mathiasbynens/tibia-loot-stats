@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 20778
+			"timesDropped": 20778,
+			"dropRate": 0.6591377724201377
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 3219
+			"timesDropped": 3219,
+			"dropRate": 0.10211591536338546
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 2530
+			"timesDropped": 2530,
+			"dropRate": 0.0802588586111728
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 1566
+			"timesDropped": 1566,
+			"dropRate": 0.04967801287948482
 		},
 		{
 			"itemName": "Dragon Necklace",
-			"timesDropped": 343
+			"timesDropped": 343,
+			"dropRate": 0.010880944072581925
 		},
 		{
 			"itemName": "Pirate Voodoo Doll",
-			"timesDropped": 342
+			"timesDropped": 342,
+			"dropRate": 0.01084922120356565
 		},
 		{
 			"itemName": "Book (Orange)",
-			"timesDropped": 246
+			"timesDropped": 246,
+			"dropRate": 0.007803825778003363
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 170
+			"timesDropped": 170,
+			"dropRate": 0.005392887732766551
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 163
+			"timesDropped": 163,
+			"dropRate": 0.005170827649652635
 		},
 		{
 			"itemName": "Music Sheet (Second Verse)",
-			"timesDropped": 140
+			"timesDropped": 140,
+			"dropRate": 0.004441201662278337
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.002061986486057799
 		},
 		{
 			"itemName": "Cultish Symbol",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.0007296259873742981
 		},
 		{
 			"itemName": "Broken Key Ring",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.0005392887732766551
 		}
 	]
 }

@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 11792
+			"timesDropped": 11792,
+			"dropRate": 0.8007061859170231
 		},
 		{
 			"itemName": "Mantassin Tail",
-			"timesDropped": 1862
+			"timesDropped": 1862,
+			"dropRate": 0.12643444014395328
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 750
+			"timesDropped": 750,
+			"dropRate": 0.05092686901609289
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 745
+			"timesDropped": 745,
+			"dropRate": 0.050587356555985605
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 163
+			"timesDropped": 163,
+			"dropRate": 0.011068106199497522
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 162
+			"timesDropped": 162,
+			"dropRate": 0.011000203707476064
 		},
 		{
 			"itemName": "Cape",
-			"timesDropped": 154
+			"timesDropped": 154,
+			"dropRate": 0.010456983771304407
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 147
+			"timesDropped": 147,
+			"dropRate": 0.009981666327154207
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.00604332178990969
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.001018537380321858
 		},
 		{
 			"itemName": "Strange Helmet",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.0008148299042574863
 		}
 	]
 }

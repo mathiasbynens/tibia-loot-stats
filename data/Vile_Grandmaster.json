@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8189
+			"timesDropped": 8189,
+			"dropRate": 0.999389797412741
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6036
+			"timesDropped": 6036,
+			"dropRate": 0.7366365633390286
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 791
+			"timesDropped": 791,
+			"dropRate": 0.09653404930436905
 		},
 		{
 			"itemName": "Scroll of Heroic Deeds",
-			"timesDropped": 634
+			"timesDropped": 634,
+			"dropRate": 0.0773736880644374
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 566
+			"timesDropped": 566,
+			"dropRate": 0.0690749328777154
 		},
 		{
 			"itemName": "Wedding Ring",
-			"timesDropped": 424
+			"timesDropped": 424,
+			"dropRate": 0.05174517939956065
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 288
+			"timesDropped": 288,
+			"dropRate": 0.03514766902611667
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 285
+			"timesDropped": 285,
+			"dropRate": 0.03478154747376129
 		},
 		{
 			"itemName": "Small Notebook",
-			"timesDropped": 199
+			"timesDropped": 199,
+			"dropRate": 0.024286062972907006
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 179
+			"timesDropped": 179,
+			"dropRate": 0.021845252623871124
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 178
+			"timesDropped": 178,
+			"dropRate": 0.02172321210641933
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 95
+			"timesDropped": 95,
+			"dropRate": 0.01159384915792043
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 71
+			"timesDropped": 71,
+			"dropRate": 0.008664876739077374
 		},
 		{
 			"itemName": "Crown Legs",
-			"timesDropped": 62
+			"timesDropped": 62,
+			"dropRate": 0.007566512082011228
 		},
 		{
 			"itemName": "Crown Helmet",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.0061020258725897
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.003905296558457408
 		},
 		{
 			"itemName": "Crown Shield",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.00305101293629485
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.001464486209421528
 		}
 	]
 }

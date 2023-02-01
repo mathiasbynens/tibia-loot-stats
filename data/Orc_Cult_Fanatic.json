@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2797
+			"timesDropped": 2797,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 874
+			"timesDropped": 874,
+			"dropRate": 0.3124776546299607
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 560
+			"timesDropped": 560,
+			"dropRate": 0.20021451555237754
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 430
+			"timesDropped": 430,
+			"dropRate": 0.15373614587057563
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 422
+			"timesDropped": 422,
+			"dropRate": 0.15087593850554165
 		},
 		{
 			"itemName": "Skull Belt",
-			"timesDropped": 344
+			"timesDropped": 344,
+			"dropRate": 0.12298891669646049
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 304
+			"timesDropped": 304,
+			"dropRate": 0.10868787987129067
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 299
+			"timesDropped": 299,
+			"dropRate": 0.10690025026814444
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 297
+			"timesDropped": 297,
+			"dropRate": 0.10618519842688595
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 294
+			"timesDropped": 294,
+			"dropRate": 0.10511262066499821
 		},
 		{
 			"itemName": "Sword Ring",
-			"timesDropped": 238
+			"timesDropped": 238,
+			"dropRate": 0.08509116910976046
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 159
+			"timesDropped": 159,
+			"dropRate": 0.056846621380050054
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 122
+			"timesDropped": 122,
+			"dropRate": 0.04361816231676797
 		},
 		{
 			"itemName": "Brass Legs",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.0243117626027887
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.011083303539506614
 		}
 	]
 }

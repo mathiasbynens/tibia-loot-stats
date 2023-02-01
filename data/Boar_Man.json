@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4525
+			"timesDropped": 4525,
+			"dropRate": 0.8017363571934798
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 551
+			"timesDropped": 551,
+			"dropRate": 0.09762579730687455
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 363
+			"timesDropped": 363,
+			"dropRate": 0.06431608788093551
 		},
 		{
 			"itemName": "Boar Man Hoof",
-			"timesDropped": 269
+			"timesDropped": 269,
+			"dropRate": 0.04766123316796598
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 200
+			"timesDropped": 200,
+			"dropRate": 0.03543586109142452
 		},
 		{
 			"itemName": "Sapphire Hammer",
-			"timesDropped": 163
+			"timesDropped": 163,
+			"dropRate": 0.028880226789510986
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 105
+			"timesDropped": 105,
+			"dropRate": 0.018603827072997875
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 84
+			"timesDropped": 84,
+			"dropRate": 0.014883061658398299
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 56
+			"timesDropped": 56,
+			"dropRate": 0.009922041105598866
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.008504606661941885
 		}
 	]
 }

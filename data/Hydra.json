@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 48958
+			"timesDropped": 48958,
+			"dropRate": 0.8775250488430033
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 33598
+			"timesDropped": 33598,
+			"dropRate": 0.6022118262802244
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 27641
+			"timesDropped": 27641,
+			"dropRate": 0.4954383323475112
 		},
 		{
 			"itemName": "Hydra Head",
-			"timesDropped": 5667
+			"timesDropped": 5667,
+			"dropRate": 0.10157552293380653
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 2761
+			"timesDropped": 2761,
+			"dropRate": 0.049488268717176605
 		},
 		{
 			"itemName": "Cucumber",
-			"timesDropped": 2755
+			"timesDropped": 2755,
+			"dropRate": 0.04938072448961302
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 678
+			"timesDropped": 678,
+			"dropRate": 0.012152497714685163
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 612
+			"timesDropped": 612,
+			"dropRate": 0.010969511211485724
 		},
 		{
 			"itemName": "Hydra Egg",
-			"timesDropped": 524
+			"timesDropped": 524,
+			"dropRate": 0.00939219587388647
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 503
+			"timesDropped": 503,
+			"dropRate": 0.00901579107741392
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 459
+			"timesDropped": 459,
+			"dropRate": 0.008227133408614293
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 288
+			"timesDropped": 288,
+			"dropRate": 0.005162122923052105
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 262
+			"timesDropped": 262,
+			"dropRate": 0.004696097936943235
 		},
 		{
 			"itemName": "Medusa Shield",
-			"timesDropped": 124
+			"timesDropped": 124,
+			"dropRate": 0.0022225807029807674
 		},
 		{
 			"itemName": "Royal Helmet",
-			"timesDropped": 124
+			"timesDropped": 124,
+			"dropRate": 0.0022225807029807674
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.0009499740101450055
 		}
 	]
 }

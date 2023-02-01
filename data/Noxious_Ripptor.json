@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 262
+			"timesDropped": 262,
+			"dropRate": 0.2698249227600412
 		},
 		{
 			"itemName": "Ripptor Scales",
-			"timesDropped": 131
+			"timesDropped": 131,
+			"dropRate": 0.1349124613800206
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.10092687950566426
 		},
 		{
 			"itemName": "Ripptor Claw",
-			"timesDropped": 76
+			"timesDropped": 76,
+			"dropRate": 0.07826982492276004
 		},
 		{
 			"itemName": "Muck Rod",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.016477857878475798
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.015447991761071062
 		},
 		{
 			"itemName": "Serpent Sword",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.01132852729145211
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.005149330587023687
 		},
 		{
 			"itemName": "Wooden Spellbook",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.004119464469618949
 		}
 	]
 }

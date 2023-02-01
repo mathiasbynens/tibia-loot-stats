@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21045
+			"timesDropped": 21045,
+			"dropRate": 0.91983915380917
 		},
 		{
 			"itemName": "Wooden Trash",
-			"timesDropped": 6686
+			"timesDropped": 6686,
+			"dropRate": 0.2922330521438874
 		},
 		{
 			"itemName": "Red Mushroom",
-			"timesDropped": 1794
+			"timesDropped": 1794,
+			"dropRate": 0.07841251802963416
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 1153
+			"timesDropped": 1153,
+			"dropRate": 0.050395559246470566
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 1148
+			"timesDropped": 1148,
+			"dropRate": 0.050177018226321084
 		},
 		{
 			"itemName": "Haunted Piece of Wood",
-			"timesDropped": 1140
+			"timesDropped": 1140,
+			"dropRate": 0.04982735259408191
 		},
 		{
 			"itemName": "Orange Mushroom",
-			"timesDropped": 418
+			"timesDropped": 418,
+			"dropRate": 0.0182700292844967
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 249
+			"timesDropped": 249,
+			"dropRate": 0.010883342803444206
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.006468814196424669
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 147
+			"timesDropped": 147,
+			"dropRate": 0.006425105992394773
 		},
 		{
 			"itemName": "Bullseye Potion",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.0010489968967175138
 		}
 	]
 }

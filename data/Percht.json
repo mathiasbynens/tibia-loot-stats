@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9571
+			"timesDropped": 9571,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Fireworks Capsule",
-			"timesDropped": 1152
+			"timesDropped": 1152,
+			"dropRate": 0.12036359837007628
 		},
 		{
 			"itemName": "Percht Horns",
-			"timesDropped": 934
+			"timesDropped": 934,
+			"dropRate": 0.09758645909518336
 		},
 		{
 			"itemName": "Grainy Fireworks Powder",
-			"timesDropped": 569
+			"timesDropped": 569,
+			"dropRate": 0.05945042315327552
 		},
 		{
 			"itemName": "Broken Bell",
-			"timesDropped": 481
+			"timesDropped": 481,
+			"dropRate": 0.05025598161111692
 		},
 		{
 			"itemName": "Versicolour Fireworks Powder",
-			"timesDropped": 397
+			"timesDropped": 397,
+			"dropRate": 0.041479469229965524
 		},
 		{
 			"itemName": "Blue Fireworks Powder",
-			"timesDropped": 297
+			"timesDropped": 297,
+			"dropRate": 0.031031240204785288
 		},
 		{
 			"itemName": "Dark Bell",
-			"timesDropped": 281
+			"timesDropped": 281,
+			"dropRate": 0.02935952356075645
 		},
 		{
 			"itemName": "Green Fireworks Powder",
-			"timesDropped": 274
+			"timesDropped": 274,
+			"dropRate": 0.028628147528993834
 		},
 		{
 			"itemName": "Turquoise Fireworks Powder",
-			"timesDropped": 201
+			"timesDropped": 201,
+			"dropRate": 0.021000940340612267
 		},
 		{
 			"itemName": "Purple Fireworks Powder",
-			"timesDropped": 199
+			"timesDropped": 199,
+			"dropRate": 0.02079197576010866
 		},
 		{
 			"itemName": "Orange Fireworks Powder",
-			"timesDropped": 190
+			"timesDropped": 190,
+			"dropRate": 0.01985163514784244
 		},
 		{
 			"itemName": "Red Fireworks Powder",
-			"timesDropped": 181
+			"timesDropped": 181,
+			"dropRate": 0.01891129453557622
 		},
 		{
 			"itemName": "Yellow Fireworks Powder",
-			"timesDropped": 176
+			"timesDropped": 176,
+			"dropRate": 0.018388883084317208
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 147
+			"timesDropped": 147,
+			"dropRate": 0.01535889666701494
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 123
+			"timesDropped": 123,
+			"dropRate": 0.012851321700971686
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.010657193605683837
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.005955490544352732
 		}
 	]
 }

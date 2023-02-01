@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10782
+			"timesDropped": 10782,
+			"dropRate": 0.9039993292529555
 		},
 		{
 			"itemName": "Quara Eye",
-			"timesDropped": 1859
+			"timesDropped": 1859,
+			"dropRate": 0.15586484447052906
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 610
+			"timesDropped": 610,
+			"dropRate": 0.05114446214471367
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 606
+			"timesDropped": 606,
+			"dropRate": 0.05080908862245326
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 573
+			"timesDropped": 573,
+			"dropRate": 0.048042257063804814
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 364
+			"timesDropped": 364,
+			"dropRate": 0.030518990525697995
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 348
+			"timesDropped": 348,
+			"dropRate": 0.029177496436656326
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 180
+			"timesDropped": 180,
+			"dropRate": 0.01509180850171879
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.012073446801375032
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 117
+			"timesDropped": 117,
+			"dropRate": 0.009809675526117213
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.002263771275257818
 		}
 	]
 }

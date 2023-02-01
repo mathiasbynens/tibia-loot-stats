@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 6971
+			"timesDropped": 6971,
+			"dropRate": 0.5547950656585754
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1865
+			"timesDropped": 1865,
+			"dropRate": 0.14842817349781137
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 1509
+			"timesDropped": 1509,
+			"dropRate": 0.12009550338241146
 		},
 		{
 			"itemName": "Telescope Eye",
-			"timesDropped": 697
+			"timesDropped": 697,
+			"dropRate": 0.055471547950656584
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 593
+			"timesDropped": 593,
+			"dropRate": 0.04719458814166335
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 528
+			"timesDropped": 528,
+			"dropRate": 0.04202148826104258
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 435
+			"timesDropped": 435,
+			"dropRate": 0.0346199761241544
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 381
+			"timesDropped": 381,
+			"dropRate": 0.030322323915638678
 		},
 		{
 			"itemName": "Crown (Plant)",
-			"timesDropped": 372
+			"timesDropped": 372,
+			"dropRate": 0.029606048547552725
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 357
+			"timesDropped": 357,
+			"dropRate": 0.02841225626740947
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 333
+			"timesDropped": 333,
+			"dropRate": 0.026502188619180262
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 323
+			"timesDropped": 323,
+			"dropRate": 0.02570632709908476
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 189
+			"timesDropped": 189,
+			"dropRate": 0.015041782729805013
 		},
 		{
 			"itemName": "Brooch of Embracement",
-			"timesDropped": 101
+			"timesDropped": 101,
+			"dropRate": 0.008038201352964585
 		}
 	]
 }

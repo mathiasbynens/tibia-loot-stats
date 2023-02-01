@@ -4,115 +4,143 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 241394
+			"timesDropped": 241394,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 144900
+			"timesDropped": 144900,
+			"dropRate": 0.6002634696802738
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 19506
+			"timesDropped": 19506,
+			"dropRate": 0.08080565382735279
 		},
 		{
 			"itemName": "Tainted Glooth Capsule",
-			"timesDropped": 19342
+			"timesDropped": 19342,
+			"dropRate": 0.08012626660148968
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 17925
+			"timesDropped": 17925,
+			"dropRate": 0.07425619526583097
 		},
 		{
 			"itemName": "Glooth Bag",
-			"timesDropped": 12278
+			"timesDropped": 12278,
+			"dropRate": 0.05086290462894687
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 8393
+			"timesDropped": 8393,
+			"dropRate": 0.03476888406505547
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 8309
+			"timesDropped": 8309,
+			"dropRate": 0.034420905242052414
 		},
 		{
 			"itemName": "Glooth Capsule",
-			"timesDropped": 7324
+			"timesDropped": 7324,
+			"dropRate": 0.03034043928183799
 		},
 		{
 			"itemName": "Glooth Steak",
-			"timesDropped": 6277
+			"timesDropped": 6277,
+			"dropRate": 0.026003131809407026
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 6112
+			"timesDropped": 6112,
+			"dropRate": 0.025319601978508164
 		},
 		{
 			"itemName": "Glooth Sandwich",
-			"timesDropped": 5947
+			"timesDropped": 5947,
+			"dropRate": 0.0246360721476093
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 4929
+			"timesDropped": 4929,
+			"dropRate": 0.02041890022121511
 		},
 		{
 			"itemName": "Glooth Axe",
-			"timesDropped": 2472
+			"timesDropped": 2472,
+			"dropRate": 0.010240519648375685
 		},
 		{
 			"itemName": "Glooth Spear",
-			"timesDropped": 2435
+			"timesDropped": 2435,
+			"dropRate": 0.01008724326205291
 		},
 		{
 			"itemName": "Glooth Club",
-			"timesDropped": 2418
+			"timesDropped": 2418,
+			"dropRate": 0.010016818976445147
 		},
 		{
 			"itemName": "Glooth Blade",
-			"timesDropped": 2410
+			"timesDropped": 2410,
+			"dropRate": 0.009983678136159142
 		},
 		{
 			"itemName": "Glooth Amulet",
-			"timesDropped": 2407
+			"timesDropped": 2407,
+			"dropRate": 0.009971250321051891
 		},
 		{
 			"itemName": "Beastslayer Axe",
-			"timesDropped": 1939
+			"timesDropped": 1939,
+			"dropRate": 0.008032511164320572
 		},
 		{
 			"itemName": "Rubber Cap",
-			"timesDropped": 1760
+			"timesDropped": 1760,
+			"dropRate": 0.007290984862921199
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 1465
+			"timesDropped": 1465,
+			"dropRate": 0.006068916377374748
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 1448
+			"timesDropped": 1448,
+			"dropRate": 0.005998492091766987
 		},
 		{
 			"itemName": "Glooth Cape",
-			"timesDropped": 1404
+			"timesDropped": 1404,
+			"dropRate": 0.005816217470193957
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 1186
+			"timesDropped": 1186,
+			"dropRate": 0.004913129572400308
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 1166
+			"timesDropped": 1166,
+			"dropRate": 0.004830277471685295
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 1014
+			"timesDropped": 1014,
+			"dropRate": 0.004200601506251191
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 374
+			"timesDropped": 374,
+			"dropRate": 0.001549334283370755
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 246
+			"timesDropped": 246,
+			"dropRate": 0.0010190808387946677
 		}
 	]
 }

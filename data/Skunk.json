@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Bulb of Garlic",
-			"timesDropped": 281
+			"timesDropped": 281,
+			"dropRate": 0.04572079401236576
 		},
 		{
 			"itemName": "Skunk Tail",
-			"timesDropped": 56
+			"timesDropped": 56,
+			"dropRate": 0.009111617312072893
 		}
 	]
 }

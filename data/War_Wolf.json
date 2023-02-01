@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Ham",
-			"timesDropped": 5872
+			"timesDropped": 5872,
+			"dropRate": 0.391544975661799
 		},
 		{
 			"itemName": "Warwolf Fur",
-			"timesDropped": 743
+			"timesDropped": 743,
+			"dropRate": 0.04954324198172968
 		},
 		{
 			"itemName": "Wolf Paw",
-			"timesDropped": 147
+			"timesDropped": 147,
+			"dropRate": 0.009801960392078415
 		},
 		{
 			"itemName": "Wolf Trophy",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.00046676001867040077
 		}
 	]
 }

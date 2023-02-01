@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 14281
+			"timesDropped": 14281,
+			"dropRate": 0.9008389579259446
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 3205
+			"timesDropped": 3205,
+			"dropRate": 0.20216993628966126
 		},
 		{
 			"itemName": "Lamassu Horn",
-			"timesDropped": 2838
+			"timesDropped": 2838,
+			"dropRate": 0.1790197438970542
 		},
 		{
 			"itemName": "Lamassu Hoof",
-			"timesDropped": 1671
+			"timesDropped": 1671,
+			"dropRate": 0.10540591686116192
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 1536
+			"timesDropped": 1536,
+			"dropRate": 0.09689017851510755
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 994
+			"timesDropped": 994,
+			"dropRate": 0.06270106604428184
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 601
+			"timesDropped": 601,
+			"dropRate": 0.03791080552576799
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 573
+			"timesDropped": 573,
+			"dropRate": 0.03614457831325301
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 136
+			"timesDropped": 136,
+			"dropRate": 0.008578817889358482
 		}
 	]
 }

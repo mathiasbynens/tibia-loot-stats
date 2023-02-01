@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1072
+			"timesDropped": 1072,
+			"dropRate": 0.776249094858798
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 269
+			"timesDropped": 269,
+			"dropRate": 0.1947863866763215
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.0391020999275887
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.020999275887038378
 		}
 	]
 }

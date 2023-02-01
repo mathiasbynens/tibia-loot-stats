@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3666
+			"timesDropped": 3666,
+			"dropRate": 0.2994364126439598
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 3020
+			"timesDropped": 3020,
+			"dropRate": 0.2466715674262844
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 616
+			"timesDropped": 616,
+			"dropRate": 0.050314465408805034
 		},
 		{
 			"itemName": "Voluminous Piece of Cloth",
-			"timesDropped": 256
+			"timesDropped": 256,
+			"dropRate": 0.020909907702360533
 		},
 		{
 			"itemName": "Ludicrous Piece of Cloth",
-			"timesDropped": 250
+			"timesDropped": 250,
+			"dropRate": 0.020419831740586456
 		},
 		{
 			"itemName": "Ominous Piece of Cloth",
-			"timesDropped": 242
+			"timesDropped": 242,
+			"dropRate": 0.019766397124887692
 		},
 		{
 			"itemName": "Luminous Piece of Cloth",
-			"timesDropped": 241
+			"timesDropped": 241,
+			"dropRate": 0.019684717797925345
 		},
 		{
 			"itemName": "Obvious Piece of Cloth",
-			"timesDropped": 231
+			"timesDropped": 231,
+			"dropRate": 0.018867924528301886
 		},
 		{
 			"itemName": "Dubious Piece of Cloth",
-			"timesDropped": 211
+			"timesDropped": 211,
+			"dropRate": 0.01723433798905497
 		}
 	]
 }

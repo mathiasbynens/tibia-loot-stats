@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 625
+			"timesDropped": 625,
+			"dropRate": 0.15774861181221606
 		},
 		{
 			"itemName": "Pirate Coin",
-			"timesDropped": 453
+			"timesDropped": 453,
+			"dropRate": 0.1143361938414942
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 444
+			"timesDropped": 444,
+			"dropRate": 0.11206461383139828
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 408
+			"timesDropped": 408,
+			"dropRate": 0.10297829379101464
 		},
 		{
 			"itemName": "Mouldy Powder",
-			"timesDropped": 379
+			"timesDropped": 379,
+			"dropRate": 0.09565875820292781
 		},
 		{
 			"itemName": "Pirat's Tail",
-			"timesDropped": 362
+			"timesDropped": 362,
+			"dropRate": 0.09136799596163554
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 269
+			"timesDropped": 269,
+			"dropRate": 0.06789500252397779
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 250
+			"timesDropped": 250,
+			"dropRate": 0.06309944472488642
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 194
+			"timesDropped": 194,
+			"dropRate": 0.048965169106511865
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 193
+			"timesDropped": 193,
+			"dropRate": 0.048712771327612314
 		},
 		{
 			"itemName": "Shark Fins",
-			"timesDropped": 159
+			"timesDropped": 159,
+			"dropRate": 0.040131246845027765
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 155
+			"timesDropped": 155,
+			"dropRate": 0.039121655729429584
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 133
+			"timesDropped": 133,
+			"dropRate": 0.03356890459363958
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 110
+			"timesDropped": 110,
+			"dropRate": 0.027763755678950026
 		},
 		{
 			"itemName": "Small Treasure Chest",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.02523977788995457
 		}
 	]
 }

@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9968
+			"timesDropped": 9968,
+			"dropRate": 0.7451596023024595
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 1787
+			"timesDropped": 1787,
+			"dropRate": 0.13358750093443972
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 1463
+			"timesDropped": 1463,
+			"dropRate": 0.10936682365253794
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 1419
+			"timesDropped": 1419,
+			"dropRate": 0.10607759587351424
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 1330
+			"timesDropped": 1330,
+			"dropRate": 0.09942438513867086
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 1037
+			"timesDropped": 1037,
+			"dropRate": 0.07752111833744486
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 715
+			"timesDropped": 715,
+			"dropRate": 0.05344995140913508
 		},
 		{
 			"itemName": "Golden Idol of Tukh",
-			"timesDropped": 674
+			"timesDropped": 674,
+			"dropRate": 0.05038498916049936
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 602
+			"timesDropped": 602,
+			"dropRate": 0.04500261643118786
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 391
+			"timesDropped": 391,
+			"dropRate": 0.02922927412723331
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 318
+			"timesDropped": 318,
+			"dropRate": 0.023772146221125813
 		},
 		{
 			"itemName": "Red Ectoplasm",
-			"timesDropped": 291
+			"timesDropped": 291,
+			"dropRate": 0.021753756447634
 		},
 		{
 			"itemName": "Prismatic Quartz",
-			"timesDropped": 183
+			"timesDropped": 183,
+			"dropRate": 0.013680197353666742
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 180
+			"timesDropped": 180,
+			"dropRate": 0.013455931823278762
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 169
+			"timesDropped": 169,
+			"dropRate": 0.012633624878522837
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.011063766165806982
 		},
 		{
 			"itemName": "Hexagonal Ruby",
-			"timesDropped": 106
+			"timesDropped": 106,
+			"dropRate": 0.007924048740375271
 		}
 	]
 }

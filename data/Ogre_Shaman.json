@@ -4,87 +4,108 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3638
+			"timesDropped": 3638,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 558
+			"timesDropped": 558,
+			"dropRate": 0.15338097855964816
 		},
 		{
 			"itemName": "Ogre Ear Stud",
-			"timesDropped": 504
+			"timesDropped": 504,
+			"dropRate": 0.13853765805387575
 		},
 		{
 			"itemName": "Skull Fetish",
-			"timesDropped": 396
+			"timesDropped": 396,
+			"dropRate": 0.10885101704233095
 		},
 		{
 			"itemName": "Shamanic Talisman",
-			"timesDropped": 369
+			"timesDropped": 369,
+			"dropRate": 0.10142935678944474
 		},
 		{
 			"itemName": "Ogre Nose Ring",
-			"timesDropped": 366
+			"timesDropped": 366,
+			"dropRate": 0.10060472787245739
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 347
+			"timesDropped": 347,
+			"dropRate": 0.09538207806487081
 		},
 		{
 			"itemName": "Prickly Pear",
-			"timesDropped": 317
+			"timesDropped": 317,
+			"dropRate": 0.08713578889499725
 		},
 		{
 			"itemName": "Broken Shamanic Staff",
-			"timesDropped": 268
+			"timesDropped": 268,
+			"dropRate": 0.07366684991753711
 		},
 		{
 			"itemName": "Bone Fetish",
-			"timesDropped": 197
+			"timesDropped": 197,
+			"dropRate": 0.05415063221550302
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 118
+			"timesDropped": 118,
+			"dropRate": 0.032435404068169325
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 95
+			"timesDropped": 95,
+			"dropRate": 0.02611324903793293
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.02446399120395822
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.021440351841671246
 		},
 		{
 			"itemName": "Waterskin",
-			"timesDropped": 70
+			"timesDropped": 70,
+			"dropRate": 0.019241341396371632
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 62
+			"timesDropped": 62,
+			"dropRate": 0.017042330951072018
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.014293567894447499
 		},
 		{
 			"itemName": "Shamanic Mask",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.008796041781198461
 		},
 		{
 			"itemName": "Didgeridoo",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.004672897196261682
 		},
 		{
 			"itemName": "Ogre Scepta",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.004672897196261682
 		},
 		{
 			"itemName": "Voodoo Doll",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0005497526113249038
 		}
 	]
 }

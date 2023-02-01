@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Bone",
-			"timesDropped": 5823
+			"timesDropped": 5823,
+			"dropRate": 0.5050741608118657
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5096
+			"timesDropped": 5096,
+			"dropRate": 0.44201578627808136
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 2904
+			"timesDropped": 2904,
+			"dropRate": 0.2518865469685142
 		},
 		{
 			"itemName": "Pelvis Bone",
-			"timesDropped": 1179
+			"timesDropped": 1179,
+			"dropRate": 0.10226385636221702
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 227
+			"timesDropped": 227,
+			"dropRate": 0.01968947870587215
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 207
+			"timesDropped": 207,
+			"dropRate": 0.01795472287275566
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 205
+			"timesDropped": 205,
+			"dropRate": 0.01778124728944401
 		}
 	]
 }

@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2729
+			"timesDropped": 2729,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 278
+			"timesDropped": 278,
+			"dropRate": 0.1018688164162697
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 173
+			"timesDropped": 173,
+			"dropRate": 0.06339318431659949
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 151
+			"timesDropped": 151,
+			"dropRate": 0.05533162330524002
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 67
+			"timesDropped": 67,
+			"dropRate": 0.024551117625503847
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.023085379259802124
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.022352510076951264
 		},
 		{
 			"itemName": "Scarf",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.005130084279956028
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.003297911322828875
 		}
 	]
 }

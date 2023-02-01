@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6500
+			"timesDropped": 6500,
+			"dropRate": 0.9398496240601504
 		},
 		{
 			"itemName": "Lump of Earth",
-			"timesDropped": 2783
+			"timesDropped": 2783,
+			"dropRate": 0.4024002313475998
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 1708
+			"timesDropped": 1708,
+			"dropRate": 0.24696356275303644
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 346
+			"timesDropped": 346,
+			"dropRate": 0.05002891844997108
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 337
+			"timesDropped": 337,
+			"dropRate": 0.04872758820127241
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 314
+			"timesDropped": 314,
+			"dropRate": 0.045401966454598035
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 204
+			"timesDropped": 204,
+			"dropRate": 0.029496818970503182
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 125
+			"timesDropped": 125,
+			"dropRate": 0.01807403123192597
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 62
+			"timesDropped": 62,
+			"dropRate": 0.008964719491035281
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.005494505494505495
 		},
 		{
 			"itemName": "Clay Lump",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.004626951995373048
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.004626951995373048
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.001735106998264893
 		}
 	]
 }

@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5284
+			"timesDropped": 5284,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 479
+			"timesDropped": 479,
+			"dropRate": 0.09065102195306586
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 441
+			"timesDropped": 441,
+			"dropRate": 0.08345950037850114
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 380
+			"timesDropped": 380,
+			"dropRate": 0.07191521574564724
 		},
 		{
 			"itemName": "Dragon Necklace",
-			"timesDropped": 377
+			"timesDropped": 377,
+			"dropRate": 0.07134746404239213
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 352
+			"timesDropped": 352,
+			"dropRate": 0.06661619984859955
 		},
 		{
 			"itemName": "Sphinx Feather",
-			"timesDropped": 312
+			"timesDropped": 312,
+			"dropRate": 0.059046177138531414
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 307
+			"timesDropped": 307,
+			"dropRate": 0.0580999242997729
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 279
+			"timesDropped": 279,
+			"dropRate": 0.05280090840272521
 		},
 		{
 			"itemName": "Sphinx Tiara",
-			"timesDropped": 244
+			"timesDropped": 244,
+			"dropRate": 0.04617713853141559
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 234
+			"timesDropped": 234,
+			"dropRate": 0.04428463285389856
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 223
+			"timesDropped": 223,
+			"dropRate": 0.04220287660862983
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 192
+			"timesDropped": 192,
+			"dropRate": 0.036336109008327025
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 95
+			"timesDropped": 95,
+			"dropRate": 0.01797880393641181
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 85
+			"timesDropped": 85,
+			"dropRate": 0.016086298258894776
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 80
+			"timesDropped": 80,
+			"dropRate": 0.01514004542013626
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 71
+			"timesDropped": 71,
+			"dropRate": 0.013436790310370931
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.011922785768357305
 		}
 	]
 }

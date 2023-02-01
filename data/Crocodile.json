@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 46900
+			"timesDropped": 46900,
+			"dropRate": 0.4975493836328531
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 37547
+			"timesDropped": 37547,
+			"dropRate": 0.3983259425855594
 		},
 		{
 			"itemName": "Piece of Crocodile Leather",
-			"timesDropped": 18884
+			"timesDropped": 18884,
+			"dropRate": 0.2003352358320426
 		},
 		{
 			"itemName": "Crocodile Boots",
-			"timesDropped": 81
+			"timesDropped": 81,
+			"dropRate": 0.0008593070378307272
 		}
 	]
 }

@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 75418
+			"timesDropped": 75418,
+			"dropRate": 0.7491085352165837
 		},
 		{
 			"itemName": "Leather Armor",
-			"timesDropped": 10896
+			"timesDropped": 10896,
+			"dropRate": 0.10822730117107185
 		},
 		{
 			"itemName": "Cleaver",
-			"timesDropped": 9061
+			"timesDropped": 9061,
+			"dropRate": 0.09000069529286729
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 5572
+			"timesDropped": 5572,
+			"dropRate": 0.05534531223616119
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 3046
+			"timesDropped": 3046,
+			"dropRate": 0.030255172482294864
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 2080
+			"timesDropped": 2080,
+			"dropRate": 0.020660130913714155
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 1965
+			"timesDropped": 1965,
+			"dropRate": 0.01951786406031169
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 1039
+			"timesDropped": 1039,
+			"dropRate": 0.010320132701610099
 		},
 		{
 			"itemName": "Tribal Mask",
-			"timesDropped": 485
+			"timesDropped": 485,
+			"dropRate": 0.004817386294784311
 		},
 		{
 			"itemName": "Ripper Lance",
-			"timesDropped": 97
+			"timesDropped": 97,
+			"dropRate": 0.000963477258956862
 		}
 	]
 }

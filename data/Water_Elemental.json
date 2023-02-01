@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 22828
+			"timesDropped": 22828,
+			"dropRate": 0.9935152543848196
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5646
+			"timesDropped": 5646,
+			"dropRate": 0.24572398485441962
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 4632
+			"timesDropped": 4632,
+			"dropRate": 0.20159289724507115
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 2289
+			"timesDropped": 2289,
+			"dropRate": 0.09962136049092571
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 2284
+			"timesDropped": 2284,
+			"dropRate": 0.09940375157766462
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 603
+			"timesDropped": 603,
+			"dropRate": 0.02624363493928711
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 588
+			"timesDropped": 588,
+			"dropRate": 0.02559080819950385
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 245
+			"timesDropped": 245,
+			"dropRate": 0.010662836749793271
 		},
 		{
 			"itemName": "Rainbow Trout",
-			"timesDropped": 233
+			"timesDropped": 233,
+			"dropRate": 0.010140575357966662
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 232
+			"timesDropped": 232,
+			"dropRate": 0.010097053575314445
 		},
 		{
 			"itemName": "Green Perch",
-			"timesDropped": 229
+			"timesDropped": 229,
+			"dropRate": 0.009966488227357793
 		}
 	]
 }

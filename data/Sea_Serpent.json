@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 40246
+			"timesDropped": 40246,
+			"dropRate": 0.9830723759740101
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 24789
+			"timesDropped": 24789,
+			"dropRate": 0.6055106377781577
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10932
+			"timesDropped": 10932,
+			"dropRate": 0.26703143701604826
 		},
 		{
 			"itemName": "Sea Serpent Scale",
-			"timesDropped": 4145
+			"timesDropped": 4145,
+			"dropRate": 0.10124819853929017
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 2909
+			"timesDropped": 2909,
+			"dropRate": 0.07105693837172379
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 2416
+			"timesDropped": 2416,
+			"dropRate": 0.05901463152495176
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 2037
+			"timesDropped": 2037,
+			"dropRate": 0.04975695547033391
 		},
 		{
 			"itemName": "Serpent Sword",
-			"timesDropped": 1660
+			"timesDropped": 1660,
+			"dropRate": 0.040548132587508244
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1621
+			"timesDropped": 1621,
+			"dropRate": 0.039595495737560764
 		},
 		{
 			"itemName": "Spirit Cloak",
-			"timesDropped": 1186
+			"timesDropped": 1186,
+			"dropRate": 0.028969930872761913
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 466
+			"timesDropped": 466,
+			"dropRate": 0.011382789027577616
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 416
+			"timesDropped": 416,
+			"dropRate": 0.01016145973277315
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 380
+			"timesDropped": 380,
+			"dropRate": 0.009282102640513936
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 359
+			"timesDropped": 359,
+			"dropRate": 0.00876914433669606
 		},
 		{
 			"itemName": "Glacier Kilt",
-			"timesDropped": 178
+			"timesDropped": 178,
+			"dropRate": 0.004347932289503896
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 169
+			"timesDropped": 169,
+			"dropRate": 0.0041280930164390925
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 168
+			"timesDropped": 168,
+			"dropRate": 0.004103666430543003
 		},
 		{
 			"itemName": "Leviathan's Amulet",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.0011480495371161972
 		},
 		{
 			"itemName": "Crystalline Armor",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.0009526368499474828
 		}
 	]
 }

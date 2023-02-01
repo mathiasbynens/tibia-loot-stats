@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 177155
+			"timesDropped": 177155,
+			"dropRate": 0.8294705397610218
 		},
 		{
 			"itemName": "Banana",
-			"timesDropped": 64973
+			"timesDropped": 64973,
+			"dropRate": 0.30421489305914523
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 6450
+			"timesDropped": 6450,
+			"dropRate": 0.03020002247443533
 		},
 		{
 			"itemName": "Banana Sash",
-			"timesDropped": 4093
+			"timesDropped": 4093,
+			"dropRate": 0.019164138292692062
 		},
 		{
 			"itemName": "Ape Fur",
-			"timesDropped": 2165
+			"timesDropped": 2165,
+			"dropRate": 0.010136906768550773
 		},
 		{
 			"itemName": "Orange",
-			"timesDropped": 2155
+			"timesDropped": 2155,
+			"dropRate": 0.010090085028280332
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 2099
+			"timesDropped": 2099,
+			"dropRate": 0.009827883282765853
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 1484
+			"timesDropped": 1484,
+			"dropRate": 0.006948346256133648
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 664
+			"timesDropped": 664,
+			"dropRate": 0.0031089635539573736
 		},
 		{
 			"itemName": "Banana Staff",
-			"timesDropped": 219
+			"timesDropped": 219,
+			"dropRate": 0.001025396111922688
 		}
 	]
 }

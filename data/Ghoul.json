@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15675
+			"timesDropped": 15675,
+			"dropRate": 0.698000623413635
 		},
 		{
 			"itemName": "Rotten Piece of Cloth",
-			"timesDropped": 3306
+			"timesDropped": 3306,
+			"dropRate": 0.14721467693814846
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 2213
+			"timesDropped": 2213,
+			"dropRate": 0.09854388386694572
 		},
 		{
 			"itemName": "Ghoul Snack",
-			"timesDropped": 1154
+			"timesDropped": 1154,
+			"dropRate": 0.0513870953377566
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 1151
+			"timesDropped": 1151,
+			"dropRate": 0.05125350670169657
 		},
 		{
 			"itemName": "Heavy Old Tome",
-			"timesDropped": 473
+			"timesDropped": 473,
+			"dropRate": 0.02106247495213074
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 228
+			"timesDropped": 228,
+			"dropRate": 0.010152736340561963
 		},
 		{
 			"itemName": "Pile of Grave Earth",
-			"timesDropped": 225
+			"timesDropped": 225,
+			"dropRate": 0.010019147704501937
 		},
 		{
 			"itemName": "Brown Piece of Cloth",
-			"timesDropped": 224
+			"timesDropped": 224,
+			"dropRate": 0.009974618159148595
 		},
 		{
 			"itemName": "Viking Helmet",
-			"timesDropped": 217
+			"timesDropped": 217,
+			"dropRate": 0.009662911341675202
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.00320612726544062
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.0018702409048403615
 		}
 	]
 }

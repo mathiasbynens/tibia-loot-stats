@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9865
+			"timesDropped": 9865,
+			"dropRate": 0.9998986418001217
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1481
+			"timesDropped": 1481,
+			"dropRate": 0.1501114940198662
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 769
+			"timesDropped": 769,
+			"dropRate": 0.07794445570646666
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 693
+			"timesDropped": 693,
+			"dropRate": 0.07024123251571052
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 231
+			"timesDropped": 231,
+			"dropRate": 0.023413744171903506
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 96
+			"timesDropped": 96,
+			"dropRate": 0.009730387188323536
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 62
+			"timesDropped": 62,
+			"dropRate": 0.00628420839245895
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.0045611189945266575
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.0018244475978106628
 		}
 	]
 }

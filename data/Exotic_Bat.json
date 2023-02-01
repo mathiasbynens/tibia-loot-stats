@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10405
+			"timesDropped": 10405,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 3061
+			"timesDropped": 3061,
+			"dropRate": 0.29418548774627584
 		},
 		{
 			"itemName": "Dark Mushroom",
-			"timesDropped": 1560
+			"timesDropped": 1560,
+			"dropRate": 0.14992791926958193
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 1068
+			"timesDropped": 1068,
+			"dropRate": 0.10264296011532917
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 626
+			"timesDropped": 626,
+			"dropRate": 0.06016338298894762
 		},
 		{
 			"itemName": "Garlic Necklace",
-			"timesDropped": 530
+			"timesDropped": 530,
+			"dropRate": 0.050937049495434886
 		},
 		{
 			"itemName": "Bat Wing",
-			"timesDropped": 508
+			"timesDropped": 508,
+			"dropRate": 0.04882268140317155
 		}
 	]
 }

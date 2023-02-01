@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19554
+			"timesDropped": 19554,
+			"dropRate": 0.9703736787256215
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 10145
+			"timesDropped": 10145,
+			"dropRate": 0.5034489603493623
 		},
 		{
 			"itemName": "Essence of a Bad Dream",
-			"timesDropped": 1621
+			"timesDropped": 1621,
+			"dropRate": 0.08044265793260881
 		},
 		{
 			"itemName": "Scythe Leg",
-			"timesDropped": 998
+			"timesDropped": 998,
+			"dropRate": 0.049526078110267484
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 215
+			"timesDropped": 215,
+			"dropRate": 0.010669445685077664
 		},
 		{
 			"itemName": "Crown Helmet",
-			"timesDropped": 145
+			"timesDropped": 145,
+			"dropRate": 0.007195672671331447
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 0.003622649000049625
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 67
+			"timesDropped": 67,
+			"dropRate": 0.003324897027442807
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.002828643739764776
 		},
 		{
 			"itemName": "Shadow Sceptre",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.002431641109622351
 		},
 		{
 			"itemName": "Bar of Chocolate",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.002382015780854548
 		},
 		{
 			"itemName": "Crystal of Focus",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.0010917572328916678
 		}
 	]
 }

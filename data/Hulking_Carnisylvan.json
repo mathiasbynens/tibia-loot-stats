@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1055
+			"timesDropped": 1055,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 305
+			"timesDropped": 305,
+			"dropRate": 0.2890995260663507
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 153
+			"timesDropped": 153,
+			"dropRate": 0.14502369668246445
 		},
 		{
 			"itemName": "Carnisylvan Bark",
-			"timesDropped": 141
+			"timesDropped": 141,
+			"dropRate": 0.13364928909952606
 		},
 		{
 			"itemName": "Carnisylvan Finger",
-			"timesDropped": 113
+			"timesDropped": 113,
+			"dropRate": 0.10710900473933649
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 81
+			"timesDropped": 81,
+			"dropRate": 0.07677725118483412
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.05118483412322275
 		},
 		{
 			"itemName": "Dragonbone Staff",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.04739336492890995
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.04454976303317536
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.043601895734597156
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.03981042654028436
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.037914691943127965
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.03317535545023697
 		},
 		{
 			"itemName": "Human Teeth",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.006635071090047393
 		}
 	]
 }

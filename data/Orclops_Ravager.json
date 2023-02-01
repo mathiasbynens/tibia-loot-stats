@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8886
+			"timesDropped": 8886,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5313
+			"timesDropped": 5313,
+			"dropRate": 0.5979068197164078
 		},
 		{
 			"itemName": "Bug Meat",
-			"timesDropped": 1703
+			"timesDropped": 1703,
+			"dropRate": 0.19164978618050865
 		},
 		{
 			"itemName": "Beetle Carapace",
-			"timesDropped": 1640
+			"timesDropped": 1640,
+			"dropRate": 0.1845599819941481
 		},
 		{
 			"itemName": "Bone Toothpick",
-			"timesDropped": 1617
+			"timesDropped": 1617,
+			"dropRate": 0.18197164078325456
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1447
+			"timesDropped": 1447,
+			"dropRate": 0.1628404231375197
 		},
 		{
 			"itemName": "Reinvigorating Seeds",
-			"timesDropped": 904
+			"timesDropped": 904,
+			"dropRate": 0.10173306324555481
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 716
+			"timesDropped": 716,
+			"dropRate": 0.08057618726085979
 		},
 		{
 			"itemName": "Red Mushroom",
-			"timesDropped": 709
+			"timesDropped": 709,
+			"dropRate": 0.07978843124015304
 		},
 		{
 			"itemName": "Mysterious Fetish",
-			"timesDropped": 559
+			"timesDropped": 559,
+			"dropRate": 0.0629079450821517
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 334
+			"timesDropped": 334,
+			"dropRate": 0.03758721584514967
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 283
+			"timesDropped": 283,
+			"dropRate": 0.03184785055142921
 		},
 		{
 			"itemName": "Onion",
-			"timesDropped": 281
+			"timesDropped": 281,
+			"dropRate": 0.031622777402655865
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 258
+			"timesDropped": 258,
+			"dropRate": 0.02903443619176232
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 232
+			"timesDropped": 232,
+			"dropRate": 0.026108485257708754
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 137
+			"timesDropped": 137,
+			"dropRate": 0.015417510690974566
 		},
 		{
 			"itemName": "Pair of Iron Fists",
-			"timesDropped": 117
+			"timesDropped": 117,
+			"dropRate": 0.013166779203241054
 		},
 		{
 			"itemName": "War Drum",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.011028584289894216
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.008777852802160702
 		},
 		{
 			"itemName": "Dreaded Cleaver",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.00011253657438667567
 		}
 	]
 }

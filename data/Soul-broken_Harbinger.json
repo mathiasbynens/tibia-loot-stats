@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 8178
+			"timesDropped": 8178,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Ice Flower (Item)",
-			"timesDropped": 1230
+			"timesDropped": 1230,
+			"dropRate": 0.1504035216434336
 		},
 		{
 			"itemName": "Dream Essence Egg",
-			"timesDropped": 1056
+			"timesDropped": 1056,
+			"dropRate": 0.12912692589875274
 		},
 		{
 			"itemName": "Elvish Talisman",
-			"timesDropped": 784
+			"timesDropped": 784,
+			"dropRate": 0.0958669601369528
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 394
+			"timesDropped": 394,
+			"dropRate": 0.04817803864025434
 		},
 		{
 			"itemName": "Glacier Kilt",
-			"timesDropped": 269
+			"timesDropped": 269,
+			"dropRate": 0.03289312790413304
 		},
 		{
 			"itemName": "Glacier Shoes",
-			"timesDropped": 253
+			"timesDropped": 253,
+			"dropRate": 0.030936659329909515
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.025678650036683785
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 193
+			"timesDropped": 193,
+			"dropRate": 0.023599902176571288
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 154
+			"timesDropped": 154,
+			"dropRate": 0.01883101002690144
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 108
+			"timesDropped": 108,
+			"dropRate": 0.013206162876008804
 		},
 		{
 			"itemName": "Crown Shield",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.012717045732452923
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 93
+			"timesDropped": 93,
+			"dropRate": 0.011371973587674248
 		},
 		{
 			"itemName": "Collar of Green Plasma",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.010516018586451455
 		}
 	]
 }

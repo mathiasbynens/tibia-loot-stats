@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 93199
+			"timesDropped": 93199,
+			"dropRate": 0.9979227565235081
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 18610
+			"timesDropped": 18610,
+			"dropRate": 0.19926546957480754
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 18570
+			"timesDropped": 18570,
+			"dropRate": 0.1988371719507886
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 9280
+			"timesDropped": 9280,
+			"dropRate": 0.09936504877239194
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 4575
+			"timesDropped": 4575,
+			"dropRate": 0.04898654074716521
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 3736
+			"timesDropped": 3736,
+			"dropRate": 0.04000299808336813
 		},
 		{
 			"itemName": "Talon",
-			"timesDropped": 918
+			"timesDropped": 918,
+			"dropRate": 0.009829430471234461
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 718
+			"timesDropped": 718,
+			"dropRate": 0.007687942351139807
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 538
+			"timesDropped": 538,
+			"dropRate": 0.0057606030430546185
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 501
+			"timesDropped": 501,
+			"dropRate": 0.0053644277408371075
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 471
+			"timesDropped": 471,
+			"dropRate": 0.00504320452282291
 		},
 		{
 			"itemName": "Mastermind Potion",
-			"timesDropped": 462
+			"timesDropped": 462,
+			"dropRate": 0.00494683755741865
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 459
+			"timesDropped": 459,
+			"dropRate": 0.004914715235617231
 		},
 		{
 			"itemName": "Broken Ring of Ending",
-			"timesDropped": 273
+			"timesDropped": 273,
+			"dropRate": 0.0029231312839292025
 		},
 		{
 			"itemName": "Yielocks",
-			"timesDropped": 273
+			"timesDropped": 273,
+			"dropRate": 0.0029231312839292025
 		},
 		{
 			"itemName": "Yielowax",
-			"timesDropped": 256
+			"timesDropped": 256,
+			"dropRate": 0.002741104793721157
 		}
 	]
 }

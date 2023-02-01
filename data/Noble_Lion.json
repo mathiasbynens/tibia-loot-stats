@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2495
+			"timesDropped": 2495,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 630
+			"timesDropped": 630,
+			"dropRate": 0.25250501002004005
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 598
+			"timesDropped": 598,
+			"dropRate": 0.23967935871743487
 		},
 		{
 			"itemName": "Lion's Mane",
-			"timesDropped": 506
+			"timesDropped": 506,
+			"dropRate": 0.2028056112224449
 		}
 	]
 }

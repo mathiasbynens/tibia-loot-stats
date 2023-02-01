@@ -4,87 +4,108 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 104624
+			"timesDropped": 104624,
+			"dropRate": 0.900758495406841
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 75624
+			"timesDropped": 75624,
+			"dropRate": 0.6510835033706124
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 17310
+			"timesDropped": 17310,
+			"dropRate": 0.1490301417981765
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 11722
+			"timesDropped": 11722,
+			"dropRate": 0.10092035367754044
 		},
 		{
 			"itemName": "Dragon's Tail",
-			"timesDropped": 11468
+			"timesDropped": 11468,
+			"dropRate": 0.09873354512660244
 		},
 		{
 			"itemName": "Burst Arrow",
-			"timesDropped": 9268
+			"timesDropped": 9268,
+			"dropRate": 0.07979268366178509
 		},
 		{
 			"itemName": "Longsword",
-			"timesDropped": 4674
+			"timesDropped": 4674,
+			"dropRate": 0.04024072113025286
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 3508
+			"timesDropped": 3508,
+			"dropRate": 0.030202064553899666
 		},
 		{
 			"itemName": "Broadsword",
-			"timesDropped": 2310
+			"timesDropped": 2310,
+			"dropRate": 0.019887904538058217
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 2218
+			"timesDropped": 2218,
+			"dropRate": 0.019095832149529493
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1223
+			"timesDropped": 1223,
+			"dropRate": 0.010529397077941646
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 1218
+			"timesDropped": 1218,
+			"dropRate": 0.010486349665521606
 		},
 		{
 			"itemName": "Green Dragon Scale",
-			"timesDropped": 1204
+			"timesDropped": 1204,
+			"dropRate": 0.010365816910745495
 		},
 		{
 			"itemName": "Green Dragon Leather",
-			"timesDropped": 1181
+			"timesDropped": 1181,
+			"dropRate": 0.010167798813613314
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 1162
+			"timesDropped": 1162,
+			"dropRate": 0.010004218646417163
 		},
 		{
 			"itemName": "Dragon Hammer",
-			"timesDropped": 599
+			"timesDropped": 599,
+			"dropRate": 0.005157080007920724
 		},
 		{
 			"itemName": "Serpent Sword",
-			"timesDropped": 585
+			"timesDropped": 585,
+			"dropRate": 0.0050365472531446135
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 441
+			"timesDropped": 441,
+			"dropRate": 0.003796781775447478
 		},
 		{
 			"itemName": "Dragon Shield",
-			"timesDropped": 355
+			"timesDropped": 355,
+			"dropRate": 0.0030563662818227995
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.0011106232404370173
 		},
 		{
 			"itemName": "Dragonbone Staff",
-			"timesDropped": 123
+			"timesDropped": 123,
+			"dropRate": 0.00105896634553297
 		}
 	]
 }

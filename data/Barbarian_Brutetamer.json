@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12792
+			"timesDropped": 12792,
+			"dropRate": 0.9023702031602708
 		},
 		{
 			"itemName": "Corncob",
-			"timesDropped": 1552
+			"timesDropped": 1552,
+			"dropRate": 0.10948081264108352
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 1284
+			"timesDropped": 1284,
+			"dropRate": 0.09057562076749436
 		},
 		{
 			"itemName": "Fur Bag",
-			"timesDropped": 1091
+			"timesDropped": 1091,
+			"dropRate": 0.07696106094808126
 		},
 		{
 			"itemName": "Staff",
-			"timesDropped": 929
+			"timesDropped": 929,
+			"dropRate": 0.06553329571106095
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 754
+			"timesDropped": 754,
+			"dropRate": 0.05318848758465011
 		},
 		{
 			"itemName": "Book (Grey)",
-			"timesDropped": 666
+			"timesDropped": 666,
+			"dropRate": 0.04698081264108352
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 84
+			"timesDropped": 84,
+			"dropRate": 0.005925507900677201
 		},
 		{
 			"itemName": "Brutetamer's Staff",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.003033295711060948
 		},
 		{
 			"itemName": "Fur Boots",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.0014813769751693003
 		},
 		{
 			"itemName": "Mammoth Fur Cape",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.001340293453724605
 		},
 		{
 			"itemName": "Mammoth Fur Shorts",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.0008465011286681715
 		}
 	]
 }

@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3143
+			"timesDropped": 3143,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 324
+			"timesDropped": 324,
+			"dropRate": 0.10308622335348393
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 302
+			"timesDropped": 302,
+			"dropRate": 0.09608654152083997
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 291
+			"timesDropped": 291,
+			"dropRate": 0.09258670060451797
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.01813553929366847
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.009863188036907413
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.008272351256761056
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.006363347120585428
 		},
 		{
 			"itemName": "Serpent Sword",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.005408845052497614
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.005090677696468342
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.004136175628380528
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.003818008272351257
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.002545338848234171
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.002545338848234171
 		},
 		{
 			"itemName": "Carrot on a Stick",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.0019090041361756285
 		}
 	]
 }

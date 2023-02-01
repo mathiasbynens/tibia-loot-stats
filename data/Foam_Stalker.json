@@ -4,91 +4,113 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1546
+			"timesDropped": 1546,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 171
+			"timesDropped": 171,
+			"dropRate": 0.11060802069857698
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 152
+			"timesDropped": 152,
+			"dropRate": 0.09831824062095731
 		},
 		{
 			"itemName": "Orichalcum Pearl",
-			"timesDropped": 142
+			"timesDropped": 142,
+			"dropRate": 0.09184993531694696
 		},
 		{
 			"itemName": "Spike Sword",
-			"timesDropped": 128
+			"timesDropped": 128,
+			"dropRate": 0.08279430789133248
 		},
 		{
 			"itemName": "Combat Knife",
-			"timesDropped": 118
+			"timesDropped": 118,
+			"dropRate": 0.07632600258732213
 		},
 		{
 			"itemName": "Staff",
-			"timesDropped": 112
+			"timesDropped": 112,
+			"dropRate": 0.0724450194049159
 		},
 		{
 			"itemName": "Twigs",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.06727037516170763
 		},
 		{
 			"itemName": "Flotsam",
-			"timesDropped": 99
+			"timesDropped": 99,
+			"dropRate": 0.06403622250970246
 		},
 		{
 			"itemName": "Glacier Shoes",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.06338939197930142
 		},
 		{
 			"itemName": "Remains of a Fish",
-			"timesDropped": 93
+			"timesDropped": 93,
+			"dropRate": 0.06015523932729625
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.057567917205692105
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.055627425614489
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 74
+			"timesDropped": 74,
+			"dropRate": 0.047865459249676584
 		},
 		{
 			"itemName": "Coral Branch",
-			"timesDropped": 70
+			"timesDropped": 70,
+			"dropRate": 0.045278137128072445
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.04398447606727038
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.03816300129366106
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.02457956015523933
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.022639068564036222
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.01034928848641656
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.009702457956015523
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.0038809831824062097
 		}
 	]
 }

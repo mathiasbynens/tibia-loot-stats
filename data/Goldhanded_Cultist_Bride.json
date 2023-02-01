@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 608
+			"timesDropped": 608,
+			"dropRate": 0.48796147672552165
 		},
 		{
 			"itemName": "Golden Brush",
-			"timesDropped": 318
+			"timesDropped": 318,
+			"dropRate": 0.2552166934189406
 		},
 		{
 			"itemName": "Tiger Eye",
-			"timesDropped": 215
+			"timesDropped": 215,
+			"dropRate": 0.1725521669341894
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 122
+			"timesDropped": 122,
+			"dropRate": 0.09791332263242375
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 62
+			"timesDropped": 62,
+			"dropRate": 0.04975922953451043
 		},
 		{
 			"itemName": "Golden Bag",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.03451043338683788
 		},
 		{
 			"itemName": "Golden Backpack",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.03210272873194221
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.013643659711075442
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.012038523274478331
 		}
 	]
 }

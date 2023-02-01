@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 100094
+			"timesDropped": 100094,
+			"dropRate": 0.9408038198360779
 		},
 		{
 			"itemName": "Broken Halberd",
-			"timesDropped": 15889
+			"timesDropped": 15889,
+			"dropRate": 0.1493439356342582
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 4158
+			"timesDropped": 4158,
+			"dropRate": 0.039081885856079406
 		},
 		{
 			"itemName": "Bunch of Ripe Rice",
-			"timesDropped": 2058
+			"timesDropped": 2058,
+			"dropRate": 0.019343559666140313
 		},
 		{
 			"itemName": "Legionnaire Flags",
-			"timesDropped": 2051
+			"timesDropped": 2051,
+			"dropRate": 0.01927776524550718
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 1033
+			"timesDropped": 1033,
+			"dropRate": 0.009709376644860516
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 1033
+			"timesDropped": 1033,
+			"dropRate": 0.009709376644860516
 		},
 		{
 			"itemName": "Zaoan Halberd",
-			"timesDropped": 1021
+			"timesDropped": 1021,
+			"dropRate": 0.009596586209489435
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 1015
+			"timesDropped": 1015,
+			"dropRate": 0.009540190991803895
 		},
 		{
 			"itemName": "Drakinata",
-			"timesDropped": 763
+			"timesDropped": 763,
+			"dropRate": 0.007171591849011204
 		},
 		{
 			"itemName": "Red Lantern",
-			"timesDropped": 545
+			"timesDropped": 545,
+			"dropRate": 0.0051225656064365745
 		},
 		{
 			"itemName": "Zaoan Shoes",
-			"timesDropped": 467
+			"timesDropped": 467,
+			"dropRate": 0.004389427776524551
 		},
 		{
 			"itemName": "Zaoan Armor",
-			"timesDropped": 71
+			"timesDropped": 71,
+			"dropRate": 0.0006673434092788931
 		},
 		{
 			"itemName": "Lizard Trophy",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.00013158884126626062
 		}
 	]
 }

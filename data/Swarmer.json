@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 61777
+			"timesDropped": 61777,
+			"dropRate": 0.9999838130078669
 		},
 		{
 			"itemName": "Swarmer Antenna",
-			"timesDropped": 9431
+			"timesDropped": 9431,
+			"dropRate": 0.15265952280747191
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 7409
+			"timesDropped": 7409,
+			"dropRate": 0.11992942471429958
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 606
+			"timesDropped": 606,
+			"dropRate": 0.009809317232671824
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 264
+			"timesDropped": 264,
+			"dropRate": 0.004273365923144161
 		}
 	]
 }

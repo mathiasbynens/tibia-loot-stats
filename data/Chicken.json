@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Chicken Feather",
-			"timesDropped": 3414
+			"timesDropped": 3414,
+			"dropRate": 0.19097163953683505
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 1668
+			"timesDropped": 1668,
+			"dropRate": 0.09330424567880517
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 342
+			"timesDropped": 342,
+			"dropRate": 0.019130726631985232
 		},
 		{
 			"itemName": "Egg",
-			"timesDropped": 165
+			"timesDropped": 165,
+			"dropRate": 0.009229736532975331
 		}
 	]
 }

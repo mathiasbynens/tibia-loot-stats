@@ -4,99 +4,123 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10818
+			"timesDropped": 10818,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7042
+			"timesDropped": 7042,
+			"dropRate": 0.6509521168422999
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 6431
+			"timesDropped": 6431,
+			"dropRate": 0.594472176002958
 		},
 		{
 			"itemName": "Cowbell",
-			"timesDropped": 2401
+			"timesDropped": 2401,
+			"dropRate": 0.22194490663708633
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 2167
+			"timesDropped": 2167,
+			"dropRate": 0.20031429099648734
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 1646
+			"timesDropped": 1646,
+			"dropRate": 0.15215381771122205
 		},
 		{
 			"itemName": "Bronze Amulet",
-			"timesDropped": 1627
+			"timesDropped": 1627,
+			"dropRate": 0.1503974856720281
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 1537
+			"timesDropped": 1537,
+			"dropRate": 0.14207801811795157
 		},
 		{
 			"itemName": "Mino Shield",
-			"timesDropped": 1341
+			"timesDropped": 1341,
+			"dropRate": 0.12396006655574043
 		},
 		{
 			"itemName": "Minotaur Leather",
-			"timesDropped": 1280
+			"timesDropped": 1280,
+			"dropRate": 0.11832131632464411
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 1278
+			"timesDropped": 1278,
+			"dropRate": 0.11813643926788686
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 831
+			"timesDropped": 831,
+			"dropRate": 0.07681641708264005
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 353
+			"timesDropped": 353,
+			"dropRate": 0.03263080051765576
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 344
+			"timesDropped": 344,
+			"dropRate": 0.03179885376224811
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 338
+			"timesDropped": 338,
+			"dropRate": 0.031244222591976335
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 321
+			"timesDropped": 321,
+			"dropRate": 0.029672767609539658
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 295
+			"timesDropped": 295,
+			"dropRate": 0.027269365871695324
 		},
 		{
 			"itemName": "Mino Lance",
-			"timesDropped": 206
+			"timesDropped": 206,
+			"dropRate": 0.01904233684599741
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 105
+			"timesDropped": 105,
+			"dropRate": 0.009706045479755962
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.009058975781105564
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.005361434645960436
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.0022185246810870773
 		},
 		{
 			"itemName": "Minotaur Trophy",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.002126086152708449
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.0014790164540580515
 		}
 	]
 }

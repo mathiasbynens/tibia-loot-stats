@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19167
+			"timesDropped": 19167,
+			"dropRate": 0.8993524774774775
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 4301
+			"timesDropped": 4301,
+			"dropRate": 0.20181118618618618
 		},
 		{
 			"itemName": "Quara Eye",
-			"timesDropped": 2563
+			"timesDropped": 2563,
+			"dropRate": 0.12026088588588589
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 2130
+			"timesDropped": 2130,
+			"dropRate": 0.0999436936936937
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1061
+			"timesDropped": 1061,
+			"dropRate": 0.04978415915915916
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 612
+			"timesDropped": 612,
+			"dropRate": 0.028716216216216218
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 561
+			"timesDropped": 561,
+			"dropRate": 0.026323198198198196
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 442
+			"timesDropped": 442,
+			"dropRate": 0.02073948948948949
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 327
+			"timesDropped": 327,
+			"dropRate": 0.015343468468468468
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 209
+			"timesDropped": 209,
+			"dropRate": 0.009806681681681681
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 189
+			"timesDropped": 189,
+			"dropRate": 0.008868243243243243
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 109
+			"timesDropped": 109,
+			"dropRate": 0.00511448948948949
 		}
 	]
 }

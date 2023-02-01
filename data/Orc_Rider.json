@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8481
+			"timesDropped": 8481,
+			"dropRate": 0.4833855799373041
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 4232
+			"timesDropped": 4232,
+			"dropRate": 0.24120832145910515
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 1787
+			"timesDropped": 1787,
+			"dropRate": 0.10185237959532631
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 1766
+			"timesDropped": 1766,
+			"dropRate": 0.10065545739526931
 		},
 		{
 			"itemName": "Warwolf Fur",
-			"timesDropped": 1714
+			"timesDropped": 1714,
+			"dropRate": 0.09769165004274723
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 1232
+			"timesDropped": 1232,
+			"dropRate": 0.07021943573667712
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 363
+			"timesDropped": 363,
+			"dropRate": 0.020689655172413793
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 190
+			"timesDropped": 190,
+			"dropRate": 0.010829296095753777
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 175
+			"timesDropped": 175,
+			"dropRate": 0.009974351667141636
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 174
+			"timesDropped": 174,
+			"dropRate": 0.009917355371900827
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.005927614705044172
 		}
 	]
 }

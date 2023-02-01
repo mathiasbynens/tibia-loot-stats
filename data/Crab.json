@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 11617
+			"timesDropped": 11617,
+			"dropRate": 0.8006202618883529
 		},
 		{
 			"itemName": "Crab Pincers",
-			"timesDropped": 2900
+			"timesDropped": 2900,
+			"dropRate": 0.19986216402481047
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 2899
+			"timesDropped": 2899,
+			"dropRate": 0.1997932460372157
 		}
 	]
 }

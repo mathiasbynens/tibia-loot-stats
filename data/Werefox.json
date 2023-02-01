@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 220
+			"timesDropped": 220,
+			"dropRate": 0.8979591836734694
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 218
+			"timesDropped": 218,
+			"dropRate": 0.889795918367347
 		},
 		{
 			"itemName": "Fox Paw",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.15510204081632653
 		},
 		{
 			"itemName": "Werefox Tail",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.08163265306122448
 		},
 		{
 			"itemName": "Troll Green",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.0653061224489796
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.036734693877551024
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0326530612244898
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0326530612244898
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.02857142857142857
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.02857142857142857
 		},
 		{
 			"itemName": "Moonlight Rod",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.02857142857142857
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0163265306122449
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.012244897959183673
 		},
 		{
 			"itemName": "Moonlight Crystals",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.004081632653061225
 		}
 	]
 }

@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7385
+			"timesDropped": 7385,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7385
+			"timesDropped": 7385,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Eye of a Weeper",
-			"timesDropped": 1140
+			"timesDropped": 1140,
+			"dropRate": 0.15436696005416384
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1119
+			"timesDropped": 1119,
+			"dropRate": 0.15152335815842924
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 1110
+			"timesDropped": 1110,
+			"dropRate": 0.15030467163168584
 		},
 		{
 			"itemName": "Blazing Bone",
-			"timesDropped": 1108
+			"timesDropped": 1108,
+			"dropRate": 0.15003385240352066
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1097
+			"timesDropped": 1097,
+			"dropRate": 0.14854434664861205
 		},
 		{
 			"itemName": "Fiery Heart",
-			"timesDropped": 977
+			"timesDropped": 977,
+			"dropRate": 0.13229519295870007
 		},
 		{
 			"itemName": "Magma Clump",
-			"timesDropped": 939
+			"timesDropped": 939,
+			"dropRate": 0.12714962762356127
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 887
+			"timesDropped": 887,
+			"dropRate": 0.12010832769126607
 		},
 		{
 			"itemName": "Prismatic Bolt",
-			"timesDropped": 845
+			"timesDropped": 845,
+			"dropRate": 0.11442112389979689
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 660
+			"timesDropped": 660,
+			"dropRate": 0.08937034529451592
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 404
+			"timesDropped": 404,
+			"dropRate": 0.05470548408937034
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 244
+			"timesDropped": 244,
+			"dropRate": 0.03303994583615437
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 164
+			"timesDropped": 164,
+			"dropRate": 0.02220717670954638
 		},
 		{
 			"itemName": "Wand of Everblazing",
-			"timesDropped": 108
+			"timesDropped": 108,
+			"dropRate": 0.014624238320920786
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 95
+			"timesDropped": 95,
+			"dropRate": 0.012863913337846988
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.007989167230873392
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.007176709546377793
 		}
 	]
 }

@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2709
+			"timesDropped": 2709,
+			"dropRate": 0.750415512465374
 		},
 		{
 			"itemName": "Book Page",
-			"timesDropped": 2216
+			"timesDropped": 2216,
+			"dropRate": 0.6138504155124653
 		},
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 1474
+			"timesDropped": 1474,
+			"dropRate": 0.4083102493074792
 		},
 		{
 			"itemName": "Silken Bookmark",
-			"timesDropped": 1026
+			"timesDropped": 1026,
+			"dropRate": 0.28421052631578947
 		},
 		{
 			"itemName": "Big Bone",
-			"timesDropped": 283
+			"timesDropped": 283,
+			"dropRate": 0.07839335180055401
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 132
+			"timesDropped": 132,
+			"dropRate": 0.03656509695290859
 		},
 		{
 			"itemName": "Ruby Necklace",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.016343490304709142
 		}
 	]
 }

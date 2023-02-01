@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 20183
+			"timesDropped": 20183,
+			"dropRate": 0.6401408227346252
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 6385
+			"timesDropped": 6385,
+			"dropRate": 0.20251197310412636
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 6284
+			"timesDropped": 6284,
+			"dropRate": 0.1993085730597228
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 4624
+			"timesDropped": 4624,
+			"dropRate": 0.14665863173586222
 		},
 		{
 			"itemName": "Marsh Stalker Feather",
-			"timesDropped": 2725
+			"timesDropped": 2725,
+			"dropRate": 0.08642836753465064
 		},
 		{
 			"itemName": "Longsword",
-			"timesDropped": 2355
+			"timesDropped": 2355,
+			"dropRate": 0.07469313964921184
 		},
 		{
 			"itemName": "Marsh Stalker Beak",
-			"timesDropped": 1925
+			"timesDropped": 1925,
+			"dropRate": 0.06105490183640458
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 1546
+			"timesDropped": 1546,
+			"dropRate": 0.04903422246186051
 		},
 		{
 			"itemName": "Seeds",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.00104665546005265
 		}
 	]
 }

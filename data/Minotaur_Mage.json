@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18229
+			"timesDropped": 18229,
+			"dropRate": 0.8524199205050269
 		},
 		{
 			"itemName": "Carrot",
-			"timesDropped": 3137
+			"timesDropped": 3137,
+			"dropRate": 0.14669160626607436
 		},
 		{
 			"itemName": "Purple Robe",
-			"timesDropped": 1297
+			"timesDropped": 1297,
+			"dropRate": 0.06064998830956278
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 1073
+			"timesDropped": 1073,
+			"dropRate": 0.050175356558335285
 		},
 		{
 			"itemName": "Leather Legs",
-			"timesDropped": 1050
+			"timesDropped": 1050,
+			"dropRate": 0.049099836333878884
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 681
+			"timesDropped": 681,
+			"dropRate": 0.031844750993687165
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 664
+			"timesDropped": 664,
+			"dropRate": 0.03104980126256722
 		},
 		{
 			"itemName": "Minotaur Leather",
-			"timesDropped": 446
+			"timesDropped": 446,
+			"dropRate": 0.020855740004676174
 		},
 		{
 			"itemName": "Taurus Mace",
-			"timesDropped": 207
+			"timesDropped": 207,
+			"dropRate": 0.009679682020107551
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 119
+			"timesDropped": 119,
+			"dropRate": 0.005564648117839607
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.004582651391162029
 		}
 	]
 }

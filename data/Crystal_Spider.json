@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 54611
+			"timesDropped": 54611,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 8206
+			"timesDropped": 8206,
+			"dropRate": 0.1502627675742982
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 5405
+			"timesDropped": 5405,
+			"dropRate": 0.09897273443079233
 		},
 		{
 			"itemName": "Sniper Arrow",
-			"timesDropped": 3219
+			"timesDropped": 3219,
+			"dropRate": 0.058944168757210084
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 2818
+			"timesDropped": 2818,
+			"dropRate": 0.05160132574023548
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 2673
+			"timesDropped": 2673,
+			"dropRate": 0.048946183003424217
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 1375
+			"timesDropped": 1375,
+			"dropRate": 0.02517807767665855
 		},
 		{
 			"itemName": "Spider Silk",
-			"timesDropped": 1082
+			"timesDropped": 1082,
+			"dropRate": 0.019812858215377854
 		},
 		{
 			"itemName": "Crystal Necklace",
-			"timesDropped": 889
+			"timesDropped": 889,
+			"dropRate": 0.016278771676035964
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 866
+			"timesDropped": 866,
+			"dropRate": 0.01585761110399004
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 814
+			"timesDropped": 814,
+			"dropRate": 0.01490542198458186
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 412
+			"timesDropped": 412,
+			"dropRate": 0.007544267638387871
 		},
 		{
 			"itemName": "Shard",
-			"timesDropped": 395
+			"timesDropped": 395,
+			"dropRate": 0.007232975041658274
 		},
 		{
 			"itemName": "Glacier Mask",
-			"timesDropped": 363
+			"timesDropped": 363,
+			"dropRate": 0.0066470125066378566
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 302
+			"timesDropped": 302,
+			"dropRate": 0.005530021424255187
 		},
 		{
 			"itemName": "Sapphire Hammer",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.0014099723498928788
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.0011902363992602222
 		},
 		{
 			"itemName": "Jewelled Backpack",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.0008240098148724616
 		}
 	]
 }

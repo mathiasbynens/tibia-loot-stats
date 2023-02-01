@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4689
+			"timesDropped": 4689,
+			"dropRate": 0.986327303323517
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4114
+			"timesDropped": 4114,
+			"dropRate": 0.8653765250315524
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 497
+			"timesDropped": 497,
+			"dropRate": 0.1045435422801851
 		},
 		{
 			"itemName": "Solid Rage",
-			"timesDropped": 473
+			"timesDropped": 473,
+			"dropRate": 0.09949516196886832
 		},
 		{
 			"itemName": "Energy Drink",
-			"timesDropped": 471
+			"timesDropped": 471,
+			"dropRate": 0.09907446360959192
 		},
 		{
 			"itemName": "Strange Proto Matter",
-			"timesDropped": 471
+			"timesDropped": 471,
+			"dropRate": 0.09907446360959192
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 449
+			"timesDropped": 449,
+			"dropRate": 0.09444678165755153
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 449
+			"timesDropped": 449,
+			"dropRate": 0.09444678165755153
 		},
 		{
 			"itemName": "Glistening Bone",
-			"timesDropped": 442
+			"timesDropped": 442,
+			"dropRate": 0.09297433740008414
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 433
+			"timesDropped": 433,
+			"dropRate": 0.09108119478334034
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 250
+			"timesDropped": 250,
+			"dropRate": 0.05258729490954985
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 246
+			"timesDropped": 246,
+			"dropRate": 0.05174589819099706
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 246
+			"timesDropped": 246,
+			"dropRate": 0.05174589819099706
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 236
+			"timesDropped": 236,
+			"dropRate": 0.04964240639461506
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 234
+			"timesDropped": 234,
+			"dropRate": 0.049221708035338665
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 200
+			"timesDropped": 200,
+			"dropRate": 0.04206983592763988
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.0018931426167437947
 		}
 	]
 }

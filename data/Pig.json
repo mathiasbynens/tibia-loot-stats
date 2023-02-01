@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 2304
+			"timesDropped": 2304,
+			"dropRate": 0.6512153759185981
 		},
 		{
 			"itemName": "Pig Foot",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.01243640474844545
 		}
 	]
 }

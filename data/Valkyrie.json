@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Spear",
-			"timesDropped": 9557
+			"timesDropped": 9557,
+			"dropRate": 0.5538363467779324
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5627
+			"timesDropped": 5627,
+			"dropRate": 0.32608947612424666
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 5195
+			"timesDropped": 5195,
+			"dropRate": 0.30105470560964304
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 1749
+			"timesDropped": 1749,
+			"dropRate": 0.10135605006954103
 		},
 		{
 			"itemName": "Red Apple",
-			"timesDropped": 1305
+			"timesDropped": 1305,
+			"dropRate": 0.07562586926286509
 		},
 		{
 			"itemName": "Girlish Hair Decoration",
-			"timesDropped": 1038
+			"timesDropped": 1038,
+			"dropRate": 0.06015299026425591
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 873
+			"timesDropped": 873,
+			"dropRate": 0.050591098748261475
 		},
 		{
 			"itemName": "Protective Charm",
-			"timesDropped": 550
+			"timesDropped": 550,
+			"dropRate": 0.031872971719981456
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 186
+			"timesDropped": 186,
+			"dropRate": 0.010778859527121001
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 142
+			"timesDropped": 142,
+			"dropRate": 0.008229021789522485
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.007475660639777468
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 80
+			"timesDropped": 80,
+			"dropRate": 0.004636068613815485
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 70
+			"timesDropped": 70,
+			"dropRate": 0.004056560037088549
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.0011010662957811775
 		}
 	]
 }

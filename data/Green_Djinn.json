@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10856
+			"timesDropped": 10856,
+			"dropRate": 0.8828887443070917
 		},
 		{
 			"itemName": "Cheese",
-			"timesDropped": 2982
+			"timesDropped": 2982,
+			"dropRate": 0.24251789199739754
 		},
 		{
 			"itemName": "Royal Spear",
-			"timesDropped": 621
+			"timesDropped": 621,
+			"dropRate": 0.05050422901756669
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 361
+			"timesDropped": 361,
+			"dropRate": 0.02935914118412492
 		},
 		{
 			"itemName": "Book (Green)",
-			"timesDropped": 284
+			"timesDropped": 284,
+			"dropRate": 0.02309694209499024
 		},
 		{
 			"itemName": "Dirty Turban",
-			"timesDropped": 262
+			"timesDropped": 262,
+			"dropRate": 0.021307742355237476
 		},
 		{
 			"itemName": "Green Piece of Cloth",
-			"timesDropped": 248
+			"timesDropped": 248,
+			"dropRate": 0.020169160702667534
 		},
 		{
 			"itemName": "Grave Flower",
-			"timesDropped": 119
+			"timesDropped": 119,
+			"dropRate": 0.009677944046844503
 		},
 		{
 			"itemName": "Small Oil Lamp",
-			"timesDropped": 106
+			"timesDropped": 106,
+			"dropRate": 0.008620689655172414
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.004798308392973324
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.0011385816525699415
 		}
 	]
 }

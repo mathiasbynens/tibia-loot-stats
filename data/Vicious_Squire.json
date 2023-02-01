@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 33395
+			"timesDropped": 33395,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Bolt",
-			"timesDropped": 6697
+			"timesDropped": 6697,
+			"dropRate": 0.20053900284473725
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 4310
+			"timesDropped": 4310,
+			"dropRate": 0.12906123671208264
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 3556
+			"timesDropped": 3556,
+			"dropRate": 0.10648300643808953
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 1962
+			"timesDropped": 1962,
+			"dropRate": 0.05875131007635873
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 853
+			"timesDropped": 853,
+			"dropRate": 0.02554274592004791
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 816
+			"timesDropped": 816,
+			"dropRate": 0.02443479562808804
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 798
+			"timesDropped": 798,
+			"dropRate": 0.0238957927833508
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 786
+			"timesDropped": 786,
+			"dropRate": 0.023536457553525975
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 247
+			"timesDropped": 247,
+			"dropRate": 0.007396316813894296
 		},
 		{
 			"itemName": "Scarf",
-			"timesDropped": 205
+			"timesDropped": 205,
+			"dropRate": 0.006138643509507411
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 141
+			"timesDropped": 141,
+			"dropRate": 0.004222188950441683
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 117
+			"timesDropped": 117,
+			"dropRate": 0.003503518490792035
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.003204072465938015
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.0020661775714927383
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.0005090582422518341
 		}
 	]
 }

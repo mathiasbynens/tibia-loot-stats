@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 32516
+			"timesDropped": 32516,
+			"dropRate": 0.8205102324055615
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 19929
+			"timesDropped": 19929,
+			"dropRate": 0.502889298241187
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 3117
+			"timesDropped": 3117,
+			"dropRate": 0.07865452067930051
 		},
 		{
 			"itemName": "Cyclops Toe",
-			"timesDropped": 2734
+			"timesDropped": 2734,
+			"dropRate": 0.0689898811476444
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 802
+			"timesDropped": 802,
+			"dropRate": 0.020237704711196347
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 626
+			"timesDropped": 626,
+			"dropRate": 0.015796512654873956
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 268
+			"timesDropped": 268,
+			"dropRate": 0.006762724267581822
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 204
+			"timesDropped": 204,
+			"dropRate": 0.005147745338010043
 		},
 		{
 			"itemName": "Dark Helmet",
-			"timesDropped": 79
+			"timesDropped": 79,
+			"dropRate": 0.0019934896161901638
 		},
 		{
 			"itemName": "Cyclops Trophy",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.0012364682429533928
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.000731787327462212
 		}
 	]
 }

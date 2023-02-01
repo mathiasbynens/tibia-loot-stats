@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 49450
+			"timesDropped": 49450,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 24883
+			"timesDropped": 24883,
+			"dropRate": 0.5031951466127401
 		},
 		{
 			"itemName": "Crawler Head Plating",
-			"timesDropped": 8891
+			"timesDropped": 8891,
+			"dropRate": 0.17979777553083923
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 7238
+			"timesDropped": 7238,
+			"dropRate": 0.1463700707785642
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 4972
+			"timesDropped": 4972,
+			"dropRate": 0.10054600606673407
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 4411
+			"timesDropped": 4411,
+			"dropRate": 0.08920121334681497
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 3042
+			"timesDropped": 3042,
+			"dropRate": 0.06151668351870576
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 920
+			"timesDropped": 920,
+			"dropRate": 0.018604651162790697
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 301
+			"timesDropped": 301,
+			"dropRate": 0.00608695652173913
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 228
+			"timesDropped": 228,
+			"dropRate": 0.0046107178968655205
 		},
 		{
 			"itemName": "Grasshopper Legs",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.000910010111223458
 		}
 	]
 }

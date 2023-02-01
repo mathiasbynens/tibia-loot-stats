@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 38482
+			"timesDropped": 38482,
+			"dropRate": 0.9999740144999091
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 15326
+			"timesDropped": 15326,
+			"dropRate": 0.3982537743938882
 		},
 		{
 			"itemName": "Piece of Crocodile Leather",
-			"timesDropped": 9653
+			"timesDropped": 9653,
+			"dropRate": 0.2508380323779331
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 3838
+			"timesDropped": 3838,
+			"dropRate": 0.09973234934906322
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 1916
+			"timesDropped": 1916,
+			"dropRate": 0.04978821817425876
 		},
 		{
 			"itemName": "Bunch of Ripe Rice",
-			"timesDropped": 1881
+			"timesDropped": 1881,
+			"dropRate": 0.04887872567107554
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 377
+			"timesDropped": 377,
+			"dropRate": 0.009796533534287867
 		},
 		{
 			"itemName": "Crocodile Boots",
-			"timesDropped": 185
+			"timesDropped": 185,
+			"dropRate": 0.004807317516825611
 		}
 	]
 }

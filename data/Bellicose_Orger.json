@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5569
+			"timesDropped": 5569,
+			"dropRate": 0.5015761505899307
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 1523
+			"timesDropped": 1523,
+			"dropRate": 0.1371701341979645
 		},
 		{
 			"itemName": "Leather Legs",
-			"timesDropped": 1278
+			"timesDropped": 1278,
+			"dropRate": 0.11510402593893543
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 471
+			"timesDropped": 471,
+			"dropRate": 0.04242096730613348
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 378
+			"timesDropped": 378,
+			"dropRate": 0.034044852742502026
 		},
 		{
 			"itemName": "Cape",
-			"timesDropped": 149
+			"timesDropped": 149,
+			"dropRate": 0.013419796451409529
 		},
 		{
 			"itemName": "Glorious Axe",
-			"timesDropped": 147
+			"timesDropped": 147,
+			"dropRate": 0.013239664955417455
 		},
 		{
 			"itemName": "Dark Shield",
-			"timesDropped": 137
+			"timesDropped": 137,
+			"dropRate": 0.012339007475457084
 		},
 		{
 			"itemName": "Metal Spats",
-			"timesDropped": 124
+			"timesDropped": 124,
+			"dropRate": 0.0111681527515086
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.005223813383770152
 		},
 		{
 			"itemName": "Decorative Red Sheet",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.0002701972439881113
 		},
 		{
 			"itemName": "Decorative Blue Sheet",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.00018013149599207422
 		},
 		{
 			"itemName": "Decorative Green Sheet",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.00018013149599207422
 		}
 	]
 }

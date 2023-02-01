@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Small Pitchfork",
-			"timesDropped": 3059
+			"timesDropped": 3059,
+			"dropRate": 0.19397590361445782
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 1729
+			"timesDropped": 1729,
+			"dropRate": 0.10963855421686747
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 473
+			"timesDropped": 473,
+			"dropRate": 0.029993658845909956
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 220
+			"timesDropped": 220,
+			"dropRate": 0.013950538998097653
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 219
+			"timesDropped": 219,
+			"dropRate": 0.01388712745719721
 		},
 		{
 			"itemName": "Cleaver",
-			"timesDropped": 150
+			"timesDropped": 150,
+			"dropRate": 0.009511731135066582
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 75
+			"timesDropped": 75,
+			"dropRate": 0.004755865567533291
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.0028535193405199747
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.0022194039315155357
 		}
 	]
 }

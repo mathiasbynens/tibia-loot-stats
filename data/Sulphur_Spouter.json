@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Sulphur Powder",
-			"timesDropped": 261
+			"timesDropped": 261,
+			"dropRate": 0.40717628705148207
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 143
+			"timesDropped": 143,
+			"dropRate": 0.22308892355694226
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.12012480499219969
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.0343213728549142
 		},
 		{
 			"itemName": "Slightly Rusted Legs",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.0327613104524181
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.0249609984399376
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.0234009360374415
 		},
 		{
 			"itemName": "Warrior's Shield",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.0218408736349454
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.0202808112324493
 		},
 		{
 			"itemName": "Ring of Red Plasma",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.015600624024960999
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.0093603744149766
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.0046801872074883
 		}
 	]
 }

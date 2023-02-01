@@ -4,91 +4,113 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4835
+			"timesDropped": 4835,
+			"dropRate": 0.8837506854322793
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4777
+			"timesDropped": 4777,
+			"dropRate": 0.8731493328459148
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 3857
+			"timesDropped": 3857,
+			"dropRate": 0.704989946993237
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 944
+			"timesDropped": 944,
+			"dropRate": 0.1725461524401389
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 914
+			"timesDropped": 914,
+			"dropRate": 0.16706269420581246
 		},
 		{
 			"itemName": "Lion's Mane",
-			"timesDropped": 753
+			"timesDropped": 753,
+			"dropRate": 0.13763480168159387
 		},
 		{
 			"itemName": "Rapier",
-			"timesDropped": 629
+			"timesDropped": 629,
+			"dropRate": 0.1149698409797112
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 542
+			"timesDropped": 542,
+			"dropRate": 0.0990678121001645
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 517
+			"timesDropped": 517,
+			"dropRate": 0.09449826357155913
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 477
+			"timesDropped": 477,
+			"dropRate": 0.08718698592579054
 		},
 		{
 			"itemName": "Ankh",
-			"timesDropped": 450
+			"timesDropped": 450,
+			"dropRate": 0.08225187351489673
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 395
+			"timesDropped": 395,
+			"dropRate": 0.07219886675196491
 		},
 		{
 			"itemName": "Serpent Sword",
-			"timesDropped": 291
+			"timesDropped": 291,
+			"dropRate": 0.05318954487296655
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 173
+			"timesDropped": 173,
+			"dropRate": 0.031621275817949185
 		},
 		{
 			"itemName": "Ivory Carving",
-			"timesDropped": 168
+			"timesDropped": 168,
+			"dropRate": 0.030707366112228112
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 167
+			"timesDropped": 167,
+			"dropRate": 0.030524584171083897
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 111
+			"timesDropped": 111,
+			"dropRate": 0.02028879546700786
 		},
 		{
 			"itemName": "Moonlight Crystals",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.012611953938950832
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 51
+			"timesDropped": 51,
+			"dropRate": 0.009321878998354963
 		},
 		{
 			"itemName": "Crown Helmet",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.008590751233778103
 		},
 		{
 			"itemName": "Lion Figurine",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.003472856881740084
 		},
 		{
 			"itemName": "White Silk Flower",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.002924511058307439
 		}
 	]
 }

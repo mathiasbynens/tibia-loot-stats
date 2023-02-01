@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 32079
+			"timesDropped": 32079,
+			"dropRate": 0.9210428091532918
 		},
 		{
 			"itemName": "Boggy Dreads",
-			"timesDropped": 3438
+			"timesDropped": 3438,
+			"dropRate": 0.09871084441126647
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 704
+			"timesDropped": 704,
+			"dropRate": 0.0202130408567573
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 704
+			"timesDropped": 704,
+			"dropRate": 0.0202130408567573
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 700
+			"timesDropped": 700,
+			"dropRate": 0.020098194033707543
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 353
+			"timesDropped": 353,
+			"dropRate": 0.01013523213414109
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 267
+			"timesDropped": 267,
+			"dropRate": 0.007666025438571306
 		},
 		{
 			"itemName": "Belted Cape",
-			"timesDropped": 205
+			"timesDropped": 205,
+			"dropRate": 0.005885899681300066
 		},
 		{
 			"itemName": "Paladin Armor",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.001406873582359528
 		}
 	]
 }

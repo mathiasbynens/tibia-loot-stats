@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 71451
+			"timesDropped": 71451,
+			"dropRate": 0.975373694628353
 		},
 		{
 			"itemName": "Fir Cone",
-			"timesDropped": 10949
+			"timesDropped": 10949,
+			"dropRate": 0.1494642003958774
 		},
 		{
 			"itemName": "Dowser",
-			"timesDropped": 8724
+			"timesDropped": 8724,
+			"dropRate": 0.1190908470411576
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 3689
+			"timesDropped": 3689,
+			"dropRate": 0.05035833731485905
 		},
 		{
 			"itemName": "Swampling Club",
-			"timesDropped": 3567
+			"timesDropped": 3567,
+			"dropRate": 0.048692921984847454
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 761
+			"timesDropped": 761,
+			"dropRate": 0.010388369394580575
 		}
 	]
 }

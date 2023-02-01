@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 2751
+			"timesDropped": 2751,
+			"dropRate": 0.4528395061728395
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 1178
+			"timesDropped": 1178,
+			"dropRate": 0.19390946502057613
 		},
 		{
 			"itemName": "Lion's Mane",
-			"timesDropped": 71
+			"timesDropped": 71,
+			"dropRate": 0.01168724279835391
 		}
 	]
 }

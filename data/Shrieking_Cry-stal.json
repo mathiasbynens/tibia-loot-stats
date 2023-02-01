@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.2116564417177914
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.18098159509202455
 		},
 		{
 			"itemName": "Cry-Stal",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.1441717791411043
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.0705521472392638
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.046012269938650305
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.03680981595092025
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.03374233128834356
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.02147239263803681
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.015337423312883436
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.009202453987730062
 		}
 	]
 }

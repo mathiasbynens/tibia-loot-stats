@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.057692307692307696
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.057692307692307696
 		},
 		{
 			"itemName": "Tiger Eye",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.057692307692307696
 		},
 		{
 			"itemName": "Gold-Brocaded Cloth",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.038461538461538464
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.038461538461538464
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.019230769230769232
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.019230769230769232
 		}
 	]
 }

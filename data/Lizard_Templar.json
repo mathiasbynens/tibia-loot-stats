@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15038
+			"timesDropped": 15038,
+			"dropRate": 0.8408163265306122
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 1761
+			"timesDropped": 1761,
+			"dropRate": 0.09846239865809338
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 881
+			"timesDropped": 881,
+			"dropRate": 0.04925915571708135
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 350
+			"timesDropped": 350,
+			"dropRate": 0.019569471624266144
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 342
+			"timesDropped": 342,
+			"dropRate": 0.01912216941571149
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 183
+			"timesDropped": 183,
+			"dropRate": 0.010232038020687726
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 173
+			"timesDropped": 173,
+			"dropRate": 0.00967291025999441
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 158
+			"timesDropped": 158,
+			"dropRate": 0.00883421861895443
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 145
+			"timesDropped": 145,
+			"dropRate": 0.008107352530053118
 		},
 		{
 			"itemName": "Templar Scytheblade",
-			"timesDropped": 95
+			"timesDropped": 95,
+			"dropRate": 0.005311713726586525
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.002516074923119933
 		},
 		{
 			"itemName": "Salamander Shield",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.0011182555213866368
 		}
 	]
 }

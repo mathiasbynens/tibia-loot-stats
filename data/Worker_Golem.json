@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18965
+			"timesDropped": 18965,
+			"dropRate": 0.9377472310126582
 		},
 		{
 			"itemName": "Nail",
-			"timesDropped": 984
+			"timesDropped": 984,
+			"dropRate": 0.04865506329113924
 		},
 		{
 			"itemName": "Gear Crystal",
-			"timesDropped": 440
+			"timesDropped": 440,
+			"dropRate": 0.021756329113924052
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 396
+			"timesDropped": 396,
+			"dropRate": 0.019580696202531646
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 318
+			"timesDropped": 318,
+			"dropRate": 0.01572389240506329
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 315
+			"timesDropped": 315,
+			"dropRate": 0.015575553797468354
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 213
+			"timesDropped": 213,
+			"dropRate": 0.010532041139240507
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 205
+			"timesDropped": 205,
+			"dropRate": 0.010136471518987342
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 201
+			"timesDropped": 201,
+			"dropRate": 0.009938686708860759
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 197
+			"timesDropped": 197,
+			"dropRate": 0.009740901898734177
 		},
 		{
 			"itemName": "Rusted Legs",
-			"timesDropped": 184
+			"timesDropped": 184,
+			"dropRate": 0.009098101265822785
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 182
+			"timesDropped": 182,
+			"dropRate": 0.008999208860759493
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 175
+			"timesDropped": 175,
+			"dropRate": 0.008653085443037974
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 167
+			"timesDropped": 167,
+			"dropRate": 0.00825751582278481
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 156
+			"timesDropped": 156,
+			"dropRate": 0.007713607594936709
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 101
+			"timesDropped": 101,
+			"dropRate": 0.004994066455696202
 		},
 		{
 			"itemName": "Crystal Pedestal (Cyan)",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.0015822784810126582
 		},
 		{
 			"itemName": "Bonebreaker",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.001137262658227848
 		}
 	]
 }

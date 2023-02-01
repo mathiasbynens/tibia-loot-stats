@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1716
+			"timesDropped": 1716,
+			"dropRate": 0.7556142668428005
 		},
 		{
 			"itemName": "Book Page",
-			"timesDropped": 1474
+			"timesDropped": 1474,
+			"dropRate": 0.6490532804931748
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 1103
+			"timesDropped": 1103,
+			"dropRate": 0.4856891237340379
 		},
 		{
 			"itemName": "Silken Bookmark",
-			"timesDropped": 847
+			"timesDropped": 847,
+			"dropRate": 0.37296345222369
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 610
+			"timesDropped": 610,
+			"dropRate": 0.26860413914575076
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 433
+			"timesDropped": 433,
+			"dropRate": 0.1906649053280493
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.09247027741083223
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 138
+			"timesDropped": 138,
+			"dropRate": 0.0607661822985469
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 124
+			"timesDropped": 124,
+			"dropRate": 0.054601497137824744
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 95
+			"timesDropped": 95,
+			"dropRate": 0.041831792162043156
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 90
+			"timesDropped": 90,
+			"dropRate": 0.03963011889035667
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.01805372082782915
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.01805372082782915
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.011889035667107
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.007045354469396741
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.0066050198150594455
 		},
 		{
 			"itemName": "Swamplair Armor",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.002201673271686482
 		}
 	]
 }

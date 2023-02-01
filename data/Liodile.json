@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4304
+			"timesDropped": 4304,
+			"dropRate": 0.8062944923192207
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 519
+			"timesDropped": 519,
+			"dropRate": 0.09722742600224803
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 284
+			"timesDropped": 284,
+			"dropRate": 0.0532034469838891
 		},
 		{
 			"itemName": "Liodile Fang",
-			"timesDropped": 207
+			"timesDropped": 207,
+			"dropRate": 0.0387785687523417
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 196
+			"timesDropped": 196,
+			"dropRate": 0.036717871862120645
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 143
+			"timesDropped": 143,
+			"dropRate": 0.026789059572873735
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 137
+			"timesDropped": 137,
+			"dropRate": 0.025665043087298615
 		},
 		{
 			"itemName": "Assassin Dagger",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.02510303484451105
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 83
+			"timesDropped": 83,
+			"dropRate": 0.015548894717122518
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.007118771075309105
 		},
 		{
 			"itemName": "Leviathan's Amulet",
-			"timesDropped": 37
+			"timesDropped": 37,
+			"dropRate": 0.006931434994379917
 		}
 	]
 }

@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3339
+			"timesDropped": 3339,
+			"dropRate": 0.8096508244422891
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 672
+			"timesDropped": 672,
+			"dropRate": 0.1629485935984481
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 315
+			"timesDropped": 315,
+			"dropRate": 0.07638215324927256
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 198
+			"timesDropped": 198,
+			"dropRate": 0.048011639185257034
 		},
 		{
 			"itemName": "Carnivostrich Feather",
-			"timesDropped": 133
+			"timesDropped": 133,
+			"dropRate": 0.03225024248302619
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 105
+			"timesDropped": 105,
+			"dropRate": 0.025460717749757517
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.01988360814742968
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 75
+			"timesDropped": 75,
+			"dropRate": 0.018186226964112512
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.006547041707080504
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.005819592628516004
 		}
 	]
 }

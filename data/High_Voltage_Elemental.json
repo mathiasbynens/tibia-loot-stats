@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3673
+			"timesDropped": 3673,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Flash Arrow",
-			"timesDropped": 724
+			"timesDropped": 724,
+			"dropRate": 0.19711407568744896
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 267
+			"timesDropped": 267,
+			"dropRate": 0.07269262183501225
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 170
+			"timesDropped": 170,
+			"dropRate": 0.04628369180506398
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 167
+			"timesDropped": 167,
+			"dropRate": 0.04546692077320991
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 159
+			"timesDropped": 159,
+			"dropRate": 0.043288864688265725
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 155
+			"timesDropped": 155,
+			"dropRate": 0.04219983664579363
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 143
+			"timesDropped": 143,
+			"dropRate": 0.03893275251837735
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 97
+			"timesDropped": 97,
+			"dropRate": 0.02640893002994827
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.006806425265450586
 		},
 		{
 			"itemName": "Spellbook of Warding",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.006534168254832562
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.0057173972229784915
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.0019057990743261638
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.0016335420637081405
 		},
 		{
 			"itemName": "Lightning Robe",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.001361285053090117
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0010890280424720937
 		}
 	]
 }

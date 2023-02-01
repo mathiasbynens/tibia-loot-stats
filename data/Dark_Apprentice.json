@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 78987
+			"timesDropped": 78987,
+			"dropRate": 0.7504489183206179
 		},
 		{
 			"itemName": "Dead Frog",
-			"timesDropped": 12545
+			"timesDropped": 12545,
+			"dropRate": 0.11918900173866778
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 8454
+			"timesDropped": 8454,
+			"dropRate": 0.08032075095246691
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 3152
+			"timesDropped": 3152,
+			"dropRate": 0.029946889874872925
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 3038
+			"timesDropped": 3038,
+			"dropRate": 0.028863785355286786
 		},
 		{
 			"itemName": "Wand of Dragonbreath",
-			"timesDropped": 2108
+			"timesDropped": 2108,
+			"dropRate": 0.020027932695505117
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 113
+			"timesDropped": 113,
+			"dropRate": 0.0010736036027476652
 		},
 		{
 			"itemName": "Reins",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.00006650641786932439
 		}
 	]
 }

@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12093
+			"timesDropped": 12093,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Soft Cheese",
-			"timesDropped": 1816
+			"timesDropped": 1816,
+			"dropRate": 0.15016951955676838
 		},
 		{
 			"itemName": "Cheese",
-			"timesDropped": 1789
+			"timesDropped": 1789,
+			"dropRate": 0.14793682295542876
 		},
 		{
 			"itemName": "Rat Cheese",
-			"timesDropped": 1768
+			"timesDropped": 1768,
+			"dropRate": 0.14620028115438682
 		},
 		{
 			"itemName": "Cheese Cutter",
-			"timesDropped": 1419
+			"timesDropped": 1419,
+			"dropRate": 0.11734061027040436
 		},
 		{
 			"itemName": "Bola",
-			"timesDropped": 1182
+			"timesDropped": 1182,
+			"dropRate": 0.0977424956586455
 		},
 		{
 			"itemName": "Earflap",
-			"timesDropped": 1089
+			"timesDropped": 1089,
+			"dropRate": 0.09005209625403125
 		},
 		{
 			"itemName": "Cheesy Figurine",
-			"timesDropped": 272
+			"timesDropped": 272,
+			"dropRate": 0.022492350946828745
 		},
 		{
 			"itemName": "Spiky Club",
-			"timesDropped": 268
+			"timesDropped": 268,
+			"dropRate": 0.022161581079963615
 		},
 		{
 			"itemName": "Ratana",
-			"timesDropped": 267
+			"timesDropped": 267,
+			"dropRate": 0.022078888613247333
 		},
 		{
 			"itemName": "Spike Shield",
-			"timesDropped": 262
+			"timesDropped": 262,
+			"dropRate": 0.021665426279665924
 		},
 		{
 			"itemName": "Life Preserver",
-			"timesDropped": 224
+			"timesDropped": 224,
+			"dropRate": 0.0185231125444472
 		},
 		{
 			"itemName": "Leather Harness",
-			"timesDropped": 185
+			"timesDropped": 185,
+			"dropRate": 0.015298106342512198
 		},
 		{
 			"itemName": "Rat God Doll",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0001653849334325643
 		}
 	]
 }

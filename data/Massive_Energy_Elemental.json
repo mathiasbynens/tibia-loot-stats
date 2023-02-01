@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1323
+			"timesDropped": 1323,
+			"dropRate": 0.9939894815927873
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 195
+			"timesDropped": 195,
+			"dropRate": 0.14650638617580766
 		},
 		{
 			"itemName": "Flash Arrow",
-			"timesDropped": 115
+			"timesDropped": 115,
+			"dropRate": 0.08640120210368145
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 99
+			"timesDropped": 99,
+			"dropRate": 0.0743801652892562
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 96
+			"timesDropped": 96,
+			"dropRate": 0.07212622088655146
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.033809166040571
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.007513148009015778
 		},
 		{
 			"itemName": "Spellbook of Warding",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.004507888805409466
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.003756574004507889
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0015026296018031556
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0007513148009015778
 		}
 	]
 }

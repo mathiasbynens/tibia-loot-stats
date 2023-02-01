@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Fish",
-			"timesDropped": 2129
+			"timesDropped": 2129,
+			"dropRate": 0.0785782830146896
 		},
 		{
 			"itemName": "Green Perch",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.0012917989222706134
 		},
 		{
 			"itemName": "Rainbow Trout",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.0005905366501808519
 		}
 	]
 }

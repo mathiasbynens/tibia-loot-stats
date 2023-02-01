@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 43583
+			"timesDropped": 43583,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 32709
+			"timesDropped": 32709,
+			"dropRate": 0.7504990477938646
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 4328
+			"timesDropped": 4328,
+			"dropRate": 0.09930477479751279
 		},
 		{
 			"itemName": "Strand of Medusa Hair",
-			"timesDropped": 4256
+			"timesDropped": 4256,
+			"dropRate": 0.09765275451437487
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 4176
+			"timesDropped": 4176,
+			"dropRate": 0.0958171764219994
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 1792
+			"timesDropped": 1792,
+			"dropRate": 0.04111694926921047
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1708
+			"timesDropped": 1708,
+			"dropRate": 0.03918959227221623
 		},
 		{
 			"itemName": "Medusa Shield",
-			"timesDropped": 1362
+			"timesDropped": 1362,
+			"dropRate": 0.03125071702269233
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 862
+			"timesDropped": 862,
+			"dropRate": 0.01977835394534566
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 543
+			"timesDropped": 543,
+			"dropRate": 0.012458986301998485
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 379
+			"timesDropped": 379,
+			"dropRate": 0.008696051212628777
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 374
+			"timesDropped": 374,
+			"dropRate": 0.00858132758185531
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 166
+			"timesDropped": 166,
+			"dropRate": 0.003808824541679095
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
-			"timesDropped": 132
+			"timesDropped": 132,
+			"dropRate": 0.0030287038524195215
 		}
 	]
 }

@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 38949
+			"timesDropped": 38949,
+			"dropRate": 0.8494689319753114
 		},
 		{
 			"itemName": "Swampling Moss",
-			"timesDropped": 9147
+			"timesDropped": 9147,
+			"dropRate": 0.19949401321672375
 		},
 		{
 			"itemName": "Piece of Swampling Wood",
-			"timesDropped": 6847
+			"timesDropped": 6847,
+			"dropRate": 0.14933153039192165
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 4690
+			"timesDropped": 4690,
+			"dropRate": 0.1022878454123138
 		},
 		{
 			"itemName": "Swampling Club",
-			"timesDropped": 3403
+			"timesDropped": 3403,
+			"dropRate": 0.07421866480556585
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 2328
+			"timesDropped": 2328,
+			"dropRate": 0.05077315652875619
 		}
 	]
 }

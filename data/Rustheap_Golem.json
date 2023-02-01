@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1635
+			"timesDropped": 1635,
+			"dropRate": 0.9981684981684982
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 855
+			"timesDropped": 855,
+			"dropRate": 0.521978021978022
 		},
 		{
 			"itemName": "Necromantic Rust",
-			"timesDropped": 248
+			"timesDropped": 248,
+			"dropRate": 0.1514041514041514
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 116
+			"timesDropped": 116,
+			"dropRate": 0.07081807081807082
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 105
+			"timesDropped": 105,
+			"dropRate": 0.0641025641025641
 		},
 		{
 			"itemName": "Flask of Rust Remover",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.04151404151404151
 		},
 		{
 			"itemName": "Gearwheel Chain",
-			"timesDropped": 67
+			"timesDropped": 67,
+			"dropRate": 0.040903540903540904
 		},
 		{
 			"itemName": "Slightly Rusted Legs",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.031746031746031744
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.030525030525030524
 		},
 		{
 			"itemName": "Nail",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.029304029304029304
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.025030525030525032
 		},
 		{
 			"itemName": "Bronze Gear Wheel",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.02442002442002442
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.017094017094017096
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.017094017094017096
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.014652014652014652
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.006715506715506716
 		},
 		{
 			"itemName": "Metal Bat",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.003663003663003663
 		}
 	]
 }

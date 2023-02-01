@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 39500
+			"timesDropped": 39500,
+			"dropRate": 0.950181616992615
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 33200
+			"timesDropped": 33200,
+			"dropRate": 0.7986336628899954
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 5052
+			"timesDropped": 5052,
+			"dropRate": 0.12152702605181497
 		},
 		{
 			"itemName": "Book (Gemmed)",
-			"timesDropped": 3673
+			"timesDropped": 3673,
+			"dropRate": 0.08835486276490823
 		},
 		{
 			"itemName": "Power Bolt",
-			"timesDropped": 2444
+			"timesDropped": 2444,
+			"dropRate": 0.05879098409949243
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 2119
+			"timesDropped": 2119,
+			"dropRate": 0.05097303408626206
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 2061
+			"timesDropped": 2061,
+			"dropRate": 0.049577830699285556
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 1698
+			"timesDropped": 1698,
+			"dropRate": 0.040845781915277476
 		},
 		{
 			"itemName": "Golden Mug",
-			"timesDropped": 1281
+			"timesDropped": 1281,
+			"dropRate": 0.030814750667532656
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 253
+			"timesDropped": 253,
+			"dropRate": 0.006085973394914724
 		},
 		{
 			"itemName": "Shard",
-			"timesDropped": 217
+			"timesDropped": 217,
+			"dropRate": 0.005219985085756898
 		},
 		{
 			"itemName": "Strange Helmet",
-			"timesDropped": 190
+			"timesDropped": 190,
+			"dropRate": 0.004570493853888528
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 143
+			"timesDropped": 143,
+			"dropRate": 0.003439898005821366
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 121
+			"timesDropped": 121,
+			"dropRate": 0.002910682928002694
 		},
 		{
 			"itemName": "Royal Helmet",
-			"timesDropped": 85
+			"timesDropped": 85,
+			"dropRate": 0.002044694618844868
 		},
 		{
 			"itemName": "Dragon Scale Mail",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.0011065406172572226
 		},
 		{
 			"itemName": "Dragon Slayer",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.0009622092323975849
 		}
 	]
 }

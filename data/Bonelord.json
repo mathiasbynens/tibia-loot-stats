@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 136259
+			"timesDropped": 136259,
+			"dropRate": 0.9940035453491002
 		},
 		{
 			"itemName": "Longsword",
-			"timesDropped": 12444
+			"timesDropped": 12444,
+			"dropRate": 0.09077844486106755
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 9629
+			"timesDropped": 9629,
+			"dropRate": 0.0702431409166843
 		},
 		{
 			"itemName": "Small Flask of Eyedrops",
-			"timesDropped": 6928
+			"timesDropped": 6928,
+			"dropRate": 0.050539462069871095
 		},
 		{
 			"itemName": "Spellbook",
-			"timesDropped": 6845
+			"timesDropped": 6845,
+			"dropRate": 0.04993398063918413
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 5469
+			"timesDropped": 5469,
+			"dropRate": 0.039896119812373704
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 5420
+			"timesDropped": 5420,
+			"dropRate": 0.039538666919558506
 		},
 		{
 			"itemName": "Bonelord Eye",
-			"timesDropped": 1377
+			"timesDropped": 1377,
+			"dropRate": 0.010045155783806655
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 695
+			"timesDropped": 695,
+			"dropRate": 0.005069995112378813
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 408
+			"timesDropped": 408,
+			"dropRate": 0.002976342454461231
 		},
 		{
 			"itemName": "Bonelord Shield",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.001079653635441819
 		}
 	]
 }

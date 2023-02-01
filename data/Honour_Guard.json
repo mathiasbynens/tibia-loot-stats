@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3488
+			"timesDropped": 3488,
+			"dropRate": 0.49637113988899956
 		},
 		{
 			"itemName": "Pelvis Bone",
-			"timesDropped": 625
+			"timesDropped": 625,
+			"dropRate": 0.08894264977942223
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 432
+			"timesDropped": 432,
+			"dropRate": 0.06147715952753664
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 249
+			"timesDropped": 249,
+			"dropRate": 0.03543475167212182
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 189
+			"timesDropped": 189,
+			"dropRate": 0.026896257293297282
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 92
+			"timesDropped": 92,
+			"dropRate": 0.013092358047530952
 		}
 	]
 }

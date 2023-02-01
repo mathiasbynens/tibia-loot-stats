@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 53917
+			"timesDropped": 53917,
+			"dropRate": 0.7350146547610933
 		},
 		{
 			"itemName": "Rorc Feather",
-			"timesDropped": 8826
+			"timesDropped": 8826,
+			"dropRate": 0.1203189966600777
 		},
 		{
 			"itemName": "Hatched Rorc Egg",
-			"timesDropped": 8044
+			"timesDropped": 8044,
+			"dropRate": 0.10965850998568605
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 5832
+			"timesDropped": 5832,
+			"dropRate": 0.07950378297321246
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 4753
+			"timesDropped": 4753,
+			"dropRate": 0.0647944925362961
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 1509
+			"timesDropped": 1509,
+			"dropRate": 0.0205711948742417
 		},
 		{
 			"itemName": "Rorc Egg",
-			"timesDropped": 772
+			"timesDropped": 772,
+			"dropRate": 0.010524163315384092
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 726
+			"timesDropped": 726,
+			"dropRate": 0.009897075863949287
 		}
 	]
 }

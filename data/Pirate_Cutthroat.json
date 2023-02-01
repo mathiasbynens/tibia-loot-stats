@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 34820
+			"timesDropped": 34820,
+			"dropRate": 0.7755011135857461
 		},
 		{
 			"itemName": "Compass",
-			"timesDropped": 4520
+			"timesDropped": 4520,
+			"dropRate": 0.10066815144766147
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 1378
+			"timesDropped": 1378,
+			"dropRate": 0.030690423162583517
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 1293
+			"timesDropped": 1293,
+			"dropRate": 0.028797327394209354
 		},
 		{
 			"itemName": "Light Shovel",
-			"timesDropped": 877
+			"timesDropped": 877,
+			"dropRate": 0.019532293986636973
 		},
 		{
 			"itemName": "Treasure Map (Pirate)",
-			"timesDropped": 486
+			"timesDropped": 486,
+			"dropRate": 0.010824053452115814
 		},
 		{
 			"itemName": "Pirate Knee Breeches",
-			"timesDropped": 460
+			"timesDropped": 460,
+			"dropRate": 0.010244988864142539
 		},
 		{
 			"itemName": "Pirate Bag",
-			"timesDropped": 443
+			"timesDropped": 443,
+			"dropRate": 0.009866369710467705
 		},
 		{
 			"itemName": "Hook",
-			"timesDropped": 241
+			"timesDropped": 241,
+			"dropRate": 0.005367483296213809
 		},
 		{
 			"itemName": "Peg Leg",
-			"timesDropped": 240
+			"timesDropped": 240,
+			"dropRate": 0.005345211581291759
 		},
 		{
 			"itemName": "Eye Patch",
-			"timesDropped": 209
+			"timesDropped": 209,
+			"dropRate": 0.004654788418708241
 		},
 		{
 			"itemName": "Die",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.0009576837416481069
 		},
 		{
 			"itemName": "Rum Flask",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.0008685968819599109
 		}
 	]
 }

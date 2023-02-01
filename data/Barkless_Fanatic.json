@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4076
+			"timesDropped": 4076,
+			"dropRate": 0.5007371007371008
 		},
 		{
 			"itemName": "Fig Leaf",
-			"timesDropped": 809
+			"timesDropped": 809,
+			"dropRate": 0.09938574938574939
 		},
 		{
 			"itemName": "Tiger Eye",
-			"timesDropped": 402
+			"timesDropped": 402,
+			"dropRate": 0.04938574938574938
 		},
 		{
 			"itemName": "Bed of Nails",
-			"timesDropped": 154
+			"timesDropped": 154,
+			"dropRate": 0.01891891891891892
 		},
 		{
 			"itemName": "Torn Shirt",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.010933660933660933
 		}
 	]
 }

@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12879
+			"timesDropped": 12879,
+			"dropRate": 0.6501261988894498
 		},
 		{
 			"itemName": "Cultish Mask",
-			"timesDropped": 2040
+			"timesDropped": 2040,
+			"dropRate": 0.10297829379101464
 		},
 		{
 			"itemName": "Cultish Symbol",
-			"timesDropped": 204
+			"timesDropped": 204,
+			"dropRate": 0.010297829379101463
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 171
+			"timesDropped": 171,
+			"dropRate": 0.008632004038364463
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 167
+			"timesDropped": 167,
+			"dropRate": 0.008430085815244825
 		},
 		{
 			"itemName": "Book (Orange)",
-			"timesDropped": 159
+			"timesDropped": 159,
+			"dropRate": 0.008026249369005553
 		},
 		{
 			"itemName": "Music Sheet (Fourth Verse)",
-			"timesDropped": 110
+			"timesDropped": 110,
+			"dropRate": 0.005552751135790005
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.005401312468450278
 		},
 		{
 			"itemName": "Pirate Voodoo Doll",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.004341241797072186
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.004139323573952549
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.003634528016153458
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.0019687026754164564
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.001514386673397274
 		},
 		{
 			"itemName": "Broken Key Ring",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.0013629480060575467
 		},
 		{
 			"itemName": "Jewelled Backpack",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.0012619888944977284
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.001110550227158001
 		},
 		{
 			"itemName": "Amber Staff",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.0010095911155981827
 		},
 		{
 			"itemName": "Mysterious Voodoo Skull",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.0008581524482584554
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.0008076728924785462
 		}
 	]
 }

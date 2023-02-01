@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Tunnel Tyrant Shell",
-			"timesDropped": 447
+			"timesDropped": 447,
+			"dropRate": 0.1573943661971831
 		},
 		{
 			"itemName": "Tunnel Tyrant Head",
-			"timesDropped": 326
+			"timesDropped": 326,
+			"dropRate": 0.1147887323943662
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 226
+			"timesDropped": 226,
+			"dropRate": 0.0795774647887324
 		},
 		{
 			"itemName": "Lump of Dirt",
-			"timesDropped": 216
+			"timesDropped": 216,
+			"dropRate": 0.07605633802816901
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 202
+			"timesDropped": 202,
+			"dropRate": 0.07112676056338028
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 121
+			"timesDropped": 121,
+			"dropRate": 0.0426056338028169
 		},
 		{
 			"itemName": "Energy Vein",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.02323943661971831
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.018309859154929577
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.014436619718309859
 		},
 		{
 			"itemName": "Suspicious Device",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.010915492957746478
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.008802816901408451
 		},
 		{
 			"itemName": "Crystalline Armor",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.00528169014084507
 		}
 	]
 }

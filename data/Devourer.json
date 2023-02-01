@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7253
+			"timesDropped": 7253,
+			"dropRate": 0.9946516730663741
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4086
+			"timesDropped": 4086,
+			"dropRate": 0.5603400987383433
 		},
 		{
 			"itemName": "Glob of Glooth",
-			"timesDropped": 968
+			"timesDropped": 968,
+			"dropRate": 0.13274821722435545
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 424
+			"timesDropped": 424,
+			"dropRate": 0.058145913329676356
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 418
+			"timesDropped": 418,
+			"dropRate": 0.05732309380142622
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 404
+			"timesDropped": 404,
+			"dropRate": 0.055403181568842566
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 398
+			"timesDropped": 398,
+			"dropRate": 0.05458036204059243
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 390
+			"timesDropped": 390,
+			"dropRate": 0.053483269336258916
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 386
+			"timesDropped": 386,
+			"dropRate": 0.05293472298409216
 		},
 		{
 			"itemName": "Glooth Axe",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.0287986834887548
 		},
 		{
 			"itemName": "Glooth Club",
-			"timesDropped": 207
+			"timesDropped": 207,
+			"dropRate": 0.028387273724629732
 		},
 		{
 			"itemName": "Glooth Blade",
-			"timesDropped": 191
+			"timesDropped": 191,
+			"dropRate": 0.0261930883159627
 		},
 		{
 			"itemName": "Talon",
-			"timesDropped": 176
+			"timesDropped": 176,
+			"dropRate": 0.024136039495337356
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 127
+			"timesDropped": 127,
+			"dropRate": 0.01741634668129457
 		},
 		{
 			"itemName": "Glooth Spear",
-			"timesDropped": 125
+			"timesDropped": 125,
+			"dropRate": 0.01714207350521119
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 76
+			"timesDropped": 76,
+			"dropRate": 0.010422380691168404
 		},
 		{
 			"itemName": "Glooth Amulet",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.0075425123422929235
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.007405375754251234
 		},
 		{
 			"itemName": "Glooth Cape",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.0021941854086670325
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0005485463521667581
 		}
 	]
 }

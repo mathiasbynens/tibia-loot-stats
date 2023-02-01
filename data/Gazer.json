@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3703
+			"timesDropped": 3703,
+			"dropRate": 0.9938271604938271
 		},
 		{
 			"itemName": "Small Flask of Eyedrops",
-			"timesDropped": 115
+			"timesDropped": 115,
+			"dropRate": 0.030864197530864196
 		}
 	]
 }

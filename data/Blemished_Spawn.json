@@ -4,95 +4,118 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4889
+			"timesDropped": 4889,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 1307
+			"timesDropped": 1307,
+			"dropRate": 0.2673348332992432
 		},
 		{
 			"itemName": "Blemished Spawn Abdomen",
-			"timesDropped": 488
+			"timesDropped": 488,
+			"dropRate": 0.0998159132746983
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 372
+			"timesDropped": 372,
+			"dropRate": 0.07608917979136838
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 365
+			"timesDropped": 365,
+			"dropRate": 0.07465739415013295
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 314
+			"timesDropped": 314,
+			"dropRate": 0.06422581304970341
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 249
+			"timesDropped": 249,
+			"dropRate": 0.050930660666803025
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 246
+			"timesDropped": 246,
+			"dropRate": 0.050317038249130704
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 241
+			"timesDropped": 241,
+			"dropRate": 0.04929433421967683
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 240
+			"timesDropped": 240,
+			"dropRate": 0.049089793413786054
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 229
+			"timesDropped": 229,
+			"dropRate": 0.04683984454898752
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 223
+			"timesDropped": 223,
+			"dropRate": 0.04561259971364287
 		},
 		{
 			"itemName": "Blemished Spawn Head",
-			"timesDropped": 219
+			"timesDropped": 219,
+			"dropRate": 0.04479443649007977
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 219
+			"timesDropped": 219,
+			"dropRate": 0.04479443649007977
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.0429535692370628
 		},
 		{
 			"itemName": "Dragonbone Staff",
-			"timesDropped": 209
+			"timesDropped": 209,
+			"dropRate": 0.042749028431172016
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 202
+			"timesDropped": 202,
+			"dropRate": 0.04131724278993659
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 189
+			"timesDropped": 189,
+			"dropRate": 0.03865821231335651
 		},
 		{
 			"itemName": "Staff",
-			"timesDropped": 184
+			"timesDropped": 184,
+			"dropRate": 0.037635508283902636
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 181
+			"timesDropped": 181,
+			"dropRate": 0.037021885866230314
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 167
+			"timesDropped": 167,
+			"dropRate": 0.03415831458375946
 		},
 		{
 			"itemName": "Blemished Spawn Tail",
-			"timesDropped": 160
+			"timesDropped": 160,
+			"dropRate": 0.032726528942524036
 		},
 		{
 			"itemName": "Fur Armor",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.013295152382900388
 		}
 	]
 }

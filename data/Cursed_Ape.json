@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 76
+			"timesDropped": 76,
+			"dropRate": 0.9743589743589743
 		},
 		{
 			"itemName": "Banana",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.4230769230769231
 		},
 		{
 			"itemName": "Kongra's Shoulderpad",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.14102564102564102
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.07692307692307693
 		},
 		{
 			"itemName": "Ape Fur",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.02564102564102564
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.01282051282051282
 		}
 	]
 }

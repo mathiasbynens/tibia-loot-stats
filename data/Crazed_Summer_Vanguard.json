@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 8898
+			"timesDropped": 8898,
+			"dropRate": 0.8505878979065099
 		},
 		{
 			"itemName": "Elven Astral Observer",
-			"timesDropped": 3120
+			"timesDropped": 3120,
+			"dropRate": 0.29825064525379985
 		},
 		{
 			"itemName": "Belted Cape",
-			"timesDropped": 981
+			"timesDropped": 981,
+			"dropRate": 0.09377688557499284
 		},
 		{
 			"itemName": "Dream Essence Egg",
-			"timesDropped": 899
+			"timesDropped": 899,
+			"dropRate": 0.08593824682152758
 		},
 		{
 			"itemName": "Seeds",
-			"timesDropped": 898
+			"timesDropped": 898,
+			"dropRate": 0.08584265366599751
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 767
+			"timesDropped": 767,
+			"dropRate": 0.07331995029155912
 		},
 		{
 			"itemName": "Dragon Necklace",
-			"timesDropped": 749
+			"timesDropped": 749,
+			"dropRate": 0.07159927349201797
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 715
+			"timesDropped": 715,
+			"dropRate": 0.0683491062039958
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 690
+			"timesDropped": 690,
+			"dropRate": 0.06595927731574419
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 578
+			"timesDropped": 578,
+			"dropRate": 0.05525284389637702
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 502
+			"timesDropped": 502,
+			"dropRate": 0.04798776407609215
 		},
 		{
 			"itemName": "Wand of Dragonbreath",
-			"timesDropped": 497
+			"timesDropped": 497,
+			"dropRate": 0.04750979829844183
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 300
+			"timesDropped": 300,
+			"dropRate": 0.028677946659019213
 		},
 		{
 			"itemName": "Sun Fruit",
-			"timesDropped": 93
+			"timesDropped": 93,
+			"dropRate": 0.008890163464295957
 		},
 		{
 			"itemName": "Bullseye Potion",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.0031545741324921135
 		}
 	]
 }

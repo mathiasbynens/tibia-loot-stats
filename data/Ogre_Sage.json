@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 497
+			"timesDropped": 497,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Ogre Ear Stud",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.12072434607645875
 		},
 		{
 			"itemName": "Shamanic Talisman",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.12072434607645875
 		},
 		{
 			"itemName": "Ogre Nose Ring",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.11670020120724346
 		},
 		{
 			"itemName": "Skull Fetish",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.10663983903420524
 		},
 		{
 			"itemName": "Broken Shamanic Staff",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.09859154929577464
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.07847082494969819
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.07847082494969819
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.05835010060362173
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.05030181086519115
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.04225352112676056
 		},
 		{
 			"itemName": "Bone Fetish",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.03822937625754527
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.028169014084507043
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.022132796780684104
 		},
 		{
 			"itemName": "Ogre Scepta",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.008048289738430584
 		}
 	]
 }

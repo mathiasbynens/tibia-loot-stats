@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Sling Herb",
-			"timesDropped": 2812
+			"timesDropped": 2812,
+			"dropRate": 0.13514682558754265
 		},
 		{
 			"itemName": "Goat Grass",
-			"timesDropped": 2509
+			"timesDropped": 2509,
+			"dropRate": 0.12058441870524343
 		},
 		{
 			"itemName": "Dark Rosary",
-			"timesDropped": 2035
+			"timesDropped": 2035,
+			"dropRate": 0.0978036237804585
 		},
 		{
 			"itemName": "Red Apple",
-			"timesDropped": 1535
+			"timesDropped": 1535,
+			"dropRate": 0.07377324938722546
 		},
 		{
 			"itemName": "Powder Herb",
-			"timesDropped": 1282
+			"timesDropped": 1282,
+			"dropRate": 0.06161387994424953
 		},
 		{
 			"itemName": "Black Hood",
-			"timesDropped": 1049
+			"timesDropped": 1049,
+			"dropRate": 0.05041572547700293
 		},
 		{
 			"itemName": "Wood Mushroom",
-			"timesDropped": 693
+			"timesDropped": 693,
+			"dropRate": 0.033306098909021004
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 373
+			"timesDropped": 373,
+			"dropRate": 0.017926659297351853
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 311
+			"timesDropped": 311,
+			"dropRate": 0.014946892872590954
 		},
 		{
 			"itemName": "Wooden Flute",
-			"timesDropped": 295
+			"timesDropped": 295,
+			"dropRate": 0.014177920892007497
 		},
 		{
 			"itemName": "Crystal Ball",
-			"timesDropped": 234
+			"timesDropped": 234,
+			"dropRate": 0.011246215216033065
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 226
+			"timesDropped": 226,
+			"dropRate": 0.010861729225741338
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 195
+			"timesDropped": 195,
+			"dropRate": 0.009371846013360888
 		},
 		{
 			"itemName": "Book (Orange)",
-			"timesDropped": 191
+			"timesDropped": 191,
+			"dropRate": 0.009179603018215023
 		},
 		{
 			"itemName": "Talon",
-			"timesDropped": 151
+			"timesDropped": 151,
+			"dropRate": 0.00725717306675638
 		},
 		{
 			"itemName": "Crystal Necklace",
-			"timesDropped": 128
+			"timesDropped": 128,
+			"dropRate": 0.0061517758446676596
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.002066612197818042
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.0006728504830105253
 		}
 	]
 }

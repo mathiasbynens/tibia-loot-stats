@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 395
+			"timesDropped": 395,
+			"dropRate": 0.3083528493364559
 		},
 		{
 			"itemName": "Undertaker Fangs",
-			"timesDropped": 322
+			"timesDropped": 322,
+			"dropRate": 0.25136612021857924
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 209
+			"timesDropped": 209,
+			"dropRate": 0.16315378610460576
 		},
 		{
 			"itemName": "Spider Silk",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.03747072599531616
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.0351288056206089
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.0234192037470726
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.02107728337236534
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.0156128024980484
 		},
 		{
 			"itemName": "Relic Sword",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.01483216237314598
 		},
 		{
 			"itemName": "Butterfly Ring",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.01014832162373146
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.00936768149882904
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.0078064012490242
 		}
 	]
 }

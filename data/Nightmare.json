@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4708
+			"timesDropped": 4708,
+			"dropRate": 0.9709218395545474
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 1407
+			"timesDropped": 1407,
+			"dropRate": 0.29016292018972983
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 1015
+			"timesDropped": 1015,
+			"dropRate": 0.2093215095896061
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 987
+			"timesDropped": 987,
+			"dropRate": 0.2035471231181687
 		},
 		{
 			"itemName": "Essence of a Bad Dream",
-			"timesDropped": 757
+			"timesDropped": 757,
+			"dropRate": 0.15611466281707567
 		},
 		{
 			"itemName": "Scythe Leg",
-			"timesDropped": 484
+			"timesDropped": 484,
+			"dropRate": 0.09981439472056094
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 483
+			"timesDropped": 483,
+			"dropRate": 0.09960816663229533
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 121
+			"timesDropped": 121,
+			"dropRate": 0.024953598680140236
 		},
 		{
 			"itemName": "Power Bolt",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.011342544854609197
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.01031140441328109
 		},
 		{
 			"itemName": "Ancient Shield",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.009898948236749845
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.008249123530624871
 		},
 		{
 			"itemName": "Skeleton Decoration",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.003918333677046814
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.002680965147453083
 		},
 		{
 			"itemName": "Mysterious Voodoo Skull",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.001856052794390596
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.0012373685295937306
 		}
 	]
 }

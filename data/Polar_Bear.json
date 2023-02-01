@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 8614
+			"timesDropped": 8614,
+			"dropRate": 0.5047167047518604
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 8548
+			"timesDropped": 8548,
+			"dropRate": 0.500849592781391
 		},
 		{
 			"itemName": "Polar Bear Paw",
-			"timesDropped": 180
+			"timesDropped": 180,
+			"dropRate": 0.010546669010370891
 		}
 	]
 }

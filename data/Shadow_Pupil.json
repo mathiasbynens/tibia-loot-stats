@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4906
+			"timesDropped": 4906,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Horoscope",
-			"timesDropped": 756
+			"timesDropped": 756,
+			"dropRate": 0.154097024052181
 		},
 		{
 			"itemName": "Incantation Notes",
-			"timesDropped": 468
+			"timesDropped": 468,
+			"dropRate": 0.09539339584182634
 		},
 		{
 			"itemName": "Book of Necromantic Rituals",
-			"timesDropped": 375
+			"timesDropped": 375,
+			"dropRate": 0.07643701589889931
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 231
+			"timesDropped": 231,
+			"dropRate": 0.04708520179372197
 		},
 		{
 			"itemName": "Pieces of Magic Chalk",
-			"timesDropped": 226
+			"timesDropped": 226,
+			"dropRate": 0.04606604158173665
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.00550346514472075
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.005299633102323685
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.003261312678353037
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.0020383204239706482
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.00020383204239706482
 		}
 	]
 }

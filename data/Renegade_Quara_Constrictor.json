@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1949
+			"timesDropped": 1949,
+			"dropRate": 0.8060380479735318
 		},
 		{
 			"itemName": "Quara Tentacle",
-			"timesDropped": 358
+			"timesDropped": 358,
+			"dropRate": 0.1480562448304384
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 157
+			"timesDropped": 157,
+			"dropRate": 0.06492969396195203
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 156
+			"timesDropped": 156,
+			"dropRate": 0.06451612903225806
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 126
+			"timesDropped": 126,
+			"dropRate": 0.052109181141439205
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 121
+			"timesDropped": 121,
+			"dropRate": 0.0500413564929694
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 118
+			"timesDropped": 118,
+			"dropRate": 0.04880066170388751
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 110
+			"timesDropped": 110,
+			"dropRate": 0.045492142266335814
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.04218362282878412
 		},
 		{
 			"itemName": "Vortex Bolt",
-			"timesDropped": 83
+			"timesDropped": 83,
+			"dropRate": 0.03432588916459884
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.011166253101736972
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.01033912324234905
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0033085194375516956
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.0028949545078577337
 		}
 	]
 }

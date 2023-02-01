@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21647
+			"timesDropped": 21647,
+			"dropRate": 0.7524680200222469
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 17192
+			"timesDropped": 17192,
+			"dropRate": 0.5976084538375973
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 5798
+			"timesDropped": 5798,
+			"dropRate": 0.20154338153503892
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 4279
+			"timesDropped": 4279,
+			"dropRate": 0.1487416573971079
 		},
 		{
 			"itemName": "Viking Helmet",
-			"timesDropped": 1428
+			"timesDropped": 1428,
+			"dropRate": 0.0496384872080089
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 1167
+			"timesDropped": 1167,
+			"dropRate": 0.04056590656284761
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 909
+			"timesDropped": 909,
+			"dropRate": 0.0315976084538376
 		},
 		{
 			"itemName": "Brown Piece of Cloth",
-			"timesDropped": 275
+			"timesDropped": 275,
+			"dropRate": 0.009559232480533926
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 153
+			"timesDropped": 153,
+			"dropRate": 0.005318409343715239
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.0022942157953281424
 		},
 		{
 			"itemName": "Krimhorn Helmet",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.0010775862068965517
 		},
 		{
 			"itemName": "Fur Boots",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.000903781979977753
 		}
 	]
 }

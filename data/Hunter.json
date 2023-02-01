@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Arrow",
-			"timesDropped": 21255
+			"timesDropped": 21255,
+			"dropRate": 0.8246042830540037
 		},
 		{
 			"itemName": "Orange",
-			"timesDropped": 5182
+			"timesDropped": 5182,
+			"dropRate": 0.2010397268777157
 		},
 		{
 			"itemName": "Roll",
-			"timesDropped": 2859
+			"timesDropped": 2859,
+			"dropRate": 0.1109171322160149
 		},
 		{
 			"itemName": "Hunter's Quiver",
-			"timesDropped": 2616
+			"timesDropped": 2616,
+			"dropRate": 0.10148975791433892
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 1513
+			"timesDropped": 1513,
+			"dropRate": 0.05869801365611421
 		},
 		{
 			"itemName": "Burst Arrow",
-			"timesDropped": 1324
+			"timesDropped": 1324,
+			"dropRate": 0.051365611421477345
 		},
 		{
 			"itemName": "Brass Armor",
-			"timesDropped": 1320
+			"timesDropped": 1320,
+			"dropRate": 0.051210428305400374
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 1291
+			"timesDropped": 1291,
+			"dropRate": 0.05008535071384233
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 1123
+			"timesDropped": 1123,
+			"dropRate": 0.04356765983860956
 		},
 		{
 			"itemName": "Dragon Necklace",
-			"timesDropped": 806
+			"timesDropped": 806,
+			"dropRate": 0.03126939788950962
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 794
+			"timesDropped": 794,
+			"dropRate": 0.030803848541278708
 		},
 		{
 			"itemName": "Sniper Gloves",
-			"timesDropped": 140
+			"timesDropped": 140,
+			"dropRate": 0.005431409062693979
 		},
 		{
 			"itemName": "Deer Trophy",
-			"timesDropped": 115
+			"timesDropped": 115,
+			"dropRate": 0.004461514587212911
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.001707014276846679
 		},
 		{
 			"itemName": "Lion Trophy",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.0013578522656734948
 		},
 		{
 			"itemName": "Wolf Trophy",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.0012414649286157666
 		},
 		{
 			"itemName": "Slingshot",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.0011250775915580384
 		}
 	]
 }

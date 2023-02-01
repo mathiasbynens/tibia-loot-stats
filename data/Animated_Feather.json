@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 7321
+			"timesDropped": 7321,
+			"dropRate": 0.7769287912554388
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7289
+			"timesDropped": 7289,
+			"dropRate": 0.773532845166083
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 3767
+			"timesDropped": 3767,
+			"dropRate": 0.39976652870635676
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 1655
+			"timesDropped": 1655,
+			"dropRate": 0.1756340868088719
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 1346
+			"timesDropped": 1346,
+			"dropRate": 0.14284198238352966
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 1304
+			"timesDropped": 1304,
+			"dropRate": 0.13838480314125012
 		},
 		{
 			"itemName": "Quill",
-			"timesDropped": 1257
+			"timesDropped": 1257,
+			"dropRate": 0.13339700732250875
 		},
 		{
 			"itemName": "Glacier Mask",
-			"timesDropped": 707
+			"timesDropped": 707,
+			"dropRate": 0.0750291839117054
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 451
+			"timesDropped": 451,
+			"dropRate": 0.04786161519685875
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 445
+			"timesDropped": 445,
+			"dropRate": 0.04722487530510453
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 339
+			"timesDropped": 339,
+			"dropRate": 0.03597580388411334
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 284
+			"timesDropped": 284,
+			"dropRate": 0.030139021543033006
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 277
+			"timesDropped": 277,
+			"dropRate": 0.029396158335986418
 		},
 		{
 			"itemName": "Golden Mug",
-			"timesDropped": 247
+			"timesDropped": 247,
+			"dropRate": 0.026212458877215326
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 230
+			"timesDropped": 230,
+			"dropRate": 0.024408362517245038
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 87
+			"timesDropped": 87,
+			"dropRate": 0.009232728430436167
 		},
 		{
 			"itemName": "Sapphire Hammer",
-			"timesDropped": 85
+			"timesDropped": 85,
+			"dropRate": 0.009020481799851427
 		},
 		{
 			"itemName": "Leviathan's Amulet",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.004351055926987159
 		},
 		{
 			"itemName": "Crystalline Armor",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.0016979730446779156
 		}
 	]
 }

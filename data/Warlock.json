@@ -4,99 +4,123 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4685
+			"timesDropped": 4685,
+			"dropRate": 0.2998016253919498
 		},
 		{
 			"itemName": "Cherry",
-			"timesDropped": 3066
+			"timesDropped": 3066,
+			"dropRate": 0.19619888654252254
 		},
 		{
 			"itemName": "Bread",
-			"timesDropped": 1398
+			"timesDropped": 1398,
+			"dropRate": 0.08946054904972163
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 1203
+			"timesDropped": 1203,
+			"dropRate": 0.07698214628527549
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 954
+			"timesDropped": 954,
+			"dropRate": 0.06104818583221348
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 795
+			"timesDropped": 795,
+			"dropRate": 0.05087348819351123
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 780
+			"timesDropped": 780,
+			"dropRate": 0.0499136110577846
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 514
+			"timesDropped": 514,
+			"dropRate": 0.032891789850899085
 		},
 		{
 			"itemName": "Dark Mushroom",
-			"timesDropped": 458
+			"timesDropped": 458,
+			"dropRate": 0.029308248544186344
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 333
+			"timesDropped": 333,
+			"dropRate": 0.02130927241313112
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 306
+			"timesDropped": 306,
+			"dropRate": 0.019581493568823192
 		},
 		{
 			"itemName": "Candlestick",
-			"timesDropped": 246
+			"timesDropped": 246,
+			"dropRate": 0.015741985025916682
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 243
+			"timesDropped": 243,
+			"dropRate": 0.015550009598771357
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 200
+			"timesDropped": 200,
+			"dropRate": 0.01279836180968836
 		},
 		{
 			"itemName": "Talon",
-			"timesDropped": 164
+			"timesDropped": 164,
+			"dropRate": 0.010494656683944455
 		},
 		{
 			"itemName": "Lightning Robe",
-			"timesDropped": 158
+			"timesDropped": 158,
+			"dropRate": 0.010110705829653805
 		},
 		{
 			"itemName": "Inkwell",
-			"timesDropped": 147
+			"timesDropped": 147,
+			"dropRate": 0.009406795930120945
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 115
+			"timesDropped": 115,
+			"dropRate": 0.007359058040570807
 		},
 		{
 			"itemName": "Luminous Orb",
-			"timesDropped": 75
+			"timesDropped": 75,
+			"dropRate": 0.004799385678633135
 		},
 		{
 			"itemName": "Ring of the Sky",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.004159467588148717
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.003519549497664299
 		},
 		{
 			"itemName": "Red Tome",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.0024316887438407884
 		},
 		{
 			"itemName": "Golden Armor",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.0020477378895501375
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.0007679017085813016
 		}
 	]
 }

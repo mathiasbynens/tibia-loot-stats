@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2900
+			"timesDropped": 2900,
+			"dropRate": 0.989423404981235
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1158
+			"timesDropped": 1158,
+			"dropRate": 0.39508700102354144
 		},
 		{
 			"itemName": "Metal Jaw",
-			"timesDropped": 437
+			"timesDropped": 437,
+			"dropRate": 0.14909587171613783
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 235
+			"timesDropped": 235,
+			"dropRate": 0.08017741385192767
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 212
+			"timesDropped": 212,
+			"dropRate": 0.07233026270897305
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
-			"timesDropped": 76
+			"timesDropped": 76,
+			"dropRate": 0.025929716820197884
 		},
 		{
 			"itemName": "Bronze Gear Wheel",
-			"timesDropped": 75
+			"timesDropped": 75,
+			"dropRate": 0.0255885363357216
 		},
 		{
 			"itemName": "Metal Spats",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.022517911975435005
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.012282497441146366
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.00989423404981235
 		},
 		{
 			"itemName": "Metal Bat",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.008870692596383487
 		},
 		{
 			"itemName": "Alloy Legs",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.008529512111907198
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.005800068236096895
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.004776526782668032
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.002388263391334016
 		}
 	]
 }

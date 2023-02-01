@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12455
+			"timesDropped": 12455,
+			"dropRate": 0.9530185936184865
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 1947
+			"timesDropped": 1947,
+			"dropRate": 0.14897849873747035
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 1401
+			"timesDropped": 1401,
+			"dropRate": 0.10720024485423521
 		},
 		{
 			"itemName": "Broken Gladiator Shield",
-			"timesDropped": 679
+			"timesDropped": 679,
+			"dropRate": 0.05195500803427959
 		},
 		{
 			"itemName": "Belted Cape",
-			"timesDropped": 677
+			"timesDropped": 677,
+			"dropRate": 0.0518019741372714
 		},
 		{
 			"itemName": "Brass Legs",
-			"timesDropped": 644
+			"timesDropped": 644,
+			"dropRate": 0.049276914836636314
 		},
 		{
 			"itemName": "Brass Armor",
-			"timesDropped": 634
+			"timesDropped": 634,
+			"dropRate": 0.04851174535159538
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 599
+			"timesDropped": 599,
+			"dropRate": 0.045833652153952104
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 293
+			"timesDropped": 293,
+			"dropRate": 0.02241946591169944
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 292
+			"timesDropped": 292,
+			"dropRate": 0.022342948963195348
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 254
+			"timesDropped": 254,
+			"dropRate": 0.019435304920039788
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 253
+			"timesDropped": 253,
+			"dropRate": 0.019358787971535694
 		},
 		{
 			"itemName": "Dark Helmet",
-			"timesDropped": 179
+			"timesDropped": 179,
+			"dropRate": 0.013696533782232765
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.004055398270716964
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.002448542352130997
 		},
 		{
 			"itemName": "Crusader Helmet",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.001759889815594154
 		},
 		{
 			"itemName": "Flask of Warrior's Sweat",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.0016833728670900604
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.00045910169102456196
 		}
 	]
 }

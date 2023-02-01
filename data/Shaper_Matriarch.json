@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5891
+			"timesDropped": 5891,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4745
+			"timesDropped": 4745,
+			"dropRate": 0.8054659650314039
 		},
 		{
 			"itemName": "Rhino Horn Carving",
-			"timesDropped": 1188
+			"timesDropped": 1188,
+			"dropRate": 0.20166355457477508
 		},
 		{
 			"itemName": "Cave Turnip",
-			"timesDropped": 1036
+			"timesDropped": 1036,
+			"dropRate": 0.17586148361907994
 		},
 		{
 			"itemName": "Cracked Alabaster Vase",
-			"timesDropped": 904
+			"timesDropped": 904,
+			"dropRate": 0.1534544219996605
 		},
 		{
 			"itemName": "Tarnished Rhino Figurine",
-			"timesDropped": 886
+			"timesDropped": 886,
+			"dropRate": 0.15039891359701238
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 852
+			"timesDropped": 852,
+			"dropRate": 0.14462739772534375
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 564
+			"timesDropped": 564,
+			"dropRate": 0.09573926328297402
 		},
 		{
 			"itemName": "Dark Mushroom",
-			"timesDropped": 398
+			"timesDropped": 398,
+			"dropRate": 0.06756068579188593
 		},
 		{
 			"itemName": "Ancient Coin",
-			"timesDropped": 347
+			"timesDropped": 347,
+			"dropRate": 0.05890341198438296
 		},
 		{
 			"itemName": "Rusted Helmet",
-			"timesDropped": 264
+			"timesDropped": 264,
+			"dropRate": 0.044814123238838904
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 255
+			"timesDropped": 255,
+			"dropRate": 0.04328636903751485
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 211
+			"timesDropped": 211,
+			"dropRate": 0.035817348497708366
 		},
 		{
 			"itemName": "Prismatic Quartz",
-			"timesDropped": 180
+			"timesDropped": 180,
+			"dropRate": 0.030555084026481074
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 142
+			"timesDropped": 142,
+			"dropRate": 0.02410456628755729
 		},
 		{
 			"itemName": "Waterskin",
-			"timesDropped": 123
+			"timesDropped": 123,
+			"dropRate": 0.0208793074180954
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 93
+			"timesDropped": 93,
+			"dropRate": 0.015786793413681888
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 91
+			"timesDropped": 91,
+			"dropRate": 0.01544729248005432
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.01222203361059243
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.0076387710066202685
 		}
 	]
 }

@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16490
+			"timesDropped": 16490,
+			"dropRate": 0.8207246665339438
 		},
 		{
 			"itemName": "Half-Eaten Brain",
-			"timesDropped": 2065
+			"timesDropped": 2065,
+			"dropRate": 0.10277722476607605
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 1961
+			"timesDropped": 1961,
+			"dropRate": 0.09760103523790563
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 1584
+			"timesDropped": 1584,
+			"dropRate": 0.07883734819828787
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 1384
+			"timesDropped": 1384,
+			"dropRate": 0.06888313756719092
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 1173
+			"timesDropped": 1173,
+			"dropRate": 0.058381445351383635
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 963
+			"timesDropped": 963,
+			"dropRate": 0.04792952418873184
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 765
+			"timesDropped": 765,
+			"dropRate": 0.03807485566394585
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 188
+			"timesDropped": 188,
+			"dropRate": 0.009356957993231137
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.007167031654389807
 		},
 		{
 			"itemName": "Simple Dress",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.005176189528170416
 		}
 	]
 }

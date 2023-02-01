@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7045
+			"timesDropped": 7045,
+			"dropRate": 0.5980475382003395
 		},
 		{
 			"itemName": "Wood",
-			"timesDropped": 3623
+			"timesDropped": 3623,
+			"dropRate": 0.3075551782682513
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 2346
+			"timesDropped": 2346,
+			"dropRate": 0.19915110356536503
 		},
 		{
 			"itemName": "Hand Axe",
-			"timesDropped": 2099
+			"timesDropped": 2099,
+			"dropRate": 0.17818336162988116
 		},
 		{
 			"itemName": "Wooden Shield",
-			"timesDropped": 1800
+			"timesDropped": 1800,
+			"dropRate": 0.15280135823429541
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 1170
+			"timesDropped": 1170,
+			"dropRate": 0.09932088285229201
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 1131
+			"timesDropped": 1131,
+			"dropRate": 0.09601018675721562
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 941
+			"timesDropped": 941,
+			"dropRate": 0.0798811544991511
 		},
 		{
 			"itemName": "Studded Club",
-			"timesDropped": 606
+			"timesDropped": 606,
+			"dropRate": 0.051443123938879454
 		},
 		{
 			"itemName": "Mango",
-			"timesDropped": 593
+			"timesDropped": 593,
+			"dropRate": 0.05033955857385399
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.0007640067911714771
 		},
 		{
 			"itemName": "Marlin",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0006791171477079797
 		}
 	]
 }

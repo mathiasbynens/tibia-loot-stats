@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1429
+			"timesDropped": 1429,
+			"dropRate": 0.968813559322034
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 224
+			"timesDropped": 224,
+			"dropRate": 0.151864406779661
 		},
 		{
 			"itemName": "Deepling Scales",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.10033898305084746
 		},
 		{
 			"itemName": "Eye of a Deepling",
-			"timesDropped": 123
+			"timesDropped": 123,
+			"dropRate": 0.08338983050847458
 		},
 		{
 			"itemName": "Heavy Trident",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.009491525423728813
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.007457627118644068
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.005423728813559322
 		}
 	]
 }

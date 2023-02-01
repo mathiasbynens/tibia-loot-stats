@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2039
+			"timesDropped": 2039,
+			"dropRate": 0.8091269841269841
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 249
+			"timesDropped": 249,
+			"dropRate": 0.0988095238095238
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 159
+			"timesDropped": 159,
+			"dropRate": 0.0630952380952381
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 155
+			"timesDropped": 155,
+			"dropRate": 0.061507936507936505
 		},
 		{
 			"itemName": "Rhindeer Antlers",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.05714285714285714
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.034126984126984124
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.025
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.02261904761904762
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.010714285714285714
 		},
 		{
 			"itemName": "Collar of Green Plasma",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.008333333333333333
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.007142857142857143
 		},
 		{
 			"itemName": "Heavy Mace",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.006349206349206349
 		},
 		{
 			"itemName": "Mastermind Shield",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.004365079365079365
 		}
 	]
 }

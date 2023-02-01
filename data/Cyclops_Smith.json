@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 26381
+			"timesDropped": 26381,
+			"dropRate": 0.8277950359283316
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 16011
+			"timesDropped": 16011,
+			"dropRate": 0.50240045184976
 		},
 		{
 			"itemName": "Cyclops Toe",
-			"timesDropped": 3193
+			"timesDropped": 3193,
+			"dropRate": 0.10019140857886975
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 1982
+			"timesDropped": 1982,
+			"dropRate": 0.0621920989048919
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 1635
+			"timesDropped": 1635,
+			"dropRate": 0.051303774828202954
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 1634
+			"timesDropped": 1634,
+			"dropRate": 0.05127239637265054
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 667
+			"timesDropped": 667,
+			"dropRate": 0.020929429853462612
 		},
 		{
 			"itemName": "Heavy Machete",
-			"timesDropped": 657
+			"timesDropped": 657,
+			"dropRate": 0.020615645297938436
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 311
+			"timesDropped": 311,
+			"dropRate": 0.009758699676801907
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 168
+			"timesDropped": 168,
+			"dropRate": 0.005271580532806176
 		},
 		{
 			"itemName": "Dark Helmet",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.001976842699802316
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.001412030499858797
 		},
 		{
 			"itemName": "Cyclops Trophy",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.0012551382220967085
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.0008785967554676959
 		}
 	]
 }

@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 20573
+			"timesDropped": 20573,
+			"dropRate": 0.9446255567289591
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2182
+			"timesDropped": 2182,
+			"dropRate": 0.10018825474080537
 		},
 		{
 			"itemName": "Stampor Talons",
-			"timesDropped": 2143
+			"timesDropped": 2143,
+			"dropRate": 0.0983975389136324
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 1705
+			"timesDropped": 1705,
+			"dropRate": 0.0782864227007668
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1096
+			"timesDropped": 1096,
+			"dropRate": 0.05032370632260434
 		},
 		{
 			"itemName": "Stampor Horn",
-			"timesDropped": 1092
+			"timesDropped": 1092,
+			"dropRate": 0.050140043160843015
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1052
+			"timesDropped": 1052,
+			"dropRate": 0.048303411543229716
 		},
 		{
 			"itemName": "Hollow Stampor Hoof",
-			"timesDropped": 668
+			"timesDropped": 668,
+			"dropRate": 0.030671748014142065
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 220
+			"timesDropped": 220,
+			"dropRate": 0.010101473896873134
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 177
+			"timesDropped": 177,
+			"dropRate": 0.00812709490793884
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.0019743789889342944
 		}
 	]
 }

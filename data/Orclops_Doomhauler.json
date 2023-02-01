@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9764
+			"timesDropped": 9764,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Bug Meat",
-			"timesDropped": 1975
+			"timesDropped": 1975,
+			"dropRate": 0.20227365833674724
 		},
 		{
 			"itemName": "Bone Toothpick",
-			"timesDropped": 1918
+			"timesDropped": 1918,
+			"dropRate": 0.19643588693158542
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1623
+			"timesDropped": 1623,
+			"dropRate": 0.1662228594838181
 		},
 		{
 			"itemName": "Beetle Carapace",
-			"timesDropped": 1467
+			"timesDropped": 1467,
+			"dropRate": 0.15024580090126996
 		},
 		{
 			"itemName": "Red Mushroom",
-			"timesDropped": 786
+			"timesDropped": 786,
+			"dropRate": 0.08049979516591561
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 771
+			"timesDropped": 771,
+			"dropRate": 0.07896353953297829
 		},
 		{
 			"itemName": "Mysterious Fetish",
-			"timesDropped": 589
+			"timesDropped": 589,
+			"dropRate": 0.060323637853338795
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 319
+			"timesDropped": 319,
+			"dropRate": 0.03267103646046702
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 306
+			"timesDropped": 306,
+			"dropRate": 0.031339614911921346
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 295
+			"timesDropped": 295,
+			"dropRate": 0.03021302744776731
 		},
 		{
 			"itemName": "Onion",
-			"timesDropped": 287
+			"timesDropped": 287,
+			"dropRate": 0.029393691110200737
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 237
+			"timesDropped": 237,
+			"dropRate": 0.02427283900040967
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 135
+			"timesDropped": 135,
+			"dropRate": 0.013826300696435886
 		},
 		{
 			"itemName": "Pair of Iron Fists",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.013723883654240066
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.010241704219582138
 		},
 		{
 			"itemName": "Beetle Necklace",
-			"timesDropped": 99
+			"timesDropped": 99,
+			"dropRate": 0.010139287177386318
 		},
 		{
 			"itemName": "War Drum",
-			"timesDropped": 93
+			"timesDropped": 93,
+			"dropRate": 0.00952478492421139
 		}
 	]
 }

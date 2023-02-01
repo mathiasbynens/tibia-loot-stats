@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8229
+			"timesDropped": 8229,
+			"dropRate": 0.9706298655343242
 		},
 		{
 			"itemName": "Blueberry",
-			"timesDropped": 2169
+			"timesDropped": 2169,
+			"dropRate": 0.25583864118895966
 		},
 		{
 			"itemName": "Royal Spear",
-			"timesDropped": 1329
+			"timesDropped": 1329,
+			"dropRate": 0.156758669497523
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 837
+			"timesDropped": 837,
+			"dropRate": 0.09872611464968153
 		},
 		{
 			"itemName": "Jewelled Belt",
-			"timesDropped": 669
+			"timesDropped": 669,
+			"dropRate": 0.0789101203113942
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 549
+			"timesDropped": 549,
+			"dropRate": 0.06475583864118896
 		},
 		{
 			"itemName": "Heavy Machete",
-			"timesDropped": 414
+			"timesDropped": 414,
+			"dropRate": 0.04883227176220807
 		},
 		{
 			"itemName": "Blue Piece of Cloth",
-			"timesDropped": 268
+			"timesDropped": 268,
+			"dropRate": 0.03161122906345836
 		},
 		{
 			"itemName": "Seeds",
-			"timesDropped": 222
+			"timesDropped": 222,
+			"dropRate": 0.026185421089879687
 		},
 		{
 			"itemName": "Blue Tapestry",
-			"timesDropped": 220
+			"timesDropped": 220,
+			"dropRate": 0.02594951639537627
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 56
+			"timesDropped": 56,
+			"dropRate": 0.006605331446095777
 		},
 		{
 			"itemName": "Noble Turban",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.005425807973578675
 		},
 		{
 			"itemName": "Wooden Flute",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.0036565227648030197
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.003538570417551309
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.0020051899032790753
 		},
 		{
 			"itemName": "Small Oil Lamp",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.001887237556027365
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.0011795234725171032
 		}
 	]
 }

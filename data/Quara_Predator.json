@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19357
+			"timesDropped": 19357,
+			"dropRate": 0.7802095929060863
 		},
 		{
 			"itemName": "Quara Bone",
-			"timesDropped": 2439
+			"timesDropped": 2439,
+			"dropRate": 0.09830713422007255
 		},
 		{
 			"itemName": "Royal Spear",
-			"timesDropped": 2300
+			"timesDropped": 2300,
+			"dropRate": 0.09270455461507457
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 1314
+			"timesDropped": 1314,
+			"dropRate": 0.052962515114873036
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 1241
+			"timesDropped": 1241,
+			"dropRate": 0.05002015316404675
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 752
+			"timesDropped": 752,
+			"dropRate": 0.03031035872632003
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 479
+			"timesDropped": 479,
+			"dropRate": 0.019306731156791615
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 257
+			"timesDropped": 257,
+			"dropRate": 0.010358726320032246
 		},
 		{
 			"itemName": "Relic Sword",
-			"timesDropped": 160
+			"timesDropped": 160,
+			"dropRate": 0.006449012494961709
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 128
+			"timesDropped": 128,
+			"dropRate": 0.005159209995969367
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 114
+			"timesDropped": 114,
+			"dropRate": 0.004594921402660218
 		},
 		{
 			"itemName": "Skull Helmet",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.003950020153164047
 		},
 		{
 			"itemName": "Giant Shrimp",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.00020153164046755341
 		}
 	]
 }

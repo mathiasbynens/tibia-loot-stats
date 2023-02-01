@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2918
+			"timesDropped": 2918,
+			"dropRate": 0.6017735615590843
 		},
 		{
 			"itemName": "Wild Flowers",
-			"timesDropped": 989
+			"timesDropped": 989,
+			"dropRate": 0.20395957929469993
 		},
 		{
 			"itemName": "Colourful Snail Shell",
-			"timesDropped": 690
+			"timesDropped": 690,
+			"dropRate": 0.14229738090327904
 		},
 		{
 			"itemName": "Powder Herb",
-			"timesDropped": 258
+			"timesDropped": 258,
+			"dropRate": 0.05320684677253042
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.030521757063312022
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 141
+			"timesDropped": 141,
+			"dropRate": 0.02907816044545267
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.027634563827593318
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 92
+			"timesDropped": 92,
+			"dropRate": 0.018972984120437204
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.018354299855640337
 		},
 		{
 			"itemName": "Coral Brooch",
-			"timesDropped": 80
+			"timesDropped": 80,
+			"dropRate": 0.016498247061249742
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.01402351000206228
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.011342544854609197
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.00804289544235925
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.007836667354093628
 		},
 		{
 			"itemName": "Butterfly Ring",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.00701175500103114
 		},
 		{
 			"itemName": "Summer Dress",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.004743246030109301
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.003712105588781192
 		},
 		{
 			"itemName": "Flower Wreath",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.003712105588781192
 		}
 	]
 }

@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 2460
+			"timesDropped": 2460,
+			"dropRate": 0.20195386257285938
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 1577
+			"timesDropped": 1577,
+			"dropRate": 0.12946391921845496
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 1018
+			"timesDropped": 1018,
+			"dropRate": 0.08357277727608571
 		},
 		{
 			"itemName": "Pirate Coin",
-			"timesDropped": 850
+			"timesDropped": 850,
+			"dropRate": 0.06978080617354897
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 590
+			"timesDropped": 590,
+			"dropRate": 0.04843608899105164
 		},
 		{
 			"itemName": "Pirat's Tail",
-			"timesDropped": 590
+			"timesDropped": 590,
+			"dropRate": 0.04843608899105164
 		},
 		{
 			"itemName": "Crowbar",
-			"timesDropped": 580
+			"timesDropped": 580,
+			"dropRate": 0.04761513833018636
 		},
 		{
 			"itemName": "Shark Fins",
-			"timesDropped": 488
+			"timesDropped": 488,
+			"dropRate": 0.04006239225022576
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 366
+			"timesDropped": 366,
+			"dropRate": 0.030046794187669323
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 247
+			"timesDropped": 247,
+			"dropRate": 0.020277481323372464
 		}
 	]
 }

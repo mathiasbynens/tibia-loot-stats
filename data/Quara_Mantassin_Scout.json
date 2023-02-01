@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 66000
+			"timesDropped": 66000,
+			"dropRate": 0.9398496240601504
 		},
 		{
 			"itemName": "Mantassin Tail",
-			"timesDropped": 5563
+			"timesDropped": 5563,
+			"dropRate": 0.0792179311916154
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 3508
+			"timesDropped": 3508,
+			"dropRate": 0.049954431533378904
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 701
+			"timesDropped": 701,
+			"dropRate": 0.009982342219184325
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 685
+			"timesDropped": 685,
+			"dropRate": 0.009754499886078833
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 561
+			"timesDropped": 561,
+			"dropRate": 0.007988721804511278
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 498
+			"timesDropped": 498,
+			"dropRate": 0.0070915926179084075
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 255
+			"timesDropped": 255,
+			"dropRate": 0.003631237183868763
 		}
 	]
 }

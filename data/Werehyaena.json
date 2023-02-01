@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 429
+			"timesDropped": 429,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 211
+			"timesDropped": 211,
+			"dropRate": 0.49184149184149184
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 85
+			"timesDropped": 85,
+			"dropRate": 0.19813519813519814
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.1585081585081585
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.15151515151515152
 		},
 		{
 			"itemName": "Werehyaena Nose",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.12121212121212122
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.11655011655011654
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.10722610722610723
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.06526806526806526
 		},
 		{
 			"itemName": "Combat Knife",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.06060606060606061
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.06060606060606061
 		},
 		{
 			"itemName": "Life Preserver",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.05827505827505827
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.053613053613053616
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.037296037296037296
 		},
 		{
 			"itemName": "Ratana",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.03496503496503497
 		},
 		{
 			"itemName": "Werehyaena Talisman",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.006993006993006993
 		}
 	]
 }

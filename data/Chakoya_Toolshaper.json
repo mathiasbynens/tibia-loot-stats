@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8780
+			"timesDropped": 8780,
+			"dropRate": 0.7846291331546024
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 2804
+			"timesDropped": 2804,
+			"dropRate": 0.25058087578194815
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 578
+			"timesDropped": 578,
+			"dropRate": 0.0516532618409294
 		},
 		{
 			"itemName": "Pick",
-			"timesDropped": 113
+			"timesDropped": 113,
+			"dropRate": 0.010098302055406613
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.008936550491510277
 		},
 		{
 			"itemName": "Fireproof Horn",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.004647006255585344
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.003932082216264522
 		},
 		{
 			"itemName": "Mammoth Whopper",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.0016979445933869527
 		},
 		{
 			"itemName": "Rainbow Trout",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.001161751563896336
 		},
 		{
 			"itemName": "Green Perch",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0007149240393208221
 		},
 		{
 			"itemName": "Northern Pike",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0007149240393208221
 		}
 	]
 }

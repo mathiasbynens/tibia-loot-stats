@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12492
+			"timesDropped": 12492,
+			"dropRate": 0.8224372901441833
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 2972
+			"timesDropped": 2972,
+			"dropRate": 0.19566791757192706
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 749
+			"timesDropped": 749,
+			"dropRate": 0.04931200210678781
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 444
+			"timesDropped": 444,
+			"dropRate": 0.029231680821647246
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.0012509052603858054
 		}
 	]
 }

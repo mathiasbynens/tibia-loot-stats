@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4105
+			"timesDropped": 4105,
+			"dropRate": 0.8790149892933619
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4105
+			"timesDropped": 4105,
+			"dropRate": 0.8790149892933619
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1444
+			"timesDropped": 1444,
+			"dropRate": 0.30920770877944326
 		},
 		{
 			"itemName": "Shadow Herb",
-			"timesDropped": 1227
+			"timesDropped": 1227,
+			"dropRate": 0.2627408993576017
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 1002
+			"timesDropped": 1002,
+			"dropRate": 0.2145610278372591
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 821
+			"timesDropped": 821,
+			"dropRate": 0.17580299785867237
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 810
+			"timesDropped": 810,
+			"dropRate": 0.1734475374732334
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 636
+			"timesDropped": 636,
+			"dropRate": 0.13618843683083512
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 628
+			"timesDropped": 628,
+			"dropRate": 0.13447537473233404
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 510
+			"timesDropped": 510,
+			"dropRate": 0.10920770877944326
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 509
+			"timesDropped": 509,
+			"dropRate": 0.10899357601713063
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.00835117773019272
 		},
 		{
 			"itemName": "Shadow Sceptre",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.008137044967880086
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.007066381156316916
 		},
 		{
 			"itemName": "Abyss Hammer",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.003854389721627409
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.0032119914346895075
 		}
 	]
 }

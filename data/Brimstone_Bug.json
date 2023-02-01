@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 29244
+			"timesDropped": 29244,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 14606
+			"timesDropped": 14606,
+			"dropRate": 0.4994528792230885
 		},
 		{
 			"itemName": "Lump of Earth",
-			"timesDropped": 5803
+			"timesDropped": 5803,
+			"dropRate": 0.19843386677609082
 		},
 		{
 			"itemName": "Sulphurous Stone",
-			"timesDropped": 4362
+			"timesDropped": 4362,
+			"dropRate": 0.14915880180549856
 		},
 		{
 			"itemName": "Brimstone Shell",
-			"timesDropped": 2970
+			"timesDropped": 2970,
+			"dropRate": 0.10155929421419778
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 2691
+			"timesDropped": 2691,
+			"dropRate": 0.09201887566680345
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 2629
+			"timesDropped": 2629,
+			"dropRate": 0.08989878265627137
 		},
 		{
 			"itemName": "Brimstone Fangs",
-			"timesDropped": 1749
+			"timesDropped": 1749,
+			"dropRate": 0.059807139926138696
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 815
+			"timesDropped": 815,
+			"dropRate": 0.027868964573929695
 		},
 		{
 			"itemName": "Magic Sulphur",
-			"timesDropped": 460
+			"timesDropped": 460,
+			"dropRate": 0.015729722336205718
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 267
+			"timesDropped": 267,
+			"dropRate": 0.00913007796471071
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.0008548762139242238
 		}
 	]
 }

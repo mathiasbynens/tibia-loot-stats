@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 84815
+			"timesDropped": 84815,
+			"dropRate": 0.7185032699671309
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 23713
+			"timesDropped": 23713,
+			"dropRate": 0.20088272169699434
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 23576
+			"timesDropped": 23576,
+			"dropRate": 0.19972213750804785
 		},
 		{
 			"itemName": "Lump of Dirt",
-			"timesDropped": 11809
+			"timesDropped": 11809,
+			"dropRate": 0.1000389685202128
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 5239
+			"timesDropped": 5239,
+			"dropRate": 0.04438175595540646
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 3608
+			"timesDropped": 3608,
+			"dropRate": 0.03056487411473688
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 3599
+			"timesDropped": 3599,
+			"dropRate": 0.030488631357798786
 		}
 	]
 }

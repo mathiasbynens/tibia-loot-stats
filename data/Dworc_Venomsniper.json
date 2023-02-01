@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 75238
+			"timesDropped": 75238,
+			"dropRate": 0.7497409119897959
 		},
 		{
 			"itemName": "Leather Armor",
-			"timesDropped": 10072
+			"timesDropped": 10072,
+			"dropRate": 0.10036670918367346
 		},
 		{
 			"itemName": "Throwing Knife",
-			"timesDropped": 7946
+			"timesDropped": 7946,
+			"dropRate": 0.0791812818877551
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 5506
+			"timesDropped": 5506,
+			"dropRate": 0.05486686862244898
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 4969
+			"timesDropped": 4969,
+			"dropRate": 0.04951570471938776
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 1507
+			"timesDropped": 1507,
+			"dropRate": 0.015017139668367346
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 989
+			"timesDropped": 989,
+			"dropRate": 0.00985530931122449
 		},
 		{
 			"itemName": "Tribal Mask",
-			"timesDropped": 504
+			"timesDropped": 504,
+			"dropRate": 0.005022321428571429
 		},
 		{
 			"itemName": "Seeds",
-			"timesDropped": 194
+			"timesDropped": 194,
+			"dropRate": 0.0019331951530612245
 		},
 		{
 			"itemName": "Bast Skirt",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.0009964923469387755
 		},
 		{
 			"itemName": "Bronze Amulet",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.0009765625
 		}
 	]
 }

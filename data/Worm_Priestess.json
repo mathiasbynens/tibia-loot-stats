@@ -4,91 +4,113 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 71110
+			"timesDropped": 71110,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 28359
+			"timesDropped": 28359,
+			"dropRate": 0.39880466882295035
 		},
 		{
 			"itemName": "Purple Robe",
-			"timesDropped": 11374
+			"timesDropped": 11374,
+			"dropRate": 0.159949374208972
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 8730
+			"timesDropped": 8730,
+			"dropRate": 0.12276754324286317
 		},
 		{
 			"itemName": "Snakebite Rod",
-			"timesDropped": 8471
+			"timesDropped": 8471,
+			"dropRate": 0.11912529883279427
 		},
 		{
 			"itemName": "Taurus Mace",
-			"timesDropped": 3622
+			"timesDropped": 3622,
+			"dropRate": 0.05093517086204472
 		},
 		{
 			"itemName": "Minotaur Leather",
-			"timesDropped": 3538
+			"timesDropped": 3538,
+			"dropRate": 0.049753902404725076
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 3534
+			"timesDropped": 3534,
+			"dropRate": 0.04969765152580509
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 2052
+			"timesDropped": 2052,
+			"dropRate": 0.028856700885951343
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 1864
+			"timesDropped": 1864,
+			"dropRate": 0.026212909576712136
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 1767
+			"timesDropped": 1767,
+			"dropRate": 0.024848825762902545
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1734
+			"timesDropped": 1734,
+			"dropRate": 0.024384756011812683
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 1724
+			"timesDropped": 1724,
+			"dropRate": 0.02424412881451273
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 1710
+			"timesDropped": 1710,
+			"dropRate": 0.024047250738292787
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 1709
+			"timesDropped": 1709,
+			"dropRate": 0.02403318801856279
 		},
 		{
 			"itemName": "Blue Piece of Cloth",
-			"timesDropped": 1109
+			"timesDropped": 1109,
+			"dropRate": 0.015595556180565321
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 1094
+			"timesDropped": 1094,
+			"dropRate": 0.015384615384615385
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 1060
+			"timesDropped": 1060,
+			"dropRate": 0.014906482913795528
 		},
 		{
 			"itemName": "Green Piece of Cloth",
-			"timesDropped": 1052
+			"timesDropped": 1052,
+			"dropRate": 0.014793981155955562
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 368
+			"timesDropped": 368,
+			"dropRate": 0.005175080860638447
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 337
+			"timesDropped": 337,
+			"dropRate": 0.004739136549008578
 		},
 		{
 			"itemName": "Minotaur Trophy",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.0014062719729995782
 		}
 	]
 }

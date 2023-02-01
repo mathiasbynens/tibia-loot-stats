@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15321
+			"timesDropped": 15321,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 15321
+			"timesDropped": 15321,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 10033
+			"timesDropped": 10033,
+			"dropRate": 0.6548528163957966
 		},
 		{
 			"itemName": "Power Bolt",
-			"timesDropped": 7651
+			"timesDropped": 7651,
+			"dropRate": 0.49937993603550684
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 3128
+			"timesDropped": 3128,
+			"dropRate": 0.20416421904575419
 		},
 		{
 			"itemName": "Unholy Bone",
-			"timesDropped": 3006
+			"timesDropped": 3006,
+			"dropRate": 0.1962012923438418
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 2326
+			"timesDropped": 2326,
+			"dropRate": 0.15181776646433
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 2260
+			"timesDropped": 2260,
+			"dropRate": 0.14750995365837738
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 1806
+			"timesDropped": 1806,
+			"dropRate": 0.11787742314470334
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 1476
+			"timesDropped": 1476,
+			"dropRate": 0.09633835911494028
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 1445
+			"timesDropped": 1445,
+			"dropRate": 0.09431499249396254
 		},
 		{
 			"itemName": "Orichalcum Pearl",
-			"timesDropped": 974
+			"timesDropped": 974,
+			"dropRate": 0.0635728738333007
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 233
+			"timesDropped": 233,
+			"dropRate": 0.015207884602832714
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.0039814633509562035
 		},
 		{
 			"itemName": "Skull Helmet",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.003785653677958358
 		},
 		{
 			"itemName": "Golden Figurine",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.0012401279289863587
 		},
 		{
 			"itemName": "Bloody Edge",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.0009790483649892304
 		}
 	]
 }

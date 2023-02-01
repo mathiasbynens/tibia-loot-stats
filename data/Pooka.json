@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5395
+			"timesDropped": 5395,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Carrot",
-			"timesDropped": 1046
+			"timesDropped": 1046,
+			"dropRate": 0.1938832252085264
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 669
+			"timesDropped": 669,
+			"dropRate": 0.12400370713623726
 		},
 		{
 			"itemName": "Shimmering Beetles",
-			"timesDropped": 549
+			"timesDropped": 549,
+			"dropRate": 0.10176088971269694
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 278
+			"timesDropped": 278,
+			"dropRate": 0.051529193697868396
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 243
+			"timesDropped": 243,
+			"dropRate": 0.04504170528266914
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 206
+			"timesDropped": 206,
+			"dropRate": 0.038183503243744206
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 186
+			"timesDropped": 186,
+			"dropRate": 0.034476367006487485
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 181
+			"timesDropped": 181,
+			"dropRate": 0.033549582947173306
 		},
 		{
 			"itemName": "Orange Mushroom",
-			"timesDropped": 162
+			"timesDropped": 162,
+			"dropRate": 0.030027803521779424
 		},
 		{
 			"itemName": "Fern",
-			"timesDropped": 145
+			"timesDropped": 145,
+			"dropRate": 0.026876737720111215
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.00963855421686747
 		},
 		{
 			"itemName": "Dream Blossom Staff",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.004448563484708063
 		},
 		{
 			"itemName": "Carrot on a Stick",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0007414272474513438
 		}
 	]
 }

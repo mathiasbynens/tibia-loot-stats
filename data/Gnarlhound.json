@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5174
+			"timesDropped": 5174,
+			"dropRate": 0.49592638742451833
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 5149
+			"timesDropped": 5149,
+			"dropRate": 0.49353014473305856
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 4195
+			"timesDropped": 4195,
+			"dropRate": 0.40208952362695294
 		},
 		{
 			"itemName": "Shaggy Tail",
-			"timesDropped": 2584
+			"timesDropped": 2584,
+			"dropRate": 0.247675644589284
 		}
 	]
 }

@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5276
+			"timesDropped": 5276,
+			"dropRate": 0.5075517075517075
 		},
 		{
 			"itemName": "Rare Earth",
-			"timesDropped": 4143
+			"timesDropped": 4143,
+			"dropRate": 0.39855699855699855
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 3098
+			"timesDropped": 3098,
+			"dropRate": 0.29802789802789803
 		},
 		{
 			"itemName": "Glob of Acid Slime",
-			"timesDropped": 2598
+			"timesDropped": 2598,
+			"dropRate": 0.24992784992784992
 		},
 		{
 			"itemName": "Stonerefiner's Skull",
-			"timesDropped": 2085
+			"timesDropped": 2085,
+			"dropRate": 0.20057720057720058
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 2027
+			"timesDropped": 2027,
+			"dropRate": 0.194997594997595
 		},
 		{
 			"itemName": "Half-Digested Stones",
-			"timesDropped": 1529
+			"timesDropped": 1529,
+			"dropRate": 0.14708994708994708
 		},
 		{
 			"itemName": "Rat Cheese",
-			"timesDropped": 1081
+			"timesDropped": 1081,
+			"dropRate": 0.103992303992304
 		}
 	]
 }

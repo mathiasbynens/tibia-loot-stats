@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 49761
+			"timesDropped": 49761,
+			"dropRate": 0.39553128576879054
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 25000
+			"timesDropped": 25000,
+			"dropRate": 0.19871550298868115
 		},
 		{
 			"itemName": "Flask of Embalming Fluid",
-			"timesDropped": 15224
+			"timesDropped": 15224,
+			"dropRate": 0.12100979269998728
 		},
 		{
 			"itemName": "Gauze Bandage",
-			"timesDropped": 12595
+			"timesDropped": 12595,
+			"dropRate": 0.10011287040569757
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 7610
+			"timesDropped": 7610,
+			"dropRate": 0.06048899910975455
 		},
 		{
 			"itemName": "Strange Talisman",
-			"timesDropped": 6264
+			"timesDropped": 6264,
+			"dropRate": 0.049790156428843955
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 4939
+			"timesDropped": 4939,
+			"dropRate": 0.03925823477044385
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 1882
+			"timesDropped": 1882,
+			"dropRate": 0.014959303064987918
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 1244
+			"timesDropped": 1244,
+			"dropRate": 0.009888083428716775
 		},
 		{
 			"itemName": "Yellow Piece of Cloth",
-			"timesDropped": 1191
+			"timesDropped": 1191,
+			"dropRate": 0.00946680656238077
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 640
+			"timesDropped": 640,
+			"dropRate": 0.005087116876510238
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 230
+			"timesDropped": 230,
+			"dropRate": 0.0018281826274958667
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 114
+			"timesDropped": 114,
+			"dropRate": 0.0009061426936283861
 		},
 		{
 			"itemName": "Mini Mummy",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.000015897240239094494
 		}
 	]
 }

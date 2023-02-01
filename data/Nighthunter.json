@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 472
+			"timesDropped": 472,
+			"dropRate": 0.34782608695652173
 		},
 		{
 			"itemName": "Nighthunter Wing",
-			"timesDropped": 336
+			"timesDropped": 336,
+			"dropRate": 0.24760501105379515
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 202
+			"timesDropped": 202,
+			"dropRate": 0.14885777450257923
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.040530582166543844
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.0397936624907885
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.03389830508474576
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.022844509948415623
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.013264554163596167
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.011790714812085483
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.008843036109064112
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.008106116433308769
 		}
 	]
 }

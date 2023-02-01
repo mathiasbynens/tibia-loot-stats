@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 2506
+			"timesDropped": 2506,
+			"dropRate": 0.5642873226750732
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 512
+			"timesDropped": 512,
+			"dropRate": 0.11528934924566539
 		},
 		{
 			"itemName": "Apron",
-			"timesDropped": 258
+			"timesDropped": 258,
+			"dropRate": 0.05809502364332358
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 224
+			"timesDropped": 224,
+			"dropRate": 0.05043909029497861
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 190
+			"timesDropped": 190,
+			"dropRate": 0.04278315694663364
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 179
+			"timesDropped": 179,
+			"dropRate": 0.0403062373339338
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 176
+			"timesDropped": 176,
+			"dropRate": 0.03963071380319748
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 168
+			"timesDropped": 168,
+			"dropRate": 0.037829317721233956
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 167
+			"timesDropped": 167,
+			"dropRate": 0.03760414321098852
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 160
+			"timesDropped": 160,
+			"dropRate": 0.03602792163927043
 		},
 		{
 			"itemName": "Ring of Red Plasma",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.032425129475343394
 		},
 		{
 			"itemName": "Head (Many Faces)",
-			"timesDropped": 122
+			"timesDropped": 122,
+			"dropRate": 0.027471290249943707
 		},
 		{
 			"itemName": "Glacier Shoes",
-			"timesDropped": 83
+			"timesDropped": 83,
+			"dropRate": 0.018689484350371537
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.013510470614726412
 		},
 		{
 			"itemName": "Gruesome Fan",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.005179013735645125
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.004953839225399685
 		}
 	]
 }

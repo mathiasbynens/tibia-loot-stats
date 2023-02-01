@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5229
+			"timesDropped": 5229,
+			"dropRate": 0.7093054801953337
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 2361
+			"timesDropped": 2361,
+			"dropRate": 0.32026587086272384
 		},
 		{
 			"itemName": "Cobra Crest",
-			"timesDropped": 1084
+			"timesDropped": 1084,
+			"dropRate": 0.14704286489419424
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 1026
+			"timesDropped": 1026,
+			"dropRate": 0.13917525773195877
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 990
+			"timesDropped": 990,
+			"dropRate": 0.1342919153553988
 		},
 		{
 			"itemName": "Snakebite Rod",
-			"timesDropped": 918
+			"timesDropped": 918,
+			"dropRate": 0.1245252306022789
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 812
+			"timesDropped": 812,
+			"dropRate": 0.1101465002712968
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 550
+			"timesDropped": 550,
+			"dropRate": 0.07460661964188822
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 496
+			"timesDropped": 496,
+			"dropRate": 0.06728160607704829
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 365
+			"timesDropped": 365,
+			"dropRate": 0.049511665762344004
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 325
+			"timesDropped": 325,
+			"dropRate": 0.0440857297883885
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 305
+			"timesDropped": 305,
+			"dropRate": 0.041372761801410744
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 248
+			"timesDropped": 248,
+			"dropRate": 0.033640803038524146
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 226
+			"timesDropped": 226,
+			"dropRate": 0.030656538252848618
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 208
+			"timesDropped": 208,
+			"dropRate": 0.02821486706456864
 		},
 		{
 			"itemName": "Serpent Sword",
-			"timesDropped": 185
+			"timesDropped": 185,
+			"dropRate": 0.025094953879544222
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 64
+			"timesDropped": 64,
+			"dropRate": 0.008681497558328812
 		}
 	]
 }

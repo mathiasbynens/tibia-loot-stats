@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1917
+			"timesDropped": 1917,
+			"dropRate": 0.531466592736346
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 644
+			"timesDropped": 644,
+			"dropRate": 0.17854172442472968
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 573
+			"timesDropped": 573,
+			"dropRate": 0.15885777654560576
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 239
+			"timesDropped": 239,
+			"dropRate": 0.06626004990296645
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 238
+			"timesDropped": 238,
+			"dropRate": 0.06598281120044358
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 236
+			"timesDropped": 236,
+			"dropRate": 0.06542833379539784
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 201
+			"timesDropped": 201,
+			"dropRate": 0.05572497920709731
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.03576379262545051
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.024674244524535625
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 85
+			"timesDropped": 85,
+			"dropRate": 0.023565289714444135
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 79
+			"timesDropped": 79,
+			"dropRate": 0.0219018574993069
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.018297754366509565
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.01663432215137233
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.014693651233712227
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.013030219018574993
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.007762683670640421
 		}
 	]
 }

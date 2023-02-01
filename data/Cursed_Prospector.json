@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4387
+			"timesDropped": 4387,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Flash Arrow",
-			"timesDropped": 809
+			"timesDropped": 809,
+			"dropRate": 0.18440847959881468
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 753
+			"timesDropped": 753,
+			"dropRate": 0.17164349213585595
 		},
 		{
 			"itemName": "Spectral Silver Nugget",
-			"timesDropped": 426
+			"timesDropped": 426,
+			"dropRate": 0.09710508320036472
 		},
 		{
 			"itemName": "Spectral Gold Nugget",
-			"timesDropped": 206
+			"timesDropped": 206,
+			"dropRate": 0.04695691816731251
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.01755185776156827
 		},
 		{
 			"itemName": "Diamond",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.01139731023478459
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.0111693640300889
 		},
 		{
 			"itemName": "Lightning Boots",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.009801686801914749
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.007978117164349213
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.007066332345566446
 		},
 		{
 			"itemName": "Lightning Robe",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.006838386140870754
 		}
 	]
 }

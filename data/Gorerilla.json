@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 745
+			"timesDropped": 745,
+			"dropRate": 0.20694444444444443
 		},
 		{
 			"itemName": "Gorerilla Mane",
-			"timesDropped": 717
+			"timesDropped": 717,
+			"dropRate": 0.19916666666666666
 		},
 		{
 			"itemName": "Gorerilla Tail",
-			"timesDropped": 615
+			"timesDropped": 615,
+			"dropRate": 0.17083333333333334
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 404
+			"timesDropped": 404,
+			"dropRate": 0.11222222222222222
 		},
 		{
 			"itemName": "Doublet",
-			"timesDropped": 212
+			"timesDropped": 212,
+			"dropRate": 0.058888888888888886
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 88
+			"timesDropped": 88,
+			"dropRate": 0.024444444444444446
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.004722222222222222
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0011111111111111111
 		},
 		{
 			"itemName": "Composite Hornbow",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0002777777777777778
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0002777777777777778
 		}
 	]
 }

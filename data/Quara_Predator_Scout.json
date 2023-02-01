@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 58115
+			"timesDropped": 58115,
+			"dropRate": 0.989578898973215
 		},
 		{
 			"itemName": "Quara Bone",
-			"timesDropped": 5926
+			"timesDropped": 5926,
+			"dropRate": 0.10090758935413013
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 5260
+			"timesDropped": 5260,
+			"dropRate": 0.08956697941321709
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 3395
+			"timesDropped": 3395,
+			"dropRate": 0.057809865990089734
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 2959
+			"timesDropped": 2959,
+			"dropRate": 0.05038568290564817
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 2946
+			"timesDropped": 2946,
+			"dropRate": 0.05016431964854326
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 1763
+			"timesDropped": 1763,
+			"dropRate": 0.030020263251996526
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 624
+			"timesDropped": 624,
+			"dropRate": 0.01062543634103564
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 557
+			"timesDropped": 557,
+			"dropRate": 0.009484564169802647
 		}
 	]
 }

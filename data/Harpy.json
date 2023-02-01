@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1329
+			"timesDropped": 1329,
+			"dropRate": 0.8093788063337394
 		},
 		{
 			"itemName": "Harpy Feathers",
-			"timesDropped": 118
+			"timesDropped": 118,
+			"dropRate": 0.07186358099878197
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.06090133982947625
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 91
+			"timesDropped": 91,
+			"dropRate": 0.055420219244823384
 		},
 		{
 			"itemName": "Gold Ring",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.030450669914738125
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.024969549330085262
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.020097442143727162
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.0194884287454324
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.016443361753958587
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.0060901339829476245
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.0054811205846528625
 		},
 		{
 			"itemName": "Magic Plate Armor",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0048721071863581
 		},
 		{
 			"itemName": "Crystalline Sword",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.00243605359317905
 		}
 	]
 }

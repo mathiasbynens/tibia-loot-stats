@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Arrow",
-			"timesDropped": 5175
+			"timesDropped": 5175,
+			"dropRate": 0.4702407996365289
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 3385
+			"timesDropped": 3385,
+			"dropRate": 0.307587460245343
 		},
 		{
 			"itemName": "Leather Legs",
-			"timesDropped": 3087
+			"timesDropped": 3087,
+			"dropRate": 0.2805088596092685
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 1661
+			"timesDropped": 1661,
+			"dropRate": 0.1509313948205361
 		},
 		{
 			"itemName": "Roll",
-			"timesDropped": 1219
+			"timesDropped": 1219,
+			"dropRate": 0.11076783280327124
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 562
+			"timesDropped": 562,
+			"dropRate": 0.05106769650159019
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 281
+			"timesDropped": 281,
+			"dropRate": 0.025533848250795094
 		},
 		{
 			"itemName": "Closed Trap",
-			"timesDropped": 118
+			"timesDropped": 118,
+			"dropRate": 0.010722398909586551
 		}
 	]
 }

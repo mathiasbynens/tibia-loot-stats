@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Book Page",
-			"timesDropped": 4531
+			"timesDropped": 4531,
+			"dropRate": 0.5820166987797045
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 4335
+			"timesDropped": 4335,
+			"dropRate": 0.5568400770712909
 		},
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 1581
+			"timesDropped": 1581,
+			"dropRate": 0.20308285163776493
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1031
+			"timesDropped": 1031,
+			"dropRate": 0.13243416827231855
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 707
+			"timesDropped": 707,
+			"dropRate": 0.09081567116249196
 		},
 		{
 			"itemName": "Spellbook of Warding",
-			"timesDropped": 706
+			"timesDropped": 706,
+			"dropRate": 0.09068721901091843
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 600
+			"timesDropped": 600,
+			"dropRate": 0.07707129094412331
 		},
 		{
 			"itemName": "Flash Arrow",
-			"timesDropped": 584
+			"timesDropped": 584,
+			"dropRate": 0.07501605651894669
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 548
+			"timesDropped": 548,
+			"dropRate": 0.07039177906229929
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 345
+			"timesDropped": 345,
+			"dropRate": 0.04431599229287091
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 188
+			"timesDropped": 188,
+			"dropRate": 0.024149004495825306
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 184
+			"timesDropped": 184,
+			"dropRate": 0.02363519588953115
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 97
+			"timesDropped": 97,
+			"dropRate": 0.012459858702633268
 		},
 		{
 			"itemName": "Spellweaver's Robe",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.008863198458574181
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.007578676942838793
 		}
 	]
 }

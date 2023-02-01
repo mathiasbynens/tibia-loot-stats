@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 1356
+			"timesDropped": 1356,
+			"dropRate": 0.16966966966966968
 		},
 		{
 			"itemName": "Veal",
-			"timesDropped": 405
+			"timesDropped": 405,
+			"dropRate": 0.05067567567567568
 		},
 		{
 			"itemName": "Meat Hammer",
-			"timesDropped": 88
+			"timesDropped": 88,
+			"dropRate": 0.011011011011011011
 		},
 		{
 			"itemName": "Milk Churn",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.00563063063063063
 		},
 		{
 			"itemName": "Cow Bell",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.0031281281281281283
 		}
 	]
 }

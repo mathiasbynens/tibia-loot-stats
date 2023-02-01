@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3232
+			"timesDropped": 3232,
+			"dropRate": 0.9993815708101422
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3225
+			"timesDropped": 3225,
+			"dropRate": 0.9972170686456401
 		},
 		{
 			"itemName": "Silencer Claws",
-			"timesDropped": 538
+			"timesDropped": 538,
+			"dropRate": 0.1663574520717378
 		},
 		{
 			"itemName": "Silencer Resonating Chamber",
-			"timesDropped": 303
+			"timesDropped": 303,
+			"dropRate": 0.09369202226345083
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 261
+			"timesDropped": 261,
+			"dropRate": 0.08070500927643785
 		},
 		{
 			"itemName": "Glorious Axe",
-			"timesDropped": 88
+			"timesDropped": 88,
+			"dropRate": 0.027210884353741496
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.02009894867037724
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.017934446505875078
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.016388373531230675
 		},
 		{
 			"itemName": "Dark Shield",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.01453308596165739
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.01422387136672851
 		},
 		{
 			"itemName": "Shadow Sceptre",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.01020408163265306
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.009894867037724181
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.008658008658008658
 		},
 		{
 			"itemName": "Cluster of Solace",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.006802721088435374
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.004329004329004329
 		}
 	]
 }

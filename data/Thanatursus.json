@@ -4,91 +4,113 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 8134
+			"timesDropped": 8134,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 4088
+			"timesDropped": 4088,
+			"dropRate": 0.5025817555938038
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 1203
+			"timesDropped": 1203,
+			"dropRate": 0.14789771330218834
 		},
 		{
 			"itemName": "Essence of a Bad Dream",
-			"timesDropped": 1025
+			"timesDropped": 1025,
+			"dropRate": 0.1260142611261372
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 1009
+			"timesDropped": 1009,
+			"dropRate": 0.12404720924514384
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 769
+			"timesDropped": 769,
+			"dropRate": 0.09454143103024343
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 704
+			"timesDropped": 704,
+			"dropRate": 0.0865502827637079
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 515
+			"timesDropped": 515,
+			"dropRate": 0.06331448241947381
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 508
+			"timesDropped": 508,
+			"dropRate": 0.06245389722153922
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 453
+			"timesDropped": 453,
+			"dropRate": 0.05569215638062454
 		},
 		{
 			"itemName": "Mino Shield",
-			"timesDropped": 414
+			"timesDropped": 414,
+			"dropRate": 0.050897467420703224
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 335
+			"timesDropped": 335,
+			"dropRate": 0.0411851487582985
 		},
 		{
 			"itemName": "Beastslayer Axe",
-			"timesDropped": 334
+			"timesDropped": 334,
+			"dropRate": 0.041062208015736415
 		},
 		{
 			"itemName": "Dark Shield",
-			"timesDropped": 300
+			"timesDropped": 300,
+			"dropRate": 0.036882222768625524
 		},
 		{
 			"itemName": "Warrior's Shield",
-			"timesDropped": 243
+			"timesDropped": 243,
+			"dropRate": 0.029874600442586673
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 227
+			"timesDropped": 227,
+			"dropRate": 0.02790754856159331
 		},
 		{
 			"itemName": "Sickle",
-			"timesDropped": 222
+			"timesDropped": 222,
+			"dropRate": 0.027292844848782888
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 211
+			"timesDropped": 211,
+			"dropRate": 0.025940496680599952
 		},
 		{
 			"itemName": "Bloody Pincers",
-			"timesDropped": 160
+			"timesDropped": 160,
+			"dropRate": 0.01967051880993361
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 145
+			"timesDropped": 145,
+			"dropRate": 0.017826407671502335
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 139
+			"timesDropped": 139,
+			"dropRate": 0.017088763216129826
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 122
+			"timesDropped": 122,
+			"dropRate": 0.01499877059257438
 		}
 	]
 }

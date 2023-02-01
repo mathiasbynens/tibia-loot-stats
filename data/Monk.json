@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Bread",
-			"timesDropped": 6087
+			"timesDropped": 6087,
+			"dropRate": 0.19912329484117897
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4590
+			"timesDropped": 4590,
+			"dropRate": 0.15015211488763125
 		},
 		{
 			"itemName": "Book of Prayers",
-			"timesDropped": 1546
+			"timesDropped": 1546,
+			"dropRate": 0.05057411102751153
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 908
+			"timesDropped": 908,
+			"dropRate": 0.02970329418692139
 		},
 		{
 			"itemName": "Ankh",
-			"timesDropped": 661
+			"timesDropped": 661,
+			"dropRate": 0.021623213058981322
 		},
 		{
 			"itemName": "Scroll",
-			"timesDropped": 576
+			"timesDropped": 576,
+			"dropRate": 0.01884261833884
 		},
 		{
 			"itemName": "Safety Pin",
-			"timesDropped": 318
+			"timesDropped": 318,
+			"dropRate": 0.010402695541234583
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 308
+			"timesDropped": 308,
+			"dropRate": 0.010075566750629723
 		},
 		{
 			"itemName": "Brown Flask",
-			"timesDropped": 269
+			"timesDropped": 269,
+			"dropRate": 0.008799764467270765
 		},
 		{
 			"itemName": "Lamp",
-			"timesDropped": 265
+			"timesDropped": 265,
+			"dropRate": 0.00866891295102882
 		},
 		{
 			"itemName": "Sandals",
-			"timesDropped": 232
+			"timesDropped": 232,
+			"dropRate": 0.0075893879420327786
 		},
 		{
 			"itemName": "Staff",
-			"timesDropped": 145
+			"timesDropped": 145,
+			"dropRate": 0.0047433674637704865
 		},
 		{
 			"itemName": "Power Ring",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.0010468121299355556
 		}
 	]
 }

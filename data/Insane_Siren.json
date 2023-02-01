@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1071
+			"timesDropped": 1071,
+			"dropRate": 0.7163879598662207
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 187
+			"timesDropped": 187,
+			"dropRate": 0.12508361204013377
 		},
 		{
 			"itemName": "Miraculum",
-			"timesDropped": 155
+			"timesDropped": 155,
+			"dropRate": 0.10367892976588629
 		},
 		{
 			"itemName": "Dream Essence Egg",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.09632107023411371
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.0548494983277592
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.036120401337792644
 		},
 		{
 			"itemName": "Holy Orchid",
-			"timesDropped": 51
+			"timesDropped": 51,
+			"dropRate": 0.03411371237458194
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.0294314381270903
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.0274247491638796
 		},
 		{
 			"itemName": "Wand of Dragonbreath",
-			"timesDropped": 37
+			"timesDropped": 37,
+			"dropRate": 0.024749163879598662
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.02073578595317726
 		},
 		{
 			"itemName": "Sun Fruit",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.017391304347826087
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.006688963210702341
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.0046822742474916385
 		}
 	]
 }

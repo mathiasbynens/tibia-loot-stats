@@ -4,131 +4,163 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 973
+			"timesDropped": 973,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Golden Lotus Brooch",
-			"timesDropped": 225
+			"timesDropped": 225,
+			"dropRate": 0.2312435765673176
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 204
+			"timesDropped": 204,
+			"dropRate": 0.20966084275436794
 		},
 		{
 			"itemName": "Peacock Feather Fan",
-			"timesDropped": 200
+			"timesDropped": 200,
+			"dropRate": 0.20554984583761562
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 193
+			"timesDropped": 193,
+			"dropRate": 0.19835560123329907
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 182
+			"timesDropped": 182,
+			"dropRate": 0.18705035971223022
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 156
+			"timesDropped": 156,
+			"dropRate": 0.16032887975334018
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 149
+			"timesDropped": 149,
+			"dropRate": 0.15313463514902365
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 116
+			"timesDropped": 116,
+			"dropRate": 0.11921891058581706
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 113
+			"timesDropped": 113,
+			"dropRate": 0.11613566289825282
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.10996916752312436
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 101
+			"timesDropped": 101,
+			"dropRate": 0.10380267214799589
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 94
+			"timesDropped": 94,
+			"dropRate": 0.09660842754367935
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.09146968139773895
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 84
+			"timesDropped": 84,
+			"dropRate": 0.08633093525179857
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.0842754367934224
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.08016443987667009
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.07399794450154162
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.044193216855087356
 		},
 		{
 			"itemName": "Royal Star",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.040082219938335044
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.03391572456320658
 		},
 		{
 			"itemName": "Tribal Mask",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.03391572456320658
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.03186022610483042
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.022610483042137718
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.022610483042137718
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.017471736896197326
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.015416238437821172
 		},
 		{
 			"itemName": "Assassin Dagger",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.013360739979445015
 		},
 		{
 			"itemName": "Skullcracker Armor",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.013360739979445015
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.012332990750256937
 		},
 		{
 			"itemName": "Oriental Shoes",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.009249743062692703
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.008221993833504625
 		}
 	]
 }

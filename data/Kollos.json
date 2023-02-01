@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 22942
+			"timesDropped": 22942,
+			"dropRate": 0.9999128312412832
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 15148
+			"timesDropped": 15148,
+			"dropRate": 0.6602161785216178
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 3612
+			"timesDropped": 3612,
+			"dropRate": 0.1574267782426778
 		},
 		{
 			"itemName": "Kollos Shell",
-			"timesDropped": 3500
+			"timesDropped": 3500,
+			"dropRate": 0.15254532775453278
 		},
 		{
 			"itemName": "Tarsal Arrow",
-			"timesDropped": 2333
+			"timesDropped": 2333,
+			"dropRate": 0.10168235704323571
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 2052
+			"timesDropped": 2052,
+			"dropRate": 0.08943514644351465
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 1881
+			"timesDropped": 1881,
+			"dropRate": 0.08198221757322176
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 1186
+			"timesDropped": 1186,
+			"dropRate": 0.05169107391910739
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 886
+			"timesDropped": 886,
+			"dropRate": 0.03861576011157601
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 729
+			"timesDropped": 729,
+			"dropRate": 0.03177301255230126
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 572
+			"timesDropped": 572,
+			"dropRate": 0.0249302649930265
 		},
 		{
 			"itemName": "Hive Scythe",
-			"timesDropped": 183
+			"timesDropped": 183,
+			"dropRate": 0.007975941422594142
 		},
 		{
 			"itemName": "Buggy Backpack",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.004271269177126918
 		},
 		{
 			"itemName": "Calopteryx Cape",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.0037482566248256623
 		},
 		{
 			"itemName": "Carapace Shield",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.002832984658298466
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.001351115760111576
 		}
 	]
 }

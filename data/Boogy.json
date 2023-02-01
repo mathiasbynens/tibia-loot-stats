@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 172
+			"timesDropped": 172,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.16279069767441862
 		},
 		{
 			"itemName": "Shimmering Beetles",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.13372093023255813
 		},
 		{
 			"itemName": "Fairy Wings",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.12790697674418605
 		},
 		{
 			"itemName": "Wood Mushroom",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.06976744186046512
 		},
 		{
 			"itemName": "Leaf Star",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.06395348837209303
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.05232558139534884
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.03488372093023256
 		},
 		{
 			"itemName": "Ancient Coin",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.029069767441860465
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.029069767441860465
 		},
 		{
 			"itemName": "Sling Herb",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.029069767441860465
 		},
 		{
 			"itemName": "Prismatic Quartz",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.023255813953488372
 		},
 		{
 			"itemName": "Golden Sickle",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.01744186046511628
 		},
 		{
 			"itemName": "Wooden Spellbook",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.011627906976744186
 		}
 	]
 }

@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9505
+			"timesDropped": 9505,
+			"dropRate": 0.8594032549728752
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 1906
+			"timesDropped": 1906,
+			"dropRate": 0.17233273056057866
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1864
+			"timesDropped": 1864,
+			"dropRate": 0.16853526220614828
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 1745
+			"timesDropped": 1745,
+			"dropRate": 0.1577757685352622
 		},
 		{
 			"itemName": "Ice Flower (Item)",
-			"timesDropped": 991
+			"timesDropped": 991,
+			"dropRate": 0.08960216998191682
 		},
 		{
 			"itemName": "Dream Essence Egg",
-			"timesDropped": 969
+			"timesDropped": 969,
+			"dropRate": 0.0876130198915009
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 872
+			"timesDropped": 872,
+			"dropRate": 0.07884267631103074
 		},
 		{
 			"itemName": "Elven Astral Observer",
-			"timesDropped": 842
+			"timesDropped": 842,
+			"dropRate": 0.07613019891500904
 		},
 		{
 			"itemName": "Glacier Mask",
-			"timesDropped": 654
+			"timesDropped": 654,
+			"dropRate": 0.059132007233273054
 		},
 		{
 			"itemName": "Moonlight Rod",
-			"timesDropped": 597
+			"timesDropped": 597,
+			"dropRate": 0.05397830018083183
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 518
+			"timesDropped": 518,
+			"dropRate": 0.04683544303797468
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 324
+			"timesDropped": 324,
+			"dropRate": 0.029294755877034357
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 294
+			"timesDropped": 294,
+			"dropRate": 0.026582278481012658
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 261
+			"timesDropped": 261,
+			"dropRate": 0.02359855334538879
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 233
+			"timesDropped": 233,
+			"dropRate": 0.021066907775768536
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 214
+			"timesDropped": 214,
+			"dropRate": 0.019349005424954793
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 139
+			"timesDropped": 139,
+			"dropRate": 0.012567811934900542
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.0032549728752260397
 		}
 	]
 }

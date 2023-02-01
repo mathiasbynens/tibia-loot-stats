@@ -4,91 +4,113 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 30432
+			"timesDropped": 30432,
+			"dropRate": 0.971089412215202
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 15693
+			"timesDropped": 15693,
+			"dropRate": 0.5007658433850277
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 9387
+			"timesDropped": 9387,
+			"dropRate": 0.29954049396898336
 		},
 		{
 			"itemName": "Broken Slicer",
-			"timesDropped": 7814
+			"timesDropped": 7814,
+			"dropRate": 0.24934584210862212
 		},
 		{
 			"itemName": "Broken Draken Mail",
-			"timesDropped": 5554
+			"timesDropped": 5554,
+			"dropRate": 0.1772289233518412
 		},
 		{
 			"itemName": "Draken Wristbands",
-			"timesDropped": 4448
+			"timesDropped": 4448,
+			"dropRate": 0.14193630735847854
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 2910
+			"timesDropped": 2910,
+			"dropRate": 0.09285851043461613
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 2819
+			"timesDropped": 2819,
+			"dropRate": 0.0899546875997192
 		},
 		{
 			"itemName": "Draken Sulphur",
-			"timesDropped": 2530
+			"timesDropped": 2530,
+			"dropRate": 0.08073265683834323
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 771
+			"timesDropped": 771,
+			"dropRate": 0.024602718744016847
 		},
 		{
 			"itemName": "Magic Sulphur",
-			"timesDropped": 643
+			"timesDropped": 643,
+			"dropRate": 0.020518220690535452
 		},
 		{
 			"itemName": "Assassin Dagger",
-			"timesDropped": 280
+			"timesDropped": 280,
+			"dropRate": 0.008934839491990554
 		},
 		{
 			"itemName": "Twiceslicer",
-			"timesDropped": 270
+			"timesDropped": 270,
+			"dropRate": 0.00861573808156232
 		},
 		{
 			"itemName": "Zaoan Legs",
-			"timesDropped": 270
+			"timesDropped": 270,
+			"dropRate": 0.00861573808156232
 		},
 		{
 			"itemName": "Draken Boots",
-			"timesDropped": 181
+			"timesDropped": 181,
+			"dropRate": 0.0057757355287510375
 		},
 		{
 			"itemName": "Zaoan Armor",
-			"timesDropped": 179
+			"timesDropped": 179,
+			"dropRate": 0.00571191524666539
 		},
 		{
 			"itemName": "Zaoan Sword",
-			"timesDropped": 154
+			"timesDropped": 154,
+			"dropRate": 0.004914161720594805
 		},
 		{
 			"itemName": "Zaoan Helmet",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.0014997766290127002
 		},
 		{
 			"itemName": "Elite Draken Mail",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.0009253940902418789
 		},
 		{
 			"itemName": "Snake God's Wristguard",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.0005105622566851745
 		},
 		{
 			"itemName": "Blade of Corruption",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.00041483183355670435
 		},
 		{
 			"itemName": "Cobra Crown",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.00009573042312847023
 		}
 	]
 }

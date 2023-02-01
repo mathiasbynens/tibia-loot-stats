@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Shadow Herb",
-			"timesDropped": 713
+			"timesDropped": 713,
+			"dropRate": 0.10972606955986457
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 688
+			"timesDropped": 688,
+			"dropRate": 0.10587873191751308
 		},
 		{
 			"itemName": "Nettle Spit",
-			"timesDropped": 645
+			"timesDropped": 645,
+			"dropRate": 0.09926131117266851
 		},
 		{
 			"itemName": "Sling Herb",
-			"timesDropped": 363
+			"timesDropped": 363,
+			"dropRate": 0.055863342566943676
 		},
 		{
 			"itemName": "Grave Flower",
-			"timesDropped": 64
+			"timesDropped": 64,
+			"dropRate": 0.009849184364419821
 		},
 		{
 			"itemName": "Nettle Blossom",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.008925823330255463
 		},
 		{
 			"itemName": "Seeds",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.003693444136657433
 		}
 	]
 }

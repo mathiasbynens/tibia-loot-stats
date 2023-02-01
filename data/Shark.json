@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7984
+			"timesDropped": 7984,
+			"dropRate": 0.9146523083972964
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 2201
+			"timesDropped": 2201,
+			"dropRate": 0.25214801237255124
 		},
 		{
 			"itemName": "Deepling Scales",
-			"timesDropped": 838
+			"timesDropped": 838,
+			"dropRate": 0.09600183297055791
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 99
+			"timesDropped": 99,
+			"dropRate": 0.011341505327070685
 		},
 		{
 			"itemName": "Eye of a Deepling",
-			"timesDropped": 93
+			"timesDropped": 93,
+			"dropRate": 0.010654141367854279
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.00400962309542903
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.0017184098980410128
 		}
 	]
 }

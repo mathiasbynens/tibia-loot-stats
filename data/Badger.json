@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Beetroot",
-			"timesDropped": 10105
+			"timesDropped": 10105,
+			"dropRate": 0.40394147745442915
 		},
 		{
 			"itemName": "Badger Fur",
-			"timesDropped": 2528
+			"timesDropped": 2528,
+			"dropRate": 0.10105532459226095
 		},
 		{
 			"itemName": "Acorn",
-			"timesDropped": 1262
+			"timesDropped": 1262,
+			"dropRate": 0.050447713463383434
 		}
 	]
 }

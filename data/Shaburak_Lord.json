@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3250
+			"timesDropped": 3250,
+			"dropRate": 0.960401891252955
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1157
+			"timesDropped": 1157,
+			"dropRate": 0.341903073286052
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 231
+			"timesDropped": 231,
+			"dropRate": 0.06826241134751773
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 231
+			"timesDropped": 231,
+			"dropRate": 0.06826241134751773
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 211
+			"timesDropped": 211,
+			"dropRate": 0.06235224586288416
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 182
+			"timesDropped": 182,
+			"dropRate": 0.053782505910165486
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.013002364066193853
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.00975177304964539
 		},
 		{
 			"itemName": "Bullseye Potion",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.004432624113475178
 		},
 		{
 			"itemName": "Magic Sulphur",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.004432624113475178
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.0014775413711583924
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.001182033096926714
 		}
 	]
 }

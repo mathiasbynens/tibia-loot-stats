@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1794
+			"timesDropped": 1794,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Spectral Silver Nugget",
-			"timesDropped": 183
+			"timesDropped": 183,
+			"dropRate": 0.1020066889632107
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 155
+			"timesDropped": 155,
+			"dropRate": 0.08639910813823858
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 84
+			"timesDropped": 84,
+			"dropRate": 0.046822742474916385
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.04292084726867335
 		},
 		{
 			"itemName": "Strange Talisman",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.03511705685618729
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.03400222965440357
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.017837235228539576
 		}
 	]
 }

@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Worm",
-			"timesDropped": 1312
+			"timesDropped": 1312,
+			"dropRate": 0.8044144696505211
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1155
+			"timesDropped": 1155,
+			"dropRate": 0.7081545064377682
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 1002
+			"timesDropped": 1002,
+			"dropRate": 0.6143470263641937
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 300
+			"timesDropped": 300,
+			"dropRate": 0.18393623543838136
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 234
+			"timesDropped": 234,
+			"dropRate": 0.14347026364193746
 		},
 		{
 			"itemName": "Viking Helmet",
-			"timesDropped": 87
+			"timesDropped": 87,
+			"dropRate": 0.05334150827713059
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.03678724708767627
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.028816676885346414
 		},
 		{
 			"itemName": "Brown Piece of Cloth",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.009196811771919068
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.001226241569589209
 		}
 	]
 }

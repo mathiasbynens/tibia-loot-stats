@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 66864
+			"timesDropped": 66864,
+			"dropRate": 0.5809259854559987
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 10348
+			"timesDropped": 10348,
+			"dropRate": 0.08990521203485695
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 5691
+			"timesDropped": 5691,
+			"dropRate": 0.04944439135005517
 		},
 		{
 			"itemName": "Half-Digested Piece of Meat",
-			"timesDropped": 5682
+			"timesDropped": 5682,
+			"dropRate": 0.049366197794941745
 		},
 		{
 			"itemName": "Iron Helmet",
-			"timesDropped": 2351
+			"timesDropped": 2351,
+			"dropRate": 0.02042589423018445
 		},
 		{
 			"itemName": "Rotten Meat",
-			"timesDropped": 2275
+			"timesDropped": 2275,
+			"dropRate": 0.019765593098115534
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 2264
+			"timesDropped": 2264,
+			"dropRate": 0.019670023197421352
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 1193
+			"timesDropped": 1193,
+			"dropRate": 0.010364990138923882
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 1154
+			"timesDropped": 1154,
+			"dropRate": 0.010026151400099045
 		},
 		{
 			"itemName": "Bone Sword",
-			"timesDropped": 1146
+			"timesDropped": 1146,
+			"dropRate": 0.009956646017776
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 568
+			"timesDropped": 568,
+			"dropRate": 0.0049348821449360985
 		}
 	]
 }

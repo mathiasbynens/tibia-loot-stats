@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 615
+			"timesDropped": 615,
+			"dropRate": 0.1594090202177294
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 383
+			"timesDropped": 383,
+			"dropRate": 0.09927423535510627
 		},
 		{
 			"itemName": "Roasted Meat",
-			"timesDropped": 196
+			"timesDropped": 196,
+			"dropRate": 0.05080352514256091
 		},
 		{
 			"itemName": "Beer Tap",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.01762571280456195
 		},
 		{
 			"itemName": "Leberkassemmel",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.0007776049766718507
 		}
 	]
 }

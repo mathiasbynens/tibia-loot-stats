@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4854
+			"timesDropped": 4854,
+			"dropRate": 0.7162461266046923
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 2116
+			"timesDropped": 2116,
+			"dropRate": 0.312232551276376
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1863
+			"timesDropped": 1863,
+			"dropRate": 0.2749003984063745
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 1594
+			"timesDropped": 1594,
+			"dropRate": 0.23520731887265753
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 1155
+			"timesDropped": 1155,
+			"dropRate": 0.17042939353696326
 		},
 		{
 			"itemName": "Cobra Crest",
-			"timesDropped": 1058
+			"timesDropped": 1058,
+			"dropRate": 0.156116275638188
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 957
+			"timesDropped": 957,
+			"dropRate": 0.14121292607348385
 		},
 		{
 			"itemName": "Bone Sword",
-			"timesDropped": 611
+			"timesDropped": 611,
+			"dropRate": 0.09015788697063598
 		},
 		{
 			"itemName": "Heavy Machete",
-			"timesDropped": 545
+			"timesDropped": 545,
+			"dropRate": 0.0804190644828095
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 478
+			"timesDropped": 478,
+			"dropRate": 0.07053268407850082
 		},
 		{
 			"itemName": "Machete",
-			"timesDropped": 349
+			"timesDropped": 349,
+			"dropRate": 0.05149771285229453
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 320
+			"timesDropped": 320,
+			"dropRate": 0.047218533274310165
 		},
 		{
 			"itemName": "Carlin Sword",
-			"timesDropped": 306
+			"timesDropped": 306,
+			"dropRate": 0.0451527224435591
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 221
+			"timesDropped": 221,
+			"dropRate": 0.032610299542570456
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 138
+			"timesDropped": 138,
+			"dropRate": 0.02036299247454626
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.008705917072450936
 		}
 	]
 }

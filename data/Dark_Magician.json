@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 65935
+			"timesDropped": 65935,
+			"dropRate": 0.7498237314349399
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 10544
+			"timesDropped": 10544,
+			"dropRate": 0.11990811290285897
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 10489
+			"timesDropped": 10489,
+			"dropRate": 0.1192826438010326
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 8784
+			"timesDropped": 8784,
+			"dropRate": 0.09989310164441513
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 2608
+			"timesDropped": 2608,
+			"dropRate": 0.02965860759205768
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 2540
+			"timesDropped": 2540,
+			"dropRate": 0.028885300338890533
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 458
+			"timesDropped": 458,
+			"dropRate": 0.005208451793390498
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 255
+			"timesDropped": 255,
+			"dropRate": 0.002899902199376805
 		},
 		{
 			"itemName": "Reins",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.0002160711442672914
 		}
 	]
 }

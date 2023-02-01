@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2221
+			"timesDropped": 2221,
+			"dropRate": 0.8067562658917544
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 1247
+			"timesDropped": 1247,
+			"dropRate": 0.4529604068289139
 		},
 		{
 			"itemName": "Rubbish Amulet",
-			"timesDropped": 192
+			"timesDropped": 192,
+			"dropRate": 0.06974209952778787
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.048674173628768615
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.007628042135851798
 		}
 	]
 }

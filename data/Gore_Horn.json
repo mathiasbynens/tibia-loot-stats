@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gore Horn (Item)",
-			"timesDropped": 1347
+			"timesDropped": 1347,
+			"dropRate": 0.36073915372254955
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1122
+			"timesDropped": 1122,
+			"dropRate": 0.30048205677557577
 		},
 		{
 			"itemName": "Big Bone",
-			"timesDropped": 197
+			"timesDropped": 197,
+			"dropRate": 0.05275843599357258
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.035886448848419926
 		},
 		{
 			"itemName": "Metal Spats",
-			"timesDropped": 116
+			"timesDropped": 116,
+			"dropRate": 0.031065881092662024
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 87
+			"timesDropped": 87,
+			"dropRate": 0.02329941081949652
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.02062131762185324
 		},
 		{
 			"itemName": "Doublet",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.013926084627745045
 		},
 		{
 			"itemName": "Hammer of Wrath",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.010712372790573112
 		}
 	]
 }

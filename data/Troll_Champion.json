@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 17480
+			"timesDropped": 17480,
+			"dropRate": 0.6459003066917932
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 6783
+			"timesDropped": 6783,
+			"dropRate": 0.25063740161844583
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 2697
+			"timesDropped": 2697,
+			"dropRate": 0.09965635738831616
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 2688
+			"timesDropped": 2688,
+			"dropRate": 0.09932380002217049
 		},
 		{
 			"itemName": "Wooden Shield",
-			"timesDropped": 1439
+			"timesDropped": 1439,
+			"dropRate": 0.05317222776484499
 		},
 		{
 			"itemName": "Studded Club",
-			"timesDropped": 1370
+			"timesDropped": 1370,
+			"dropRate": 0.0506226212910616
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 1369
+			"timesDropped": 1369,
+			"dropRate": 0.05058567047260097
 		},
 		{
 			"itemName": "Bunch of Troll Hair",
-			"timesDropped": 831
+			"timesDropped": 831,
+			"dropRate": 0.03070613014078262
 		},
 		{
 			"itemName": "Trollroot",
-			"timesDropped": 250
+			"timesDropped": 250,
+			"dropRate": 0.009237704615157225
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.0012563278276613828
 		}
 	]
 }

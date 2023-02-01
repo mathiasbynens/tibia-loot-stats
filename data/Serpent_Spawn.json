@@ -4,95 +4,118 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 57472
+			"timesDropped": 57472,
+			"dropRate": 0.972338301723992
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 10829
+			"timesDropped": 10829,
+			"dropRate": 0.1832101104776084
 		},
 		{
 			"itemName": "Snake Skin",
-			"timesDropped": 8848
+			"timesDropped": 8848,
+			"dropRate": 0.14969462161842084
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 7175
+			"timesDropped": 7175,
+			"dropRate": 0.12139002148645676
 		},
 		{
 			"itemName": "Power Bolt",
-			"timesDropped": 3613
+			"timesDropped": 3613,
+			"dropRate": 0.06112643172551475
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 3584
+			"timesDropped": 3584,
+			"dropRate": 0.06063579609860084
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 3522
+			"timesDropped": 3522,
+			"dropRate": 0.05958685096519871
 		},
 		{
 			"itemName": "Golden Mug",
-			"timesDropped": 1752
+			"timesDropped": 1752,
+			"dropRate": 0.02964115925355711
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 1199
+			"timesDropped": 1199,
+			"dropRate": 0.020285245402405807
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1190
+			"timesDropped": 1190,
+			"dropRate": 0.020132979173363562
 		},
 		{
 			"itemName": "Snakebite Rod",
-			"timesDropped": 584
+			"timesDropped": 584,
+			"dropRate": 0.009880386417852369
 		},
 		{
 			"itemName": "Winged Tail",
-			"timesDropped": 557
+			"timesDropped": 557,
+			"dropRate": 0.009423587730725633
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 505
+			"timesDropped": 505,
+			"dropRate": 0.008543827296259326
 		},
 		{
 			"itemName": "Noble Axe",
-			"timesDropped": 476
+			"timesDropped": 476,
+			"dropRate": 0.008053191669345424
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 466
+			"timesDropped": 466,
+			"dropRate": 0.007884006970409595
 		},
 		{
 			"itemName": "Strange Helmet",
-			"timesDropped": 371
+			"timesDropped": 371,
+			"dropRate": 0.0062767523305192275
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 333
+			"timesDropped": 333,
+			"dropRate": 0.005633850474563081
 		},
 		{
 			"itemName": "Old Parchment",
-			"timesDropped": 332
+			"timesDropped": 332,
+			"dropRate": 0.005616932004669498
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 301
+			"timesDropped": 301,
+			"dropRate": 0.00509245943796843
 		},
 		{
 			"itemName": "Charmer's Tiara",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.0018102762786133622
 		},
 		{
 			"itemName": "Royal Helmet",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 0.001235048302231546
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.0009812712538278038
 		},
 		{
 			"itemName": "Swamplair Armor",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.0008459234946791412
 		}
 	]
 }

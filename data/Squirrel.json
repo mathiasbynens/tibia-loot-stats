@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Acorn",
-			"timesDropped": 1763
+			"timesDropped": 1763,
+			"dropRate": 0.3289792871804441
 		},
 		{
 			"itemName": "Peanut",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.005598059339428998
 		},
 		{
 			"itemName": "Walnut",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.005038253405486098
 		}
 	]
 }

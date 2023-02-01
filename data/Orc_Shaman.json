@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5437
+			"timesDropped": 5437,
+			"dropRate": 0.8989748677248677
 		},
 		{
 			"itemName": "Corncob",
-			"timesDropped": 653
+			"timesDropped": 653,
+			"dropRate": 0.10796957671957672
 		},
 		{
 			"itemName": "Broken Shamanic Staff",
-			"timesDropped": 616
+			"timesDropped": 616,
+			"dropRate": 0.10185185185185185
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 520
+			"timesDropped": 520,
+			"dropRate": 0.08597883597883597
 		},
 		{
 			"itemName": "Shamanic Hood",
-			"timesDropped": 454
+			"timesDropped": 454,
+			"dropRate": 0.07506613756613757
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 323
+			"timesDropped": 323,
+			"dropRate": 0.05340608465608466
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 227
+			"timesDropped": 227,
+			"dropRate": 0.037533068783068786
 		},
 		{
 			"itemName": "Heavy Old Tome",
-			"timesDropped": 137
+			"timesDropped": 137,
+			"dropRate": 0.022652116402116403
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.022156084656084655
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.009755291005291005
 		},
 		{
 			"itemName": "Book (Grey)",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.004464285714285714
 		}
 	]
 }

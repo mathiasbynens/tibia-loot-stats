@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 996
+			"timesDropped": 996,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Flaming Arrow",
-			"timesDropped": 228
+			"timesDropped": 228,
+			"dropRate": 0.2289156626506024
 		},
 		{
 			"itemName": "Ogre Ear Stud",
-			"timesDropped": 195
+			"timesDropped": 195,
+			"dropRate": 0.19578313253012047
 		},
 		{
 			"itemName": "Ogre Nose Ring",
-			"timesDropped": 178
+			"timesDropped": 178,
+			"dropRate": 0.178714859437751
 		},
 		{
 			"itemName": "Skull Fetish",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.10240963855421686
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.0823293172690763
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.04819277108433735
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.04819277108433735
 		},
 		{
 			"itemName": "Prismatic Quartz",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.04618473895582329
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.03112449799196787
 		},
 		{
 			"itemName": "Jalapeno Pepper",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.029116465863453816
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.028112449799196786
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.02710843373493976
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.015060240963855422
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.015060240963855422
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.012048192771084338
 		},
 		{
 			"itemName": "Ogre Choppa",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.012048192771084338
 		},
 		{
 			"itemName": "Wand of Everblazing",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.012048192771084338
 		}
 	]
 }

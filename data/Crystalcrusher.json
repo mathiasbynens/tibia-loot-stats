@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18428
+			"timesDropped": 18428,
+			"dropRate": 0.8464082307550983
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 1118
+			"timesDropped": 1118,
+			"dropRate": 0.05135035825831343
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 1101
+			"timesDropped": 1101,
+			"dropRate": 0.05056953885724784
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 1081
+			"timesDropped": 1081,
+			"dropRate": 0.04965092779717068
 		},
 		{
 			"itemName": "Crystalline Arrow",
-			"timesDropped": 1077
+			"timesDropped": 1077,
+			"dropRate": 0.049467205585155244
 		},
 		{
 			"itemName": "Crystalline Spikes",
-			"timesDropped": 791
+			"timesDropped": 791,
+			"dropRate": 0.03633106742605181
 		}
 	]
 }

@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 2074
+			"timesDropped": 2074,
+			"dropRate": 0.3446327683615819
 		},
 		{
 			"itemName": "Striped Fur",
-			"timesDropped": 624
+			"timesDropped": 624,
+			"dropRate": 0.1036889332003988
 		}
 	]
 }

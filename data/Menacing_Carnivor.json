@@ -4,91 +4,113 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 904
+			"timesDropped": 904,
+			"dropRate": 0.6466380543633763
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 240
+			"timesDropped": 240,
+			"dropRate": 0.17167381974248927
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 139
+			"timesDropped": 139,
+			"dropRate": 0.0994277539341917
 		},
 		{
 			"itemName": "Violet Glass Plate",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.0715307582260372
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.04864091559370529
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.04721030042918455
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.04291845493562232
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.032904148783977114
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.030758226037195996
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.022174535050071532
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.02145922746781116
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.0178826895565093
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.017167381974248927
 		},
 		{
 			"itemName": "Machete",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.016452074391988557
 		},
 		{
 			"itemName": "Heavy Machete",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.012875536480686695
 		},
 		{
 			"itemName": "Wand of Dragonbreath",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.011444921316165951
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.01072961373390558
 		},
 		{
 			"itemName": "Tiger Eye",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.010014306151645207
 		},
 		{
 			"itemName": "Iron Helmet",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.007868383404864092
 		},
 		{
 			"itemName": "Serpent Sword",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.007868383404864092
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.005007153075822604
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.005007153075822604
 		}
 	]
 }

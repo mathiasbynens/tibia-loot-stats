@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 45335
+			"timesDropped": 45335,
+			"dropRate": 0.9929474122259456
 		},
 		{
 			"itemName": "Elder Bonelord Tentacle",
-			"timesDropped": 9147
+			"timesDropped": 9147,
+			"dropRate": 0.2003416781654511
 		},
 		{
 			"itemName": "Small Flask of Eyedrops",
-			"timesDropped": 4437
+			"timesDropped": 4437,
+			"dropRate": 0.09718115513502858
 		},
 		{
 			"itemName": "Sniper Arrow",
-			"timesDropped": 4011
+			"timesDropped": 4011,
+			"dropRate": 0.08785071292463369
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 1357
+			"timesDropped": 1357,
+			"dropRate": 0.029721619904943382
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 926
+			"timesDropped": 926,
+			"dropRate": 0.020281665462032108
 		},
 		{
 			"itemName": "Bonelord Eye",
-			"timesDropped": 878
+			"timesDropped": 878,
+			"dropRate": 0.019230348029874937
 		},
 		{
 			"itemName": "Spellbook",
-			"timesDropped": 463
+			"timesDropped": 463,
+			"dropRate": 0.010140832731016054
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 381
+			"timesDropped": 381,
+			"dropRate": 0.008344832117747553
 		},
 		{
 			"itemName": "Giant Eye",
-			"timesDropped": 208
+			"timesDropped": 208,
+			"dropRate": 0.004555708872681079
 		},
 		{
 			"itemName": "Bonelord Helmet",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.0008760978601309766
 		},
 		{
 			"itemName": "Bonelord Shield",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.0008760978601309766
 		}
 	]
 }

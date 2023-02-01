@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1903
+			"timesDropped": 1903,
+			"dropRate": 0.5186699373126192
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 895
+			"timesDropped": 895,
+			"dropRate": 0.243935677296266
 		},
 		{
 			"itemName": "Hand",
-			"timesDropped": 206
+			"timesDropped": 206,
+			"dropRate": 0.056146088852548376
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.028345598255655493
 		},
 		{
 			"itemName": "Head (Brachiodemon)",
-			"timesDropped": 103
+			"timesDropped": 103,
+			"dropRate": 0.028073044426274188
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 56
+			"timesDropped": 56,
+			"dropRate": 0.015263014445352958
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.014717906786590351
 		},
 		{
 			"itemName": "Noble Axe",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.010902153175252113
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.007358953393295176
 		},
 		{
 			"itemName": "Assassin Dagger",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.005451076587626056
 		},
 		{
 			"itemName": "Butcher's Axe",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.005451076587626056
 		},
 		{
 			"itemName": "Ring of Green Plasma",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.005178522758244753
 		},
 		{
 			"itemName": "Alloy Legs",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.004905968928863451
 		},
 		{
 			"itemName": "Jade Hammer",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.0046334150994821474
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.004360861270100845
 		},
 		{
 			"itemName": "Metal Bat",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.004360861270100845
 		},
 		{
 			"itemName": "Mastermind Shield",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.003270645952575634
 		},
 		{
 			"itemName": "Royal Helmet",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.002998092123194331
 		},
 		{
 			"itemName": "Diabolic Skull",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.002725538293813028
 		},
 		{
 			"itemName": "Crystalline Sword",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.0024529844644317253
 		}
 	]
 }

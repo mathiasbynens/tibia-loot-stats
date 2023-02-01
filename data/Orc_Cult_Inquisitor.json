@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5018
+			"timesDropped": 5018,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Bug Meat",
-			"timesDropped": 990
+			"timesDropped": 990,
+			"dropRate": 0.1972897568752491
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 893
+			"timesDropped": 893,
+			"dropRate": 0.17795934635312874
 		},
 		{
 			"itemName": "Orcish Gear",
-			"timesDropped": 838
+			"timesDropped": 838,
+			"dropRate": 0.16699880430450378
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 596
+			"timesDropped": 596,
+			"dropRate": 0.118772419290554
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 510
+			"timesDropped": 510,
+			"dropRate": 0.10163411717815862
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 497
+			"timesDropped": 497,
+			"dropRate": 0.0990434436030291
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 472
+			"timesDropped": 472,
+			"dropRate": 0.0940613790354723
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 423
+			"timesDropped": 423,
+			"dropRate": 0.08429653248306097
 		},
 		{
 			"itemName": "Red Mushroom",
-			"timesDropped": 418
+			"timesDropped": 418,
+			"dropRate": 0.08330011956954962
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 315
+			"timesDropped": 315,
+			"dropRate": 0.06277401355121562
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 313
+			"timesDropped": 313,
+			"dropRate": 0.06237544838581108
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 308
+			"timesDropped": 308,
+			"dropRate": 0.06137903547229972
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 259
+			"timesDropped": 259,
+			"dropRate": 0.0516141889198884
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 156
+			"timesDropped": 156,
+			"dropRate": 0.031088082901554404
 		}
 	]
 }

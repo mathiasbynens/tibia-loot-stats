@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Emerald Tortoise Shell",
-			"timesDropped": 1085
+			"timesDropped": 1085,
+			"dropRate": 0.28605325599789083
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 589
+			"timesDropped": 589,
+			"dropRate": 0.1552860532559979
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 506
+			"timesDropped": 506,
+			"dropRate": 0.13340363828104404
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 153
+			"timesDropped": 153,
+			"dropRate": 0.040337463749011336
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 150
+			"timesDropped": 150,
+			"dropRate": 0.039546533087266016
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 150
+			"timesDropped": 150,
+			"dropRate": 0.039546533087266016
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 127
+			"timesDropped": 127,
+			"dropRate": 0.03348273134721856
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 126
+			"timesDropped": 126,
+			"dropRate": 0.03321908779330345
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 123
+			"timesDropped": 123,
+			"dropRate": 0.03242815713155813
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 110
+			"timesDropped": 110,
+			"dropRate": 0.029000790930661744
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 108
+			"timesDropped": 108,
+			"dropRate": 0.028473503822831533
 		},
 		{
 			"itemName": "Orichalcum Pearl",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.026364355391510677
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 92
+			"timesDropped": 92,
+			"dropRate": 0.024255206960189825
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 92
+			"timesDropped": 92,
+			"dropRate": 0.024255206960189825
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.021618771421038754
 		}
 	]
 }

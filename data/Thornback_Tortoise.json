@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10086
+			"timesDropped": 10086,
+			"dropRate": 0.8775776559645001
 		},
 		{
 			"itemName": "Thorn",
-			"timesDropped": 1774
+			"timesDropped": 1774,
+			"dropRate": 0.15435482467588968
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 1186
+			"timesDropped": 1186,
+			"dropRate": 0.10319324806403898
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 178
+			"timesDropped": 178,
+			"dropRate": 0.015487688158009223
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 154
+			"timesDropped": 154,
+			"dropRate": 0.01339946054119899
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 132
+			"timesDropped": 132,
+			"dropRate": 0.011485251892456277
 		},
 		{
 			"itemName": "Turtle Shell",
-			"timesDropped": 125
+			"timesDropped": 125,
+			"dropRate": 0.01087618550421996
 		},
 		{
 			"itemName": "Tortoise Egg",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.009310014791612286
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 80
+			"timesDropped": 80,
+			"dropRate": 0.006960758722700774
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.006264682850430697
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.0028713129731140694
 		}
 	]
 }

@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Stalking Seeds",
-			"timesDropped": 155
+			"timesDropped": 155,
+			"dropRate": 0.22627737226277372
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 117
+			"timesDropped": 117,
+			"dropRate": 0.1708029197080292
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.06423357664233577
 		},
 		{
 			"itemName": "Dragon Necklace",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.049635036496350364
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.03795620437956204
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.030656934306569343
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.021897810218978103
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.020437956204379562
 		},
 		{
 			"itemName": "Muck Rod",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.017518248175182483
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.013138686131386862
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.013138686131386862
 		}
 	]
 }

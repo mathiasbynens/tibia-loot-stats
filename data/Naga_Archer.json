@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2365
+			"timesDropped": 2365,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Naga Archer Scales",
-			"timesDropped": 386
+			"timesDropped": 386,
+			"dropRate": 0.16321353065539113
 		},
 		{
 			"itemName": "Naga Earring",
-			"timesDropped": 305
+			"timesDropped": 305,
+			"dropRate": 0.12896405919661733
 		},
 		{
 			"itemName": "Naga Armring",
-			"timesDropped": 174
+			"timesDropped": 174,
+			"dropRate": 0.07357293868921776
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 137
+			"timesDropped": 137,
+			"dropRate": 0.057928118393234675
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 94
+			"timesDropped": 94,
+			"dropRate": 0.039746300211416494
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.03763213530655391
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.02029598308668076
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.019027484143763214
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.008033826638477801
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.00718816067653277
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.006765327695560253
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.00507399577167019
 		},
 		{
 			"itemName": "Elvish Bow",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.004228329809725159
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0033826638477801266
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.0021141649048625794
 		},
 		{
 			"itemName": "Bullseye Potion",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0008456659619450317
 		}
 	]
 }

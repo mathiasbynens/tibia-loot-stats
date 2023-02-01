@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5015
+			"timesDropped": 5015,
+			"dropRate": 0.9113210975831365
 		},
 		{
 			"itemName": "Leather Legs",
-			"timesDropped": 1498
+			"timesDropped": 1498,
+			"dropRate": 0.2722151553697983
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 892
+			"timesDropped": 892,
+			"dropRate": 0.16209340359803742
 		},
 		{
 			"itemName": "Lion Cloak Patch",
-			"timesDropped": 611
+			"timesDropped": 611,
+			"dropRate": 0.11103034708340905
 		},
 		{
 			"itemName": "Lion Crest",
-			"timesDropped": 355
+			"timesDropped": 355,
+			"dropRate": 0.06451026712702163
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 325
+			"timesDropped": 325,
+			"dropRate": 0.059058695257132476
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 299
+			"timesDropped": 299,
+			"dropRate": 0.054333999636561874
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 288
+			"timesDropped": 288,
+			"dropRate": 0.05233508995093585
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 220
+			"timesDropped": 220,
+			"dropRate": 0.03997819371252044
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 200
+			"timesDropped": 200,
+			"dropRate": 0.036343812465927675
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 146
+			"timesDropped": 146,
+			"dropRate": 0.026530983100127203
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 56
+			"timesDropped": 56,
+			"dropRate": 0.010176267490459748
 		}
 	]
 }

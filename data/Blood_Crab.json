@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9786
+			"timesDropped": 9786,
+			"dropRate": 0.8575184016824395
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 1760
+			"timesDropped": 1760,
+			"dropRate": 0.15422362425517
 		},
 		{
 			"itemName": "Bloody Pincers",
-			"timesDropped": 690
+			"timesDropped": 690,
+			"dropRate": 0.06046267087276551
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 585
+			"timesDropped": 585,
+			"dropRate": 0.051261829652996846
 		},
 		{
 			"itemName": "Brass Legs",
-			"timesDropped": 241
+			"timesDropped": 241,
+			"dropRate": 0.021118121275849982
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.005345250613389415
 		}
 	]
 }

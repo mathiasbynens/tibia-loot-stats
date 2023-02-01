@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5483
+			"timesDropped": 5483,
+			"dropRate": 0.8201944652206432
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 361
+			"timesDropped": 361,
+			"dropRate": 0.05400149588631264
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 150
+			"timesDropped": 150,
+			"dropRate": 0.02243829468960359
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 64
+			"timesDropped": 64,
+			"dropRate": 0.009573672400897532
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.0050860134629768135
 		},
 		{
 			"itemName": "Slime Mould",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.0029917726252804786
 		}
 	]
 }

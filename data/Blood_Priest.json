@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5732
+			"timesDropped": 5732,
+			"dropRate": 0.9998255712541427
 		},
 		{
 			"itemName": "Book of Necromantic Rituals",
-			"timesDropped": 870
+			"timesDropped": 870,
+			"dropRate": 0.15175300889586604
 		},
 		{
 			"itemName": "Incantation Notes",
-			"timesDropped": 835
+			"timesDropped": 835,
+			"dropRate": 0.14564800279085993
 		},
 		{
 			"itemName": "Lancet",
-			"timesDropped": 835
+			"timesDropped": 835,
+			"dropRate": 0.14564800279085993
 		},
 		{
 			"itemName": "Blood Tincture in a Vial",
-			"timesDropped": 813
+			"timesDropped": 813,
+			"dropRate": 0.14181057038199896
 		},
 		{
 			"itemName": "Horoscope",
-			"timesDropped": 565
+			"timesDropped": 565,
+			"dropRate": 0.09855224140938426
 		},
 		{
 			"itemName": "Pieces of Magic Chalk",
-			"timesDropped": 425
+			"timesDropped": 425,
+			"dropRate": 0.07413221698935984
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 348
+			"timesDropped": 348,
+			"dropRate": 0.06070120355834641
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 185
+			"timesDropped": 185,
+			"dropRate": 0.0322693179836037
 		},
 		{
 			"itemName": "White Piece of Cloth",
-			"timesDropped": 163
+			"timesDropped": 163,
+			"dropRate": 0.02843188557474272
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 160
+			"timesDropped": 160,
+			"dropRate": 0.027908599337170766
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.0076748648177219604
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.006628292342578057
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.0031397174254317113
 		},
 		{
 			"itemName": "Spellbook of Warding",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.0029652886795743937
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.0026164311878597592
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.0019187162044304901
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.0017442874585731729
 		},
 		{
 			"itemName": "Noble Axe",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0006977149834292691
 		}
 	]
 }

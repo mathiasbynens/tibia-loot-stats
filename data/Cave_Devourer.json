@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Cave Devourer Eyes",
-			"timesDropped": 509
+			"timesDropped": 509,
+			"dropRate": 0.187338976812661
 		},
 		{
 			"itemName": "Cave Devourer Maw",
-			"timesDropped": 499
+			"timesDropped": 499,
+			"dropRate": 0.18365844681634155
 		},
 		{
 			"itemName": "Cave Devourer Legs",
-			"timesDropped": 399
+			"timesDropped": 399,
+			"dropRate": 0.14685314685314685
 		},
 		{
 			"itemName": "Crystalline Arrow",
-			"timesDropped": 397
+			"timesDropped": 397,
+			"dropRate": 0.14611704085388297
 		},
 		{
 			"itemName": "Slime Heart",
-			"timesDropped": 306
+			"timesDropped": 306,
+			"dropRate": 0.11262421788737578
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 203
+			"timesDropped": 203,
+			"dropRate": 0.07471475892528524
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 185
+			"timesDropped": 185,
+			"dropRate": 0.06808980493191019
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 170
+			"timesDropped": 170,
+			"dropRate": 0.06256900993743099
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 165
+			"timesDropped": 165,
+			"dropRate": 0.06072874493927125
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 155
+			"timesDropped": 155,
+			"dropRate": 0.057048214942951786
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 118
+			"timesDropped": 118,
+			"dropRate": 0.04343025395656975
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 56
+			"timesDropped": 56,
+			"dropRate": 0.020610967979389033
 		},
 		{
 			"itemName": "Suspicious Device",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.013986013986013986
 		}
 	]
 }

@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2151
+			"timesDropped": 2151,
+			"dropRate": 0.9632781012091357
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 408
+			"timesDropped": 408,
+			"dropRate": 0.18271383788625167
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 322
+			"timesDropped": 322,
+			"dropRate": 0.14420062695924765
 		},
 		{
 			"itemName": "Blazing Bone",
-			"timesDropped": 244
+			"timesDropped": 244,
+			"dropRate": 0.10927004030452306
 		}
 	]
 }

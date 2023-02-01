@@ -4,123 +4,153 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3249
+			"timesDropped": 3249,
+			"dropRate": 0.9040066777963273
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2822
+			"timesDropped": 2822,
+			"dropRate": 0.7851975514746801
 		},
 		{
 			"itemName": "Frazzle Tongue",
-			"timesDropped": 521
+			"timesDropped": 521,
+			"dropRate": 0.1449638286032276
 		},
 		{
 			"itemName": "Frazzle Skin",
-			"timesDropped": 445
+			"timesDropped": 445,
+			"dropRate": 0.1238174735670562
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 435
+			"timesDropped": 435,
+			"dropRate": 0.12103505843071787
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 432
+			"timesDropped": 432,
+			"dropRate": 0.12020033388981637
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 428
+			"timesDropped": 428,
+			"dropRate": 0.11908736783528102
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 341
+			"timesDropped": 341,
+			"dropRate": 0.09488035614913745
 		},
 		{
 			"itemName": "Fishbone",
-			"timesDropped": 340
+			"timesDropped": 340,
+			"dropRate": 0.09460211463550362
 		},
 		{
 			"itemName": "Fish Tail",
-			"timesDropped": 304
+			"timesDropped": 304,
+			"dropRate": 0.08458542014468559
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 292
+			"timesDropped": 292,
+			"dropRate": 0.08124652198107958
 		},
 		{
 			"itemName": "Piece of Iron",
-			"timesDropped": 286
+			"timesDropped": 286,
+			"dropRate": 0.07957707289927657
 		},
 		{
 			"itemName": "Crystal Rubbish",
-			"timesDropped": 282
+			"timesDropped": 282,
+			"dropRate": 0.07846410684474124
 		},
 		{
 			"itemName": "Remains of a Fish",
-			"timesDropped": 271
+			"timesDropped": 271,
+			"dropRate": 0.07540345019476906
 		},
 		{
 			"itemName": "Banana Skin",
-			"timesDropped": 259
+			"timesDropped": 259,
+			"dropRate": 0.07206455203116305
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 174
+			"timesDropped": 174,
+			"dropRate": 0.048414023372287146
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 166
+			"timesDropped": 166,
+			"dropRate": 0.04618809126321647
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 165
+			"timesDropped": 165,
+			"dropRate": 0.045909849749582635
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 160
+			"timesDropped": 160,
+			"dropRate": 0.044518642181413465
 		},
 		{
 			"itemName": "Hardened Bone",
-			"timesDropped": 150
+			"timesDropped": 150,
+			"dropRate": 0.041736227045075125
 		},
 		{
 			"itemName": "Big Bone",
-			"timesDropped": 127
+			"timesDropped": 127,
+			"dropRate": 0.03533667223149694
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 96
+			"timesDropped": 96,
+			"dropRate": 0.02671118530884808
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 88
+			"timesDropped": 88,
+			"dropRate": 0.02448525319977741
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 80
+			"timesDropped": 80,
+			"dropRate": 0.022259321090706732
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 67
+			"timesDropped": 67,
+			"dropRate": 0.01864218141346689
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 56
+			"timesDropped": 56,
+			"dropRate": 0.015581524763494713
 		},
 		{
 			"itemName": "Sai",
-			"timesDropped": 37
+			"timesDropped": 37,
+			"dropRate": 0.010294936004451864
 		},
 		{
 			"itemName": "Nightmare Blade",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.006121313299944352
 		},
 		{
 			"itemName": "Assassin Dagger",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.004173622704507512
 		},
 		{
 			"itemName": "Cluster of Solace",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.004173622704507512
 		}
 	]
 }

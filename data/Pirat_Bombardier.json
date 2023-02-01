@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1966
+			"timesDropped": 1966,
+			"dropRate": 0.3474726051608342
 		},
 		{
 			"itemName": "Pirate Coin",
-			"timesDropped": 413
+			"timesDropped": 413,
+			"dropRate": 0.07299399080947332
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 346
+			"timesDropped": 346,
+			"dropRate": 0.06115235065394132
 		},
 		{
 			"itemName": "Pirat's Tail",
-			"timesDropped": 271
+			"timesDropped": 271,
+			"dropRate": 0.04789678331565924
 		},
 		{
 			"itemName": "Mouldy Powder",
-			"timesDropped": 234
+			"timesDropped": 234,
+			"dropRate": 0.041357370095440084
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 209
+			"timesDropped": 209,
+			"dropRate": 0.03693884764934606
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 128
+			"timesDropped": 128,
+			"dropRate": 0.022622834924001415
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 95
+			"timesDropped": 95,
+			"dropRate": 0.0167903852951573
 		},
 		{
 			"itemName": "Lightning Boots",
-			"timesDropped": 91
+			"timesDropped": 91,
+			"dropRate": 0.016083421703782255
 		}
 	]
 }

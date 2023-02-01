@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 2297
+			"timesDropped": 2297,
+			"dropRate": 0.5491274205115946
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 365
+			"timesDropped": 365,
+			"dropRate": 0.08725794884054507
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 357
+			"timesDropped": 357,
+			"dropRate": 0.08534544585225914
 		},
 		{
 			"itemName": "Roots",
-			"timesDropped": 237
+			"timesDropped": 237,
+			"dropRate": 0.05665790102797036
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 75
+			"timesDropped": 75,
+			"dropRate": 0.01792971551518049
 		},
 		{
 			"itemName": "Crawler's Essence",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.012670332297394215
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.012670332297394215
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.011235955056179775
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.009084389194358116
 		},
 		{
 			"itemName": "Hammer of Wrath",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.006693760459000717
 		},
 		{
 			"itemName": "Twiceslicer",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.006693760459000717
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.006454697585464977
 		},
 		{
 			"itemName": "Ruthless Axe",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.005737508964857758
 		},
 		{
 			"itemName": "Nightmare Blade",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.005259383217786278
 		},
 		{
 			"itemName": "Crystalline Sword",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.004064068850107579
 		}
 	]
 }

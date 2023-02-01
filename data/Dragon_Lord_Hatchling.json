@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 5941
+			"timesDropped": 5941,
+			"dropRate": 0.7973426385720037
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5596
+			"timesDropped": 5596,
+			"dropRate": 0.7510401288417662
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.00483156623272044
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.004160515367064824
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.00080526103878674
 		}
 	]
 }

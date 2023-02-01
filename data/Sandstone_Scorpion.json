@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10109
+			"timesDropped": 10109,
+			"dropRate": 0.9274311926605504
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1196
+			"timesDropped": 1196,
+			"dropRate": 0.10972477064220183
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1087
+			"timesDropped": 1087,
+			"dropRate": 0.09972477064220184
 		},
 		{
 			"itemName": "Daramian Mace",
-			"timesDropped": 545
+			"timesDropped": 545,
+			"dropRate": 0.05
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 515
+			"timesDropped": 515,
+			"dropRate": 0.04724770642201835
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 198
+			"timesDropped": 198,
+			"dropRate": 0.0181651376146789
 		},
 		{
 			"itemName": "Fist on a Stick",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.001926605504587156
 		}
 	]
 }

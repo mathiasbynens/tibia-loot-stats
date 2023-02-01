@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 3094
+			"timesDropped": 3094,
+			"dropRate": 0.5432835820895522
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1509
+			"timesDropped": 1509,
+			"dropRate": 0.26496927129060577
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 510
+			"timesDropped": 510,
+			"dropRate": 0.08955223880597014
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 447
+			"timesDropped": 447,
+			"dropRate": 0.07848990342405619
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 401
+			"timesDropped": 401,
+			"dropRate": 0.0704126426690079
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 340
+			"timesDropped": 340,
+			"dropRate": 0.05970149253731343
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 262
+			"timesDropped": 262,
+			"dropRate": 0.046005267778753293
 		},
 		{
 			"itemName": "Vibrant Heart",
-			"timesDropped": 215
+			"timesDropped": 215,
+			"dropRate": 0.03775241439859526
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 200
+			"timesDropped": 200,
+			"dropRate": 0.03511852502194908
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.025987708516242318
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 125
+			"timesDropped": 125,
+			"dropRate": 0.021949078138718173
 		},
 		{
 			"itemName": "Vibrant Robe",
-			"timesDropped": 120
+			"timesDropped": 120,
+			"dropRate": 0.021071115013169446
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 118
+			"timesDropped": 118,
+			"dropRate": 0.020719929762949955
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 110
+			"timesDropped": 110,
+			"dropRate": 0.019315188762071993
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 92
+			"timesDropped": 92,
+			"dropRate": 0.016154521510096578
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 0.012818261633011413
 		}
 	]
 }

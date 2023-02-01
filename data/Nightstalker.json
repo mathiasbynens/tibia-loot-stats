@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19552
+			"timesDropped": 19552,
+			"dropRate": 0.8999355610788916
 		},
 		{
 			"itemName": "Shadow Herb",
-			"timesDropped": 1033
+			"timesDropped": 1033,
+			"dropRate": 0.047546718217803555
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 331
+			"timesDropped": 331,
+			"dropRate": 0.015235202062045476
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 211
+			"timesDropped": 211,
+			"dropRate": 0.009711865967044094
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 197
+			"timesDropped": 197,
+			"dropRate": 0.0090674767559606
 		},
 		{
 			"itemName": "Spirit Cloak",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.004924974684709565
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.0031759182546257938
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.0016570008285004142
 		},
 		{
 			"itemName": "Crystal of Balance",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.0012427506213753107
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.0011506950197919543
 		},
 		{
 			"itemName": "Chaos Mace",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.0010126116174169197
 		}
 	]
 }

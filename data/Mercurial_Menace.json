@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 88
+			"timesDropped": 88,
+			"dropRate": 0.25360230547550433
 		},
 		{
 			"itemName": "Mercurial Wing",
-			"timesDropped": 76
+			"timesDropped": 76,
+			"dropRate": 0.21902017291066284
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.040345821325648415
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.023054755043227664
 		},
 		{
 			"itemName": "Coral Brooch",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.020172910662824207
 		},
 		{
 			"itemName": "Butterfly Ring",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.01440922190201729
 		},
 		{
 			"itemName": "Dream Blossom Staff",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.011527377521613832
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.011527377521613832
 		},
 		{
 			"itemName": "Lightning Boots",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.008645533141210375
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.008645533141210375
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.005763688760806916
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.005763688760806916
 		}
 	]
 }

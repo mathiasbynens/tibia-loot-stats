@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4245
+			"timesDropped": 4245,
+			"dropRate": 0.9925181201776947
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 1531
+			"timesDropped": 1531,
+			"dropRate": 0.3579611877484218
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 499
+			"timesDropped": 499,
+			"dropRate": 0.11667056347907412
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 440
+			"timesDropped": 440,
+			"dropRate": 0.10287584755669862
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 433
+			"timesDropped": 433,
+			"dropRate": 0.10123918634556932
 		},
 		{
 			"itemName": "Scythe",
-			"timesDropped": 424
+			"timesDropped": 424,
+			"dropRate": 0.09913490764554594
 		},
 		{
 			"itemName": "Mystical Hourglass",
-			"timesDropped": 223
+			"timesDropped": 223,
+			"dropRate": 0.052139350011690434
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 213
+			"timesDropped": 213,
+			"dropRate": 0.04980126256722001
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.049099836333878884
 		},
 		{
 			"itemName": "Dark Shield",
-			"timesDropped": 127
+			"timesDropped": 127,
+			"dropRate": 0.029693710544774373
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
-			"timesDropped": 111
+			"timesDropped": 111,
+			"dropRate": 0.025952770633621697
 		},
 		{
 			"itemName": "Orichalcum Pearl",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.013327098433481413
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.011456628477905073
 		},
 		{
 			"itemName": "Nightmare Blade",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.008183306055646482
 		},
 		{
 			"itemName": "Glacier Kilt",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.003740939911152677
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0018704699555763386
 		},
 		{
 			"itemName": "Skullcracker Armor",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0018704699555763386
 		}
 	]
 }

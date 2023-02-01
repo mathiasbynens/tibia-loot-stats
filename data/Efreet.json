@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5716
+			"timesDropped": 5716,
+			"dropRate": 0.9759262421034659
 		},
 		{
 			"itemName": "Royal Spear",
-			"timesDropped": 879
+			"timesDropped": 879,
+			"dropRate": 0.15007683114222298
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 608
+			"timesDropped": 608,
+			"dropRate": 0.10380740993682773
 		},
 		{
 			"itemName": "Pear",
-			"timesDropped": 564
+			"timesDropped": 564,
+			"dropRate": 0.09629503158613625
 		},
 		{
 			"itemName": "Jewelled Belt",
-			"timesDropped": 439
+			"timesDropped": 439,
+			"dropRate": 0.07495304763530818
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 423
+			"timesDropped": 423,
+			"dropRate": 0.07222127368960218
 		},
 		{
 			"itemName": "Heavy Machete",
-			"timesDropped": 288
+			"timesDropped": 288,
+			"dropRate": 0.04917193102270787
 		},
 		{
 			"itemName": "Green Piece of Cloth",
-			"timesDropped": 157
+			"timesDropped": 157,
+			"dropRate": 0.026805531842240056
 		},
 		{
 			"itemName": "Green Tapestry",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.022024927437254566
 		},
 		{
 			"itemName": "Noble Turban",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.010414888168004097
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.003926925046952365
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.0035854533037391156
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.0022195663308861194
 		},
 		{
 			"itemName": "Small Oil Lamp",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.0022195663308861194
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.001195151101246372
 		}
 	]
 }

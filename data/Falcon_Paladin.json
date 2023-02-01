@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5332
+			"timesDropped": 5332,
+			"dropRate": 0.8997637529530881
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2864
+			"timesDropped": 2864,
+			"dropRate": 0.4832939588255147
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 2852
+			"timesDropped": 2852,
+			"dropRate": 0.48126898413769825
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 2798
+			"timesDropped": 2798,
+			"dropRate": 0.47215659804252447
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 2772
+			"timesDropped": 2772,
+			"dropRate": 0.46776915288558896
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 1788
+			"timesDropped": 1788,
+			"dropRate": 0.30172122848464394
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 1392
+			"timesDropped": 1392,
+			"dropRate": 0.23489706378670266
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 1390
+			"timesDropped": 1390,
+			"dropRate": 0.23455956800539993
 		},
 		{
 			"itemName": "Onyx Arrow",
-			"timesDropped": 1091
+			"timesDropped": 1091,
+			"dropRate": 0.18410394870064123
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 523
+			"timesDropped": 523,
+			"dropRate": 0.08825514681066486
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 341
+			"timesDropped": 341,
+			"dropRate": 0.0575430307121161
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 313
+			"timesDropped": 313,
+			"dropRate": 0.05281808977387783
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 123
+			"timesDropped": 123,
+			"dropRate": 0.020755990550118123
 		},
 		{
 			"itemName": "Damaged Armor Plates",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.012993587580155248
 		},
 		{
 			"itemName": "Falcon Crest",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.010124873439082012
 		},
 		{
 			"itemName": "Mastermind Shield",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.0038812014849814377
 		},
 		{
 			"itemName": "Golden Armor",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.0033749578130273373
 		}
 	]
 }

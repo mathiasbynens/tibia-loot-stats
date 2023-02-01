@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 81276
+			"timesDropped": 81276,
+			"dropRate": 0.8220657846826072
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 9909
+			"timesDropped": 9909,
+			"dropRate": 0.10022454181332686
 		},
 		{
 			"itemName": "Brown Flask",
-			"timesDropped": 8936
+			"timesDropped": 8936,
+			"dropRate": 0.09038313711210907
 		},
 		{
 			"itemName": "Sabre",
-			"timesDropped": 8015
+			"timesDropped": 8015,
+			"dropRate": 0.08106768620787312
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 5043
+			"timesDropped": 5043,
+			"dropRate": 0.051007403811142125
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 3058
+			"timesDropped": 3058,
+			"dropRate": 0.03093012906097018
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 770
+			"timesDropped": 770,
+			"dropRate": 0.00778816199376947
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 387
+			"timesDropped": 387,
+			"dropRate": 0.003914309989076345
 		},
 		{
 			"itemName": "Serpent Sword",
-			"timesDropped": 298
+			"timesDropped": 298,
+			"dropRate": 0.003014119836549743
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 202
+			"timesDropped": 202,
+			"dropRate": 0.0020431282113525105
 		}
 	]
 }

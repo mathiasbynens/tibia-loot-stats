@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8076
+			"timesDropped": 8076,
+			"dropRate": 0.4355987055016181
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 1091
+			"timesDropped": 1091,
+			"dropRate": 0.05884573894282632
 		},
 		{
 			"itemName": "Scarf",
-			"timesDropped": 550
+			"timesDropped": 550,
+			"dropRate": 0.0296655879180151
 		},
 		{
 			"itemName": "Music Sheet (First Verse)",
-			"timesDropped": 195
+			"timesDropped": 195,
+			"dropRate": 0.010517799352750809
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 188
+			"timesDropped": 188,
+			"dropRate": 0.010140237324703344
 		},
 		{
 			"itemName": "Book (Orange)",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.0069579288025889965
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 94
+			"timesDropped": 94,
+			"dropRate": 0.005070118662351672
 		},
 		{
 			"itemName": "Pirate Voodoo Doll",
-			"timesDropped": 91
+			"timesDropped": 91,
+			"dropRate": 0.004908306364617044
 		},
 		{
 			"itemName": "Wand of Vortex",
-			"timesDropped": 84
+			"timesDropped": 84,
+			"dropRate": 0.004530744336569579
 		},
 		{
 			"itemName": "Garlic Necklace",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.004207119741100324
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.001941747572815534
 		}
 	]
 }

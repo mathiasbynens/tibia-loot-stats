@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7986
+			"timesDropped": 7986,
+			"dropRate": 0.6575004116581591
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 2555
+			"timesDropped": 2555,
+			"dropRate": 0.21035731928206816
 		},
 		{
 			"itemName": "Brass Shield",
-			"timesDropped": 2115
+			"timesDropped": 2115,
+			"dropRate": 0.17413140128437346
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 1604
+			"timesDropped": 1604,
+			"dropRate": 0.13205993742795982
 		},
 		{
 			"itemName": "Egg",
-			"timesDropped": 1545
+			"timesDropped": 1545,
+			"dropRate": 0.12720237115099622
 		},
 		{
 			"itemName": "Chain Helmet",
-			"timesDropped": 628
+			"timesDropped": 628,
+			"dropRate": 0.05170426477852791
 		},
 		{
 			"itemName": "Brass Armor",
-			"timesDropped": 339
+			"timesDropped": 339,
+			"dropRate": 0.02791042318458752
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 157
+			"timesDropped": 157,
+			"dropRate": 0.012926066194631977
 		},
 		{
 			"itemName": "Iron Helmet",
-			"timesDropped": 121
+			"timesDropped": 121,
+			"dropRate": 0.009962127449366047
 		},
 		{
 			"itemName": "Doll",
-			"timesDropped": 67
+			"timesDropped": 67,
+			"dropRate": 0.00551621933146715
 		}
 	]
 }

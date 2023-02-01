@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2538
+			"timesDropped": 2538,
+			"dropRate": 0.7896701929060361
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 359
+			"timesDropped": 359,
+			"dropRate": 0.11169881767268201
 		},
 		{
 			"itemName": "Lion Crest",
-			"timesDropped": 237
+			"timesDropped": 237,
+			"dropRate": 0.07373988799004356
 		},
 		{
 			"itemName": "Lion Cloak Patch",
-			"timesDropped": 216
+			"timesDropped": 216,
+			"dropRate": 0.0672059738643435
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 200
+			"timesDropped": 200,
+			"dropRate": 0.06222775357809583
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 160
+			"timesDropped": 160,
+			"dropRate": 0.049782202862476664
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 137
+			"timesDropped": 137,
+			"dropRate": 0.04262601120099564
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 124
+			"timesDropped": 124,
+			"dropRate": 0.038581207218419414
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 113
+			"timesDropped": 113,
+			"dropRate": 0.035158680771624144
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.03329184816428127
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 91
+			"timesDropped": 91,
+			"dropRate": 0.0283136278780336
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.023957685127566894
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.018979464841319228
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.018668326073428748
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.016490354698195396
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.013067828251400125
 		}
 	]
 }

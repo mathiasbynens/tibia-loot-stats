@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1971
+			"timesDropped": 1971,
+			"dropRate": 0.49898734177215187
 		},
 		{
 			"itemName": "Spooky Blue Eye",
-			"timesDropped": 204
+			"timesDropped": 204,
+			"dropRate": 0.051645569620253164
 		},
 		{
 			"itemName": "Big Bone",
-			"timesDropped": 192
+			"timesDropped": 192,
+			"dropRate": 0.04860759493670886
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 192
+			"timesDropped": 192,
+			"dropRate": 0.04860759493670886
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 186
+			"timesDropped": 186,
+			"dropRate": 0.04708860759493671
 		},
 		{
 			"itemName": "Bone Club",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.010886075949367089
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.008860759493670886
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.006835443037974683
 		}
 	]
 }

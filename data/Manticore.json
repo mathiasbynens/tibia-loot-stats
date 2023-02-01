@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4909
+			"timesDropped": 4909,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Manticore Tail",
-			"timesDropped": 451
+			"timesDropped": 451,
+			"dropRate": 0.09187207170503157
 		},
 		{
 			"itemName": "Manticore Ear",
-			"timesDropped": 353
+			"timesDropped": 353,
+			"dropRate": 0.07190873905072316
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 346
+			"timesDropped": 346,
+			"dropRate": 0.07048278671827256
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 248
+			"timesDropped": 248,
+			"dropRate": 0.050519454063964145
 		},
 		{
 			"itemName": "Flaming Arrow",
-			"timesDropped": 242
+			"timesDropped": 242,
+			"dropRate": 0.049297209207577915
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 170
+			"timesDropped": 170,
+			"dropRate": 0.03463027093094317
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 138
+			"timesDropped": 138,
+			"dropRate": 0.028111631696883275
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 132
+			"timesDropped": 132,
+			"dropRate": 0.026889386840497045
 		},
 		{
 			"itemName": "Prismatic Quartz",
-			"timesDropped": 132
+			"timesDropped": 132,
+			"dropRate": 0.026889386840497045
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 127
+			"timesDropped": 127,
+			"dropRate": 0.025870849460175187
 		},
 		{
 			"itemName": "Wand of Dragonbreath",
-			"timesDropped": 84
+			"timesDropped": 84,
+			"dropRate": 0.01711142798940721
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.01670401303727847
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.009370543898961092
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.00916683642289672
 		},
 		{
 			"itemName": "Royal Star",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.008555713994703605
 		},
 		{
 			"itemName": "Wand of Everblazing",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.008555713994703605
 		}
 	]
 }

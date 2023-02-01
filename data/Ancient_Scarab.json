@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 30123
+			"timesDropped": 30123,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 3086
+			"timesDropped": 3086,
+			"dropRate": 0.10244663546127544
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 2435
+			"timesDropped": 2435,
+			"dropRate": 0.08083524217375428
 		},
 		{
 			"itemName": "Scarab Pincers",
-			"timesDropped": 2157
+			"timesDropped": 2157,
+			"dropRate": 0.07160641370381436
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1824
+			"timesDropped": 1824,
+			"dropRate": 0.06055173787471367
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 1795
+			"timesDropped": 1795,
+			"dropRate": 0.059589018358065265
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 1481
+			"timesDropped": 1481,
+			"dropRate": 0.04916508979849284
 		},
 		{
 			"itemName": "Scarab Amulet",
-			"timesDropped": 1100
+			"timesDropped": 1100,
+			"dropRate": 0.036516947183215485
 		},
 		{
 			"itemName": "Ancient Amulet",
-			"timesDropped": 747
+			"timesDropped": 747,
+			"dropRate": 0.024798326859874514
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 485
+			"timesDropped": 485,
+			"dropRate": 0.016100653985326827
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 289
+			"timesDropped": 289,
+			"dropRate": 0.009593997941772068
 		},
 		{
 			"itemName": "Scarab Shield",
-			"timesDropped": 154
+			"timesDropped": 154,
+			"dropRate": 0.005112372605650168
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 130
+			"timesDropped": 130,
+			"dropRate": 0.00431563921256183
 		},
 		{
 			"itemName": "Daramian Waraxe",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.0028549613252332106
 		}
 	]
 }

@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9805
+			"timesDropped": 9805,
+			"dropRate": 0.8503902862098872
 		},
 		{
 			"itemName": "Heaven Blossom",
-			"timesDropped": 1188
+			"timesDropped": 1188,
+			"dropRate": 0.10303555941023416
 		},
 		{
 			"itemName": "Dream Essence Egg",
-			"timesDropped": 950
+			"timesDropped": 950,
+			"dropRate": 0.0823937554206418
 		},
 		{
 			"itemName": "Elvish Talisman",
-			"timesDropped": 827
+			"timesDropped": 827,
+			"dropRate": 0.07172593235039029
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 693
+			"timesDropped": 693,
+			"dropRate": 0.0601040763226366
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 523
+			"timesDropped": 523,
+			"dropRate": 0.04535993061578491
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 507
+			"timesDropped": 507,
+			"dropRate": 0.04397224631396357
 		},
 		{
 			"itemName": "Leaf Star",
-			"timesDropped": 474
+			"timesDropped": 474,
+			"dropRate": 0.04111014744145707
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 280
+			"timesDropped": 280,
+			"dropRate": 0.024284475281873375
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 146
+			"timesDropped": 146,
+			"dropRate": 0.012662619254119687
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 122
+			"timesDropped": 122,
+			"dropRate": 0.010581092801387684
 		},
 		{
 			"itemName": "Collar of Blue Plasma",
-			"timesDropped": 105
+			"timesDropped": 105,
+			"dropRate": 0.009106678230702514
 		},
 		{
 			"itemName": "Sun Fruit",
-			"timesDropped": 103
+			"timesDropped": 103,
+			"dropRate": 0.008933217692974848
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 90
+			"timesDropped": 90,
+			"dropRate": 0.007805724197745013
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 65
+			"timesDropped": 65,
+			"dropRate": 0.005637467476149176
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.004770164787510842
 		}
 	]
 }

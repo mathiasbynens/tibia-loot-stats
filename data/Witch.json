@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21148
+			"timesDropped": 21148,
+			"dropRate": 0.6391827359003808
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 9930
+			"timesDropped": 9930,
+			"dropRate": 0.3001269419089645
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 3348
+			"timesDropped": 3348,
+			"dropRate": 0.10119083600314333
 		},
 		{
 			"itemName": "Witch Broom",
-			"timesDropped": 3298
+			"timesDropped": 3298,
+			"dropRate": 0.0996796228011848
 		},
 		{
 			"itemName": "Star Herb",
-			"timesDropped": 2973
+			"timesDropped": 2973,
+			"dropRate": 0.08985673698845432
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 1663
+			"timesDropped": 1663,
+			"dropRate": 0.05026295109714078
 		},
 		{
 			"itemName": "Cape",
-			"timesDropped": 1648
+			"timesDropped": 1648,
+			"dropRate": 0.04980958713655322
 		},
 		{
 			"itemName": "Sickle",
-			"timesDropped": 1292
+			"timesDropped": 1292,
+			"dropRate": 0.039049749138608474
 		},
 		{
 			"itemName": "Garlic Necklace",
-			"timesDropped": 831
+			"timesDropped": 831,
+			"dropRate": 0.025116363416550807
 		},
 		{
 			"itemName": "Coat",
-			"timesDropped": 666
+			"timesDropped": 666,
+			"dropRate": 0.02012935985008765
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 358
+			"timesDropped": 358,
+			"dropRate": 0.010820286526023092
 		},
 		{
 			"itemName": "Bag of Apple Slices",
-			"timesDropped": 295
+			"timesDropped": 295,
+			"dropRate": 0.008916157891555341
 		},
 		{
 			"itemName": "Silver Dagger",
-			"timesDropped": 182
+			"timesDropped": 182,
+			"dropRate": 0.005500816055129058
 		},
 		{
 			"itemName": "Witch Hat",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.0009067279211751193
 		},
 		{
 			"itemName": "Stuffed Toad",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.00006044852807834129
 		}
 	]
 }

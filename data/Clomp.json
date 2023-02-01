@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Raw Meat",
-			"timesDropped": 890
+			"timesDropped": 890,
+			"dropRate": 0.17932701994761233
 		},
 		{
 			"itemName": "Hardened Bone",
-			"timesDropped": 362
+			"timesDropped": 362,
+			"dropRate": 0.07293975418093895
 		},
 		{
 			"itemName": "Thick Fur",
-			"timesDropped": 339
+			"timesDropped": 339,
+			"dropRate": 0.0683054604070119
 		},
 		{
 			"itemName": "Tusk Shield",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.005238766874874068
 		},
 		{
 			"itemName": "Furry Club",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.004432802740278058
 		}
 	]
 }

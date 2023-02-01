@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Fish",
-			"timesDropped": 11217
+			"timesDropped": 11217,
+			"dropRate": 0.30093362665665074
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10517
+			"timesDropped": 10517,
+			"dropRate": 0.28215378011482534
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 7360
+			"timesDropped": 7360,
+			"dropRate": 0.19745667221119279
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 3782
+			"timesDropped": 3782,
+			"dropRate": 0.10146482803026238
 		},
 		{
 			"itemName": "Throwing Knife",
-			"timesDropped": 3733
+			"timesDropped": 3733,
+			"dropRate": 0.1001502387723346
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 3674
+			"timesDropped": 3674,
+			"dropRate": 0.09856736599238075
 		},
 		{
 			"itemName": "Sword Ring",
-			"timesDropped": 1407
+			"timesDropped": 1407,
+			"dropRate": 0.037747491549069055
 		},
 		{
 			"itemName": "Longsword",
-			"timesDropped": 1106
+			"timesDropped": 1106,
+			"dropRate": 0.029672157536084133
 		},
 		{
 			"itemName": "Royal Spear",
-			"timesDropped": 992
+			"timesDropped": 992,
+			"dropRate": 0.026613725384986853
 		},
 		{
 			"itemName": "Brass Legs",
-			"timesDropped": 909
+			"timesDropped": 909,
+			"dropRate": 0.024386972152170415
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 814
+			"timesDropped": 814,
+			"dropRate": 0.02183827869292268
 		},
 		{
 			"itemName": "Skull Belt",
-			"timesDropped": 787
+			"timesDropped": 787,
+			"dropRate": 0.021113913183452272
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 592
+			"timesDropped": 592,
+			"dropRate": 0.015882384503943768
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 377
+			"timesDropped": 377,
+			"dropRate": 0.01011428878038311
 		},
 		{
 			"itemName": "Broadsword",
-			"timesDropped": 280
+			"timesDropped": 280,
+			"dropRate": 0.00751193861673016
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 217
+			"timesDropped": 217,
+			"dropRate": 0.005821752427965874
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.003970596125985942
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.001126790792509524
 		}
 	]
 }

@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 63412
+			"timesDropped": 63412,
+			"dropRate": 0.9689505531446733
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 22802
+			"timesDropped": 22802,
+			"dropRate": 0.34842002322596416
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 13250
+			"timesDropped": 13250,
+			"dropRate": 0.20246317462257807
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 9952
+			"timesDropped": 9952,
+			"dropRate": 0.15206894444104885
 		},
 		{
 			"itemName": "Wyrm Scale",
-			"timesDropped": 9802
+			"timesDropped": 9802,
+			"dropRate": 0.14977690850192532
 		},
 		{
 			"itemName": "Burst Arrow",
-			"timesDropped": 5198
+			"timesDropped": 5198,
+			"dropRate": 0.07942668541042723
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 3955
+			"timesDropped": 3955,
+			"dropRate": 0.06043334759489029
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 805
+			"timesDropped": 805,
+			"dropRate": 0.012300592873296254
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 662
+			"timesDropped": 662,
+			"dropRate": 0.010115518611331826
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 597
+			"timesDropped": 597,
+			"dropRate": 0.00912230303771163
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 489
+			"timesDropped": 489,
+			"dropRate": 0.007472037161542693
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 306
+			"timesDropped": 306,
+			"dropRate": 0.0046757533158119915
 		},
 		{
 			"itemName": "Hibiscus Dress",
-			"timesDropped": 204
+			"timesDropped": 204,
+			"dropRate": 0.0031171688772079946
 		},
 		{
 			"itemName": "Composite Hornbow",
-			"timesDropped": 70
+			"timesDropped": 70,
+			"dropRate": 0.0010696167715909786
 		},
 		{
 			"itemName": "Dragonbone Staff",
-			"timesDropped": 62
+			"timesDropped": 62,
+			"dropRate": 0.0009473748548377239
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.000840413177678626
 		}
 	]
 }

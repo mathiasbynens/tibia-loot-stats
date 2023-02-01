@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3098
+			"timesDropped": 3098,
+			"dropRate": 0.9983886561392201
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 959
+			"timesDropped": 959,
+			"dropRate": 0.309055752497583
 		},
 		{
 			"itemName": "Lyre",
-			"timesDropped": 333
+			"timesDropped": 333,
+			"dropRate": 0.10731550112794071
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 324
+			"timesDropped": 324,
+			"dropRate": 0.1044150821785369
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 217
+			"timesDropped": 217,
+			"dropRate": 0.06993232355784725
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 207
+			"timesDropped": 207,
+			"dropRate": 0.06670963583628746
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 110
+			"timesDropped": 110,
+			"dropRate": 0.03544956493715759
 		},
 		{
 			"itemName": "White Piece of Cloth",
-			"timesDropped": 105
+			"timesDropped": 105,
+			"dropRate": 0.0338382210763777
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.009345794392523364
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.00837898807605543
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.007412181759587496
 		},
 		{
 			"itemName": "Relic Sword",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.005800837898807605
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.004189494038027715
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.003544956493715759
 		},
 		{
 			"itemName": "Demonbone Amulet",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.002578150177247825
 		},
 		{
 			"itemName": "Shadow Sceptre",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0006445375443119562
 		}
 	]
 }

@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 319513
+			"timesDropped": 319513,
+			"dropRate": 0.9735551140795632
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 164934
+			"timesDropped": 164934,
+			"dropRate": 0.5025533833853354
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 98969
+			"timesDropped": 98969,
+			"dropRate": 0.30155823420436817
 		},
 		{
 			"itemName": "Bone Shoulderplate",
-			"timesDropped": 39561
+			"timesDropped": 39561,
+			"dropRate": 0.1205422435647426
 		},
 		{
 			"itemName": "Zaoan Halberd",
-			"timesDropped": 26262
+			"timesDropped": 26262,
+			"dropRate": 0.08002023205928237
 		},
 		{
 			"itemName": "Warmaster's Wristguards",
-			"timesDropped": 22947
+			"timesDropped": 22947,
+			"dropRate": 0.06991943740249609
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 16559
+			"timesDropped": 16559,
+			"dropRate": 0.050455221333853356
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 13066
+			"timesDropped": 13066,
+			"dropRate": 0.0398120612324493
 		},
 		{
 			"itemName": "Zaoan Shoes",
-			"timesDropped": 6653
+			"timesDropped": 6653,
+			"dropRate": 0.02027167024180967
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 6531
+			"timesDropped": 6531,
+			"dropRate": 0.0198999366224649
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 5158
+			"timesDropped": 5158,
+			"dropRate": 0.015716409906396257
 		},
 		{
 			"itemName": "Zaoan Legs",
-			"timesDropped": 3094
+			"timesDropped": 3094,
+			"dropRate": 0.009427408346333854
 		},
 		{
 			"itemName": "Drakinata",
-			"timesDropped": 2715
+			"timesDropped": 2715,
+			"dropRate": 0.008272596528861155
 		},
 		{
 			"itemName": "Zaoan Armor",
-			"timesDropped": 2596
+			"timesDropped": 2596,
+			"dropRate": 0.007910003900156006
 		},
 		{
 			"itemName": "Ring of the Sky",
-			"timesDropped": 683
+			"timesDropped": 683,
+			"dropRate": 0.0020810988689547584
 		}
 	]
 }

@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.1506849315068493
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.1506849315068493
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.1095890410958904
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.0821917808219178
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.0821917808219178
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.0684931506849315
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.0684931506849315
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0547945205479452
 		},
 		{
 			"itemName": "Rotten Feather",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0547945205479452
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0547945205479452
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0273972602739726
 		},
 		{
 			"itemName": "Broken Iks Sandals",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0136986301369863
 		},
 		{
 			"itemName": "Gold-Brocaded Cloth",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0136986301369863
 		}
 	]
 }

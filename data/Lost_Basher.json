@@ -4,119 +4,148 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12503
+			"timesDropped": 12503,
+			"dropRate": 0.9999200255918106
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 8736
+			"timesDropped": 8736,
+			"dropRate": 0.6986564299424184
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 2534
+			"timesDropped": 2534,
+			"dropRate": 0.2026551503518874
 		},
 		{
 			"itemName": "Bloody Dwarven Beard",
-			"timesDropped": 2174
+			"timesDropped": 2174,
+			"dropRate": 0.1738643634037108
 		},
 		{
 			"itemName": "Lost Basher's Spike",
-			"timesDropped": 1889
+			"timesDropped": 1889,
+			"dropRate": 0.15107165706973769
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 1867
+			"timesDropped": 1867,
+			"dropRate": 0.14931222008957135
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1523
+			"timesDropped": 1523,
+			"dropRate": 0.12180102367242482
 		},
 		{
 			"itemName": "Red Hair Dye",
-			"timesDropped": 1491
+			"timesDropped": 1491,
+			"dropRate": 0.11924184261036469
 		},
 		{
 			"itemName": "Wimp Tooth Chain",
-			"timesDropped": 1486
+			"timesDropped": 1486,
+			"dropRate": 0.11884197056941778
 		},
 		{
 			"itemName": "Basalt Figurine",
-			"timesDropped": 1276
+			"timesDropped": 1276,
+			"dropRate": 0.10204734484964811
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 1267
+			"timesDropped": 1267,
+			"dropRate": 0.1013275751759437
 		},
 		{
 			"itemName": "Bonecarving Knife",
-			"timesDropped": 1247
+			"timesDropped": 1247,
+			"dropRate": 0.09972808701215612
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1207
+			"timesDropped": 1207,
+			"dropRate": 0.09652911068458093
 		},
 		{
 			"itemName": "Basalt Fetish",
-			"timesDropped": 1020
+			"timesDropped": 1020,
+			"dropRate": 0.08157389635316699
 		},
 		{
 			"itemName": "Bone Fetish",
-			"timesDropped": 924
+			"timesDropped": 924,
+			"dropRate": 0.07389635316698656
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 609
+			"timesDropped": 609,
+			"dropRate": 0.04870441458733205
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 491
+			"timesDropped": 491,
+			"dropRate": 0.039267434420985285
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 433
+			"timesDropped": 433,
+			"dropRate": 0.034628918746001276
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 305
+			"timesDropped": 305,
+			"dropRate": 0.024392194497760717
 		},
 		{
 			"itemName": "Pair of Iron Fists",
-			"timesDropped": 189
+			"timesDropped": 189,
+			"dropRate": 0.015115163147792706
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 173
+			"timesDropped": 173,
+			"dropRate": 0.013835572616762637
 		},
 		{
 			"itemName": "Buckle",
-			"timesDropped": 146
+			"timesDropped": 146,
+			"dropRate": 0.011676263595649392
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 113
+			"timesDropped": 113,
+			"dropRate": 0.009037108125399871
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.00799744081893794
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.005518234165067178
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.003838771593090211
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.0028790786948176585
 		},
 		{
 			"itemName": "Chaos Mace",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.0020793346129238644
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0006397952655150352
 		}
 	]
 }

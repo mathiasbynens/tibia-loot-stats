@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 32791
+			"timesDropped": 32791,
+			"dropRate": 0.7873178227568489
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 8458
+			"timesDropped": 8458,
+			"dropRate": 0.20307810511656943
 		},
 		{
 			"itemName": "Stone Herb",
-			"timesDropped": 2036
+			"timesDropped": 2036,
+			"dropRate": 0.048884727124300704
 		},
 		{
 			"itemName": "Mutated Rat Tail",
-			"timesDropped": 1608
+			"timesDropped": 1608,
+			"dropRate": 0.038608369948858315
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 1570
+			"timesDropped": 1570,
+			"dropRate": 0.03769598309683306
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 1226
+			"timesDropped": 1226,
+			"dropRate": 0.02943648106797282
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 585
+			"timesDropped": 585,
+			"dropRate": 0.014045955485125694
 		},
 		{
 			"itemName": "Mouldy Cheese",
-			"timesDropped": 392
+			"timesDropped": 392,
+			"dropRate": 0.009411990684050037
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 234
+			"timesDropped": 234,
+			"dropRate": 0.0056183821940502775
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 209
+			"timesDropped": 209,
+			"dropRate": 0.005018127686138923
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 122
+			"timesDropped": 122,
+			"dropRate": 0.0029292419986074094
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.0005042137866455377
 		}
 	]
 }

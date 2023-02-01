@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2776
+			"timesDropped": 2776,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 444
+			"timesDropped": 444,
+			"dropRate": 0.15994236311239193
 		},
 		{
 			"itemName": "Lamassu Horn",
-			"timesDropped": 381
+			"timesDropped": 381,
+			"dropRate": 0.1372478386167147
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 304
+			"timesDropped": 304,
+			"dropRate": 0.10951008645533142
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 302
+			"timesDropped": 302,
+			"dropRate": 0.10878962536023054
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 291
+			"timesDropped": 291,
+			"dropRate": 0.10482708933717579
 		},
 		{
 			"itemName": "Lamassu Hoof",
-			"timesDropped": 225
+			"timesDropped": 225,
+			"dropRate": 0.08105187319884727
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 225
+			"timesDropped": 225,
+			"dropRate": 0.08105187319884727
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 186
+			"timesDropped": 186,
+			"dropRate": 0.0670028818443804
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 171
+			"timesDropped": 171,
+			"dropRate": 0.06159942363112392
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 146
+			"timesDropped": 146,
+			"dropRate": 0.05259365994236311
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 110
+			"timesDropped": 110,
+			"dropRate": 0.03962536023054755
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.035302593659942365
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 96
+			"timesDropped": 96,
+			"dropRate": 0.0345821325648415
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 87
+			"timesDropped": 87,
+			"dropRate": 0.03134005763688761
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.019452449567723344
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.018731988472622477
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.018731988472622477
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.016570605187319884
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.010806916426512969
 		}
 	]
 }

@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 340
+			"timesDropped": 340,
+			"dropRate": 0.37610619469026546
 		},
 		{
 			"itemName": "Headpecker Beak",
-			"timesDropped": 106
+			"timesDropped": 106,
+			"dropRate": 0.1172566371681416
 		},
 		{
 			"itemName": "Headpecker Feather",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.06637168141592921
 		},
 		{
 			"itemName": "Carrot",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.05530973451327434
 		},
 		{
 			"itemName": "Furry Club",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.046460176991150445
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.03871681415929203
 		},
 		{
 			"itemName": "Spike Sword",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.035398230088495575
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.018805309734513276
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.014380530973451327
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.012168141592920354
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.008849557522123894
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.008849557522123894
 		}
 	]
 }

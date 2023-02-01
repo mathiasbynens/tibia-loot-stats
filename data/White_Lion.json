@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6695
+			"timesDropped": 6695,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 1632
+			"timesDropped": 1632,
+			"dropRate": 0.24376400298730397
 		},
 		{
 			"itemName": "Lion's Mane",
-			"timesDropped": 1280
+			"timesDropped": 1280,
+			"dropRate": 0.19118745332337567
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 1021
+			"timesDropped": 1021,
+			"dropRate": 0.15250186706497387
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 982
+			"timesDropped": 982,
+			"dropRate": 0.14667662434652726
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 981
+			"timesDropped": 981,
+			"dropRate": 0.14652725914861836
 		},
 		{
 			"itemName": "Twin Hooks",
-			"timesDropped": 847
+			"timesDropped": 847,
+			"dropRate": 0.12651232262882747
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 394
+			"timesDropped": 394,
+			"dropRate": 0.05884988797610157
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 306
+			"timesDropped": 306,
+			"dropRate": 0.04570575056011949
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 232
+			"timesDropped": 232,
+			"dropRate": 0.034652725914861834
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 176
+			"timesDropped": 176,
+			"dropRate": 0.02628827483196415
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 133
+			"timesDropped": 133,
+			"dropRate": 0.019865571321882002
 		},
 		{
 			"itemName": "Combat Knife",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.019268110530246452
 		}
 	]
 }

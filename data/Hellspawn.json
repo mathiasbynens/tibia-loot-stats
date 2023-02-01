@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6542
+			"timesDropped": 6542,
+			"dropRate": 0.9286018452803406
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 2142
+			"timesDropped": 2142,
+			"dropRate": 0.30404542228530873
 		},
 		{
 			"itemName": "Hellspawn Tail",
-			"timesDropped": 1034
+			"timesDropped": 1034,
+			"dropRate": 0.1467707594038325
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 529
+			"timesDropped": 529,
+			"dropRate": 0.07508871540099361
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 522
+			"timesDropped": 522,
+			"dropRate": 0.07409510290986515
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 521
+			"timesDropped": 521,
+			"dropRate": 0.07395315826827538
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 517
+			"timesDropped": 517,
+			"dropRate": 0.07338537970191625
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 515
+			"timesDropped": 515,
+			"dropRate": 0.07310149041873669
 		},
 		{
 			"itemName": "Red Mushroom",
-			"timesDropped": 407
+			"timesDropped": 407,
+			"dropRate": 0.05777146912704045
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 312
+			"timesDropped": 312,
+			"dropRate": 0.044286728176011356
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 159
+			"timesDropped": 159,
+			"dropRate": 0.02256919801277502
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.021007806955287436
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 90
+			"timesDropped": 90,
+			"dropRate": 0.0127750177430802
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.00695528743789922
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.006529453513129879
 		},
 		{
 			"itemName": "Black Skull",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.0015613910574875799
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.0014194464158978
 		},
 		{
 			"itemName": "Dracoyle Statue",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.00056777856635912
 		},
 		{
 			"itemName": "Onyx Flail",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.00042583392476933996
 		}
 	]
 }

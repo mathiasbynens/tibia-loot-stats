@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 3904
+			"timesDropped": 3904,
+			"dropRate": 0.8446559930765902
 		},
 		{
 			"itemName": "Silky Fur",
-			"timesDropped": 1343
+			"timesDropped": 1343,
+			"dropRate": 0.2905668541756815
 		},
 		{
 			"itemName": "Carrot",
-			"timesDropped": 444
+			"timesDropped": 444,
+			"dropRate": 0.09606231068801385
 		}
 	]
 }

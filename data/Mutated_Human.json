@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 90720
+			"timesDropped": 90720,
+			"dropRate": 0.8823014529964405
 		},
 		{
 			"itemName": "Mutated Flesh",
-			"timesDropped": 20512
+			"timesDropped": 20512,
+			"dropRate": 0.1994903814358795
 		},
 		{
 			"itemName": "Fishbone",
-			"timesDropped": 10351
+			"timesDropped": 10351,
+			"dropRate": 0.1006691175040361
 		},
 		{
 			"itemName": "Cheese",
-			"timesDropped": 8287
+			"timesDropped": 8287,
+			"dropRate": 0.08059559238295307
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 8046
+			"timesDropped": 8046,
+			"dropRate": 0.07825173600980335
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 7281
+			"timesDropped": 7281,
+			"dropRate": 0.07081169399544844
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 5211
+			"timesDropped": 5211,
+			"dropRate": 0.05067981560366459
 		},
 		{
 			"itemName": "Strange Talisman",
-			"timesDropped": 5093
+			"timesDropped": 5093,
+			"dropRate": 0.04953220127988174
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 2057
+			"timesDropped": 2057,
+			"dropRate": 0.02000544630526541
 		},
 		{
 			"itemName": "Peanut",
-			"timesDropped": 552
+			"timesDropped": 552,
+			"dropRate": 0.005368500904475696
 		},
 		{
 			"itemName": "Fern",
-			"timesDropped": 432
+			"timesDropped": 432,
+			"dropRate": 0.00420143549045924
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.0010114566921475949
 		}
 	]
 }

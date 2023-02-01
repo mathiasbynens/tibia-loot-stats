@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1048
+			"timesDropped": 1048,
+			"dropRate": 0.81875
 		},
 		{
 			"itemName": "Ripper Lance",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.003125
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0015625
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.00078125
 		}
 	]
 }

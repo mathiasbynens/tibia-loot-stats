@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 116905
+			"timesDropped": 116905,
+			"dropRate": 0.9750371148809822
 		},
 		{
 			"itemName": "Demonic Skeletal Hand",
-			"timesDropped": 14358
+			"timesDropped": 14358,
+			"dropRate": 0.11975178902066756
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 11979
+			"timesDropped": 11979,
+			"dropRate": 0.09990992343491968
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 11647
+			"timesDropped": 11647,
+			"dropRate": 0.09714090310096915
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 6047
+			"timesDropped": 6047,
+			"dropRate": 0.05043453602228561
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 5947
+			"timesDropped": 5947,
+			"dropRate": 0.0496004937530234
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 5803
+			"timesDropped": 5803,
+			"dropRate": 0.04839947288528583
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 4845
+			"timesDropped": 4845,
+			"dropRate": 0.04040934794575389
 		},
 		{
 			"itemName": "Iron Helmet",
-			"timesDropped": 4057
+			"timesDropped": 4057,
+			"dropRate": 0.03383709486396771
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 3581
+			"timesDropped": 3581,
+			"dropRate": 0.029867053662279604
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 1823
+			"timesDropped": 1823,
+			"dropRate": 0.01520459056865002
 		},
 		{
 			"itemName": "Mysterious Fetish",
-			"timesDropped": 647
+			"timesDropped": 647,
+			"dropRate": 0.005396253482126474
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 559
+			"timesDropped": 559,
+			"dropRate": 0.004662296285175733
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 131
+			"timesDropped": 131,
+			"dropRate": 0.0010925953727334901
 		}
 	]
 }

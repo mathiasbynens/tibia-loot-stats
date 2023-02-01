@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 449025
+			"timesDropped": 449025,
+			"dropRate": 0.8876906501131792
 		},
 		{
 			"itemName": "Banana",
-			"timesDropped": 153999
+			"timesDropped": 153999,
+			"dropRate": 0.3044451253867368
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 151593
+			"timesDropped": 151593,
+			"dropRate": 0.29968863364535864
 		},
 		{
 			"itemName": "Orange",
-			"timesDropped": 101030
+			"timesDropped": 101030,
+			"dropRate": 0.19972916069469293
 		},
 		{
 			"itemName": "Banana Sash",
-			"timesDropped": 25030
+			"timesDropped": 25030,
+			"dropRate": 0.049482538772524634
 		},
 		{
 			"itemName": "Coconut",
-			"timesDropped": 9957
+			"timesDropped": 9957,
+			"dropRate": 0.019684284401039864
 		},
 		{
 			"itemName": "Melon",
-			"timesDropped": 5063
+			"timesDropped": 5063,
+			"dropRate": 0.010009192720946554
 		},
 		{
 			"itemName": "Ape Fur",
-			"timesDropped": 4999
+			"timesDropped": 4999,
+			"dropRate": 0.009882669249854202
 		}
 	]
 }

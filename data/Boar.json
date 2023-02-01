@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1040
+			"timesDropped": 1040,
+			"dropRate": 0.2540302882266732
 		},
 		{
 			"itemName": "Haunch of Boar",
-			"timesDropped": 818
+			"timesDropped": 818,
+			"dropRate": 0.19980459208597948
 		}
 	]
 }

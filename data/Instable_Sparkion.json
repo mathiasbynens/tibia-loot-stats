@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2628
+			"timesDropped": 2628,
+			"dropRate": 0.9795005590756616
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2360
+			"timesDropped": 2360,
+			"dropRate": 0.8796123742079761
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 247
+			"timesDropped": 247,
+			"dropRate": 0.0920611256056653
 		},
 		{
 			"itemName": "Sparkion Tail",
-			"timesDropped": 206
+			"timesDropped": 206,
+			"dropRate": 0.07677972418934029
 		},
 		{
 			"itemName": "Sparkion Legs",
-			"timesDropped": 196
+			"timesDropped": 196,
+			"dropRate": 0.07305255311218785
 		},
 		{
 			"itemName": "Sparkion Stings",
-			"timesDropped": 192
+			"timesDropped": 192,
+			"dropRate": 0.07156168468132687
 		},
 		{
 			"itemName": "Sparkion Claw",
-			"timesDropped": 184
+			"timesDropped": 184,
+			"dropRate": 0.06857994781960491
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 163
+			"timesDropped": 163,
+			"dropRate": 0.060752888557584796
 		},
 		{
 			"itemName": "Energy Drink",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.05367126351099515
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 141
+			"timesDropped": 141,
+			"dropRate": 0.05255311218784942
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 139
+			"timesDropped": 139,
+			"dropRate": 0.05180767797241893
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 132
+			"timesDropped": 132,
+			"dropRate": 0.049198658218412225
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 130
+			"timesDropped": 130,
+			"dropRate": 0.048453224002981736
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.048080506895266495
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 127
+			"timesDropped": 127,
+			"dropRate": 0.047335072679836006
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.004845322400298174
 		}
 	]
 }

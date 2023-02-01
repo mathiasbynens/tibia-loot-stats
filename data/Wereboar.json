@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6621
+			"timesDropped": 6621,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5267
+			"timesDropped": 5267,
+			"dropRate": 0.7954991693097719
 		},
 		{
 			"itemName": "Wereboar Hooves",
-			"timesDropped": 1023
+			"timesDropped": 1023,
+			"dropRate": 0.15450838241957407
 		},
 		{
 			"itemName": "Wereboar Tusks",
-			"timesDropped": 1005
+			"timesDropped": 1005,
+			"dropRate": 0.15178975985500678
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 476
+			"timesDropped": 476,
+			"dropRate": 0.07189246337411268
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 332
+			"timesDropped": 332,
+			"dropRate": 0.05014348285757438
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 137
+			"timesDropped": 137,
+			"dropRate": 0.020691738408095454
 		},
 		{
 			"itemName": "Moonlight Crystals",
-			"timesDropped": 127
+			"timesDropped": 127,
+			"dropRate": 0.019181392538891406
 		},
 		{
 			"itemName": "Wereboar Loincloth",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.015707597039722097
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 81
+			"timesDropped": 81,
+			"dropRate": 0.012233801540552787
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.011780697779791573
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.009968282736746714
 		},
 		{
 			"itemName": "Furry Club",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.007249660172179429
 		},
 		{
 			"itemName": "Werewolf Amulet",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.006796556411418215
 		},
 		{
 			"itemName": "Fur Armor",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.004833106781452953
 		},
 		{
 			"itemName": "Wereboar Trophy",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.0015103458692040477
 		},
 		{
 			"itemName": "Dreaded Cleaver",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.0007551729346020238
 		}
 	]
 }

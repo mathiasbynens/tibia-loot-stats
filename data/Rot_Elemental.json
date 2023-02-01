@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 116871
+			"timesDropped": 116871,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Glob of Glooth",
-			"timesDropped": 16396
+			"timesDropped": 16396,
+			"dropRate": 0.1402914324340512
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 11830
+			"timesDropped": 11830,
+			"dropRate": 0.10122271564374395
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 11752
+			"timesDropped": 11752,
+			"dropRate": 0.10055531312301598
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 11700
+			"timesDropped": 11700,
+			"dropRate": 0.10011037810919732
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 5911
+			"timesDropped": 5911,
+			"dropRate": 0.05057713205157824
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 5863
+			"timesDropped": 5863,
+			"dropRate": 0.05016642280805332
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 5781
+			"timesDropped": 5781,
+			"dropRate": 0.0494647945170316
 		},
 		{
 			"itemName": "Glooth Spear",
-			"timesDropped": 5710
+			"timesDropped": 5710,
+			"dropRate": 0.048857287094317664
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 1736
+			"timesDropped": 1736,
+			"dropRate": 0.01485398430748432
 		},
 		{
 			"itemName": "Glooth Axe",
-			"timesDropped": 120
+			"timesDropped": 120,
+			"dropRate": 0.0010267731088122803
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 117
+			"timesDropped": 117,
+			"dropRate": 0.0010011037810919732
 		},
 		{
 			"itemName": "Glooth Amulet",
-			"timesDropped": 111
+			"timesDropped": 111,
+			"dropRate": 0.0009497651256513592
 		}
 	]
 }

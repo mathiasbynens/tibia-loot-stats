@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 66349
+			"timesDropped": 66349,
+			"dropRate": 0.7911971285133379
 		},
 		{
 			"itemName": "Tarantula Egg",
-			"timesDropped": 8358
+			"timesDropped": 8358,
+			"dropRate": 0.09966729867992702
 		},
 		{
 			"itemName": "Spider Fangs",
-			"timesDropped": 4066
+			"timesDropped": 4066,
+			"dropRate": 0.04848614936977546
 		},
 		{
 			"itemName": "Brass Legs",
-			"timesDropped": 2535
+			"timesDropped": 2535,
+			"dropRate": 0.030229313490501914
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 1629
+			"timesDropped": 1629,
+			"dropRate": 0.019425464172003006
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 775
+			"timesDropped": 775,
+			"dropRate": 0.009241703335360545
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 92
+			"timesDropped": 92,
+			"dropRate": 0.0010970796217460261
 		}
 	]
 }

@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 22568
+			"timesDropped": 22568,
+			"dropRate": 0.3999078553328726
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 11281
+			"timesDropped": 11281,
+			"dropRate": 0.19990076728155512
 		},
 		{
 			"itemName": "Bear Paw",
-			"timesDropped": 1116
+			"timesDropped": 1116,
+			"dropRate": 0.019775663175801393
 		},
 		{
 			"itemName": "Honeycomb",
-			"timesDropped": 271
+			"timesDropped": 271,
+			"dropRate": 0.004802154767600517
 		}
 	]
 }

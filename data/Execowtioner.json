@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6499
+			"timesDropped": 6499,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4254
+			"timesDropped": 4254,
+			"dropRate": 0.6545622403446684
 		},
 		{
 			"itemName": "Execowtioner Mask",
-			"timesDropped": 1059
+			"timesDropped": 1059,
+			"dropRate": 0.16294814586859516
 		},
 		{
 			"itemName": "Minotaur Leather",
-			"timesDropped": 1029
+			"timesDropped": 1029,
+			"dropRate": 0.15833205108478227
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 687
+			"timesDropped": 687,
+			"dropRate": 0.10570857054931528
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 644
+			"timesDropped": 644,
+			"dropRate": 0.09909216802585014
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 544
+			"timesDropped": 544,
+			"dropRate": 0.08370518541314048
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 352
+			"timesDropped": 352,
+			"dropRate": 0.05416217879673796
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 316
+			"timesDropped": 316,
+			"dropRate": 0.048622865056162486
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 311
+			"timesDropped": 311,
+			"dropRate": 0.047853515925527
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 184
+			"timesDropped": 184,
+			"dropRate": 0.02831204800738575
 		},
 		{
 			"itemName": "Execowtioner Axe",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.011078627481150946
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.008462840436990306
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.006308662871210955
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.0060009232189567625
 		},
 		{
 			"itemName": "Butcher's Axe",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.004923834436067087
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.003539006000923219
 		},
 		{
 			"itemName": "Minotaur Trophy",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.003231266348669026
 		}
 	]
 }

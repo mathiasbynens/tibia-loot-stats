@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9360
+			"timesDropped": 9360,
+			"dropRate": 0.5039573574543692
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 3773
+			"timesDropped": 3773,
+			"dropRate": 0.20314434932428793
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 3388
+			"timesDropped": 3388,
+			"dropRate": 0.18241533408711572
 		},
 		{
 			"itemName": "Rapier",
-			"timesDropped": 2894
+			"timesDropped": 2894,
+			"dropRate": 0.1558175846659129
 		},
 		{
 			"itemName": "Wooden Shield",
-			"timesDropped": 2879
+			"timesDropped": 2879,
+			"dropRate": 0.15500996069563344
 		},
 		{
 			"itemName": "Twigs",
-			"timesDropped": 1524
+			"timesDropped": 1524,
+			"dropRate": 0.0820545953803909
 		},
 		{
 			"itemName": "Frosty Ear of a Troll",
-			"timesDropped": 378
+			"timesDropped": 378,
+			"dropRate": 0.020352124051041837
 		},
 		{
 			"itemName": "Coat",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.01130673558391213
 		}
 	]
 }

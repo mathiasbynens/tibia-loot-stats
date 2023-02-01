@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1776
+			"timesDropped": 1776,
+			"dropRate": 0.8058076225045372
 		},
 		{
 			"itemName": "Quara Pincers",
-			"timesDropped": 395
+			"timesDropped": 395,
+			"dropRate": 0.1792196007259528
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 222
+			"timesDropped": 222,
+			"dropRate": 0.10072595281306715
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 197
+			"timesDropped": 197,
+			"dropRate": 0.08938294010889292
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 189
+			"timesDropped": 189,
+			"dropRate": 0.08575317604355717
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 170
+			"timesDropped": 170,
+			"dropRate": 0.07713248638838476
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 143
+			"timesDropped": 143,
+			"dropRate": 0.0648820326678766
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 120
+			"timesDropped": 120,
+			"dropRate": 0.0544464609800363
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 111
+			"timesDropped": 111,
+			"dropRate": 0.050362976406533574
 		},
 		{
 			"itemName": "Vortex Bolt",
-			"timesDropped": 86
+			"timesDropped": 86,
+			"dropRate": 0.03901996370235935
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.016333938294010888
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.014519056261343012
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 31
+			"timesDropped": 31,
+			"dropRate": 0.014065335753176044
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.006352087114337568
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.003176043557168784
 		},
 		{
 			"itemName": "Talon",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.002268602540834846
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0018148820326678765
 		},
 		{
 			"itemName": "Giant Shrimp",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0009074410163339383
 		},
 		{
 			"itemName": "Twiceslicer",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.00045372050816696913
 		}
 	]
 }

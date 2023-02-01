@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 11376
+			"timesDropped": 11376,
+			"dropRate": 0.8177113283496262
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 10331
+			"timesDropped": 10331,
+			"dropRate": 0.7425963197239793
 		},
 		{
 			"itemName": "Dragon's Tail",
-			"timesDropped": 644
+			"timesDropped": 644,
+			"dropRate": 0.04629097182288672
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.004959746981023577
 		}
 	]
 }

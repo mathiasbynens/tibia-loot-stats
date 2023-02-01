@@ -4,75 +4,93 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3854
+			"timesDropped": 3854,
+			"dropRate": 0.8562541657409465
 		},
 		{
 			"itemName": "Crystalline Arrow",
-			"timesDropped": 1141
+			"timesDropped": 1141,
+			"dropRate": 0.2534992223950233
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 606
+			"timesDropped": 606,
+			"dropRate": 0.134636747389469
 		},
 		{
 			"itemName": "Deeptags",
-			"timesDropped": 591
+			"timesDropped": 591,
+			"dropRate": 0.13130415463230394
 		},
 		{
 			"itemName": "Deepling Filet",
-			"timesDropped": 582
+			"timesDropped": 582,
+			"dropRate": 0.1293045989780049
 		},
 		{
 			"itemName": "Deepling Ridge",
-			"timesDropped": 428
+			"timesDropped": 428,
+			"dropRate": 0.09508998000444345
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 374
+			"timesDropped": 374,
+			"dropRate": 0.08309264607864919
 		},
 		{
 			"itemName": "Deepling Warts",
-			"timesDropped": 372
+			"timesDropped": 372,
+			"dropRate": 0.08264830037769384
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 360
+			"timesDropped": 360,
+			"dropRate": 0.07998222617196178
 		},
 		{
 			"itemName": "Vortex Bolt",
-			"timesDropped": 244
+			"timesDropped": 244,
+			"dropRate": 0.05421017551655188
 		},
 		{
 			"itemName": "Eye of a Deepling",
-			"timesDropped": 222
+			"timesDropped": 222,
+			"dropRate": 0.049322372806043104
 		},
 		{
 			"itemName": "Heavy Trident",
-			"timesDropped": 150
+			"timesDropped": 150,
+			"dropRate": 0.033325927571650746
 		},
 		{
 			"itemName": "Warrior's Shield",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.031992890468784715
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 138
+			"timesDropped": 138,
+			"dropRate": 0.030659853365918685
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.029771161964008
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.022661630748722506
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 97
+			"timesDropped": 97,
+			"dropRate": 0.021550766496334146
 		},
 		{
 			"itemName": "Necklace of the Deep",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.0028882470562097314
 		}
 	]
 }

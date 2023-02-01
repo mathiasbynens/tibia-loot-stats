@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5053
+			"timesDropped": 5053,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Seacrest Scale",
-			"timesDropped": 841
+			"timesDropped": 841,
+			"dropRate": 0.1664357807243222
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 706
+			"timesDropped": 706,
+			"dropRate": 0.13971897882446072
 		},
 		{
 			"itemName": "Seacrest Hair",
-			"timesDropped": 572
+			"timesDropped": 572,
+			"dropRate": 0.11320007916089452
 		},
 		{
 			"itemName": "Shiver Arrow",
-			"timesDropped": 424
+			"timesDropped": 424,
+			"dropRate": 0.08391054818919454
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 401
+			"timesDropped": 401,
+			"dropRate": 0.07935879675440333
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 377
+			"timesDropped": 377,
+			"dropRate": 0.07460914308331684
 		},
 		{
 			"itemName": "Seacrest Pearl",
-			"timesDropped": 340
+			"timesDropped": 340,
+			"dropRate": 0.06728676034039184
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 217
+			"timesDropped": 217,
+			"dropRate": 0.04294478527607362
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 178
+			"timesDropped": 178,
+			"dropRate": 0.035226598060558084
 		},
 		{
 			"itemName": "Glacier Kilt",
-			"timesDropped": 117
+			"timesDropped": 117,
+			"dropRate": 0.023154561646546605
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 106
+			"timesDropped": 106,
+			"dropRate": 0.020977637047298634
 		},
 		{
 			"itemName": "Glacier Mask",
-			"timesDropped": 105
+			"timesDropped": 105,
+			"dropRate": 0.020779734811003363
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.019790223629527013
 		},
 		{
 			"itemName": "Glacier Shoes",
-			"timesDropped": 97
+			"timesDropped": 97,
+			"dropRate": 0.019196516920641202
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.01622798337621215
 		},
 		{
 			"itemName": "Crest of the Deep Seas",
-			"timesDropped": 54
+			"timesDropped": 54,
+			"dropRate": 0.010686720759944587
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.010488818523649317
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.008707698396991885
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.002374826835543242
 		}
 	]
 }

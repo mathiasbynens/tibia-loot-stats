@@ -4,91 +4,113 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10646
+			"timesDropped": 10646,
+			"dropRate": 0.910848733744011
 		},
 		{
 			"itemName": "Book Page",
-			"timesDropped": 7265
+			"timesDropped": 7265,
+			"dropRate": 0.6215776865160849
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 5360
+			"timesDropped": 5360,
+			"dropRate": 0.458590006844627
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 3181
+			"timesDropped": 3181,
+			"dropRate": 0.2721594798083504
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 2467
+			"timesDropped": 2467,
+			"dropRate": 0.21107118412046544
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 2465
+			"timesDropped": 2465,
+			"dropRate": 0.21090006844626968
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 2176
+			"timesDropped": 2176,
+			"dropRate": 0.1861738535249829
 		},
 		{
 			"itemName": "Quill",
-			"timesDropped": 2130
+			"timesDropped": 2130,
+			"dropRate": 0.1822381930184805
 		},
 		{
 			"itemName": "Silken Bookmark",
-			"timesDropped": 2011
+			"timesDropped": 2011,
+			"dropRate": 0.172056810403833
 		},
 		{
 			"itemName": "Glacier Mask",
-			"timesDropped": 1580
+			"timesDropped": 1580,
+			"dropRate": 0.1351813826146475
 		},
 		{
 			"itemName": "Frosty Heart",
-			"timesDropped": 1491
+			"timesDropped": 1491,
+			"dropRate": 0.12756673511293634
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 746
+			"timesDropped": 746,
+			"dropRate": 0.06382614647501711
 		},
 		{
 			"itemName": "Glacier Kilt",
-			"timesDropped": 563
+			"timesDropped": 563,
+			"dropRate": 0.04816906228610541
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 556
+			"timesDropped": 556,
+			"dropRate": 0.04757015742642026
 		},
 		{
 			"itemName": "Glacier Shoes",
-			"timesDropped": 398
+			"timesDropped": 398,
+			"dropRate": 0.03405201916495551
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 309
+			"timesDropped": 309,
+			"dropRate": 0.026437371663244353
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 203
+			"timesDropped": 203,
+			"dropRate": 0.017368240930869267
 		},
 		{
 			"itemName": "Sapphire Hammer",
-			"timesDropped": 200
+			"timesDropped": 200,
+			"dropRate": 0.017111567419575632
 		},
 		{
 			"itemName": "Strange Helmet",
-			"timesDropped": 196
+			"timesDropped": 196,
+			"dropRate": 0.01676933607118412
 		},
 		{
 			"itemName": "Crystalline Armor",
-			"timesDropped": 103
+			"timesDropped": 103,
+			"dropRate": 0.008812457221081451
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.005646817248459959
 		},
 		{
 			"itemName": "Leviathan's Amulet",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.0012833675564681724
 		}
 	]
 }

@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 38822
+			"timesDropped": 38822,
+			"dropRate": 0.8780079609191243
 		},
 		{
 			"itemName": "Bolt",
-			"timesDropped": 22354
+			"timesDropped": 22354,
+			"dropRate": 0.5055635968880043
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 11036
+			"timesDropped": 11036,
+			"dropRate": 0.24959290754478017
 		},
 		{
 			"itemName": "Piercing Bolt",
-			"timesDropped": 6569
+			"timesDropped": 6569,
+			"dropRate": 0.14856612990772572
 		},
 		{
 			"itemName": "Venison",
-			"timesDropped": 5320
+			"timesDropped": 5320,
+			"dropRate": 0.12031843676497196
 		},
 		{
 			"itemName": "Elven Hoof",
-			"timesDropped": 3291
+			"timesDropped": 3291,
+			"dropRate": 0.07443007056269224
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 1141
+			"timesDropped": 1141,
+			"dropRate": 0.025805138411434773
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 214
+			"timesDropped": 214,
+			"dropRate": 0.0048398769676135335
 		},
 		{
 			"itemName": "Elvish Bow",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.0008141849104396599
 		}
 	]
 }

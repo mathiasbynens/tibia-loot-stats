@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Deepworm Jaws",
-			"timesDropped": 1129
+			"timesDropped": 1129,
+			"dropRate": 0.23530637765735724
 		},
 		{
 			"itemName": "Wood Mushroom",
-			"timesDropped": 1074
+			"timesDropped": 1074,
+			"dropRate": 0.22384326802834514
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 940
+			"timesDropped": 940,
+			"dropRate": 0.19591496456857024
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 917
+			"timesDropped": 917,
+			"dropRate": 0.19112130054189244
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 890
+			"timesDropped": 890,
+			"dropRate": 0.1854939558149229
 		},
 		{
 			"itemName": "Dark Mushroom",
-			"timesDropped": 695
+			"timesDropped": 695,
+			"dropRate": 0.14485202167569822
 		},
 		{
 			"itemName": "Deepworm Spike Roots",
-			"timesDropped": 630
+			"timesDropped": 630,
+			"dropRate": 0.13130471029595664
 		},
 		{
 			"itemName": "Deepworm Spikes",
-			"timesDropped": 478
+			"timesDropped": 478,
+			"dropRate": 0.0996248436848687
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 402
+			"timesDropped": 402,
+			"dropRate": 0.08378491037932471
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 279
+			"timesDropped": 279,
+			"dropRate": 0.05814922884535223
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 237
+			"timesDropped": 237,
+			"dropRate": 0.049395581492288454
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 166
+			"timesDropped": 166,
+			"dropRate": 0.03459774906210921
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.0212588578574406
 		},
 		{
 			"itemName": "Suspicious Device",
-			"timesDropped": 81
+			"timesDropped": 81,
+			"dropRate": 0.016882034180908712
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.012296790329303876
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.007919966652771988
 		}
 	]
 }

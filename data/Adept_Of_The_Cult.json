@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15498
+			"timesDropped": 15498,
+			"dropRate": 0.6565836298932385
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 2430
+			"timesDropped": 2430,
+			"dropRate": 0.10294865277071683
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 2338
+			"timesDropped": 2338,
+			"dropRate": 0.09905100830367734
 		},
 		{
 			"itemName": "Pirate Voodoo Doll",
-			"timesDropped": 352
+			"timesDropped": 352,
+			"dropRate": 0.014912726656498898
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 242
+			"timesDropped": 242,
+			"dropRate": 0.010252499576342992
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 230
+			"timesDropped": 230,
+			"dropRate": 0.009744111167598712
 		},
 		{
 			"itemName": "Book (Orange)",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.008896797153024912
 		},
 		{
 			"itemName": "Music Sheet (Third Verse)",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.006270123707846128
 		},
 		{
 			"itemName": "Amber Staff",
-			"timesDropped": 135
+			"timesDropped": 135,
+			"dropRate": 0.005719369598373157
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 112
+			"timesDropped": 112,
+			"dropRate": 0.004744958481613286
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.0028808676495509235
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.0018217251313336722
 		},
 		{
 			"itemName": "Cultish Symbol",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.0009320454160311811
 		},
 		{
 			"itemName": "Lunar Staff",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.0009320454160311811
 		},
 		{
 			"itemName": "Red Robe",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.0008896797153024911
 		},
 		{
 			"itemName": "Broken Key Ring",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.000762582613116421
 		}
 	]
 }

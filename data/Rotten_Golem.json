@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1610
+			"timesDropped": 1610,
+			"dropRate": 0.5848165637486379
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 857
+			"timesDropped": 857,
+			"dropRate": 0.3112967671630948
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.0370504903741373
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 80
+			"timesDropped": 80,
+			"dropRate": 0.02905920813657828
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 74
+			"timesDropped": 74,
+			"dropRate": 0.02687976752633491
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 0.02651652742462768
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 68
+			"timesDropped": 68,
+			"dropRate": 0.024700326916091538
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.02397384671267708
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.017072284780239737
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.015619324373410825
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.00980748274609517
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.009081002542680712
 		},
 		{
 			"itemName": "Fur Armor",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.008354522339266255
 		},
 		{
 			"itemName": "Rubber Cap",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.003995641118779513
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.002905920813657828
 		}
 	]
 }

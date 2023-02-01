@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5170
+			"timesDropped": 5170,
+			"dropRate": 0.9622184999069421
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2295
+			"timesDropped": 2295,
+			"dropRate": 0.4271356783919598
 		},
 		{
 			"itemName": "Spidris Mandible",
-			"timesDropped": 1567
+			"timesDropped": 1567,
+			"dropRate": 0.291643402196166
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 1274
+			"timesDropped": 1274,
+			"dropRate": 0.23711148334263912
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1163
+			"timesDropped": 1163,
+			"dropRate": 0.21645263353806068
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 727
+			"timesDropped": 727,
+			"dropRate": 0.13530616043178859
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 615
+			"timesDropped": 615,
+			"dropRate": 0.11446119486320491
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 247
+			"timesDropped": 247,
+			"dropRate": 0.045970593709287175
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 158
+			"timesDropped": 158,
+			"dropRate": 0.029406290712823375
 		},
 		{
 			"itemName": "Calopteryx Cape",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.014517029592406477
 		},
 		{
 			"itemName": "Hive Scythe",
-			"timesDropped": 71
+			"timesDropped": 71,
+			"dropRate": 0.013214219244369997
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 64
+			"timesDropped": 64,
+			"dropRate": 0.01191140889633352
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 60
+			"timesDropped": 60,
+			"dropRate": 0.011166945840312675
 		},
 		{
 			"itemName": "Carapace Shield",
-			"timesDropped": 51
+			"timesDropped": 51,
+			"dropRate": 0.009491903964265773
 		}
 	]
 }

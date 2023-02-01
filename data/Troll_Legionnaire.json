@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2355
+			"timesDropped": 2355,
+			"dropRate": 0.9375
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 728
+			"timesDropped": 728,
+			"dropRate": 0.2898089171974522
 		},
 		{
 			"itemName": "Frosty Ear of a Troll",
-			"timesDropped": 115
+			"timesDropped": 115,
+			"dropRate": 0.04578025477707006
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.002786624203821656
 		}
 	]
 }

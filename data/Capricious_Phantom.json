@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 3266
+			"timesDropped": 3266,
+			"dropRate": 0.6033622760022169
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2577
+			"timesDropped": 2577,
+			"dropRate": 0.4760761130611491
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 362
+			"timesDropped": 362,
+			"dropRate": 0.06687603916497321
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 344
+			"timesDropped": 344,
+			"dropRate": 0.06355071125069278
 		},
 		{
 			"itemName": "Capricious Heart",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.03879549233327175
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 182
+			"timesDropped": 182,
+			"dropRate": 0.03362276002216885
 		},
 		{
 			"itemName": "Capricious Robe",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.024755218917421024
 		},
 		{
 			"itemName": "Fur Armor",
-			"timesDropped": 74
+			"timesDropped": 74,
+			"dropRate": 0.013670792536486237
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 0.01348605209680399
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.012192869019028265
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.009237021984112323
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.00886754110474783
 		},
 		{
 			"itemName": "Collar of Blue Plasma",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.008128579346018844
 		}
 	]
 }

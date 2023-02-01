@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7244
+			"timesDropped": 7244,
+			"dropRate": 0.896423709936889
 		},
 		{
 			"itemName": "Spider Fangs",
-			"timesDropped": 2027
+			"timesDropped": 2027,
+			"dropRate": 0.25083529266179927
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 534
+			"timesDropped": 534,
+			"dropRate": 0.06608093057789878
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 383
+			"timesDropped": 383,
+			"dropRate": 0.047395124365796314
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.0006187353050365054
 		}
 	]
 }

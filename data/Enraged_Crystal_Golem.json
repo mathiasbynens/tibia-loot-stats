@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 14635
+			"timesDropped": 14635,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Crystalline Spikes",
-			"timesDropped": 1213
+			"timesDropped": 1213,
+			"dropRate": 0.08288349846258969
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1193
+			"timesDropped": 1193,
+			"dropRate": 0.08151691151349505
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1190
+			"timesDropped": 1190,
+			"dropRate": 0.08131192347113085
 		},
 		{
 			"itemName": "Crystalline Arrow",
-			"timesDropped": 751
+			"timesDropped": 751,
+			"dropRate": 0.05131533993850359
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 695
+			"timesDropped": 695,
+			"dropRate": 0.04748889648103861
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 599
+			"timesDropped": 599,
+			"dropRate": 0.040929279125384355
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 139
+			"timesDropped": 139,
+			"dropRate": 0.009497779296207721
 		},
 		{
 			"itemName": "Glorious Axe",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.003894772804919713
 		}
 	]
 }

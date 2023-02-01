@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5136
+			"timesDropped": 5136,
+			"dropRate": 0.981839036513095
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 2086
+			"timesDropped": 2086,
+			"dropRate": 0.3987765245650927
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 410
+			"timesDropped": 410,
+			"dropRate": 0.07837889504874784
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 375
+			"timesDropped": 375,
+			"dropRate": 0.07168801376409864
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 260
+			"timesDropped": 260,
+			"dropRate": 0.049703689543108394
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 253
+			"timesDropped": 253,
+			"dropRate": 0.04836551328617855
 		},
 		{
 			"itemName": "Sea Serpent Scale",
-			"timesDropped": 241
+			"timesDropped": 241,
+			"dropRate": 0.046071496845727394
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 235
+			"timesDropped": 235,
+			"dropRate": 0.044924488625501816
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.019116803670426306
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.00936723379850889
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.007837889504874785
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0015293442936341044
 		}
 	]
 }

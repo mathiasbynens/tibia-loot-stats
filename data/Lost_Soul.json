@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 285
+			"timesDropped": 285,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 285
+			"timesDropped": 285,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 105
+			"timesDropped": 105,
+			"dropRate": 0.3684210526315789
 		},
 		{
 			"itemName": "Unholy Bone",
-			"timesDropped": 96
+			"timesDropped": 96,
+			"dropRate": 0.3368421052631579
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 49
+			"timesDropped": 49,
+			"dropRate": 0.17192982456140352
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.1543859649122807
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.1543859649122807
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.14035087719298245
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.08421052631578947
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.056140350877192984
 		},
 		{
 			"itemName": "Silver Goblet",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.03859649122807018
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.031578947368421054
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.028070175438596492
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.02456140350877193
 		},
 		{
 			"itemName": "Ruby Necklace",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.014035087719298246
 		},
 		{
 			"itemName": "Skeleton Decoration",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.014035087719298246
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.010526315789473684
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.007017543859649123
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.007017543859649123
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0035087719298245615
 		}
 	]
 }

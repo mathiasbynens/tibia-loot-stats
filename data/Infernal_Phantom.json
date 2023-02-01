@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1797
+			"timesDropped": 1797,
+			"dropRate": 0.512111712738672
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 885
+			"timesDropped": 885,
+			"dropRate": 0.25220860644058135
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 656
+			"timesDropped": 656,
+			"dropRate": 0.18694784838985465
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 221
+			"timesDropped": 221,
+			"dropRate": 0.06298090624109433
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 137
+			"timesDropped": 137,
+			"dropRate": 0.039042462239954404
 		},
 		{
 			"itemName": "Infernal Heart",
-			"timesDropped": 136
+			"timesDropped": 136,
+			"dropRate": 0.03875748076375036
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 122
+			"timesDropped": 122,
+			"dropRate": 0.0347677400968937
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 115
+			"timesDropped": 115,
+			"dropRate": 0.03277286976346538
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 113
+			"timesDropped": 113,
+			"dropRate": 0.03220290681105728
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 0.02080364776289541
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.018808777429467086
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.018808777429467086
 		},
 		{
 			"itemName": "Infernal Robe",
-			"timesDropped": 64
+			"timesDropped": 64,
+			"dropRate": 0.018238814477058992
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.017953833000854943
 		},
 		{
 			"itemName": "Glorious Axe",
-			"timesDropped": 59
+			"timesDropped": 59,
+			"dropRate": 0.016813907096038756
 		},
 		{
 			"itemName": "Chaos Mace",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.011969222000569962
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.010829296095753777
 		}
 	]
 }

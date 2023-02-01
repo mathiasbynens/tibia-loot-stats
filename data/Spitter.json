@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 44749
+			"timesDropped": 44749,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 33580
+			"timesDropped": 33580,
+			"dropRate": 0.7504078303425775
 		},
 		{
 			"itemName": "Spitter Nose",
-			"timesDropped": 8131
+			"timesDropped": 8131,
+			"dropRate": 0.1817023844108248
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 6727
+			"timesDropped": 6727,
+			"dropRate": 0.1503273816174663
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 3649
+			"timesDropped": 3649,
+			"dropRate": 0.08154372164741111
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 3589
+			"timesDropped": 3589,
+			"dropRate": 0.08020290956222485
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 3319
+			"timesDropped": 3319,
+			"dropRate": 0.07416925517888667
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 2204
+			"timesDropped": 2204,
+			"dropRate": 0.04925249726250866
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 1034
+			"timesDropped": 1034,
+			"dropRate": 0.023106661601376567
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 908
+			"timesDropped": 908,
+			"dropRate": 0.020290956222485418
 		},
 		{
 			"itemName": "Mastermind Potion",
-			"timesDropped": 140
+			"timesDropped": 140,
+			"dropRate": 0.003128561532101276
 		},
 		{
 			"itemName": "Calopteryx Cape",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.0023911148852488323
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.002324074280989519
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 96
+			"timesDropped": 96,
+			"dropRate": 0.002145299336298018
 		},
 		{
 			"itemName": "Crusader Helmet",
-			"timesDropped": 94
+			"timesDropped": 94,
+			"dropRate": 0.0021006056001251425
 		},
 		{
 			"itemName": "Grasshopper Legs",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.0011173434043218844
 		}
 	]
 }

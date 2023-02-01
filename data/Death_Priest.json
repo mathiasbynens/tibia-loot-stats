@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3543
+			"timesDropped": 3543,
+			"dropRate": 0.6973036803778784
 		},
 		{
 			"itemName": "Hieroglyph Banner",
-			"timesDropped": 1326
+			"timesDropped": 1326,
+			"dropRate": 0.2609722495571738
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 813
+			"timesDropped": 813,
+			"dropRate": 0.16000787246605
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 750
+			"timesDropped": 750,
+			"dropRate": 0.14760873843731548
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 479
+			"timesDropped": 479,
+			"dropRate": 0.09427278094863216
 		},
 		{
 			"itemName": "Orichalcum Pearl",
-			"timesDropped": 313
+			"timesDropped": 313,
+			"dropRate": 0.061602046841173
 		},
 		{
 			"itemName": "Spellbook",
-			"timesDropped": 266
+			"timesDropped": 266,
+			"dropRate": 0.05235189923243456
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 135
+			"timesDropped": 135,
+			"dropRate": 0.026569572918716786
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 52
+			"timesDropped": 52,
+			"dropRate": 0.010234205864987207
 		}
 	]
 }

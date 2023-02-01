@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 1115
+			"timesDropped": 1115,
+			"dropRate": 0.6832107843137255
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 601
+			"timesDropped": 601,
+			"dropRate": 0.36825980392156865
 		},
 		{
 			"itemName": "Bamboo Stick",
-			"timesDropped": 157
+			"timesDropped": 157,
+			"dropRate": 0.09620098039215687
 		}
 	]
 }

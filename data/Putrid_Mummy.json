@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4327
+			"timesDropped": 4327,
+			"dropRate": 0.6247473289055732
 		},
 		{
 			"itemName": "Little Bowl of Myrrh",
-			"timesDropped": 966
+			"timesDropped": 966,
+			"dropRate": 0.13947444412359225
 		},
 		{
 			"itemName": "Green Bandage",
-			"timesDropped": 754
+			"timesDropped": 754,
+			"dropRate": 0.10886514582731735
 		},
 		{
 			"itemName": "Single Human Eye",
-			"timesDropped": 684
+			"timesDropped": 684,
+			"dropRate": 0.09875830205024545
 		},
 		{
 			"itemName": "Broken Flask",
-			"timesDropped": 670
+			"timesDropped": 670,
+			"dropRate": 0.09673693329483107
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 622
+			"timesDropped": 622,
+			"dropRate": 0.08980652613341034
 		},
 		{
 			"itemName": "Pharaoh Banner",
-			"timesDropped": 152
+			"timesDropped": 152,
+			"dropRate": 0.02194628934449899
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.01862546924631822
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 74
+			"timesDropped": 74,
+			"dropRate": 0.010684377707190298
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.005919722783713543
 		}
 	]
 }

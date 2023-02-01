@@ -4,15 +4,18 @@
 	"items": [
 		{
 			"itemName": "Dirty Fur",
-			"timesDropped": 1742
+			"timesDropped": 1742,
+			"dropRate": 0.6534133533383346
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 140
+			"timesDropped": 140,
+			"dropRate": 0.05251312828207052
 		},
 		{
 			"itemName": "Wolf Paw",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.014253563390847712
 		}
 	]
 }

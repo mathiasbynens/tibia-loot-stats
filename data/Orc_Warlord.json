@@ -4,91 +4,113 @@
 	"items": [
 		{
 			"itemName": "Broken Helmet",
-			"timesDropped": 1614
+			"timesDropped": 1614,
+			"dropRate": 0.25281954887218044
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 1315
+			"timesDropped": 1315,
+			"dropRate": 0.20598370927318296
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1209
+			"timesDropped": 1209,
+			"dropRate": 0.18937969924812031
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 931
+			"timesDropped": 931,
+			"dropRate": 0.14583333333333334
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 676
+			"timesDropped": 676,
+			"dropRate": 0.10588972431077694
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 626
+			"timesDropped": 626,
+			"dropRate": 0.09805764411027569
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 353
+			"timesDropped": 353,
+			"dropRate": 0.05529448621553885
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 340
+			"timesDropped": 340,
+			"dropRate": 0.05325814536340852
 		},
 		{
 			"itemName": "Skull Belt",
-			"timesDropped": 317
+			"timesDropped": 317,
+			"dropRate": 0.049655388471177946
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 310
+			"timesDropped": 310,
+			"dropRate": 0.04855889724310777
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 252
+			"timesDropped": 252,
+			"dropRate": 0.039473684210526314
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 190
+			"timesDropped": 190,
+			"dropRate": 0.02976190476190476
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 120
+			"timesDropped": 120,
+			"dropRate": 0.018796992481203006
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 117
+			"timesDropped": 117,
+			"dropRate": 0.01832706766917293
 		},
 		{
 			"itemName": "Dark Helmet",
-			"timesDropped": 83
+			"timesDropped": 83,
+			"dropRate": 0.01300125313283208
 		},
 		{
 			"itemName": "Brass Armor",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.009555137844611528
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.0037593984962406013
 		},
 		{
 			"itemName": "Crusader Helmet",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.002819548872180451
 		},
 		{
 			"itemName": "Dragon Hammer",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.002349624060150376
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.0018796992481203006
 		},
 		{
 			"itemName": "Orc Trophy",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.0014097744360902255
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.0010964912280701754
 		}
 	]
 }

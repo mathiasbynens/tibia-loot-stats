@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1960
+			"timesDropped": 1960,
+			"dropRate": 0.49073610415623437
 		},
 		{
 			"itemName": "Leather Legs",
-			"timesDropped": 616
+			"timesDropped": 616,
+			"dropRate": 0.1542313470205308
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 369
+			"timesDropped": 369,
+			"dropRate": 0.09238858287431147
 		},
 		{
 			"itemName": "Brown Bread",
-			"timesDropped": 212
+			"timesDropped": 212,
+			"dropRate": 0.053079619429143715
 		},
 		{
 			"itemName": "Studded Legs",
-			"timesDropped": 199
+			"timesDropped": 199,
+			"dropRate": 0.04982473710565849
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.010265398097145719
 		}
 	]
 }

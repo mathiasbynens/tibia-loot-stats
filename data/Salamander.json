@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 158192
+			"timesDropped": 158192,
+			"dropRate": 0.7193291984212153
 		},
 		{
 			"itemName": "Insectoid Eggs",
-			"timesDropped": 76777
+			"timesDropped": 76777,
+			"dropRate": 0.3491196638716601
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 17569
+			"timesDropped": 17569,
+			"dropRate": 0.07988959420869787
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 11169
+			"timesDropped": 11169,
+			"dropRate": 0.05078757343713054
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 8746
+			"timesDropped": 8746,
+			"dropRate": 0.039769730260644974
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 4344
+			"timesDropped": 4344,
+			"dropRate": 0.019752996598701323
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 3253
+			"timesDropped": 3253,
+			"dropRate": 0.014792011495298204
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 1629
+			"timesDropped": 1629,
+			"dropRate": 0.007407373724512996
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 1070
+			"timesDropped": 1070,
+			"dropRate": 0.004865494097746412
 		},
 		{
 			"itemName": "Insectoid Egg",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.00012277415013004967
 		}
 	]
 }

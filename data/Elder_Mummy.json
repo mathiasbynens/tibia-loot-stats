@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6942
+			"timesDropped": 6942,
+			"dropRate": 0.8802941922394116
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 1508
+			"timesDropped": 1508,
+			"dropRate": 0.1912249556175501
 		},
 		{
 			"itemName": "Flask of Embalming Fluid",
-			"timesDropped": 959
+			"timesDropped": 959,
+			"dropRate": 0.12160791275678418
 		},
 		{
 			"itemName": "Gauze Bandage",
-			"timesDropped": 764
+			"timesDropped": 764,
+			"dropRate": 0.0968805478062389
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 742
+			"timesDropped": 742,
+			"dropRate": 0.09409079381181841
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 452
+			"timesDropped": 452,
+			"dropRate": 0.057316763885366474
 		},
 		{
 			"itemName": "Strange Talisman",
-			"timesDropped": 374
+			"timesDropped": 374,
+			"dropRate": 0.04742581790514836
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 298
+			"timesDropped": 298,
+			"dropRate": 0.03778848592442303
 		},
 		{
 			"itemName": "Pharaoh Banner",
-			"timesDropped": 186
+			"timesDropped": 186,
+			"dropRate": 0.023586101952827798
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 137
+			"timesDropped": 137,
+			"dropRate": 0.017372558965254883
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.011285822977428354
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 44
+			"timesDropped": 44,
+			"dropRate": 0.005579507988840984
 		}
 	]
 }

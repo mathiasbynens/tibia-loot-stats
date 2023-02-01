@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 11043
+			"timesDropped": 11043,
+			"dropRate": 0.8225698324022347
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 6758
+			"timesDropped": 6758,
+			"dropRate": 0.503389199255121
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 3304
+			"timesDropped": 3304,
+			"dropRate": 0.24610800744878958
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 1081
+			"timesDropped": 1081,
+			"dropRate": 0.08052141527001862
 		},
 		{
 			"itemName": "Longsword",
-			"timesDropped": 861
+			"timesDropped": 861,
+			"dropRate": 0.0641340782122905
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 698
+			"timesDropped": 698,
+			"dropRate": 0.051992551210428305
 		},
 		{
 			"itemName": "Rotten Meat",
-			"timesDropped": 236
+			"timesDropped": 236,
+			"dropRate": 0.017579143389199255
 		},
 		{
 			"itemName": "Half-Digested Piece of Meat",
-			"timesDropped": 140
+			"timesDropped": 140,
+			"dropRate": 0.010428305400372439
 		},
 		{
 			"itemName": "Fist on a Stick",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.002160148975791434
 		}
 	]
 }

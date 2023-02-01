@@ -4,39 +4,48 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 87882
+			"timesDropped": 87882,
+			"dropRate": 0.7592594192506069
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 17372
+			"timesDropped": 17372,
+			"dropRate": 0.15008596335110197
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 2348
+			"timesDropped": 2348,
+			"dropRate": 0.020285622953510673
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 1108
+			"timesDropped": 1108,
+			"dropRate": 0.009572602313666877
 		},
 		{
 			"itemName": "Heavy Trident",
-			"timesDropped": 559
+			"timesDropped": 559,
+			"dropRate": 0.004829498820703776
 		},
 		{
 			"itemName": "Eye of a Deepling",
-			"timesDropped": 350
+			"timesDropped": 350,
+			"dropRate": 0.0030238364709236523
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 344
+			"timesDropped": 344,
+			"dropRate": 0.002971999274279247
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 143
+			"timesDropped": 143,
+			"dropRate": 0.0012354531866916637
 		},
 		{
 			"itemName": "Flask of Rust Remover",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.0011144997278547176
 		}
 	]
 }

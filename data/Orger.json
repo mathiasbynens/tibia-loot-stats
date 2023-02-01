@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7708
+			"timesDropped": 7708,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Bone Club",
-			"timesDropped": 1477
+			"timesDropped": 1477,
+			"dropRate": 0.19161909704203425
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 1329
+			"timesDropped": 1329,
+			"dropRate": 0.17241826673585886
 		},
 		{
 			"itemName": "Copper Shield",
-			"timesDropped": 602
+			"timesDropped": 602,
+			"dropRate": 0.07810067462376752
 		},
 		{
 			"itemName": "Studded Shield",
-			"timesDropped": 329
+			"timesDropped": 329,
+			"dropRate": 0.042682926829268296
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 285
+			"timesDropped": 285,
+			"dropRate": 0.036974571873378305
 		},
 		{
 			"itemName": "Combat Knife",
-			"timesDropped": 282
+			"timesDropped": 282,
+			"dropRate": 0.036585365853658534
 		},
 		{
 			"itemName": "Staff",
-			"timesDropped": 278
+			"timesDropped": 278,
+			"dropRate": 0.036066424494032176
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 258
+			"timesDropped": 258,
+			"dropRate": 0.03347171769590036
 		},
 		{
 			"itemName": "Crowbar",
-			"timesDropped": 244
+			"timesDropped": 244,
+			"dropRate": 0.0316554229372081
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 227
+			"timesDropped": 227,
+			"dropRate": 0.029449922158796056
 		},
 		{
 			"itemName": "Spiky Club",
-			"timesDropped": 178
+			"timesDropped": 178,
+			"dropRate": 0.02309289050337312
 		}
 	]
 }

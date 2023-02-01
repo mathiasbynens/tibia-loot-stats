@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7092
+			"timesDropped": 7092,
+			"dropRate": 0.9935556178201177
 		},
 		{
 			"itemName": "Pitchfork",
-			"timesDropped": 3609
+			"timesDropped": 3609,
+			"dropRate": 0.505603810591202
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 1763
+			"timesDropped": 1763,
+			"dropRate": 0.2469879518072289
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 1067
+			"timesDropped": 1067,
+			"dropRate": 0.14948164752031382
 		},
 		{
 			"itemName": "Cleaver",
-			"timesDropped": 633
+			"timesDropped": 633,
+			"dropRate": 0.08868030260577192
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 596
+			"timesDropped": 596,
+			"dropRate": 0.08349677780891006
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 554
+			"timesDropped": 554,
+			"dropRate": 0.07761277668814794
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 499
+			"timesDropped": 499,
+			"dropRate": 0.06990753712524517
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 380
+			"timesDropped": 380,
+			"dropRate": 0.05323620061641916
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 242
+			"timesDropped": 242,
+			"dropRate": 0.03390305407677221
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 196
+			"timesDropped": 196,
+			"dropRate": 0.027458671896889886
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 185
+			"timesDropped": 185,
+			"dropRate": 0.02591762398430933
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 123
+			"timesDropped": 123,
+			"dropRate": 0.017231717567946205
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.007705239562902774
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.005323620061641917
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.0035023816195012608
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.000980666853460353
 		}
 	]
 }

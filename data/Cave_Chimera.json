@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1304
+			"timesDropped": 1304,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 363
+			"timesDropped": 363,
+			"dropRate": 0.27837423312883436
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 284
+			"timesDropped": 284,
+			"dropRate": 0.21779141104294478
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 273
+			"timesDropped": 273,
+			"dropRate": 0.2093558282208589
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.06288343558282208
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 81
+			"timesDropped": 81,
+			"dropRate": 0.062116564417177916
 		},
 		{
 			"itemName": "Cave Chimera Leg",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 0.05598159509202454
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.03450920245398773
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 37
+			"timesDropped": 37,
+			"dropRate": 0.028374233128834355
 		},
 		{
 			"itemName": "Cave Chimera Head",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.026840490797546013
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.026840490797546013
 		},
 		{
 			"itemName": "Glacier Kilt",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.023006134969325152
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.019171779141104295
 		},
 		{
 			"itemName": "Gold Ring",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.013803680981595092
 		},
 		{
 			"itemName": "Fur Armor",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.009969325153374233
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.00843558282208589
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.006901840490797546
 		},
 		{
 			"itemName": "Elvish Bow",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.004601226993865031
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.003834355828220859
 		},
 		{
 			"itemName": "Composite Hornbow",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0015337423312883436
 		}
 	]
 }

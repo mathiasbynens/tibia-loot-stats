@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1494
+			"timesDropped": 1494,
+			"dropRate": 0.8930065750149432
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 239
+			"timesDropped": 239,
+			"dropRate": 0.14285714285714285
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 171
+			"timesDropped": 171,
+			"dropRate": 0.1022115959354453
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 167
+			"timesDropped": 167,
+			"dropRate": 0.09982068141063957
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 79
+			"timesDropped": 79,
+			"dropRate": 0.04722056186491333
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.008965929468021518
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.008368200836820083
 		}
 	]
 }

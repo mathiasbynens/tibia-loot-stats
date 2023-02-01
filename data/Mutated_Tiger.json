@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 22428
+			"timesDropped": 22428,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 6697
+			"timesDropped": 6697,
+			"dropRate": 0.2985999643303014
 		},
 		{
 			"itemName": "Striped Fur",
-			"timesDropped": 4609
+			"timesDropped": 4609,
+			"dropRate": 0.205502051007669
 		},
 		{
 			"itemName": "Sabretooth",
-			"timesDropped": 2513
+			"timesDropped": 2513,
+			"dropRate": 0.11204744069912609
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1348
+			"timesDropped": 1348,
+			"dropRate": 0.060103442125914036
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 1329
+			"timesDropped": 1329,
+			"dropRate": 0.05925628678437667
 		},
 		{
 			"itemName": "Glorious Axe",
-			"timesDropped": 226
+			"timesDropped": 226,
+			"dropRate": 0.01007668985197075
 		},
 		{
 			"itemName": "Silky Tapestry",
-			"timesDropped": 214
+			"timesDropped": 214,
+			"dropRate": 0.009541644373105047
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.00454788657035848
 		},
 		{
 			"itemName": "Angelic Axe",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.004369538077403246
 		}
 	]
 }

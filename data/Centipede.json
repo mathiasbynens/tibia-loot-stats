@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 56833
+			"timesDropped": 56833,
+			"dropRate": 0.800893435923452
 		},
 		{
 			"itemName": "Centipede Leg",
-			"timesDropped": 7221
+			"timesDropped": 7221,
+			"dropRate": 0.10175868774837236
 		}
 	]
 }

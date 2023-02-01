@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Mantassin Tail",
-			"timesDropped": 346
+			"timesDropped": 346,
+			"dropRate": 0.12973378327709037
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 256
+			"timesDropped": 256,
+			"dropRate": 0.09598800149981253
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 113
+			"timesDropped": 113,
+			"dropRate": 0.04236970378702662
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 91
+			"timesDropped": 91,
+			"dropRate": 0.03412073490813648
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 79
+			"timesDropped": 79,
+			"dropRate": 0.02962129733783277
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 70
+			"timesDropped": 70,
+			"dropRate": 0.026246719160104987
 		},
 		{
 			"itemName": "Strange Helmet",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.014623172103487065
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.013498312710911136
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.009373828271466067
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.00862392200974878
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.008248968878890138
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.008248968878890138
 		}
 	]
 }

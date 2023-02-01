@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6771
+			"timesDropped": 6771,
+			"dropRate": 0.29884803813391003
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 2250
+			"timesDropped": 2250,
+			"dropRate": 0.09930705742154743
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 295
+			"timesDropped": 295,
+			"dropRate": 0.013020258639713995
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 236
+			"timesDropped": 236,
+			"dropRate": 0.010416206911771196
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 200
+			"timesDropped": 200,
+			"dropRate": 0.008827293993026437
 		},
 		{
 			"itemName": "Shard",
-			"timesDropped": 144
+			"timesDropped": 144,
+			"dropRate": 0.006355651674979035
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 97
+			"timesDropped": 97,
+			"dropRate": 0.004281237586617822
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 87
+			"timesDropped": 87,
+			"dropRate": 0.0038398728869665005
 		},
 		{
 			"itemName": "Glacier Shoes",
-			"timesDropped": 73
+			"timesDropped": 73,
+			"dropRate": 0.00322196230745465
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.003045416427594121
 		},
 		{
 			"itemName": "Pair of Earmuffs",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.0007944564593723794
 		}
 	]
 }

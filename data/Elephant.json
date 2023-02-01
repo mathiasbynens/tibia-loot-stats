@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 3663
+			"timesDropped": 3663,
+			"dropRate": 0.4054682311268541
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 2656
+			"timesDropped": 2656,
+			"dropRate": 0.29400044277175114
 		},
 		{
 			"itemName": "Tusk",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.011069293779056896
 		},
 		{
 			"itemName": "Tusk Shield",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.0015497011290679654
 		}
 	]
 }

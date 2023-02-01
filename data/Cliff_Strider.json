@@ -4,131 +4,163 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1910
+			"timesDropped": 1910,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1910
+			"timesDropped": 1910,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 657
+			"timesDropped": 657,
+			"dropRate": 0.34397905759162306
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 457
+			"timesDropped": 457,
+			"dropRate": 0.23926701570680628
 		},
 		{
 			"itemName": "Vein of Ore",
-			"timesDropped": 348
+			"timesDropped": 348,
+			"dropRate": 0.18219895287958116
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 325
+			"timesDropped": 325,
+			"dropRate": 0.17015706806282724
 		},
 		{
 			"itemName": "Pulverized Ore",
-			"timesDropped": 305
+			"timesDropped": 305,
+			"dropRate": 0.15968586387434555
 		},
 		{
 			"itemName": "Cliff Strider Claw",
-			"timesDropped": 292
+			"timesDropped": 292,
+			"dropRate": 0.15287958115183245
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 274
+			"timesDropped": 274,
+			"dropRate": 0.14345549738219895
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 237
+			"timesDropped": 237,
+			"dropRate": 0.12408376963350785
 		},
 		{
 			"itemName": "Prismatic Bolt",
-			"timesDropped": 182
+			"timesDropped": 182,
+			"dropRate": 0.09528795811518324
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 180
+			"timesDropped": 180,
+			"dropRate": 0.09424083769633508
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 172
+			"timesDropped": 172,
+			"dropRate": 0.09005235602094241
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 171
+			"timesDropped": 171,
+			"dropRate": 0.08952879581151832
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 167
+			"timesDropped": 167,
+			"dropRate": 0.08743455497382199
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 124
+			"timesDropped": 124,
+			"dropRate": 0.06492146596858639
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 111
+			"timesDropped": 111,
+			"dropRate": 0.0581151832460733
 		},
 		{
 			"itemName": "Crystal of Balance",
-			"timesDropped": 48
+			"timesDropped": 48,
+			"dropRate": 0.025130890052356022
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.017277486910994764
 		},
 		{
 			"itemName": "Magic Sulphur",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.015183246073298429
 		},
 		{
 			"itemName": "Sapphire Hammer",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.015183246073298429
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 24
+			"timesDropped": 24,
+			"dropRate": 0.012565445026178011
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.01099476439790576
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.009947643979057591
 		},
 		{
 			"itemName": "Crystal of Power",
-			"timesDropped": 17
+			"timesDropped": 17,
+			"dropRate": 0.008900523560209424
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.007853403141361256
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.007329842931937173
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.005759162303664921
 		},
 		{
 			"itemName": "Crystalline Sword",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.005759162303664921
 		},
 		{
 			"itemName": "Crusader Helmet",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.005235602094240838
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.004188481675392671
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0005235602094240838
 		}
 	]
 }

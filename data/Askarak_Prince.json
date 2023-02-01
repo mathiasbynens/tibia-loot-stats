@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1695
+			"timesDropped": 1695,
+			"dropRate": 0.9543918918918919
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 619
+			"timesDropped": 619,
+			"dropRate": 0.34853603603603606
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 269
+			"timesDropped": 269,
+			"dropRate": 0.15146396396396397
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 249
+			"timesDropped": 249,
+			"dropRate": 0.14020270270270271
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 216
+			"timesDropped": 216,
+			"dropRate": 0.12162162162162163
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 119
+			"timesDropped": 119,
+			"dropRate": 0.0670045045045045
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.05518018018018018
 		},
 		{
 			"itemName": "Mastermind Potion",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.015765765765765764
 		},
 		{
 			"itemName": "Magic Sulphur",
-			"timesDropped": 15
+			"timesDropped": 15,
+			"dropRate": 0.008445945945945946
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.007882882882882882
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.00731981981981982
 		},
 		{
 			"itemName": "Demonic Finger",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.003941441441441441
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 6
+			"timesDropped": 6,
+			"dropRate": 0.0033783783783783786
 		}
 	]
 }

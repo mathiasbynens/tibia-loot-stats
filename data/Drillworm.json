@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 68100
+			"timesDropped": 68100,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Lump of Earth",
-			"timesDropped": 10237
+			"timesDropped": 10237,
+			"dropRate": 0.1503230543318649
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 8289
+			"timesDropped": 8289,
+			"dropRate": 0.12171806167400881
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 6884
+			"timesDropped": 6884,
+			"dropRate": 0.10108663729809104
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 6821
+			"timesDropped": 6821,
+			"dropRate": 0.10016152716593245
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 6791
+			"timesDropped": 6791,
+			"dropRate": 0.09972099853157122
 		},
 		{
 			"itemName": "Vein of Ore",
-			"timesDropped": 4989
+			"timesDropped": 4989,
+			"dropRate": 0.07325991189427312
 		},
 		{
 			"itemName": "Pulverized Ore",
-			"timesDropped": 3531
+			"timesDropped": 3531,
+			"dropRate": 0.05185022026431718
 		},
 		{
 			"itemName": "Pick",
-			"timesDropped": 3458
+			"timesDropped": 3458,
+			"dropRate": 0.05077826725403818
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 3415
+			"timesDropped": 3415,
+			"dropRate": 0.050146842878120414
 		},
 		{
 			"itemName": "Drill Bolt",
-			"timesDropped": 3410
+			"timesDropped": 3410,
+			"dropRate": 0.050073421439060205
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 1764
+			"timesDropped": 1764,
+			"dropRate": 0.02590308370044053
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 1631
+			"timesDropped": 1631,
+			"dropRate": 0.02395007342143906
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 1046
+			"timesDropped": 1046,
+			"dropRate": 0.015359765051395007
 		},
 		{
 			"itemName": "Clay Lump",
-			"timesDropped": 510
+			"timesDropped": 510,
+			"dropRate": 0.007488986784140969
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 352
+			"timesDropped": 352,
+			"dropRate": 0.005168869309838473
 		}
 	]
 }

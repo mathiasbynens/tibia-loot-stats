@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2533
+			"timesDropped": 2533,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 405
+			"timesDropped": 405,
+			"dropRate": 0.15988945913936045
 		},
 		{
 			"itemName": "Shamanic Hood",
-			"timesDropped": 356
+			"timesDropped": 356,
+			"dropRate": 0.1405448085274378
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 315
+			"timesDropped": 315,
+			"dropRate": 0.12435846821950257
 		},
 		{
 			"itemName": "Green Piece of Cloth",
-			"timesDropped": 271
+			"timesDropped": 271,
+			"dropRate": 0.10698776154757204
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 264
+			"timesDropped": 264,
+			"dropRate": 0.1042242400315831
 		},
 		{
 			"itemName": "Mysterious Fetish",
-			"timesDropped": 234
+			"timesDropped": 234,
+			"dropRate": 0.09238057639163048
 		},
 		{
 			"itemName": "Broken Shamanic Staff",
-			"timesDropped": 222
+			"timesDropped": 222,
+			"dropRate": 0.08764311093564943
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 219
+			"timesDropped": 219,
+			"dropRate": 0.08645874457165416
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 136
+			"timesDropped": 136,
+			"dropRate": 0.053691275167785234
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.027240426371891037
 		},
 		{
 			"itemName": "Heavy Old Tome",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.016581129095933674
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 23
+			"timesDropped": 23,
+			"dropRate": 0.009080142123963679
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.008685353335965259
 		}
 	]
 }

@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4074
+			"timesDropped": 4074,
+			"dropRate": 0.4979222683940357
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 1569
+			"timesDropped": 1569,
+			"dropRate": 0.19176240527988267
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 1001
+			"timesDropped": 1001,
+			"dropRate": 0.12234172573942802
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 833
+			"timesDropped": 833,
+			"dropRate": 0.10180884869225128
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 805
+			"timesDropped": 805,
+			"dropRate": 0.09838670251772183
 		},
 		{
 			"itemName": "Chain Helmet",
-			"timesDropped": 415
+			"timesDropped": 415,
+			"dropRate": 0.05072109508677585
 		},
 		{
 			"itemName": "Brass Armor",
-			"timesDropped": 216
+			"timesDropped": 216,
+			"dropRate": 0.026399413346370082
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 71
+			"timesDropped": 71,
+			"dropRate": 0.008677584942556832
 		},
 		{
 			"itemName": "Iron Helmet",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.005499877780493767
 		},
 		{
 			"itemName": "Belted Cape",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.003911024199462234
 		}
 	]
 }

@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 618
+			"timesDropped": 618,
+			"dropRate": 0.10655172413793103
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 452
+			"timesDropped": 452,
+			"dropRate": 0.07793103448275862
 		},
 		{
 			"itemName": "Grappling Hook",
-			"timesDropped": 447
+			"timesDropped": 447,
+			"dropRate": 0.07706896551724138
 		},
 		{
 			"itemName": "Pirate Coin",
-			"timesDropped": 380
+			"timesDropped": 380,
+			"dropRate": 0.06551724137931035
 		},
 		{
 			"itemName": "Pirat's Tail",
-			"timesDropped": 301
+			"timesDropped": 301,
+			"dropRate": 0.05189655172413793
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 273
+			"timesDropped": 273,
+			"dropRate": 0.04706896551724138
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 210
+			"timesDropped": 210,
+			"dropRate": 0.03620689655172414
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 168
+			"timesDropped": 168,
+			"dropRate": 0.028965517241379312
 		}
 	]
 }

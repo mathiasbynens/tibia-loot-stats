@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5279
+			"timesDropped": 5279,
+			"dropRate": 0.9895032802249297
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3700
+			"timesDropped": 3700,
+			"dropRate": 0.6935332708528584
 		},
 		{
 			"itemName": "Crystal Bone",
-			"timesDropped": 541
+			"timesDropped": 541,
+			"dropRate": 0.1014058106841612
 		},
 		{
 			"itemName": "Plasma Pearls",
-			"timesDropped": 533
+			"timesDropped": 533,
+			"dropRate": 0.09990627928772258
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 290
+			"timesDropped": 290,
+			"dropRate": 0.05435801312089972
 		},
 		{
 			"itemName": "Energy Drink",
-			"timesDropped": 286
+			"timesDropped": 286,
+			"dropRate": 0.05360824742268041
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 277
+			"timesDropped": 277,
+			"dropRate": 0.051921274601686974
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 267
+			"timesDropped": 267,
+			"dropRate": 0.05004686035613871
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 267
+			"timesDropped": 267,
+			"dropRate": 0.05004686035613871
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 201
+			"timesDropped": 201,
+			"dropRate": 0.03767572633552015
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 199
+			"timesDropped": 199,
+			"dropRate": 0.037300843486410495
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 175
+			"timesDropped": 175,
+			"dropRate": 0.03280224929709466
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 114
+			"timesDropped": 114,
+			"dropRate": 0.021368322399250236
 		}
 	]
 }

@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 14222
+			"timesDropped": 14222,
+			"dropRate": 0.5786711152703747
 		},
 		{
 			"itemName": "Carrion Worm Fang",
-			"timesDropped": 2455
+			"timesDropped": 2455,
+			"dropRate": 0.09989014118891647
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 2379
+			"timesDropped": 2379,
+			"dropRate": 0.09679781909915774
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 505
+			"timesDropped": 505,
+			"dropRate": 0.02054766651747569
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 56
+			"timesDropped": 56,
+			"dropRate": 0.0022785531187695814
 		}
 	]
 }

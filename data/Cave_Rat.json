@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 47389
+			"timesDropped": 47389,
+			"dropRate": 0.8510649761143637
 		},
 		{
 			"itemName": "Cheese",
-			"timesDropped": 16757
+			"timesDropped": 16757,
+			"dropRate": 0.30094105815164685
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 5558
+			"timesDropped": 5558,
+			"dropRate": 0.09981681692467943
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 509
+			"timesDropped": 509,
+			"dropRate": 0.00914119464099709
 		}
 	]
 }

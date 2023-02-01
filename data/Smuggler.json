@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 53154
+			"timesDropped": 53154,
+			"dropRate": 0.798287902680784
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 20122
+			"timesDropped": 20122,
+			"dropRate": 0.30220019523916797
 		},
 		{
 			"itemName": "Leather Legs",
-			"timesDropped": 9850
+			"timesDropped": 9850,
+			"dropRate": 0.1479312157392806
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 6771
+			"timesDropped": 6771,
+			"dropRate": 0.10168956972291057
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 6696
+			"timesDropped": 6696,
+			"dropRate": 0.10056318990763685
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 6678
+			"timesDropped": 6678,
+			"dropRate": 0.10029285875197116
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 6675
+			"timesDropped": 6675,
+			"dropRate": 0.10024780355936022
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 3345
+			"timesDropped": 3345,
+			"dropRate": 0.050236539761207476
 		},
 		{
 			"itemName": "Raspberry",
-			"timesDropped": 3271
+			"timesDropped": 3271,
+			"dropRate": 0.04912517834347075
 		},
 		{
 			"itemName": "Combat Knife",
-			"timesDropped": 2694
+			"timesDropped": 2694,
+			"dropRate": 0.04045956296463167
 		},
 		{
 			"itemName": "Deer Trophy",
-			"timesDropped": 74
+			"timesDropped": 74,
+			"dropRate": 0.0011113614177367275
 		}
 	]
 }

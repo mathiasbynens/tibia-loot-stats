@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 33828
+			"timesDropped": 33828,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Lost Soul (Item)",
-			"timesDropped": 10209
+			"timesDropped": 10209,
+			"dropRate": 0.30179141539553034
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 2274
+			"timesDropped": 2274,
+			"dropRate": 0.06722241929762326
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 1575
+			"timesDropped": 1575,
+			"dropRate": 0.04655906349769422
 		},
 		{
 			"itemName": "Death Toll",
-			"timesDropped": 1349
+			"timesDropped": 1349,
+			"dropRate": 0.03987820740215206
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 1214
+			"timesDropped": 1214,
+			"dropRate": 0.03588743053092113
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 1110
+			"timesDropped": 1110,
+			"dropRate": 0.03281305427456545
 		},
 		{
 			"itemName": "Ensouled Essence",
-			"timesDropped": 886
+			"timesDropped": 886,
+			"dropRate": 0.026191320799337826
 		},
 		{
 			"itemName": "Necklace of the Deep",
-			"timesDropped": 692
+			"timesDropped": 692,
+			"dropRate": 0.02045642662882819
 		},
 		{
 			"itemName": "Cursed Bone",
-			"timesDropped": 599
+			"timesDropped": 599,
+			"dropRate": 0.017707224784202436
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 595
+			"timesDropped": 595,
+			"dropRate": 0.01758897954357337
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 382
+			"timesDropped": 382,
+			"dropRate": 0.011292420480075676
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 109
+			"timesDropped": 109,
+			"dropRate": 0.0032221828071420126
 		}
 	]
 }

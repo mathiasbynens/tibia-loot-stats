@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 2295
+			"timesDropped": 2295,
+			"dropRate": 0.6696819375547126
 		},
 		{
 			"itemName": "Wool",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.009337613072658301
 		}
 	]
 }

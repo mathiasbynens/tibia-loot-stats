@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 203245
+			"timesDropped": 203245,
+			"dropRate": 0.9607421413377452
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 25258
+			"timesDropped": 25258,
+			"dropRate": 0.11939494209406759
 		},
 		{
 			"itemName": "High Guard Shoulderplates",
-			"timesDropped": 17132
+			"timesDropped": 17132,
+			"dropRate": 0.08098321909714015
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 14954
+			"timesDropped": 14954,
+			"dropRate": 0.0706877806665091
 		},
 		{
 			"itemName": "Spiked Iron Ball",
-			"timesDropped": 14746
+			"timesDropped": 14746,
+			"dropRate": 0.06970456156936894
 		},
 		{
 			"itemName": "Bunch of Ripe Rice",
-			"timesDropped": 10433
+			"timesDropped": 10433,
+			"dropRate": 0.049316946348381
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10375
+			"timesDropped": 10375,
+			"dropRate": 0.049042779484755376
 		},
 		{
 			"itemName": "High Guard Flag",
-			"timesDropped": 6360
+			"timesDropped": 6360,
+			"dropRate": 0.03006381470101631
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 5253
+			"timesDropped": 5253,
+			"dropRate": 0.024831009217679036
 		},
 		{
 			"itemName": "Red Lantern",
-			"timesDropped": 2560
+			"timesDropped": 2560,
+			"dropRate": 0.012101158118648073
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 2183
+			"timesDropped": 2183,
+			"dropRate": 0.01031907350508154
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 2114
+			"timesDropped": 2114,
+			"dropRate": 0.009992909477664855
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 2021
+			"timesDropped": 2021,
+			"dropRate": 0.009553297092885842
 		},
 		{
 			"itemName": "Zaoan Legs",
-			"timesDropped": 1551
+			"timesDropped": 1551,
+			"dropRate": 0.007331600094540298
 		},
 		{
 			"itemName": "Zaoan Shoes",
-			"timesDropped": 1453
+			"timesDropped": 1453,
+			"dropRate": 0.006868352635310801
 		},
 		{
 			"itemName": "Zaoan Armor",
-			"timesDropped": 160
+			"timesDropped": 160,
+			"dropRate": 0.0007563223824155046
 		}
 	]
 }

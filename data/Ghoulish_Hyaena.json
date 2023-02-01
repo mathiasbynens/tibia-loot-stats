@@ -4,23 +4,28 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6103
+			"timesDropped": 6103,
+			"dropRate": 0.8848774829636074
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 4501
+			"timesDropped": 4501,
+			"dropRate": 0.6526025808322459
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 3540
+			"timesDropped": 3540,
+			"dropRate": 0.5132666376685515
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 1363
+			"timesDropped": 1363,
+			"dropRate": 0.1976221545599536
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 187
+			"timesDropped": 187,
+			"dropRate": 0.02711323763955343
 		}
 	]
 }

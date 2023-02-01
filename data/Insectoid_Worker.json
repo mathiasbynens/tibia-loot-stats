@@ -4,27 +4,33 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 55974
+			"timesDropped": 55974,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 8399
+			"timesDropped": 8399,
+			"dropRate": 0.15005180976882124
 		},
 		{
 			"itemName": "Dung Ball",
-			"timesDropped": 8138
+			"timesDropped": 8138,
+			"dropRate": 0.14538893057490979
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 2728
+			"timesDropped": 2728,
+			"dropRate": 0.048736913567013256
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1586
+			"timesDropped": 1586,
+			"dropRate": 0.028334583913960053
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 318
+			"timesDropped": 318,
+			"dropRate": 0.005681209132811662
 		}
 	]
 }

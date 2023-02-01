@@ -4,19 +4,23 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 219483
+			"timesDropped": 219483,
+			"dropRate": 0.974973014032703
 		},
 		{
 			"itemName": "Terramite Legs",
-			"timesDropped": 33713
+			"timesDropped": 33713,
+			"dropRate": 0.14975768156114377
 		},
 		{
 			"itemName": "Terramite Shell",
-			"timesDropped": 16782
+			"timesDropped": 16782,
+			"dropRate": 0.07454790175775264
 		},
 		{
 			"itemName": "Terramite Eggs",
-			"timesDropped": 11242
+			"timesDropped": 11242,
+			"dropRate": 0.04993847643669736
 		}
 	]
 }

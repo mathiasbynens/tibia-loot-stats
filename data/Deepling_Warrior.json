@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 59569
+			"timesDropped": 59569,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Deepling Filet",
-			"timesDropped": 9058
+			"timesDropped": 9058,
+			"dropRate": 0.1520589568399671
 		},
 		{
 			"itemName": "Deeptags",
-			"timesDropped": 8893
+			"timesDropped": 8893,
+			"dropRate": 0.14928905974584095
 		},
 		{
 			"itemName": "Deepling Ridge",
-			"timesDropped": 6577
+			"timesDropped": 6577,
+			"dropRate": 0.1104097768973795
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 6081
+			"timesDropped": 6081,
+			"dropRate": 0.10208329835988518
 		},
 		{
 			"itemName": "Deepling Warts",
-			"timesDropped": 5983
+			"timesDropped": 5983,
+			"dropRate": 0.10043814735852541
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 5977
+			"timesDropped": 5977,
+			"dropRate": 0.10033742382782991
 		},
 		{
 			"itemName": "Vortex Bolt",
-			"timesDropped": 2056
+			"timesDropped": 2056,
+			"dropRate": 0.03451459651832329
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1841
+			"timesDropped": 1841,
+			"dropRate": 0.03090533666840135
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 1796
+			"timesDropped": 1796,
+			"dropRate": 0.03014991018818513
 		},
 		{
 			"itemName": "Heavy Trident",
-			"timesDropped": 587
+			"timesDropped": 587,
+			"dropRate": 0.00985411875304269
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 521
+			"timesDropped": 521,
+			"dropRate": 0.008746159915392234
 		},
 		{
 			"itemName": "Warrior's Shield",
-			"timesDropped": 362
+			"timesDropped": 362,
+			"dropRate": 0.0060769863519615904
 		},
 		{
 			"itemName": "Eye of a Deepling",
-			"timesDropped": 360
+			"timesDropped": 360,
+			"dropRate": 0.006043411841729759
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 305
+			"timesDropped": 305,
+			"dropRate": 0.005120112810354379
 		}
 	]
 }

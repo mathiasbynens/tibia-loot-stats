@@ -4,35 +4,43 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 134860
+			"timesDropped": 134860,
+			"dropRate": 0.8792254783714183
 		},
 		{
 			"itemName": "Dark Mushroom",
-			"timesDropped": 12222
+			"timesDropped": 12222,
+			"dropRate": 0.07968184633438732
 		},
 		{
 			"itemName": "Carniphila Seeds",
-			"timesDropped": 6141
+			"timesDropped": 6141,
+			"dropRate": 0.04003650943703752
 		},
 		{
 			"itemName": "Shadow Herb",
-			"timesDropped": 1535
+			"timesDropped": 1535,
+			"dropRate": 0.010007497473677348
 		},
 		{
 			"itemName": "Corncob",
-			"timesDropped": 1512
+			"timesDropped": 1512,
+			"dropRate": 0.009857548000130391
 		},
 		{
 			"itemName": "Seeds",
-			"timesDropped": 784
+			"timesDropped": 784,
+			"dropRate": 0.005111321185252795
 		},
 		{
 			"itemName": "Sling Herb",
-			"timesDropped": 770
+			"timesDropped": 770,
+			"dropRate": 0.005020047592658995
 		},
 		{
 			"itemName": "Carrot on a Stick",
-			"timesDropped": 162
+			"timesDropped": 162,
+			"dropRate": 0.0010561658571568277
 		}
 	]
 }

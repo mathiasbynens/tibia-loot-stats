@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1117
+			"timesDropped": 1117,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 397
+			"timesDropped": 397,
+			"dropRate": 0.35541629364368843
 		},
 		{
 			"itemName": "Carnisylvan Finger",
-			"timesDropped": 173
+			"timesDropped": 173,
+			"dropRate": 0.1548791405550582
 		},
 		{
 			"itemName": "Carnisylvan Bark",
-			"timesDropped": 138
+			"timesDropped": 138,
+			"dropRate": 0.12354521038495972
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 98
+			"timesDropped": 98,
+			"dropRate": 0.08773500447627573
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 50
+			"timesDropped": 50,
+			"dropRate": 0.044762757385854966
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.04118173679498657
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.03760071620411817
 		},
 		{
 			"itemName": "Spellbook",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.03222918531781558
 		},
 		{
 			"itemName": "Spellbook of Warding",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.03222918531781558
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 36
+			"timesDropped": 36,
+			"dropRate": 0.03222918531781558
 		},
 		{
 			"itemName": "Human Teeth",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.011638316920322292
 		},
 		{
 			"itemName": "Butterfly Ring",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.007162041181736795
 		},
 		{
 			"itemName": "Gold Ring",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.0035810205908683975
 		}
 	]
 }

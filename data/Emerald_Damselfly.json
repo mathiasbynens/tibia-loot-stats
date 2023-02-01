@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 71204
+			"timesDropped": 71204,
+			"dropRate": 0.908886676367721
 		},
 		{
 			"itemName": "Damselfly Wing",
-			"timesDropped": 9260
+			"timesDropped": 9260,
+			"dropRate": 0.11819968854509713
 		},
 		{
 			"itemName": "Damselfly Eye",
-			"timesDropped": 7824
+			"timesDropped": 7824,
+			"dropRate": 0.09986980163896761
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 5908
+			"timesDropped": 5908,
+			"dropRate": 0.07541293303719589
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 3946
+			"timesDropped": 3946,
+			"dropRate": 0.05036889535625846
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 2813
+			"timesDropped": 2813,
+			"dropRate": 0.03590666564550305
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 2786
+			"timesDropped": 2786,
+			"dropRate": 0.03556202292512318
 		}
 	]
 }

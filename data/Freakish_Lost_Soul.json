@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2647
+			"timesDropped": 2647,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Lost Soul (Item)",
-			"timesDropped": 1214
+			"timesDropped": 1214,
+			"dropRate": 0.45863241405364563
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 199
+			"timesDropped": 199,
+			"dropRate": 0.07517944843218738
 		},
 		{
 			"itemName": "Death Toll",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.05591235360785795
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 137
+			"timesDropped": 137,
+			"dropRate": 0.051756705704571214
 		},
 		{
 			"itemName": "Ensouled Essence",
-			"timesDropped": 100
+			"timesDropped": 100,
+			"dropRate": 0.037778617302606725
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.015867019267094825
 		},
 		{
 			"itemName": "Silver Hand Mirror",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.013222516055912353
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.00831129580657348
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.007933509633547412
 		}
 	]
 }

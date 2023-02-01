@@ -4,43 +4,53 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1049
+			"timesDropped": 1049,
+			"dropRate": 0.2828255594499865
 		},
 		{
 			"itemName": "Prehemoth Horns",
-			"timesDropped": 736
+			"timesDropped": 736,
+			"dropRate": 0.19843623618225936
 		},
 		{
 			"itemName": "Prehemoth Claw",
-			"timesDropped": 599
+			"timesDropped": 599,
+			"dropRate": 0.16149905634942033
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 599
+			"timesDropped": 599,
+			"dropRate": 0.16149905634942033
 		},
 		{
 			"itemName": "Furry Club",
-			"timesDropped": 262
+			"timesDropped": 262,
+			"dropRate": 0.07063898624966299
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 172
+			"timesDropped": 172,
+			"dropRate": 0.046373685629549743
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 111
+			"timesDropped": 111,
+			"dropRate": 0.029927204098139662
 		},
 		{
 			"itemName": "Doublet",
-			"timesDropped": 107
+			"timesDropped": 107,
+			"dropRate": 0.028848746292801295
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 43
+			"timesDropped": 43,
+			"dropRate": 0.011593421407387436
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.007818819088703155
 		}
 	]
 }

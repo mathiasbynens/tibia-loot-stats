@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 931
+			"timesDropped": 931,
+			"dropRate": 0.7810402684563759
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 184
+			"timesDropped": 184,
+			"dropRate": 0.15436241610738255
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 108
+			"timesDropped": 108,
+			"dropRate": 0.09060402684563758
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 90
+			"timesDropped": 90,
+			"dropRate": 0.07550335570469799
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 61
+			"timesDropped": 61,
+			"dropRate": 0.051174496644295304
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.01174496644295302
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.006711409395973154
 		}
 	]
 }

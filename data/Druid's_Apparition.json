@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1500
+			"timesDropped": 1500,
+			"dropRate": 0.5912495072920773
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 409
+			"timesDropped": 409,
+			"dropRate": 0.16121403232163972
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 295
+			"timesDropped": 295,
+			"dropRate": 0.11627906976744186
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 181
+			"timesDropped": 181,
+			"dropRate": 0.071344107213244
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 162
+			"timesDropped": 162,
+			"dropRate": 0.06385494678754434
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 119
+			"timesDropped": 119,
+			"dropRate": 0.04690579424517146
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.03232163973196689
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 58
+			"timesDropped": 58,
+			"dropRate": 0.022861647615293655
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.017737485218762318
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.011430823807646828
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.010248324793062672
 		},
 		{
 			"itemName": "Collar of Red Plasma",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.008277493102089082
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.007883326763894364
 		}
 	]
 }

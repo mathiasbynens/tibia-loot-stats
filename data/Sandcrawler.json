@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18939
+			"timesDropped": 18939,
+			"dropRate": 0.3473134054648817
 		},
 		{
 			"itemName": "Sandcrawler Shell",
-			"timesDropped": 1102
+			"timesDropped": 1102,
+			"dropRate": 0.020209059233449476
 		}
 	]
 }

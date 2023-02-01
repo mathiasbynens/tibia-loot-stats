@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 24917
+			"timesDropped": 24917,
+			"dropRate": 0.8766183506895581
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 4298
+			"timesDropped": 4298,
+			"dropRate": 0.15121024486349563
 		},
 		{
 			"itemName": "Stone Wing",
-			"timesDropped": 3411
+			"timesDropped": 3411,
+			"dropRate": 0.12000422178440755
 		},
 		{
 			"itemName": "Potato",
-			"timesDropped": 2820
+			"timesDropped": 2820,
+			"dropRate": 0.09921193357725866
 		},
 		{
 			"itemName": "Strawberry",
-			"timesDropped": 558
+			"timesDropped": 558,
+			"dropRate": 0.019631297495074584
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 432
+			"timesDropped": 432,
+			"dropRate": 0.015198423867154517
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 387
+			"timesDropped": 387,
+			"dropRate": 0.013615254714325922
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 308
+			"timesDropped": 308,
+			"dropRate": 0.010835913312693499
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 220
+			"timesDropped": 220,
+			"dropRate": 0.007739938080495356
 		},
 		{
 			"itemName": "Piece of Marble Rock",
-			"timesDropped": 135
+			"timesDropped": 135,
+			"dropRate": 0.004749507458485787
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.0027089783281733747
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.002216436813960034
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 55
+			"timesDropped": 55,
+			"dropRate": 0.001934984520123839
 		}
 	]
 }

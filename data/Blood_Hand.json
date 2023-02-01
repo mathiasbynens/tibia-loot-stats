@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6093
+			"timesDropped": 6093,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Blood Tincture in a Vial",
-			"timesDropped": 955
+			"timesDropped": 955,
+			"dropRate": 0.15673723945511242
 		},
 		{
 			"itemName": "Book of Necromantic Rituals",
-			"timesDropped": 618
+			"timesDropped": 618,
+			"dropRate": 0.10142786804529788
 		},
 		{
 			"itemName": "Lancet",
-			"timesDropped": 610
+			"timesDropped": 610,
+			"dropRate": 0.10011488593467914
 		},
 		{
 			"itemName": "Incantation Notes",
-			"timesDropped": 589
+			"timesDropped": 589,
+			"dropRate": 0.09666830789430494
 		},
 		{
 			"itemName": "Horoscope",
-			"timesDropped": 486
+			"timesDropped": 486,
+			"dropRate": 0.07976366322008863
 		},
 		{
 			"itemName": "Pieces of Magic Chalk",
-			"timesDropped": 388
+			"timesDropped": 388,
+			"dropRate": 0.06367963236500902
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 359
+			"timesDropped": 359,
+			"dropRate": 0.058920072214016087
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 189
+			"timesDropped": 189,
+			"dropRate": 0.0310192023633678
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 67
+			"timesDropped": 67,
+			"dropRate": 0.010996225176431972
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 62
+			"timesDropped": 62,
+			"dropRate": 0.010175611357295257
 		},
 		{
 			"itemName": "White Piece of Cloth",
-			"timesDropped": 57
+			"timesDropped": 57,
+			"dropRate": 0.009354997538158542
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.006729033316921057
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 32
+			"timesDropped": 32,
+			"dropRate": 0.005251928442474971
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.0011488593467914
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 3
+			"timesDropped": 3,
+			"dropRate": 0.0004923682914820286
 		},
 		{
 			"itemName": "Noble Axe",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.00016412276382734285
 		}
 	]
 }

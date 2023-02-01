@@ -4,31 +4,38 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4655
+			"timesDropped": 4655,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 684
+			"timesDropped": 684,
+			"dropRate": 0.1469387755102041
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 447
+			"timesDropped": 447,
+			"dropRate": 0.09602577873254566
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 211
+			"timesDropped": 211,
+			"dropRate": 0.045327604726100965
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 203
+			"timesDropped": 203,
+			"dropRate": 0.04360902255639098
 		},
 		{
 			"itemName": "Spider Silk",
-			"timesDropped": 134
+			"timesDropped": 134,
+			"dropRate": 0.02878625134264232
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 39
+			"timesDropped": 39,
+			"dropRate": 0.008378088077336197
 		}
 	]
 }

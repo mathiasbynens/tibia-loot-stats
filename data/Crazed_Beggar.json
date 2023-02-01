@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3535
+			"timesDropped": 3535,
+			"dropRate": 0.9940944881889764
 		},
 		{
 			"itemName": "Dirty Cape",
-			"timesDropped": 2161
+			"timesDropped": 2161,
+			"dropRate": 0.6077052868391452
 		},
 		{
 			"itemName": "Roll",
-			"timesDropped": 682
+			"timesDropped": 682,
+			"dropRate": 0.19178852643419572
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 352
+			"timesDropped": 352,
+			"dropRate": 0.09898762654668167
 		},
 		{
 			"itemName": "Wooden Spoon",
-			"timesDropped": 340
+			"timesDropped": 340,
+			"dropRate": 0.09561304836895389
 		},
 		{
 			"itemName": "Wooden Hammer",
-			"timesDropped": 240
+			"timesDropped": 240,
+			"dropRate": 0.06749156355455568
 		},
 		{
 			"itemName": "Red Rose",
-			"timesDropped": 180
+			"timesDropped": 180,
+			"dropRate": 0.05061867266591676
 		},
 		{
 			"itemName": "Rolling Pin",
-			"timesDropped": 168
+			"timesDropped": 168,
+			"dropRate": 0.047244094488188976
 		},
 		{
 			"itemName": "Small Blue Pillow",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.006186726659167604
 		},
 		{
 			"itemName": "Sling Herb",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.005905511811023622
 		},
 		{
 			"itemName": "Rum Flask",
-			"timesDropped": 18
+			"timesDropped": 18,
+			"dropRate": 0.005061867266591676
 		},
 		{
 			"itemName": "Lute",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.003655793025871766
 		},
 		{
 			"itemName": "Very Noble-Looking Watch",
-			"timesDropped": 13
+			"timesDropped": 13,
+			"dropRate": 0.003655793025871766
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.00281214848143982
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.00140607424071991
 		}
 	]
 }

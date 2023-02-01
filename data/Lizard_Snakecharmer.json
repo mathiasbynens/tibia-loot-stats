@@ -4,55 +4,68 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6010
+			"timesDropped": 6010,
+			"dropRate": 0.8316037083160371
 		},
 		{
 			"itemName": "Dead Snake",
-			"timesDropped": 3409
+			"timesDropped": 3409,
+			"dropRate": 0.47170333471703335
 		},
 		{
 			"itemName": "Cape",
-			"timesDropped": 635
+			"timesDropped": 635,
+			"dropRate": 0.08786495087864951
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 90
+			"timesDropped": 90,
+			"dropRate": 0.012453300124533
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 82
+			"timesDropped": 82,
+			"dropRate": 0.011346340113463402
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.010792860107928601
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 66
+			"timesDropped": 66,
+			"dropRate": 0.0091324200913242
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.007333610073336101
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 29
+			"timesDropped": 29,
+			"dropRate": 0.004012730040127301
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 14
+			"timesDropped": 14,
+			"dropRate": 0.0019371800193718
 		},
 		{
 			"itemName": "Snakebite Rod",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.0013837000138370002
 		},
 		{
 			"itemName": "Charmer's Tiara",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.0009685900096859
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.0002767400027674
 		}
 	]
 }

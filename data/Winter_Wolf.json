@@ -4,11 +4,13 @@
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 7034
+			"timesDropped": 7034,
+			"dropRate": 0.30098416773641423
 		},
 		{
 			"itemName": "Winter Wolf Fur",
-			"timesDropped": 2337
+			"timesDropped": 2337,
+			"dropRate": 0.1
 		}
 	]
 }

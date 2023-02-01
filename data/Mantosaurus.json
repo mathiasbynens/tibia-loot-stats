@@ -4,47 +4,58 @@
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 250
+			"timesDropped": 250,
+			"dropRate": 0.25176233635448136
 		},
 		{
 			"itemName": "Mantosaurus Jaw",
-			"timesDropped": 176
+			"timesDropped": 176,
+			"dropRate": 0.1772406847935549
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.1027190332326284
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 38
+			"timesDropped": 38,
+			"dropRate": 0.038267875125881166
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.028197381671701913
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 28
+			"timesDropped": 28,
+			"dropRate": 0.028197381671701913
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 26
+			"timesDropped": 26,
+			"dropRate": 0.026183282980866064
 		},
 		{
 			"itemName": "Coral Brooch",
-			"timesDropped": 22
+			"timesDropped": 22,
+			"dropRate": 0.022155085599194362
 		},
 		{
 			"itemName": "Gold Ring",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.012084592145015106
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 10
+			"timesDropped": 10,
+			"dropRate": 0.010070493454179255
 		},
 		{
 			"itemName": "Amulet of Loss",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.0010070493454179255
 		}
 	]
 }

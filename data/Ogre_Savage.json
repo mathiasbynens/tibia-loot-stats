@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3184
+			"timesDropped": 3184,
+			"dropRate": 0.9934477379095163
 		},
 		{
 			"itemName": "Ogre Ear Stud",
-			"timesDropped": 624
+			"timesDropped": 624,
+			"dropRate": 0.19469578783151326
 		},
 		{
 			"itemName": "Ogre Nose Ring",
-			"timesDropped": 548
+			"timesDropped": 548,
+			"dropRate": 0.17098283931357255
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 495
+			"timesDropped": 495,
+			"dropRate": 0.1544461778471139
 		},
 		{
 			"itemName": "Skull Fetish",
-			"timesDropped": 301
+			"timesDropped": 301,
+			"dropRate": 0.0939157566302652
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 263
+			"timesDropped": 263,
+			"dropRate": 0.08205928237129485
 		},
 		{
 			"itemName": "Mysterious Fetish",
-			"timesDropped": 199
+			"timesDropped": 199,
+			"dropRate": 0.06209048361934477
 		},
 		{
 			"itemName": "Jalapeno Pepper",
-			"timesDropped": 129
+			"timesDropped": 129,
+			"dropRate": 0.04024960998439937
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 94
+			"timesDropped": 94,
+			"dropRate": 0.029329173166926677
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 93
+			"timesDropped": 93,
+			"dropRate": 0.029017160686427457
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 91
+			"timesDropped": 91,
+			"dropRate": 0.02839313572542902
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 69
+			"timesDropped": 69,
+			"dropRate": 0.021528861154446178
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.014664586583463339
 		},
 		{
 			"itemName": "Ogre Choppa",
-			"timesDropped": 35
+			"timesDropped": 35,
+			"dropRate": 0.0109204368174727
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.0049921996879875195
 		},
 		{
 			"itemName": "Shamanic Mask",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.00374414976599064
 		},
 		{
 			"itemName": "Dreaded Cleaver",
-			"timesDropped": 1
+			"timesDropped": 1,
+			"dropRate": 0.00031201248049921997
 		}
 	]
 }

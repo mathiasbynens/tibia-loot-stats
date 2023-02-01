@@ -4,59 +4,73 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 19871
+			"timesDropped": 19871,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Sphinx Feather",
-			"timesDropped": 1462
+			"timesDropped": 1462,
+			"dropRate": 0.07357455588546122
 		},
 		{
 			"itemName": "Sphinx Tiara",
-			"timesDropped": 1180
+			"timesDropped": 1180,
+			"dropRate": 0.059383020482109604
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 1179
+			"timesDropped": 1179,
+			"dropRate": 0.059332695888480703
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 1068
+			"timesDropped": 1068,
+			"dropRate": 0.053746665995672085
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 836
+			"timesDropped": 836,
+			"dropRate": 0.04207136027376579
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 704
+			"timesDropped": 704,
+			"dropRate": 0.03542851391475014
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 641
+			"timesDropped": 641,
+			"dropRate": 0.03225806451612903
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 607
+			"timesDropped": 607,
+			"dropRate": 0.030547028332746213
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 475
+			"timesDropped": 475,
+			"dropRate": 0.02390418197373056
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 419
+			"timesDropped": 419,
+			"dropRate": 0.021086004730511802
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 399
+			"timesDropped": 399,
+			"dropRate": 0.020079512857933673
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 399
+			"timesDropped": 399,
+			"dropRate": 0.020079512857933673
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 216
+			"timesDropped": 216,
+			"dropRate": 0.010870112223843792
 		}
 	]
 }

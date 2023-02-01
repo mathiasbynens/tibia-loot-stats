@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5137
+			"timesDropped": 5137,
+			"dropRate": 0.5537947391116861
 		},
 		{
 			"itemName": "Compass",
-			"timesDropped": 946
+			"timesDropped": 946,
+			"dropRate": 0.10198361362656318
 		},
 		{
 			"itemName": "Sabre",
-			"timesDropped": 909
+			"timesDropped": 909,
+			"dropRate": 0.09799482535575679
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 749
+			"timesDropped": 749,
+			"dropRate": 0.0807460112117292
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 174
+			"timesDropped": 174,
+			"dropRate": 0.018758085381630013
 		},
 		{
 			"itemName": "Dark Shield",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.010996119016817595
 		},
 		{
 			"itemName": "Pirate Hat",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.010996119016817595
 		},
 		{
 			"itemName": "Pirate Backpack",
-			"timesDropped": 95
+			"timesDropped": 95,
+			"dropRate": 0.010241483398016386
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 75
+			"timesDropped": 75,
+			"dropRate": 0.008085381630012937
 		},
 		{
 			"itemName": "Hook",
-			"timesDropped": 53
+			"timesDropped": 53,
+			"dropRate": 0.005713669685209142
 		},
 		{
 			"itemName": "Peg Leg",
-			"timesDropped": 51
+			"timesDropped": 51,
+			"dropRate": 0.005498059508408797
 		},
 		{
 			"itemName": "Eye Patch",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.004959034066407934
 		},
 		{
 			"itemName": "Pirate Boots",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.003234152652005175
 		},
 		{
 			"itemName": "Skull Candle",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.0011858559724018973
 		},
 		{
 			"itemName": "Rum Flask",
-			"timesDropped": 9
+			"timesDropped": 9,
+			"dropRate": 0.0009702457956015524
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 8
+			"timesDropped": 8,
+			"dropRate": 0.0008624407072013799
 		}
 	]
 }

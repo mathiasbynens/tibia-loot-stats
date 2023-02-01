@@ -4,63 +4,78 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6582
+			"timesDropped": 6582,
+			"dropRate": 0.6081493116511134
 		},
 		{
 			"itemName": "Book Page",
-			"timesDropped": 5322
+			"timesDropped": 5322,
+			"dropRate": 0.4917305737780652
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 4576
+			"timesDropped": 4576,
+			"dropRate": 0.42280328929132405
 		},
 		{
 			"itemName": "Silken Bookmark",
-			"timesDropped": 2116
+			"timesDropped": 2116,
+			"dropRate": 0.19550956296775385
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 2056
+			"timesDropped": 2056,
+			"dropRate": 0.18996581354522776
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 1266
+			"timesDropped": 1266,
+			"dropRate": 0.11697311281530075
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 946
+			"timesDropped": 946,
+			"dropRate": 0.08740644922849487
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 603
+			"timesDropped": 603,
+			"dropRate": 0.055714681696387325
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 568
+			"timesDropped": 568,
+			"dropRate": 0.05248082786658043
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 495
+			"timesDropped": 495,
+			"dropRate": 0.04573593273584034
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 400
+			"timesDropped": 400,
+			"dropRate": 0.03695832948350734
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 270
+			"timesDropped": 270,
+			"dropRate": 0.02494687240136746
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 156
+			"timesDropped": 156,
+			"dropRate": 0.014413748498567865
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 77
+			"timesDropped": 77,
+			"dropRate": 0.007114478425575164
 		},
 		{
 			"itemName": "Shadow Sceptre",
-			"timesDropped": 40
+			"timesDropped": 40,
+			"dropRate": 0.0036958329483507343
 		}
 	]
 }

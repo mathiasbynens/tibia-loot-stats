@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 674
+			"timesDropped": 674,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Ogre Ear Stud",
-			"timesDropped": 125
+			"timesDropped": 125,
+			"dropRate": 0.18545994065281898
 		},
 		{
 			"itemName": "Ogre Nose Ring",
-			"timesDropped": 109
+			"timesDropped": 109,
+			"dropRate": 0.16172106824925817
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 97
+			"timesDropped": 97,
+			"dropRate": 0.14391691394658754
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 76
+			"timesDropped": 76,
+			"dropRate": 0.11275964391691394
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.04896142433234421
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 30
+			"timesDropped": 30,
+			"dropRate": 0.04451038575667656
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 25
+			"timesDropped": 25,
+			"dropRate": 0.037091988130563795
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 21
+			"timesDropped": 21,
+			"dropRate": 0.03115727002967359
 		},
 		{
 			"itemName": "Skull Fetish",
-			"timesDropped": 20
+			"timesDropped": 20,
+			"dropRate": 0.02967359050445104
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.028189910979228485
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.02373887240356083
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.017804154302670624
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 12
+			"timesDropped": 12,
+			"dropRate": 0.017804154302670624
 		},
 		{
 			"itemName": "Metal Spats",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.016320474777448073
 		},
 		{
 			"itemName": "Pair of Iron Fists",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.016320474777448073
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.010385756676557863
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.00741839762611276
 		},
 		{
 			"itemName": "Ogre Klubba",
-			"timesDropped": 5
+			"timesDropped": 5,
+			"dropRate": 0.00741839762611276
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 4
+			"timesDropped": 4,
+			"dropRate": 0.005934718100890208
 		}
 	]
 }

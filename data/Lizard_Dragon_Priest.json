@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 50443
+			"timesDropped": 50443,
+			"dropRate": 0.9389985107967238
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 6503
+			"timesDropped": 6503,
+			"dropRate": 0.1210536113179449
 		},
 		{
 			"itemName": "Dragon Priest's Wandtip",
-			"timesDropped": 5354
+			"timesDropped": 5354,
+			"dropRate": 0.09966492926284438
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 4319
+			"timesDropped": 4319,
+			"dropRate": 0.08039836187639612
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 2620
+			"timesDropped": 2620,
+			"dropRate": 0.04877140729709605
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2160
+			"timesDropped": 2160,
+			"dropRate": 0.040208488458674606
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 831
+			"timesDropped": 831,
+			"dropRate": 0.015469099032017871
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 574
+			"timesDropped": 574,
+			"dropRate": 0.010685033507073716
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 566
+			"timesDropped": 566,
+			"dropRate": 0.010536113179448995
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 537
+			"timesDropped": 537,
+			"dropRate": 0.009996276991809381
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 522
+			"timesDropped": 522,
+			"dropRate": 0.00971705137751303
 		},
 		{
 			"itemName": "Bunch of Ripe Rice",
-			"timesDropped": 518
+			"timesDropped": 518,
+			"dropRate": 0.00964259121370067
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 419
+			"timesDropped": 419,
+			"dropRate": 0.0077997021593447504
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 357
+			"timesDropped": 357,
+			"dropRate": 0.006645569620253164
 		},
 		{
 			"itemName": "Zaoan Shoes",
-			"timesDropped": 233
+			"timesDropped": 233,
+			"dropRate": 0.004337304542069992
 		},
 		{
 			"itemName": "Zaoan Robe",
-			"timesDropped": 155
+			"timesDropped": 155,
+			"dropRate": 0.002885331347728965
 		}
 	]
 }

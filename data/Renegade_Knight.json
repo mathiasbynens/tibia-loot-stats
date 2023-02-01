@@ -4,67 +4,83 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 17134
+			"timesDropped": 17134,
+			"dropRate": 0.9998832866479925
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4337
+			"timesDropped": 4337,
+			"dropRate": 0.25309290382819793
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 1579
+			"timesDropped": 1579,
+			"dropRate": 0.0921451914098973
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 1242
+			"timesDropped": 1242,
+			"dropRate": 0.07247899159663866
 		},
 		{
 			"itemName": "Scroll of Heroic Deeds",
-			"timesDropped": 1050
+			"timesDropped": 1050,
+			"dropRate": 0.061274509803921566
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 873
+			"timesDropped": 873,
+			"dropRate": 0.050945378151260504
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 626
+			"timesDropped": 626,
+			"dropRate": 0.036531279178338004
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 308
+			"timesDropped": 308,
+			"dropRate": 0.017973856209150325
 		},
 		{
 			"itemName": "Small Notebook",
-			"timesDropped": 268
+			"timesDropped": 268,
+			"dropRate": 0.015639589169000934
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 167
+			"timesDropped": 167,
+			"dropRate": 0.009745564892623716
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 112
+			"timesDropped": 112,
+			"dropRate": 0.006535947712418301
 		},
 		{
 			"itemName": "Crown Helmet",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.006069094304388422
 		},
 		{
 			"itemName": "Crown Legs",
-			"timesDropped": 104
+			"timesDropped": 104,
+			"dropRate": 0.006069094304388422
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 89
+			"timesDropped": 89,
+			"dropRate": 0.005193744164332399
 		},
 		{
 			"itemName": "Crown Shield",
-			"timesDropped": 34
+			"timesDropped": 34,
+			"dropRate": 0.001984126984126984
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 19
+			"timesDropped": 19,
+			"dropRate": 0.0011087768440709617
 		}
 	]
 }

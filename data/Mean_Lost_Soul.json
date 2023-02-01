@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10864
+			"timesDropped": 10864,
+			"dropRate": 0.6725685631152108
 		},
 		{
 			"itemName": "Lost Soul (Item)",
-			"timesDropped": 5863
+			"timesDropped": 5863,
+			"dropRate": 0.362966631585464
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 810
+			"timesDropped": 810,
+			"dropRate": 0.05014548381105677
 		},
 		{
 			"itemName": "Machete",
-			"timesDropped": 758
+			"timesDropped": 758,
+			"dropRate": 0.04692626756639633
 		},
 		{
 			"itemName": "Death Toll",
-			"timesDropped": 757
+			"timesDropped": 757,
+			"dropRate": 0.04686435956169133
 		},
 		{
 			"itemName": "Ensouled Essence",
-			"timesDropped": 537
+			"timesDropped": 537,
+			"dropRate": 0.03324459852658949
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 265
+			"timesDropped": 265,
+			"dropRate": 0.016405621246827214
 		},
 		{
 			"itemName": "Ivory Comb",
-			"timesDropped": 257
+			"timesDropped": 257,
+			"dropRate": 0.015910357209187147
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 232
+			"timesDropped": 232,
+			"dropRate": 0.01436265709156194
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 168
+			"timesDropped": 168,
+			"dropRate": 0.010400544790441404
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 165
+			"timesDropped": 165,
+			"dropRate": 0.01021482077632638
 		},
 		{
 			"itemName": "Twiceslicer",
-			"timesDropped": 78
+			"timesDropped": 78,
+			"dropRate": 0.004828824366990652
 		}
 	]
 }

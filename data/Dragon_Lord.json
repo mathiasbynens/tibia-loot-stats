@@ -4,83 +4,103 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 41451
+			"timesDropped": 41451,
+			"dropRate": 0.9526556502953276
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 34702
+			"timesDropped": 34702,
+			"dropRate": 0.7975454482774471
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 5278
+			"timesDropped": 5278,
+			"dropRate": 0.12130265909769944
 		},
 		{
 			"itemName": "Royal Spear",
-			"timesDropped": 3968
+			"timesDropped": 3968,
+			"dropRate": 0.09119532991657282
 		},
 		{
 			"itemName": "Book (Gemmed)",
-			"timesDropped": 3959
+			"timesDropped": 3959,
+			"dropRate": 0.09098848567029028
 		},
 		{
 			"itemName": "Power Bolt",
-			"timesDropped": 2852
+			"timesDropped": 2852,
+			"dropRate": 0.06554664337753671
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 2207
+			"timesDropped": 2207,
+			"dropRate": 0.05072280572728735
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 2159
+			"timesDropped": 2159,
+			"dropRate": 0.04961963641378042
 		},
 		{
 			"itemName": "Golden Mug",
-			"timesDropped": 1339
+			"timesDropped": 1339,
+			"dropRate": 0.030773827308037047
 		},
 		{
 			"itemName": "Red Dragon Scale",
-			"timesDropped": 855
+			"timesDropped": 855,
+			"dropRate": 0.01965020339684218
 		},
 		{
 			"itemName": "Red Dragon Leather",
-			"timesDropped": 443
+			"timesDropped": 443,
+			"dropRate": 0.010181333455907701
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 426
+			"timesDropped": 426,
+			"dropRate": 0.009790627657373997
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 275
+			"timesDropped": 275,
+			"dropRate": 0.006320240858633449
 		},
 		{
 			"itemName": "Strange Helmet",
-			"timesDropped": 167
+			"timesDropped": 167,
+			"dropRate": 0.0038381099032428583
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 126
+			"timesDropped": 126,
+			"dropRate": 0.0028958194479556895
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 116
+			"timesDropped": 116,
+			"dropRate": 0.0026659925076417458
 		},
 		{
 			"itemName": "Royal Helmet",
-			"timesDropped": 101
+			"timesDropped": 101,
+			"dropRate": 0.00232125209717083
 		},
 		{
 			"itemName": "Dragon Scale Mail",
-			"timesDropped": 62
+			"timesDropped": 62,
+			"dropRate": 0.0014249270299464504
 		},
 		{
 			"itemName": "Dragon Slayer",
-			"timesDropped": 47
+			"timesDropped": 47,
+			"dropRate": 0.001080186619475535
 		},
 		{
 			"itemName": "Dragon Lord Trophy",
-			"timesDropped": 41
+			"timesDropped": 41,
+			"dropRate": 0.0009422904552871688
 		}
 	]
 }

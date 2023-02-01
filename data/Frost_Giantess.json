@@ -4,51 +4,63 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12882
+			"timesDropped": 12882,
+			"dropRate": 0.8205618192241544
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 3263
+			"timesDropped": 3263,
+			"dropRate": 0.20784763360723613
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 1633
+			"timesDropped": 1633,
+			"dropRate": 0.10401936429071916
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 1246
+			"timesDropped": 1246,
+			"dropRate": 0.07936811261863813
 		},
 		{
 			"itemName": "Frost Giant Pelt",
-			"timesDropped": 778
+			"timesDropped": 778,
+			"dropRate": 0.049557296643098284
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 328
+			"timesDropped": 328,
+			"dropRate": 0.020893050512771513
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 240
+			"timesDropped": 240,
+			"dropRate": 0.015287597936174279
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 148
+			"timesDropped": 148,
+			"dropRate": 0.009427352060640805
 		},
 		{
 			"itemName": "Norse Shield",
-			"timesDropped": 45
+			"timesDropped": 45,
+			"dropRate": 0.0028664246130326774
 		},
 		{
 			"itemName": "Dark Helmet",
-			"timesDropped": 27
+			"timesDropped": 27,
+			"dropRate": 0.0017198547678196063
 		},
 		{
 			"itemName": "Shard",
-			"timesDropped": 16
+			"timesDropped": 16,
+			"dropRate": 0.0010191731957449519
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 11
+			"timesDropped": 11,
+			"dropRate": 0.0007006815720746544
 		}
 	]
 }

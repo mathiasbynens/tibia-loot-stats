@@ -4,71 +4,88 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7196
+			"timesDropped": 7196,
+			"dropRate": 0.6034381551362683
 		},
 		{
 			"itemName": "Wild Flowers",
-			"timesDropped": 2143
+			"timesDropped": 2143,
+			"dropRate": 0.17970649895178198
 		},
 		{
 			"itemName": "Dandelion Seeds",
-			"timesDropped": 1751
+			"timesDropped": 1751,
+			"dropRate": 0.1468343815513627
 		},
 		{
 			"itemName": "Fresh Fruit",
-			"timesDropped": 1166
+			"timesDropped": 1166,
+			"dropRate": 0.09777777777777778
 		},
 		{
 			"itemName": "Colourful Snail Shell",
-			"timesDropped": 1156
+			"timesDropped": 1156,
+			"dropRate": 0.09693920335429769
 		},
 		{
 			"itemName": "Leaf Star",
-			"timesDropped": 1060
+			"timesDropped": 1060,
+			"dropRate": 0.08888888888888889
 		},
 		{
 			"itemName": "Star Herb",
-			"timesDropped": 591
+			"timesDropped": 591,
+			"dropRate": 0.04955974842767295
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 549
+			"timesDropped": 549,
+			"dropRate": 0.046037735849056606
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 392
+			"timesDropped": 392,
+			"dropRate": 0.03287211740041929
 		},
 		{
 			"itemName": "Red Rose",
-			"timesDropped": 371
+			"timesDropped": 371,
+			"dropRate": 0.03111111111111111
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 364
+			"timesDropped": 364,
+			"dropRate": 0.030524109014675053
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 261
+			"timesDropped": 261,
+			"dropRate": 0.02188679245283019
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 205
+			"timesDropped": 205,
+			"dropRate": 0.017190775681341718
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 102
+			"timesDropped": 102,
+			"dropRate": 0.008553459119496854
 		},
 		{
 			"itemName": "Butterfly Ring",
-			"timesDropped": 72
+			"timesDropped": 72,
+			"dropRate": 0.0060377358490566035
 		},
 		{
 			"itemName": "Dream Blossom Staff",
-			"timesDropped": 63
+			"timesDropped": 63,
+			"dropRate": 0.005283018867924529
 		},
 		{
 			"itemName": "Wooden Spellbook",
-			"timesDropped": 42
+			"timesDropped": 42,
+			"dropRate": 0.003522012578616352
 		}
 	]
 }

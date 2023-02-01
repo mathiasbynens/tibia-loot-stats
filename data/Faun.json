@@ -4,79 +4,98 @@
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7730
+			"timesDropped": 7730,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Dandelion Seeds",
-			"timesDropped": 1172
+			"timesDropped": 1172,
+			"dropRate": 0.15161707632600258
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 927
+			"timesDropped": 927,
+			"dropRate": 0.11992238033635187
 		},
 		{
 			"itemName": "Shimmering Beetles",
-			"timesDropped": 780
+			"timesDropped": 780,
+			"dropRate": 0.10090556274256145
 		},
 		{
 			"itemName": "Fresh Fruit",
-			"timesDropped": 724
+			"timesDropped": 724,
+			"dropRate": 0.09366106080206986
 		},
 		{
 			"itemName": "Leaf Star",
-			"timesDropped": 623
+			"timesDropped": 623,
+			"dropRate": 0.08059508408796895
 		},
 		{
 			"itemName": "Goat Grass",
-			"timesDropped": 596
+			"timesDropped": 596,
+			"dropRate": 0.07710219922380336
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 470
+			"timesDropped": 470,
+			"dropRate": 0.06080206985769728
 		},
 		{
 			"itemName": "Panpipes",
-			"timesDropped": 441
+			"timesDropped": 441,
+			"dropRate": 0.05705045278137128
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 434
+			"timesDropped": 434,
+			"dropRate": 0.05614489003880983
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 414
+			"timesDropped": 414,
+			"dropRate": 0.053557567917205694
 		},
 		{
 			"itemName": "Grapes",
-			"timesDropped": 398
+			"timesDropped": 398,
+			"dropRate": 0.05148771021992238
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 261
+			"timesDropped": 261,
+			"dropRate": 0.033764553686934026
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 183
+			"timesDropped": 183,
+			"dropRate": 0.023673997412677877
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 174
+			"timesDropped": 174,
+			"dropRate": 0.022509702457956016
 		},
 		{
 			"itemName": "Leaf Legs",
-			"timesDropped": 46
+			"timesDropped": 46,
+			"dropRate": 0.0059508408796895215
 		},
 		{
 			"itemName": "Wooden Spellbook",
-			"timesDropped": 33
+			"timesDropped": 33,
+			"dropRate": 0.0042690815006468305
 		},
 		{
 			"itemName": "Die",
-			"timesDropped": 7
+			"timesDropped": 7,
+			"dropRate": 0.0009055627425614489
 		},
 		{
 			"itemName": "Mandrake",
-			"timesDropped": 2
+			"timesDropped": 2,
+			"dropRate": 0.000258732212160414
 		}
 	]
 }
