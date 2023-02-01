@@ -1,7 +1,6 @@
 import * as fs from 'node:fs/promises';
-import jsesc from 'jsesc';
 
-import { creatures, toPrettyName } from './creatures.mjs';
+import { uglyCreatureNames, toPrettyName } from './creatures.mjs';
 
 const handleCreature = async (slug) => {
 	const url = `https://tibia.fandom.com/api.php?action=query&gaplimit=5&prop=revisions&rvprop=content&format=json&titles=Loot_Statistics:${slug}`;
@@ -48,15 +47,12 @@ const handleCreature = async (slug) => {
 };
 
 const writeJsonFile = async (fileName, data) => {
-	const json = jsesc(data, {
-		compact: false,
-		json: true,
-	});
+	const json = JSON.stringify(data, null, '\t');
 	await fs.writeFile(fileName, `${json}\n`);
 };
 
 const creatureToLootMap = new Map();
-for (const creature of creatures) {
+for (const creature of uglyCreatureNames) {
 	const prettyName = toPrettyName(creature);
 	const slug = creature.replaceAll(' ', '_');
 	const result = await handleCreature(slug);

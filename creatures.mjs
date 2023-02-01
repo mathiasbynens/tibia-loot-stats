@@ -662,4 +662,5 @@ export const toPrettyName = (uglyName) => {
 	return prettyName;
 };
 
-export const creatures = [...uglyToPrettyNames.keys()];
+export const uglyCreatureNames = [...uglyToPrettyNames.keys()];
+export const prettyCreatureNames = [...uglyToPrettyNames.values()];
