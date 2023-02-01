@@ -1,6 +1,7 @@
 import * as fs from 'node:fs/promises';
+import jsesc from 'jsesc';
 
-import { creatures } from './creatures.mjs';
+import { creatures, toPrettyName } from './creatures.mjs';
 
 const handleCreature = async (slug) => {
 	const url = `https://tibia.fandom.com/api.php?action=query&gaplimit=5&prop=revisions&rvprop=content&format=json&titles=Loot_Statistics:${slug}`;
@@ -46,12 +47,28 @@ const handleCreature = async (slug) => {
 	return result;
 };
 
+const writeJsonFile = async (fileName, data) => {
+	const json = jsesc(data, {
+		compact: false,
+		json: true,
+	});
+	await fs.writeFile(fileName, `${json}\n`);
+};
+
+const creatureToLootMap = new Map();
 for (const creature of creatures) {
+	const prettyName = toPrettyName(creature);
 	const slug = creature.replaceAll(' ', '_');
 	const result = await handleCreature(slug);
-	const json = JSON.stringify(result, null, '\t');
-	await fs.writeFile(`./data/${slug}.json`, `${json}\n`);
+	await writeJsonFile(`./data/${slug}.json`, result);
+
+	const lootToDropRateObject = {};
+	for (const item of result.items) {
+		lootToDropRateObject[item.itemName] = item.dropRate;
+	}
+	creatureToLootMap.set(prettyName, lootToDropRateObject);
 }
+await writeJsonFile(`./data/_all.json`, Object.fromEntries(creatureToLootMap));
 
 // const result = await handleCreature('Barbarian_Brutetamer');
 // console.log(result);
