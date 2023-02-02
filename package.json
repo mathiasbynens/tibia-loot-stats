@@ -4,8 +4,5 @@
 		"build": "npm run compute-items-yesterday",
 		"update-average-loot-stats": "node --no-warnings update-average-loot-stats.mjs",
 		"compute-items-yesterday": "node --no-warnings compute-items-yesterday.mjs"
-	},
-	"devDependencies": {
-		"jsesc": "^3.0.2"
 	}
 }
