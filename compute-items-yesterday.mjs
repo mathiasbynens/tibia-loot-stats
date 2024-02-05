@@ -2,7 +2,7 @@ import * as fs from 'node:fs/promises';
 import { prettyCreatureNames } from './creatures.mjs';
 
 const getWorlds = async () => {
-	const response = await fetch('https://api.tibiadata.com/v3/worlds');
+	const response = await fetch('https://api.tibiadata.com/v4/worlds');
 	const data = await response.json();
 	const regularWorlds = data.worlds.regular_worlds;
 	const worldNames = regularWorlds.map((world) => world.name);
