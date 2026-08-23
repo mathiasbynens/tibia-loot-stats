@@ -1,76 +1,81 @@
 {
 	"monsterName": "Mould Phantom",
-	"timesKilled": 2267,
+	"timesKilled": 1107,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1289,
-			"dropRate": 0.5685928539920599
+			"timesDropped": 584,
+			"dropRate": 0.5275519421860885
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 249,
-			"dropRate": 0.10983678870754301
-		},
-		{
-			"itemName": "Green Gem",
-			"timesDropped": 92,
-			"dropRate": 0.04058226731363035
-		},
-		{
-			"itemName": "Mould Heart",
-			"timesDropped": 90,
-			"dropRate": 0.03970004411116013
-		},
-		{
-			"itemName": "Wand of Starstorm",
-			"timesDropped": 85,
-			"dropRate": 0.03749448610498456
-		},
-		{
-			"itemName": "Violet Gem",
-			"timesDropped": 79,
-			"dropRate": 0.03484781649757389
+			"timesDropped": 111,
+			"dropRate": 0.1002710027100271
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 68,
-			"dropRate": 0.02999558888398765
+			"timesDropped": 39,
+			"dropRate": 0.03523035230352303
 		},
 		{
-			"itemName": "Wand of Voodoo",
-			"timesDropped": 53,
-			"dropRate": 0.02337891486546096
+			"itemName": "Wand of Starstorm",
+			"timesDropped": 39,
+			"dropRate": 0.03523035230352303
+		},
+		{
+			"itemName": "Violet Gem",
+			"timesDropped": 36,
+			"dropRate": 0.032520325203252036
+		},
+		{
+			"itemName": "Mould Heart",
+			"timesDropped": 34,
+			"dropRate": 0.03071364046973803
+		},
+		{
+			"itemName": "Green Gem",
+			"timesDropped": 29,
+			"dropRate": 0.026196928635953028
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 50,
-			"dropRate": 0.022055580061755623
+			"timesDropped": 23,
+			"dropRate": 0.02077687443541102
+		},
+		{
+			"itemName": "Wand of Voodoo",
+			"timesDropped": 21,
+			"dropRate": 0.018970189701897018
 		},
 		{
 			"itemName": "Mould Robe",
-			"timesDropped": 48,
-			"dropRate": 0.0211733568592854
-		},
-		{
-			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 24,
-			"dropRate": 0.0105866784296427
-		},
-		{
-			"itemName": "Collar of Blue Plasma",
-			"timesDropped": 19,
-			"dropRate": 0.008381120423467137
+			"timesDropped": 17,
+			"dropRate": 0.015356820234869015
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 19,
-			"dropRate": 0.008381120423467137
+			"timesDropped": 8,
+			"dropRate": 0.007226738934056007
+		},
+		{
+			"itemName": "Ring of Blue Plasma",
+			"timesDropped": 8,
+			"dropRate": 0.007226738934056007
+		},
+		{
+			"itemName": "Collar of Blue Plasma",
+			"timesDropped": 7,
+			"dropRate": 0.006323396567299007
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 17,
-			"dropRate": 0.007498897220996913
+			"timesDropped": 7,
+			"dropRate": 0.006323396567299007
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 2,
+			"dropRate": 0.0018066847335140017
 		}
 	]
 }

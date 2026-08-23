@@ -1,101 +1,101 @@
 {
 	"monsterName": "Renegade Quara Hydromancer",
-	"timesKilled": 2040,
+	"timesKilled": 3241,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1643,
-			"dropRate": 0.8053921568627451
+			"timesDropped": 2606,
+			"dropRate": 0.8040728170317804
 		},
 		{
 			"itemName": "Quara Eye",
-			"timesDropped": 367,
-			"dropRate": 0.17990196078431372
+			"timesDropped": 591,
+			"dropRate": 0.18235112619561863
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 217,
-			"dropRate": 0.10637254901960784
+			"timesDropped": 330,
+			"dropRate": 0.10182042579450787
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 151,
-			"dropRate": 0.07401960784313726
+			"timesDropped": 234,
+			"dropRate": 0.07219993829065104
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 150,
-			"dropRate": 0.07352941176470588
+			"timesDropped": 229,
+			"dropRate": 0.07065720456649183
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 131,
-			"dropRate": 0.0642156862745098
+			"timesDropped": 202,
+			"dropRate": 0.06232644245603209
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 118,
-			"dropRate": 0.05784313725490196
+			"timesDropped": 178,
+			"dropRate": 0.05492132058006788
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 109,
-			"dropRate": 0.053431372549019605
+			"timesDropped": 169,
+			"dropRate": 0.0521443998765813
 		},
 		{
 			"itemName": "Spirit Cloak",
-			"timesDropped": 108,
-			"dropRate": 0.052941176470588235
+			"timesDropped": 167,
+			"dropRate": 0.05152730638691762
 		},
 		{
 			"itemName": "Green Piece of Cloth",
-			"timesDropped": 58,
-			"dropRate": 0.028431372549019607
-		},
-		{
-			"itemName": "Yellow Piece of Cloth",
-			"timesDropped": 57,
-			"dropRate": 0.027941176470588237
+			"timesDropped": 95,
+			"dropRate": 0.029311940759024994
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 52,
-			"dropRate": 0.025490196078431372
+			"timesDropped": 92,
+			"dropRate": 0.028386300524529465
+		},
+		{
+			"itemName": "Yellow Piece of Cloth",
+			"timesDropped": 85,
+			"dropRate": 0.02622647331070657
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 40,
-			"dropRate": 0.0196078431372549
+			"timesDropped": 58,
+			"dropRate": 0.017895711200246838
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 25,
-			"dropRate": 0.012254901960784314
+			"timesDropped": 47,
+			"dropRate": 0.014501697007096576
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 25,
-			"dropRate": 0.012254901960784314
+			"timesDropped": 43,
+			"dropRate": 0.013267510027769207
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 22,
-			"dropRate": 0.010784313725490196
+			"timesDropped": 30,
+			"dropRate": 0.009256402344955261
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 15,
-			"dropRate": 0.007352941176470588
+			"timesDropped": 25,
+			"dropRate": 0.007713668620796051
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 11,
-			"dropRate": 0.005392156862745098
+			"timesDropped": 14,
+			"dropRate": 0.004319654427645789
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
 			"timesDropped": 1,
-			"dropRate": 0.0004901960784313725
+			"dropRate": 0.000308546744831842
 		}
 	]
 }

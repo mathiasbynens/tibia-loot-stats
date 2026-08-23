@@ -1,91 +1,96 @@
 {
 	"monsterName": "Vampire Bride",
-	"timesKilled": 29875,
+	"timesKilled": 6490,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 27973,
-			"dropRate": 0.9363347280334728
+			"timesDropped": 6059,
+			"dropRate": 0.9335901386748844
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 3076,
-			"dropRate": 0.10296234309623431
+			"timesDropped": 650,
+			"dropRate": 0.10015408320493066
 		},
 		{
 			"itemName": "Vampire Teeth",
-			"timesDropped": 2985,
-			"dropRate": 0.0999163179916318
+			"timesDropped": 647,
+			"dropRate": 0.09969183359013868
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2973,
-			"dropRate": 0.09951464435146444
-		},
-		{
-			"itemName": "Moonlight Rod",
-			"timesDropped": 1558,
-			"dropRate": 0.05215062761506276
+			"timesDropped": 634,
+			"dropRate": 0.09768875192604007
 		},
 		{
 			"itemName": "Blood Preservation",
-			"timesDropped": 1496,
-			"dropRate": 0.05007531380753138
+			"timesDropped": 346,
+			"dropRate": 0.05331278890600925
+		},
+		{
+			"itemName": "Moonlight Rod",
+			"timesDropped": 342,
+			"dropRate": 0.05269645608628659
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1441,
-			"dropRate": 0.04823430962343096
-		},
-		{
-			"itemName": "Emerald Bangle",
-			"timesDropped": 312,
-			"dropRate": 0.010443514644351464
-		},
-		{
-			"itemName": "Small Diamond",
-			"timesDropped": 309,
-			"dropRate": 0.010343096234309623
-		},
-		{
-			"itemName": "Velvet Tapestry",
-			"timesDropped": 308,
-			"dropRate": 0.010309623430962343
+			"timesDropped": 299,
+			"dropRate": 0.046070878274268104
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 303,
-			"dropRate": 0.01014225941422594
+			"timesDropped": 77,
+			"dropRate": 0.011864406779661017
+		},
+		{
+			"itemName": "Emerald Bangle",
+			"timesDropped": 76,
+			"dropRate": 0.011710323574730355
 		},
 		{
 			"itemName": "Hibiscus Dress",
-			"timesDropped": 292,
-			"dropRate": 0.009774058577405858
+			"timesDropped": 63,
+			"dropRate": 0.00970724191063174
+		},
+		{
+			"itemName": "Velvet Tapestry",
+			"timesDropped": 58,
+			"dropRate": 0.008936825885978428
+		},
+		{
+			"itemName": "Small Diamond",
+			"timesDropped": 52,
+			"dropRate": 0.008012326656394453
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 66,
-			"dropRate": 0.002209205020920502
+			"timesDropped": 19,
+			"dropRate": 0.002927580893682589
 		},
 		{
 			"itemName": "Flower Bouquet",
-			"timesDropped": 52,
-			"dropRate": 0.0017405857740585774
+			"timesDropped": 13,
+			"dropRate": 0.002003081664098613
 		},
 		{
-			"itemName": "Mysterious Voodoo Skull",
-			"timesDropped": 42,
-			"dropRate": 0.001405857740585774
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 9,
+			"dropRate": 0.001386748844375963
 		},
 		{
 			"itemName": "Blood Goblet",
-			"timesDropped": 30,
-			"dropRate": 0.0010041841004184101
+			"timesDropped": 8,
+			"dropRate": 0.0012326656394453005
+		},
+		{
+			"itemName": "Mysterious Voodoo Skull",
+			"timesDropped": 5,
+			"dropRate": 0.0007704160246533128
 		},
 		{
 			"itemName": "Leather Whip",
-			"timesDropped": 10,
-			"dropRate": 0.00033472803347280337
+			"timesDropped": 1,
+			"dropRate": 0.00015408320493066256
 		}
 	]
 }

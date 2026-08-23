@@ -1,106 +1,106 @@
 {
 	"monsterName": "Devourer",
-	"timesKilled": 7292,
+	"timesKilled": 19537,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7253,
-			"dropRate": 0.9946516730663741
+			"timesDropped": 19424,
+			"dropRate": 0.9942161027793418
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4086,
-			"dropRate": 0.5603400987383433
+			"timesDropped": 10853,
+			"dropRate": 0.5555100578389722
 		},
 		{
 			"itemName": "Glob of Glooth",
-			"timesDropped": 968,
-			"dropRate": 0.13274821722435545
-		},
-		{
-			"itemName": "Small Emerald",
-			"timesDropped": 424,
-			"dropRate": 0.058145913329676356
+			"timesDropped": 2695,
+			"dropRate": 0.13794338946614118
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 418,
-			"dropRate": 0.05732309380142622
-		},
-		{
-			"itemName": "Small Topaz",
-			"timesDropped": 404,
-			"dropRate": 0.055403181568842566
+			"timesDropped": 1111,
+			"dropRate": 0.0568664585146133
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 398,
-			"dropRate": 0.05458036204059243
+			"timesDropped": 1096,
+			"dropRate": 0.05609868454726928
 		},
 		{
-			"itemName": "Small Diamond",
-			"timesDropped": 390,
-			"dropRate": 0.053483269336258916
+			"itemName": "Small Emerald",
+			"timesDropped": 1095,
+			"dropRate": 0.056047499616113015
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 386,
-			"dropRate": 0.05293472298409216
+			"timesDropped": 1078,
+			"dropRate": 0.05517735578645647
+		},
+		{
+			"itemName": "Small Topaz",
+			"timesDropped": 1068,
+			"dropRate": 0.054665506474893794
+		},
+		{
+			"itemName": "Small Diamond",
+			"timesDropped": 1062,
+			"dropRate": 0.054358396887956184
 		},
 		{
 			"itemName": "Glooth Axe",
-			"timesDropped": 210,
-			"dropRate": 0.0287986834887548
+			"timesDropped": 539,
+			"dropRate": 0.027588677893228233
 		},
 		{
 			"itemName": "Glooth Club",
-			"timesDropped": 207,
-			"dropRate": 0.028387273724629732
+			"timesDropped": 531,
+			"dropRate": 0.027179198443978092
 		},
 		{
 			"itemName": "Glooth Blade",
-			"timesDropped": 191,
-			"dropRate": 0.0261930883159627
+			"timesDropped": 510,
+			"dropRate": 0.026104314889696473
 		},
 		{
 			"itemName": "Talon",
-			"timesDropped": 176,
-			"dropRate": 0.024136039495337356
-		},
-		{
-			"itemName": "Yellow Gem",
-			"timesDropped": 127,
-			"dropRate": 0.01741634668129457
+			"timesDropped": 457,
+			"dropRate": 0.02339151353841429
 		},
 		{
 			"itemName": "Glooth Spear",
-			"timesDropped": 125,
-			"dropRate": 0.01714207350521119
+			"timesDropped": 320,
+			"dropRate": 0.01637917797000563
 		},
 		{
-			"itemName": "Springsprout Rod",
-			"timesDropped": 76,
-			"dropRate": 0.010422380691168404
+			"itemName": "Yellow Gem",
+			"timesDropped": 304,
+			"dropRate": 0.015560219071505349
 		},
 		{
 			"itemName": "Glooth Amulet",
-			"timesDropped": 55,
-			"dropRate": 0.0075425123422929235
+			"timesDropped": 187,
+			"dropRate": 0.00957158212622204
+		},
+		{
+			"itemName": "Springsprout Rod",
+			"timesDropped": 186,
+			"dropRate": 0.009520397195065772
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 54,
-			"dropRate": 0.007405375754251234
+			"timesDropped": 138,
+			"dropRate": 0.007063520499564928
 		},
 		{
 			"itemName": "Glooth Cape",
-			"timesDropped": 16,
-			"dropRate": 0.0021941854086670325
+			"timesDropped": 54,
+			"dropRate": 0.00276398628243845
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 4,
-			"dropRate": 0.0005485463521667581
+			"timesDropped": 22,
+			"dropRate": 0.0011260684854378872
 		}
 	]
 }

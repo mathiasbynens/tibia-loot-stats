@@ -1,76 +1,81 @@
 {
 	"monsterName": "Valkyrie",
-	"timesKilled": 17256,
+	"timesKilled": 22091,
 	"items": [
 		{
 			"itemName": "Spear",
-			"timesDropped": 9557,
-			"dropRate": 0.5538363467779324
+			"timesDropped": 12223,
+			"dropRate": 0.5533022497849803
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5627,
-			"dropRate": 0.32608947612424666
+			"timesDropped": 7171,
+			"dropRate": 0.32461183287311574
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 5195,
-			"dropRate": 0.30105470560964304
+			"timesDropped": 6694,
+			"dropRate": 0.3030193291385632
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 1749,
-			"dropRate": 0.10135605006954103
+			"timesDropped": 2213,
+			"dropRate": 0.10017654248336427
 		},
 		{
 			"itemName": "Red Apple",
-			"timesDropped": 1305,
-			"dropRate": 0.07562586926286509
+			"timesDropped": 1645,
+			"dropRate": 0.07446471413697886
 		},
 		{
 			"itemName": "Girlish Hair Decoration",
-			"timesDropped": 1038,
-			"dropRate": 0.06015299026425591
+			"timesDropped": 1337,
+			"dropRate": 0.06052238468154452
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 873,
-			"dropRate": 0.050591098748261475
+			"timesDropped": 1131,
+			"dropRate": 0.051197320175637134
 		},
 		{
 			"itemName": "Protective Charm",
-			"timesDropped": 550,
-			"dropRate": 0.031872971719981456
+			"timesDropped": 684,
+			"dropRate": 0.030962835543886652
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 186,
-			"dropRate": 0.010778859527121001
+			"timesDropped": 246,
+			"dropRate": 0.011135756642976778
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 142,
-			"dropRate": 0.008229021789522485
+			"timesDropped": 180,
+			"dropRate": 0.008148114616812276
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 129,
-			"dropRate": 0.007475660639777468
+			"timesDropped": 166,
+			"dropRate": 0.007514372368837988
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 80,
-			"dropRate": 0.004636068613815485
+			"timesDropped": 101,
+			"dropRate": 0.0045719976461002215
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 70,
-			"dropRate": 0.004056560037088549
+			"timesDropped": 84,
+			"dropRate": 0.003802453487845729
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 19,
-			"dropRate": 0.0011010662957811775
+			"timesDropped": 21,
+			"dropRate": 0.0009506133719614323
+		},
+		{
+			"itemName": "Soul Prism",
+			"timesDropped": 1,
+			"dropRate": 0.00004526730342673487
 		}
 	]
 }

@@ -1,81 +1,81 @@
 {
 	"monsterName": "Cobra Scout",
-	"timesKilled": 3105,
+	"timesKilled": 8201,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2287,
-			"dropRate": 0.7365539452495974
+			"timesDropped": 5903,
+			"dropRate": 0.7197902694793318
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 700,
-			"dropRate": 0.22544283413848631
+			"timesDropped": 1979,
+			"dropRate": 0.24131203511766858
 		},
 		{
 			"itemName": "Earth Arrow",
-			"timesDropped": 647,
-			"dropRate": 0.20837359098228664
+			"timesDropped": 1575,
+			"dropRate": 0.19204975003048408
 		},
 		{
 			"itemName": "Cobra Crest",
-			"timesDropped": 436,
-			"dropRate": 0.14041867954911433
+			"timesDropped": 1249,
+			"dropRate": 0.15229850018290453
 		},
 		{
 			"itemName": "Cheesy Figurine",
-			"timesDropped": 421,
-			"dropRate": 0.1355877616747182
-		},
-		{
-			"itemName": "Stone Skin Amulet",
-			"timesDropped": 197,
-			"dropRate": 0.06344605475040258
+			"timesDropped": 948,
+			"dropRate": 0.11559565906596757
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 189,
-			"dropRate": 0.06086956521739131
+			"timesDropped": 461,
+			"dropRate": 0.05621265699304963
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 150,
-			"dropRate": 0.04830917874396135
+			"timesDropped": 363,
+			"dropRate": 0.04426289476893062
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 127,
-			"dropRate": 0.04090177133655395
-		},
-		{
-			"itemName": "Small Emerald",
-			"timesDropped": 103,
-			"dropRate": 0.03317230273752013
+			"timesDropped": 350,
+			"dropRate": 0.04267772222899646
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 90,
-			"dropRate": 0.028985507246376812
+			"timesDropped": 232,
+			"dropRate": 0.02828923302036337
 		},
 		{
-			"itemName": "Green Gem",
-			"timesDropped": 63,
-			"dropRate": 0.020289855072463767
+			"itemName": "Small Emerald",
+			"timesDropped": 207,
+			"dropRate": 0.025240824289720767
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 62,
-			"dropRate": 0.01996779388083736
+			"timesDropped": 183,
+			"dropRate": 0.022314351908303866
+		},
+		{
+			"itemName": "Green Gem",
+			"timesDropped": 122,
+			"dropRate": 0.01487623460553591
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 54,
-			"dropRate": 0.017391304347826087
+			"timesDropped": 122,
+			"dropRate": 0.01487623460553591
 		},
 		{
 			"itemName": "Ring of Red Plasma",
-			"timesDropped": 16,
-			"dropRate": 0.0051529790660225444
+			"timesDropped": 56,
+			"dropRate": 0.006828435556639434
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 56,
+			"dropRate": 0.006828435556639434
 		}
 	]
 }

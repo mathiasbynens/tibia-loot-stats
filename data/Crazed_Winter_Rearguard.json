@@ -1,96 +1,106 @@
 {
 	"monsterName": "Crazed Winter Rearguard",
-	"timesKilled": 11060,
+	"timesKilled": 15787,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9505,
-			"dropRate": 0.8594032549728752
+			"timesDropped": 13503,
+			"dropRate": 0.855324000760119
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 1906,
-			"dropRate": 0.17233273056057866
+			"timesDropped": 2692,
+			"dropRate": 0.1705200481408754
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1864,
-			"dropRate": 0.16853526220614828
+			"timesDropped": 2690,
+			"dropRate": 0.17039336162665483
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 1745,
-			"dropRate": 0.1577757685352622
+			"timesDropped": 2517,
+			"dropRate": 0.15943497814657628
 		},
 		{
 			"itemName": "Ice Flower (Item)",
-			"timesDropped": 991,
-			"dropRate": 0.08960216998191682
+			"timesDropped": 1378,
+			"dropRate": 0.08728700829796668
 		},
 		{
 			"itemName": "Dream Essence Egg",
-			"timesDropped": 969,
-			"dropRate": 0.0876130198915009
+			"timesDropped": 1363,
+			"dropRate": 0.08633685944131247
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 872,
-			"dropRate": 0.07884267631103074
+			"timesDropped": 1255,
+			"dropRate": 0.07949578767340217
 		},
 		{
 			"itemName": "Elven Astral Observer",
-			"timesDropped": 842,
-			"dropRate": 0.07613019891500904
+			"timesDropped": 1203,
+			"dropRate": 0.07620193830366757
 		},
 		{
 			"itemName": "Glacier Mask",
-			"timesDropped": 654,
-			"dropRate": 0.059132007233273054
+			"timesDropped": 909,
+			"dropRate": 0.057579020713245076
 		},
 		{
 			"itemName": "Moonlight Rod",
-			"timesDropped": 597,
-			"dropRate": 0.05397830018083183
+			"timesDropped": 867,
+			"dropRate": 0.05491860391461329
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 518,
-			"dropRate": 0.04683544303797468
+			"timesDropped": 749,
+			"dropRate": 0.047444099575600175
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 324,
-			"dropRate": 0.029294755877034357
+			"timesDropped": 458,
+			"dropRate": 0.02901121175650852
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 294,
-			"dropRate": 0.026582278481012658
+			"timesDropped": 433,
+			"dropRate": 0.027427630328751503
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 261,
-			"dropRate": 0.02359855334538879
+			"timesDropped": 356,
+			"dropRate": 0.022550199531259897
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 233,
-			"dropRate": 0.021066907775768536
+			"timesDropped": 333,
+			"dropRate": 0.021093304617723442
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 214,
-			"dropRate": 0.019349005424954793
+			"timesDropped": 311,
+			"dropRate": 0.01969975296129727
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 139,
-			"dropRate": 0.012567811934900542
+			"timesDropped": 197,
+			"dropRate": 0.01247862165072528
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 36,
-			"dropRate": 0.0032549728752260397
+			"timesDropped": 53,
+			"dropRate": 0.003357192626844872
+		},
+		{
+			"itemName": "Lesser Spiritualist Gem",
+			"timesDropped": 1,
+			"dropRate": 0.00006334325711028061
+		},
+		{
+			"itemName": "Soul Prism",
+			"timesDropped": 1,
+			"dropRate": 0.00006334325711028061
 		}
 	]
 }

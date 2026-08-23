@@ -1,81 +1,81 @@
 {
 	"monsterName": "Crazed Summer Vanguard",
-	"timesKilled": 10461,
+	"timesKilled": 14427,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 8898,
-			"dropRate": 0.8505878979065099
+			"timesDropped": 12273,
+			"dropRate": 0.850696610521938
 		},
 		{
 			"itemName": "Elven Astral Observer",
-			"timesDropped": 3120,
-			"dropRate": 0.29825064525379985
+			"timesDropped": 4300,
+			"dropRate": 0.2980522631177653
 		},
 		{
 			"itemName": "Belted Cape",
-			"timesDropped": 981,
-			"dropRate": 0.09377688557499284
+			"timesDropped": 1345,
+			"dropRate": 0.0932279753240452
 		},
 		{
 			"itemName": "Dream Essence Egg",
-			"timesDropped": 899,
-			"dropRate": 0.08593824682152758
+			"timesDropped": 1229,
+			"dropRate": 0.08518749566784502
 		},
 		{
 			"itemName": "Seeds",
-			"timesDropped": 898,
-			"dropRate": 0.08584265366599751
-		},
-		{
-			"itemName": "Two Handed Sword",
-			"timesDropped": 767,
-			"dropRate": 0.07331995029155912
+			"timesDropped": 1202,
+			"dropRate": 0.08331600471338463
 		},
 		{
 			"itemName": "Dragon Necklace",
-			"timesDropped": 749,
-			"dropRate": 0.07159927349201797
+			"timesDropped": 1045,
+			"dropRate": 0.07243363138559646
+		},
+		{
+			"itemName": "Two Handed Sword",
+			"timesDropped": 1045,
+			"dropRate": 0.07243363138559646
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 715,
-			"dropRate": 0.0683491062039958
+			"timesDropped": 986,
+			"dropRate": 0.06834407707770153
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 690,
-			"dropRate": 0.06595927731574419
+			"timesDropped": 969,
+			"dropRate": 0.06716573092118944
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 578,
-			"dropRate": 0.05525284389637702
+			"timesDropped": 789,
+			"dropRate": 0.054689124558120195
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 502,
-			"dropRate": 0.04798776407609215
+			"timesDropped": 698,
+			"dropRate": 0.04838150689679074
 		},
 		{
 			"itemName": "Wand of Dragonbreath",
-			"timesDropped": 497,
-			"dropRate": 0.04750979829844183
+			"timesDropped": 695,
+			"dropRate": 0.048173563457406254
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 300,
-			"dropRate": 0.028677946659019213
+			"timesDropped": 415,
+			"dropRate": 0.028765509114854093
 		},
 		{
 			"itemName": "Sun Fruit",
-			"timesDropped": 93,
-			"dropRate": 0.008890163464295957
+			"timesDropped": 133,
+			"dropRate": 0.009218825812712276
 		},
 		{
 			"itemName": "Bullseye Potion",
-			"timesDropped": 33,
-			"dropRate": 0.0031545741324921135
+			"timesDropped": 48,
+			"dropRate": 0.0033270950301517986
 		}
 	]
 }

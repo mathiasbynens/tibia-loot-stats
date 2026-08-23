@@ -1,71 +1,76 @@
 {
 	"monsterName": "Capricious Phantom",
-	"timesKilled": 5413,
+	"timesKilled": 1237,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 3266,
-			"dropRate": 0.6033622760022169
+			"timesDropped": 569,
+			"dropRate": 0.459983831851253
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2577,
-			"dropRate": 0.4760761130611491
+			"timesDropped": 534,
+			"dropRate": 0.4316895715440582
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 362,
-			"dropRate": 0.06687603916497321
+			"timesDropped": 82,
+			"dropRate": 0.06628940986257073
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 344,
-			"dropRate": 0.06355071125069278
-		},
-		{
-			"itemName": "Capricious Heart",
-			"timesDropped": 210,
-			"dropRate": 0.03879549233327175
+			"timesDropped": 65,
+			"dropRate": 0.05254648342764753
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 182,
-			"dropRate": 0.03362276002216885
+			"timesDropped": 43,
+			"dropRate": 0.034761519805982216
+		},
+		{
+			"itemName": "Capricious Heart",
+			"timesDropped": 40,
+			"dropRate": 0.03233629749393695
 		},
 		{
 			"itemName": "Capricious Robe",
-			"timesDropped": 134,
-			"dropRate": 0.024755218917421024
-		},
-		{
-			"itemName": "Fur Armor",
-			"timesDropped": 74,
-			"dropRate": 0.013670792536486237
-		},
-		{
-			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 73,
-			"dropRate": 0.01348605209680399
-		},
-		{
-			"itemName": "Wood Cape",
-			"timesDropped": 66,
-			"dropRate": 0.012192869019028265
-		},
-		{
-			"itemName": "Glacial Rod",
-			"timesDropped": 50,
-			"dropRate": 0.009237021984112323
+			"timesDropped": 22,
+			"dropRate": 0.01778496362166532
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 48,
-			"dropRate": 0.00886754110474783
+			"timesDropped": 17,
+			"dropRate": 0.0137429264349232
+		},
+		{
+			"itemName": "Wood Cape",
+			"timesDropped": 17,
+			"dropRate": 0.0137429264349232
+		},
+		{
+			"itemName": "Fur Armor",
+			"timesDropped": 12,
+			"dropRate": 0.009700889248181084
+		},
+		{
+			"itemName": "Ring of Blue Plasma",
+			"timesDropped": 12,
+			"dropRate": 0.009700889248181084
+		},
+		{
+			"itemName": "Glacial Rod",
+			"timesDropped": 7,
+			"dropRate": 0.005658852061438965
 		},
 		{
 			"itemName": "Collar of Blue Plasma",
-			"timesDropped": 44,
-			"dropRate": 0.008128579346018844
+			"timesDropped": 5,
+			"dropRate": 0.004042037186742118
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 4,
+			"dropRate": 0.0032336297493936943
 		}
 	]
 }

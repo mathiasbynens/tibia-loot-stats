@@ -1,66 +1,66 @@
 {
 	"monsterName": "Shaburak Lord",
-	"timesKilled": 3384,
+	"timesKilled": 3857,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3250,
-			"dropRate": 0.960401891252955
+			"timesDropped": 3705,
+			"dropRate": 0.9605911330049262
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1157,
-			"dropRate": 0.341903073286052
-		},
-		{
-			"itemName": "Strong Health Potion",
-			"timesDropped": 231,
-			"dropRate": 0.06826241134751773
+			"timesDropped": 1323,
+			"dropRate": 0.3430127041742287
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 231,
-			"dropRate": 0.06826241134751773
+			"timesDropped": 268,
+			"dropRate": 0.06948405496499871
+		},
+		{
+			"itemName": "Strong Health Potion",
+			"timesDropped": 263,
+			"dropRate": 0.06818771065595022
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 211,
-			"dropRate": 0.06235224586288416
+			"timesDropped": 244,
+			"dropRate": 0.06326160228156598
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 182,
-			"dropRate": 0.053782505910165486
+			"timesDropped": 201,
+			"dropRate": 0.052113041223749025
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 44,
-			"dropRate": 0.013002364066193853
+			"timesDropped": 55,
+			"dropRate": 0.014259787399533316
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 33,
-			"dropRate": 0.00975177304964539
+			"timesDropped": 38,
+			"dropRate": 0.009852216748768473
+		},
+		{
+			"itemName": "Magic Sulphur",
+			"timesDropped": 16,
+			"dropRate": 0.004148301788955146
 		},
 		{
 			"itemName": "Bullseye Potion",
 			"timesDropped": 15,
-			"dropRate": 0.004432624113475178
+			"dropRate": 0.00388903292714545
 		},
 		{
-			"itemName": "Magic Sulphur",
-			"timesDropped": 15,
-			"dropRate": 0.004432624113475178
+			"itemName": "Magma Coat",
+			"timesDropped": 5,
+			"dropRate": 0.0012963443090484833
 		},
 		{
 			"itemName": "Steel Boots",
 			"timesDropped": 5,
-			"dropRate": 0.0014775413711583924
-		},
-		{
-			"itemName": "Magma Coat",
-			"timesDropped": 4,
-			"dropRate": 0.001182033096926714
+			"dropRate": 0.0012963443090484833
 		}
 	]
 }

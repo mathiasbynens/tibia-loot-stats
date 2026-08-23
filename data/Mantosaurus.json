@@ -1,61 +1,61 @@
 {
 	"monsterName": "Mantosaurus",
-	"timesKilled": 993,
+	"timesKilled": 1904,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 250,
-			"dropRate": 0.25176233635448136
+			"timesDropped": 429,
+			"dropRate": 0.22531512605042017
 		},
 		{
 			"itemName": "Mantosaurus Jaw",
-			"timesDropped": 176,
-			"dropRate": 0.1772406847935549
+			"timesDropped": 380,
+			"dropRate": 0.19957983193277312
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 102,
-			"dropRate": 0.1027190332326284
+			"timesDropped": 187,
+			"dropRate": 0.09821428571428571
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 38,
-			"dropRate": 0.038267875125881166
-		},
-		{
-			"itemName": "Green Crystal Shard",
-			"timesDropped": 28,
-			"dropRate": 0.028197381671701913
-		},
-		{
-			"itemName": "Red Crystal Fragment",
-			"timesDropped": 28,
-			"dropRate": 0.028197381671701913
+			"timesDropped": 89,
+			"dropRate": 0.0467436974789916
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 26,
-			"dropRate": 0.026183282980866064
+			"timesDropped": 58,
+			"dropRate": 0.03046218487394958
+		},
+		{
+			"itemName": "Green Crystal Shard",
+			"timesDropped": 51,
+			"dropRate": 0.026785714285714284
+		},
+		{
+			"itemName": "Red Crystal Fragment",
+			"timesDropped": 49,
+			"dropRate": 0.025735294117647058
 		},
 		{
 			"itemName": "Coral Brooch",
-			"timesDropped": 22,
-			"dropRate": 0.022155085599194362
-		},
-		{
-			"itemName": "Gold Ring",
-			"timesDropped": 12,
-			"dropRate": 0.012084592145015106
+			"timesDropped": 47,
+			"dropRate": 0.02468487394957983
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 10,
-			"dropRate": 0.010070493454179255
+			"timesDropped": 26,
+			"dropRate": 0.01365546218487395
+		},
+		{
+			"itemName": "Gold Ring",
+			"timesDropped": 26,
+			"dropRate": 0.01365546218487395
 		},
 		{
 			"itemName": "Amulet of Loss",
-			"timesDropped": 1,
-			"dropRate": 0.0010070493454179255
+			"timesDropped": 6,
+			"dropRate": 0.0031512605042016808
 		}
 	]
 }

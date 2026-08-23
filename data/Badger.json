@@ -1,21 +1,21 @@
 {
 	"monsterName": "Badger",
-	"timesKilled": 25016,
+	"timesKilled": 33517,
 	"items": [
 		{
 			"itemName": "Beetroot",
-			"timesDropped": 10105,
-			"dropRate": 0.40394147745442915
+			"timesDropped": 13491,
+			"dropRate": 0.4025121580093684
 		},
 		{
 			"itemName": "Badger Fur",
-			"timesDropped": 2528,
-			"dropRate": 0.10105532459226095
+			"timesDropped": 3371,
+			"dropRate": 0.10057582719217113
 		},
 		{
 			"itemName": "Acorn",
-			"timesDropped": 1262,
-			"dropRate": 0.050447713463383434
+			"timesDropped": 1668,
+			"dropRate": 0.04976579049437599
 		}
 	]
 }

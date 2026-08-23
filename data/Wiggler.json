@@ -1,81 +1,81 @@
 {
 	"monsterName": "Wiggler",
-	"timesKilled": 1982,
+	"timesKilled": 283,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1982,
+			"timesDropped": 283,
 			"dropRate": 1
 		},
 		{
-			"itemName": "Platinum Coin",
-			"timesDropped": 311,
-			"dropRate": 0.156912209889001
-		},
-		{
 			"itemName": "Drill Bolt",
-			"timesDropped": 307,
-			"dropRate": 0.15489404641775983
+			"timesDropped": 50,
+			"dropRate": 0.17667844522968199
 		},
 		{
 			"itemName": "Crystalline Arrow",
-			"timesDropped": 295,
-			"dropRate": 0.14883955600403634
+			"timesDropped": 47,
+			"dropRate": 0.16607773851590105
+		},
+		{
+			"itemName": "Platinum Coin",
+			"timesDropped": 42,
+			"dropRate": 0.14840989399293286
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 138,
-			"dropRate": 0.06962663975782038
-		},
-		{
-			"itemName": "Strong Mana Potion",
-			"timesDropped": 103,
-			"dropRate": 0.05196770938446014
-		},
-		{
-			"itemName": "Strong Health Potion",
-			"timesDropped": 94,
-			"dropRate": 0.04742684157416751
+			"timesDropped": 25,
+			"dropRate": 0.08833922261484099
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 80,
-			"dropRate": 0.04036326942482341
+			"timesDropped": 14,
+			"dropRate": 0.04946996466431095
+		},
+		{
+			"itemName": "Strong Mana Potion",
+			"timesDropped": 14,
+			"dropRate": 0.04946996466431095
+		},
+		{
+			"itemName": "Strong Health Potion",
+			"timesDropped": 11,
+			"dropRate": 0.038869257950530034
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 38,
-			"dropRate": 0.01917255297679112
-		},
-		{
-			"itemName": "Blue Piece of Cloth",
-			"timesDropped": 37,
-			"dropRate": 0.01866801210898083
+			"timesDropped": 7,
+			"dropRate": 0.024734982332155476
 		},
 		{
 			"itemName": "Yellow Piece of Cloth",
-			"timesDropped": 34,
-			"dropRate": 0.017154389505549948
+			"timesDropped": 5,
+			"dropRate": 0.0176678445229682
 		},
 		{
-			"itemName": "Serpent Sword",
-			"timesDropped": 30,
-			"dropRate": 0.015136226034308779
-		},
-		{
-			"itemName": "Black Shield",
-			"timesDropped": 16,
-			"dropRate": 0.008072653884964682
+			"itemName": "Blue Piece of Cloth",
+			"timesDropped": 4,
+			"dropRate": 0.014134275618374558
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 12,
-			"dropRate": 0.006054490413723511
+			"timesDropped": 3,
+			"dropRate": 0.01060070671378092
 		},
 		{
 			"itemName": "Green Piece of Cloth",
-			"timesDropped": 8,
-			"dropRate": 0.004036326942482341
+			"timesDropped": 2,
+			"dropRate": 0.007067137809187279
+		},
+		{
+			"itemName": "Black Shield",
+			"timesDropped": 1,
+			"dropRate": 0.0035335689045936395
+		},
+		{
+			"itemName": "Serpent Sword",
+			"timesDropped": 1,
+			"dropRate": 0.0035335689045936395
 		}
 	]
 }

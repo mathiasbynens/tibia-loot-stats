@@ -1,56 +1,51 @@
 {
 	"monsterName": "Hulking Prehemoth",
-	"timesKilled": 3709,
+	"timesKilled": 168,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1049,
-			"dropRate": 0.2828255594499865
+			"timesDropped": 49,
+			"dropRate": 0.2916666666666667
 		},
 		{
 			"itemName": "Prehemoth Horns",
-			"timesDropped": 736,
-			"dropRate": 0.19843623618225936
-		},
-		{
-			"itemName": "Prehemoth Claw",
-			"timesDropped": 599,
-			"dropRate": 0.16149905634942033
+			"timesDropped": 36,
+			"dropRate": 0.21428571428571427
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 599,
-			"dropRate": 0.16149905634942033
+			"timesDropped": 33,
+			"dropRate": 0.19642857142857142
+		},
+		{
+			"itemName": "Prehemoth Claw",
+			"timesDropped": 32,
+			"dropRate": 0.19047619047619047
 		},
 		{
 			"itemName": "Furry Club",
-			"timesDropped": 262,
-			"dropRate": 0.07063898624966299
+			"timesDropped": 9,
+			"dropRate": 0.05357142857142857
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 172,
-			"dropRate": 0.046373685629549743
-		},
-		{
-			"itemName": "War Axe",
-			"timesDropped": 111,
-			"dropRate": 0.029927204098139662
+			"timesDropped": 7,
+			"dropRate": 0.041666666666666664
 		},
 		{
 			"itemName": "Doublet",
-			"timesDropped": 107,
-			"dropRate": 0.028848746292801295
-		},
-		{
-			"itemName": "Silver Brooch",
-			"timesDropped": 43,
-			"dropRate": 0.011593421407387436
+			"timesDropped": 5,
+			"dropRate": 0.02976190476190476
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 29,
-			"dropRate": 0.007818819088703155
+			"timesDropped": 5,
+			"dropRate": 0.02976190476190476
+		},
+		{
+			"itemName": "War Axe",
+			"timesDropped": 2,
+			"dropRate": 0.011904761904761904
 		}
 	]
 }

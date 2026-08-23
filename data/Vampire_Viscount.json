@@ -1,71 +1,76 @@
 {
 	"monsterName": "Vampire Viscount",
-	"timesKilled": 9723,
+	"timesKilled": 2350,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8248,
-			"dropRate": 0.8482978504576777
-		},
-		{
-			"itemName": "Vampire Teeth",
-			"timesDropped": 753,
-			"dropRate": 0.07744523295279235
+			"timesDropped": 2023,
+			"dropRate": 0.8608510638297873
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 728,
-			"dropRate": 0.07487401007919367
+			"timesDropped": 193,
+			"dropRate": 0.08212765957446809
+		},
+		{
+			"itemName": "Vampire Teeth",
+			"timesDropped": 187,
+			"dropRate": 0.07957446808510639
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 592,
-			"dropRate": 0.06088655764681682
+			"timesDropped": 158,
+			"dropRate": 0.06723404255319149
 		},
 		{
 			"itemName": "Tooth File",
-			"timesDropped": 520,
-			"dropRate": 0.05348143577085262
+			"timesDropped": 121,
+			"dropRate": 0.05148936170212766
 		},
 		{
 			"itemName": "Vampire's Cape Chain",
-			"timesDropped": 380,
-			"dropRate": 0.03908258767869999
+			"timesDropped": 100,
+			"dropRate": 0.0425531914893617
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 326,
-			"dropRate": 0.033528746271726834
-		},
-		{
-			"itemName": "Blood Preservation",
-			"timesDropped": 294,
-			"dropRate": 0.03023758099352052
+			"timesDropped": 74,
+			"dropRate": 0.03148936170212766
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 263,
-			"dropRate": 0.02704926463025815
+			"timesDropped": 51,
+			"dropRate": 0.02170212765957447
+		},
+		{
+			"itemName": "Blood Preservation",
+			"timesDropped": 48,
+			"dropRate": 0.020425531914893616
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 79,
-			"dropRate": 0.00812506428057184
+			"timesDropped": 15,
+			"dropRate": 0.006382978723404255
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 37,
-			"dropRate": 0.0038054098529260514
-		},
-		{
-			"itemName": "Red Piece of Cloth",
-			"timesDropped": 27,
-			"dropRate": 0.002776920703486578
+			"timesDropped": 10,
+			"dropRate": 0.00425531914893617
 		},
 		{
 			"itemName": "Vampire Shield",
-			"timesDropped": 21,
-			"dropRate": 0.0021598272138228943
+			"timesDropped": 9,
+			"dropRate": 0.003829787234042553
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 7,
+			"dropRate": 0.0029787234042553193
+		},
+		{
+			"itemName": "Red Piece of Cloth",
+			"timesDropped": 2,
+			"dropRate": 0.000851063829787234
 		}
 	]
 }

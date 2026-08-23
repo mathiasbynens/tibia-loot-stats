@@ -1,56 +1,61 @@
 {
 	"monsterName": "Putrid Mummy",
-	"timesKilled": 6926,
+	"timesKilled": 6170,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4327,
-			"dropRate": 0.6247473289055732
+			"timesDropped": 3816,
+			"dropRate": 0.6184764991896272
 		},
 		{
 			"itemName": "Little Bowl of Myrrh",
-			"timesDropped": 966,
-			"dropRate": 0.13947444412359225
-		},
-		{
-			"itemName": "Green Bandage",
-			"timesDropped": 754,
-			"dropRate": 0.10886514582731735
+			"timesDropped": 870,
+			"dropRate": 0.14100486223662884
 		},
 		{
 			"itemName": "Single Human Eye",
-			"timesDropped": 684,
-			"dropRate": 0.09875830205024545
+			"timesDropped": 619,
+			"dropRate": 0.10032414910858996
+		},
+		{
+			"itemName": "Green Bandage",
+			"timesDropped": 618,
+			"dropRate": 0.10016207455429497
 		},
 		{
 			"itemName": "Broken Flask",
-			"timesDropped": 670,
-			"dropRate": 0.09673693329483107
+			"timesDropped": 576,
+			"dropRate": 0.09335494327390599
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 622,
-			"dropRate": 0.08980652613341034
+			"timesDropped": 547,
+			"dropRate": 0.0886547811993517
 		},
 		{
 			"itemName": "Pharaoh Banner",
-			"timesDropped": 152,
-			"dropRate": 0.02194628934449899
+			"timesDropped": 136,
+			"dropRate": 0.022042139384116692
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 129,
-			"dropRate": 0.01862546924631822
+			"timesDropped": 130,
+			"dropRate": 0.02106969205834684
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 74,
-			"dropRate": 0.010684377707190298
+			"timesDropped": 59,
+			"dropRate": 0.009562398703403566
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 41,
-			"dropRate": 0.005919722783713543
+			"timesDropped": 22,
+			"dropRate": 0.003565640194489465
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 5,
+			"dropRate": 0.0008103727714748784
 		}
 	]
 }

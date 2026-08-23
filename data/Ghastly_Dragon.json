@@ -1,141 +1,141 @@
 {
 	"monsterName": "Ghastly Dragon",
-	"timesKilled": 21482,
+	"timesKilled": 23322,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21386,
-			"dropRate": 0.9955311423517363
+			"timesDropped": 23215,
+			"dropRate": 0.995412057284967
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 10509,
-			"dropRate": 0.4892002606833628
+			"timesDropped": 11457,
+			"dropRate": 0.49125289426292773
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 8632,
-			"dropRate": 0.4018247835397077
+			"timesDropped": 9388,
+			"dropRate": 0.40253837578252294
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 7461,
-			"dropRate": 0.3473140303509915
-		},
-		{
-			"itemName": "Great Mana Potion",
-			"timesDropped": 6476,
-			"dropRate": 0.3014616888557862
+			"timesDropped": 8099,
+			"dropRate": 0.3472686733556299
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6472,
-			"dropRate": 0.3012754864537753
+			"timesDropped": 7040,
+			"dropRate": 0.30186090386759284
+		},
+		{
+			"itemName": "Great Mana Potion",
+			"timesDropped": 7028,
+			"dropRate": 0.30134636823600036
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 6378,
-			"dropRate": 0.2968997300065171
+			"timesDropped": 6947,
+			"dropRate": 0.29787325272275106
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 5366,
-			"dropRate": 0.24979052229773763
+			"timesDropped": 5801,
+			"dropRate": 0.24873509990566847
 		},
 		{
 			"itemName": "Undead Heart",
-			"timesDropped": 4194,
-			"dropRate": 0.19523321850851877
-		},
-		{
-			"itemName": "Twin Hooks",
-			"timesDropped": 3249,
-			"dropRate": 0.15124290103342333
+			"timesDropped": 4534,
+			"dropRate": 0.19440871280336164
 		},
 		{
 			"itemName": "Zaoan Halberd",
-			"timesDropped": 3231,
-			"dropRate": 0.1504049902243739
+			"timesDropped": 3524,
+			"dropRate": 0.15110196381099392
+		},
+		{
+			"itemName": "Twin Hooks",
+			"timesDropped": 3521,
+			"dropRate": 0.15097332990309578
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 2634,
-			"dropRate": 0.12261428172423425
+			"timesDropped": 2879,
+			"dropRate": 0.1234456736128977
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 2172,
-			"dropRate": 0.10110790429196537
+			"timesDropped": 2360,
+			"dropRate": 0.10119200754652259
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
-			"timesDropped": 2113,
-			"dropRate": 0.09836141886230332
+			"timesDropped": 2286,
+			"dropRate": 0.09801903781836892
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 1943,
-			"dropRate": 0.09044781677683641
+			"timesDropped": 2113,
+			"dropRate": 0.09060114912957723
 		},
 		{
 			"itemName": "Ghastly Dragon Head",
-			"timesDropped": 1490,
-			"dropRate": 0.06936039474909227
+			"timesDropped": 1646,
+			"dropRate": 0.07057713746676958
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 694,
-			"dropRate": 0.03230611674890606
+			"timesDropped": 765,
+			"dropRate": 0.03280164651402109
 		},
 		{
 			"itemName": "Drakinata",
-			"timesDropped": 324,
-			"dropRate": 0.01508239456288986
+			"timesDropped": 349,
+			"dropRate": 0.014964411285481519
 		},
 		{
 			"itemName": "Zaoan Legs",
-			"timesDropped": 246,
-			"dropRate": 0.011451447723675635
+			"timesDropped": 265,
+			"dropRate": 0.011362661864334106
 		},
 		{
 			"itemName": "Zaoan Shoes",
-			"timesDropped": 191,
-			"dropRate": 0.008891164696024578
-		},
-		{
-			"itemName": "Zaoan Armor",
-			"timesDropped": 185,
-			"dropRate": 0.0086118610930081
+			"timesDropped": 199,
+			"dropRate": 0.008532715890575422
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 178,
-			"dropRate": 0.008286006889488875
+			"timesDropped": 196,
+			"dropRate": 0.0084040819826773
+		},
+		{
+			"itemName": "Zaoan Armor",
+			"timesDropped": 196,
+			"dropRate": 0.0084040819826773
 		},
 		{
 			"itemName": "Jade Hat",
-			"timesDropped": 173,
-			"dropRate": 0.008053253886975142
+			"timesDropped": 189,
+			"dropRate": 0.008103936197581683
 		},
 		{
 			"itemName": "Spellweaver's Robe",
-			"timesDropped": 153,
-			"dropRate": 0.007122241876920212
+			"timesDropped": 166,
+			"dropRate": 0.007117742903696081
 		},
 		{
 			"itemName": "Guardian Boots",
-			"timesDropped": 45,
-			"dropRate": 0.0020947770226235917
+			"timesDropped": 50,
+			"dropRate": 0.002143898464968699
 		},
 		{
 			"itemName": "Zaoan Helmet",
-			"timesDropped": 42,
-			"dropRate": 0.0019551252211153524
+			"timesDropped": 44,
+			"dropRate": 0.0018866306491724552
 		},
 		{
 			"itemName": "Zaoan Sword",
-			"timesDropped": 19,
-			"dropRate": 0.0008844614095521832
+			"timesDropped": 21,
+			"dropRate": 0.0009004373552868536
 		}
 	]
 }

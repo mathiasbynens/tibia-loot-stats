@@ -1,81 +1,81 @@
 {
 	"monsterName": "Rotten Golem",
-	"timesKilled": 2753,
+	"timesKilled": 2356,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1610,
-			"dropRate": 0.5848165637486379
+			"timesDropped": 1276,
+			"dropRate": 0.5415959252971138
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 857,
-			"dropRate": 0.3112967671630948
+			"timesDropped": 652,
+			"dropRate": 0.2767402376910017
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 102,
-			"dropRate": 0.0370504903741373
-		},
-		{
-			"itemName": "Titan Axe",
-			"timesDropped": 80,
-			"dropRate": 0.02905920813657828
-		},
-		{
-			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 74,
-			"dropRate": 0.02687976752633491
-		},
-		{
-			"itemName": "Terra Amulet",
-			"timesDropped": 73,
-			"dropRate": 0.02651652742462768
+			"timesDropped": 77,
+			"dropRate": 0.03268251273344652
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 68,
-			"dropRate": 0.024700326916091538
+			"timesDropped": 61,
+			"dropRate": 0.025891341256366725
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 66,
-			"dropRate": 0.02397384671267708
+			"timesDropped": 54,
+			"dropRate": 0.022920203735144314
 		},
 		{
-			"itemName": "Mercenary Sword",
-			"timesDropped": 47,
-			"dropRate": 0.017072284780239737
+			"itemName": "Titan Axe",
+			"timesDropped": 53,
+			"dropRate": 0.022495755517826826
+		},
+		{
+			"itemName": "Giant Shimmering Pearl (Green)",
+			"timesDropped": 50,
+			"dropRate": 0.021222410865874362
+		},
+		{
+			"itemName": "Terra Amulet",
+			"timesDropped": 46,
+			"dropRate": 0.019524617996604415
 		},
 		{
 			"itemName": "War Axe",
 			"timesDropped": 43,
-			"dropRate": 0.015619324373410825
+			"dropRate": 0.01825127334465195
 		},
 		{
-			"itemName": "Stone Skin Amulet",
-			"timesDropped": 27,
-			"dropRate": 0.00980748274609517
-		},
-		{
-			"itemName": "Wood Cape",
-			"timesDropped": 25,
-			"dropRate": 0.009081002542680712
+			"itemName": "Mercenary Sword",
+			"timesDropped": 23,
+			"dropRate": 0.009762308998302207
 		},
 		{
 			"itemName": "Fur Armor",
-			"timesDropped": 23,
-			"dropRate": 0.008354522339266255
+			"timesDropped": 22,
+			"dropRate": 0.00933786078098472
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 18,
+			"dropRate": 0.007640067911714771
 		},
 		{
 			"itemName": "Rubber Cap",
-			"timesDropped": 11,
-			"dropRate": 0.003995641118779513
+			"timesDropped": 13,
+			"dropRate": 0.0055178268251273345
+		},
+		{
+			"itemName": "Wood Cape",
+			"timesDropped": 12,
+			"dropRate": 0.0050933786078098476
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 8,
-			"dropRate": 0.002905920813657828
+			"timesDropped": 11,
+			"dropRate": 0.00466893039049236
 		}
 	]
 }

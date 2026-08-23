@@ -1,31 +1,36 @@
 {
 	"monsterName": "Ghoulish Hyaena",
-	"timesKilled": 6897,
+	"timesKilled": 772,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6103,
-			"dropRate": 0.8848774829636074
+			"timesDropped": 675,
+			"dropRate": 0.8743523316062176
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 4501,
-			"dropRate": 0.6526025808322459
+			"timesDropped": 524,
+			"dropRate": 0.6787564766839378
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 3540,
-			"dropRate": 0.5132666376685515
+			"timesDropped": 379,
+			"dropRate": 0.49093264248704666
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 1363,
-			"dropRate": 0.1976221545599536
+			"timesDropped": 148,
+			"dropRate": 0.19170984455958548
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 187,
-			"dropRate": 0.02711323763955343
+			"timesDropped": 25,
+			"dropRate": 0.03238341968911917
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 11,
+			"dropRate": 0.014248704663212436
 		}
 	]
 }

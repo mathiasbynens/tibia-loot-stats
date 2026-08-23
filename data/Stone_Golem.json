@@ -1,66 +1,66 @@
 {
 	"monsterName": "Stone Golem",
-	"timesKilled": 33692,
+	"timesKilled": 39950,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 32301,
-			"dropRate": 0.9587142348331948
+			"timesDropped": 38352,
+			"dropRate": 0.96
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 4338,
-			"dropRate": 0.12875460049863469
+			"timesDropped": 5164,
+			"dropRate": 0.12926157697121402
 		},
 		{
 			"itemName": "Sulphurous Stone",
-			"timesDropped": 3392,
-			"dropRate": 0.10067671850884483
+			"timesDropped": 4006,
+			"dropRate": 0.10027534418022528
 		},
 		{
 			"itemName": "Power Ring",
-			"timesDropped": 1742,
-			"dropRate": 0.05170366852665321
+			"timesDropped": 2050,
+			"dropRate": 0.05131414267834793
 		},
 		{
 			"itemName": "Carlin Sword",
-			"timesDropped": 863,
-			"dropRate": 0.02561438917250386
+			"timesDropped": 1022,
+			"dropRate": 0.0255819774718398
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 692,
-			"dropRate": 0.020539000356167635
+			"timesDropped": 792,
+			"dropRate": 0.019824780976220275
 		},
 		{
 			"itemName": "Ancient Stone",
-			"timesDropped": 340,
-			"dropRate": 0.010091416359966758
+			"timesDropped": 408,
+			"dropRate": 0.010212765957446808
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 265,
-			"dropRate": 0.007865368633503502
+			"timesDropped": 310,
+			"dropRate": 0.007759699624530663
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 176,
-			"dropRate": 0.005223791998100439
+			"timesDropped": 218,
+			"dropRate": 0.005456821026282853
 		},
 		{
 			"itemName": "Piece of Marble Rock",
-			"timesDropped": 140,
-			"dropRate": 0.004155289089398077
+			"timesDropped": 174,
+			"dropRate": 0.004355444305381727
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 59,
-			"dropRate": 0.001751157544817761
+			"timesDropped": 72,
+			"dropRate": 0.001802252816020025
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 16,
-			"dropRate": 0.0004748901816454945
+			"timesDropped": 19,
+			"dropRate": 0.0004755944931163955
 		}
 	]
 }

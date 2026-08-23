@@ -1,81 +1,81 @@
 {
 	"monsterName": "Pirate Marauder",
-	"timesKilled": 72332,
+	"timesKilled": 81025,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 56160,
-			"dropRate": 0.7764198418404026
+			"timesDropped": 62871,
+			"dropRate": 0.7759456957729096
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 7111,
-			"dropRate": 0.09831056793673616
+			"timesDropped": 7951,
+			"dropRate": 0.09813020672631904
 		},
 		{
 			"itemName": "Compass",
-			"timesDropped": 7024,
-			"dropRate": 0.09710778078858597
+			"timesDropped": 7904,
+			"dropRate": 0.09755013884603518
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 3663,
-			"dropRate": 0.05064148647901344
+			"timesDropped": 4095,
+			"dropRate": 0.05053995680345572
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 3632,
-			"dropRate": 0.05021290715036222
+			"timesDropped": 4044,
+			"dropRate": 0.04991052144399877
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 2201,
-			"dropRate": 0.030429132334236577
+			"timesDropped": 2466,
+			"dropRate": 0.030435050910212896
 		},
 		{
 			"itemName": "Treasure Map (Pirate)",
-			"timesDropped": 686,
-			"dropRate": 0.009484045788862467
+			"timesDropped": 771,
+			"dropRate": 0.009515581610614008
 		},
 		{
 			"itemName": "Bandana",
-			"timesDropped": 666,
-			"dropRate": 0.009207542996184261
+			"timesDropped": 764,
+			"dropRate": 0.009429188522061092
 		},
 		{
 			"itemName": "Eye Patch",
-			"timesDropped": 384,
-			"dropRate": 0.005308853619421556
+			"timesDropped": 432,
+			"dropRate": 0.00533168775069423
 		},
 		{
 			"itemName": "Hook",
-			"timesDropped": 372,
-			"dropRate": 0.005142951943814632
+			"timesDropped": 424,
+			"dropRate": 0.00523295279234804
 		},
 		{
 			"itemName": "Peg Leg",
-			"timesDropped": 355,
-			"dropRate": 0.0049079245700381574
+			"timesDropped": 402,
+			"dropRate": 0.00496143165689602
 		},
 		{
 			"itemName": "Pirate Bag",
-			"timesDropped": 336,
-			"dropRate": 0.0046452469169938615
-		},
-		{
-			"itemName": "Die",
-			"timesDropped": 75,
-			"dropRate": 0.0010368854725432727
+			"timesDropped": 369,
+			"dropRate": 0.004554149953717989
 		},
 		{
 			"itemName": "Rum Flask",
-			"timesDropped": 72,
-			"dropRate": 0.0009954100536415417
+			"timesDropped": 78,
+			"dropRate": 0.0009626658438753471
+		},
+		{
+			"itemName": "Die",
+			"timesDropped": 77,
+			"dropRate": 0.0009503239740820735
 		},
 		{
 			"itemName": "Empty Goldfish Bowl",
-			"timesDropped": 61,
-			"dropRate": 0.0008433335176685284
+			"timesDropped": 68,
+			"dropRate": 0.0008392471459426103
 		}
 	]
 }

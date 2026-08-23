@@ -1,71 +1,66 @@
 {
 	"monsterName": "Rhindeer",
-	"timesKilled": 2520,
+	"timesKilled": 376,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2039,
-			"dropRate": 0.8091269841269841
+			"timesDropped": 270,
+			"dropRate": 0.7180851063829787
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 249,
-			"dropRate": 0.0988095238095238
-		},
-		{
-			"itemName": "Rainbow Quartz",
-			"timesDropped": 159,
-			"dropRate": 0.0630952380952381
-		},
-		{
-			"itemName": "Violet Gem",
-			"timesDropped": 155,
-			"dropRate": 0.061507936507936505
+			"timesDropped": 33,
+			"dropRate": 0.08776595744680851
 		},
 		{
 			"itemName": "Rhindeer Antlers",
-			"timesDropped": 144,
-			"dropRate": 0.05714285714285714
+			"timesDropped": 28,
+			"dropRate": 0.07446808510638298
+		},
+		{
+			"itemName": "Violet Gem",
+			"timesDropped": 17,
+			"dropRate": 0.04521276595744681
+		},
+		{
+			"itemName": "Rainbow Quartz",
+			"timesDropped": 14,
+			"dropRate": 0.03723404255319149
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 86,
-			"dropRate": 0.034126984126984124
+			"timesDropped": 11,
+			"dropRate": 0.02925531914893617
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 63,
-			"dropRate": 0.025
+			"timesDropped": 8,
+			"dropRate": 0.02127659574468085
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 57,
-			"dropRate": 0.02261904761904762
+			"timesDropped": 4,
+			"dropRate": 0.010638297872340425
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 27,
-			"dropRate": 0.010714285714285714
-		},
-		{
-			"itemName": "Collar of Green Plasma",
-			"timesDropped": 21,
-			"dropRate": 0.008333333333333333
+			"timesDropped": 3,
+			"dropRate": 0.007978723404255319
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 18,
-			"dropRate": 0.007142857142857143
-		},
-		{
-			"itemName": "Heavy Mace",
-			"timesDropped": 16,
-			"dropRate": 0.006349206349206349
+			"timesDropped": 3,
+			"dropRate": 0.007978723404255319
 		},
 		{
 			"itemName": "Mastermind Shield",
-			"timesDropped": 11,
-			"dropRate": 0.004365079365079365
+			"timesDropped": 2,
+			"dropRate": 0.005319148936170213
+		},
+		{
+			"itemName": "Collar of Green Plasma",
+			"timesDropped": 1,
+			"dropRate": 0.0026595744680851063
 		}
 	]
 }

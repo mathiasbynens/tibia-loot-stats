@@ -1,61 +1,61 @@
 {
 	"monsterName": "Shadow Pupil",
-	"timesKilled": 4906,
+	"timesKilled": 6564,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4906,
+			"timesDropped": 6564,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Horoscope",
-			"timesDropped": 756,
-			"dropRate": 0.154097024052181
+			"timesDropped": 992,
+			"dropRate": 0.15112736136502133
 		},
 		{
 			"itemName": "Incantation Notes",
-			"timesDropped": 468,
-			"dropRate": 0.09539339584182634
+			"timesDropped": 620,
+			"dropRate": 0.09445460085313832
 		},
 		{
 			"itemName": "Book of Necromantic Rituals",
-			"timesDropped": 375,
-			"dropRate": 0.07643701589889931
-		},
-		{
-			"itemName": "Brown Mushroom",
-			"timesDropped": 231,
-			"dropRate": 0.04708520179372197
+			"timesDropped": 511,
+			"dropRate": 0.07784887263863498
 		},
 		{
 			"itemName": "Pieces of Magic Chalk",
-			"timesDropped": 226,
-			"dropRate": 0.04606604158173665
+			"timesDropped": 316,
+			"dropRate": 0.04814137720901889
 		},
 		{
-			"itemName": "Strong Mana Potion",
-			"timesDropped": 27,
-			"dropRate": 0.00550346514472075
+			"itemName": "Brown Mushroom",
+			"timesDropped": 312,
+			"dropRate": 0.04753199268738574
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 26,
-			"dropRate": 0.005299633102323685
+			"timesDropped": 36,
+			"dropRate": 0.005484460694698354
+		},
+		{
+			"itemName": "Strong Mana Potion",
+			"timesDropped": 31,
+			"dropRate": 0.004722730042656917
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 16,
-			"dropRate": 0.003261312678353037
+			"timesDropped": 23,
+			"dropRate": 0.0035039609993906154
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 10,
-			"dropRate": 0.0020383204239706482
+			"timesDropped": 14,
+			"dropRate": 0.0021328458257160268
 		},
 		{
 			"itemName": "Boots of Haste",
 			"timesDropped": 1,
-			"dropRate": 0.00020383204239706482
+			"dropRate": 0.00015234613040828764
 		}
 	]
 }

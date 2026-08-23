@@ -1,36 +1,36 @@
 {
 	"monsterName": "Crystalcrusher",
-	"timesKilled": 21772,
+	"timesKilled": 25265,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18428,
-			"dropRate": 0.8464082307550983
-		},
-		{
-			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 1118,
-			"dropRate": 0.05135035825831343
+			"timesDropped": 21372,
+			"dropRate": 0.8459133188205027
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 1101,
-			"dropRate": 0.05056953885724784
+			"timesDropped": 1290,
+			"dropRate": 0.051058776964179695
+		},
+		{
+			"itemName": "Brown Crystal Splinter",
+			"timesDropped": 1283,
+			"dropRate": 0.05078171383336632
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 1081,
-			"dropRate": 0.04965092779717068
+			"timesDropped": 1253,
+			"dropRate": 0.0495943004155947
 		},
 		{
 			"itemName": "Crystalline Arrow",
-			"timesDropped": 1077,
-			"dropRate": 0.049467205585155244
+			"timesDropped": 1246,
+			"dropRate": 0.049317237284781316
 		},
 		{
 			"itemName": "Crystalline Spikes",
-			"timesDropped": 791,
-			"dropRate": 0.03633106742605181
+			"timesDropped": 925,
+			"dropRate": 0.03661191371462497
 		}
 	]
 }

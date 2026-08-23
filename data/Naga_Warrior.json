@@ -1,81 +1,81 @@
 {
 	"monsterName": "Naga Warrior",
-	"timesKilled": 4435,
+	"timesKilled": 5570,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4435,
+			"timesDropped": 5570,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Dagger",
-			"timesDropped": 1515,
-			"dropRate": 0.3416009019165727
+			"timesDropped": 1892,
+			"dropRate": 0.33967684021543987
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 636,
-			"dropRate": 0.14340473506200677
+			"timesDropped": 824,
+			"dropRate": 0.14793536804308796
 		},
 		{
 			"itemName": "Naga Warrior Scales",
-			"timesDropped": 539,
-			"dropRate": 0.12153325817361894
+			"timesDropped": 659,
+			"dropRate": 0.11831238779174147
 		},
 		{
 			"itemName": "Naga Earring",
-			"timesDropped": 342,
-			"dropRate": 0.07711386696730553
+			"timesDropped": 386,
+			"dropRate": 0.06929982046678636
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 216,
-			"dropRate": 0.04870349492671928
+			"timesDropped": 293,
+			"dropRate": 0.0526032315978456
 		},
 		{
 			"itemName": "Naga Armring",
-			"timesDropped": 125,
-			"dropRate": 0.02818489289740699
+			"timesDropped": 153,
+			"dropRate": 0.02746858168761221
 		},
 		{
 			"itemName": "Spiky Club",
-			"timesDropped": 95,
-			"dropRate": 0.02142051860202931
-		},
-		{
-			"itemName": "Serpent Sword",
-			"timesDropped": 92,
-			"dropRate": 0.020744081172491543
+			"timesDropped": 135,
+			"dropRate": 0.02423698384201077
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 89,
-			"dropRate": 0.020067643742953778
+			"timesDropped": 130,
+			"dropRate": 0.02333931777378815
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 75,
-			"dropRate": 0.016910935738444193
+			"timesDropped": 115,
+			"dropRate": 0.02064631956912029
+		},
+		{
+			"itemName": "Serpent Sword",
+			"timesDropped": 94,
+			"dropRate": 0.01687612208258528
 		},
 		{
 			"itemName": "Katana",
-			"timesDropped": 55,
-			"dropRate": 0.012401352874859075
+			"timesDropped": 61,
+			"dropRate": 0.010951526032315978
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 47,
-			"dropRate": 0.010597519729425029
+			"timesDropped": 57,
+			"dropRate": 0.010233393177737882
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 45,
-			"dropRate": 0.010146561443066516
+			"timesDropped": 41,
+			"dropRate": 0.007360861759425494
 		},
 		{
 			"itemName": "Relic Sword",
-			"timesDropped": 17,
-			"dropRate": 0.0038331454340473506
+			"timesDropped": 21,
+			"dropRate": 0.0037701974865350088
 		}
 	]
 }

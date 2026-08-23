@@ -1,61 +1,66 @@
 {
 	"monsterName": "Priestess of the Wild Sun",
-	"timesKilled": 5912,
+	"timesKilled": 11242,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5912,
+			"timesDropped": 11242,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Fafnar Symbol",
-			"timesDropped": 542,
-			"dropRate": 0.09167794316644114
+			"timesDropped": 1002,
+			"dropRate": 0.08913004803415762
 		},
 		{
 			"itemName": "Secret Instruction",
-			"timesDropped": 432,
-			"dropRate": 0.07307171853856563
+			"timesDropped": 864,
+			"dropRate": 0.07685465219711796
 		},
 		{
 			"itemName": "Empty Honey Glass",
-			"timesDropped": 174,
-			"dropRate": 0.02943166441136671
+			"timesDropped": 319,
+			"dropRate": 0.02837573385518591
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 161,
-			"dropRate": 0.027232746955345062
+			"timesDropped": 282,
+			"dropRate": 0.025084504536559332
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 129,
-			"dropRate": 0.021820027063599458
+			"timesDropped": 238,
+			"dropRate": 0.021170610211706103
 		},
 		{
 			"itemName": "Golden Sickle",
-			"timesDropped": 103,
-			"dropRate": 0.017422192151556156
-		},
-		{
-			"itemName": "Wand of Everblazing",
-			"timesDropped": 79,
-			"dropRate": 0.013362652232746955
+			"timesDropped": 193,
+			"dropRate": 0.017167763743106208
 		},
 		{
 			"itemName": "Relic Sword",
-			"timesDropped": 78,
-			"dropRate": 0.013193504736129905
+			"timesDropped": 152,
+			"dropRate": 0.013520725849492973
 		},
 		{
-			"itemName": "Sea Horse Figurine",
-			"timesDropped": 40,
-			"dropRate": 0.006765899864682003
+			"itemName": "Wand of Everblazing",
+			"timesDropped": 144,
+			"dropRate": 0.012809108699519659
 		},
 		{
 			"itemName": "Golden Mask",
-			"timesDropped": 33,
-			"dropRate": 0.005581867388362652
+			"timesDropped": 77,
+			"dropRate": 0.00684931506849315
+		},
+		{
+			"itemName": "Sea Horse Figurine",
+			"timesDropped": 64,
+			"dropRate": 0.005692937199786515
+		},
+		{
+			"itemName": "Greater Spiritualist Gem",
+			"timesDropped": 1,
+			"dropRate": 0.0000889521437466643
 		}
 	]
 }

@@ -1,76 +1,76 @@
 {
 	"monsterName": "Paladin's Apparition",
-	"timesKilled": 2435,
+	"timesKilled": 2031,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1430,
-			"dropRate": 0.5872689938398358
+			"timesDropped": 1228,
+			"dropRate": 0.604628261939931
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 151,
-			"dropRate": 0.06201232032854209
+			"timesDropped": 128,
+			"dropRate": 0.06302314130969966
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 132,
-			"dropRate": 0.05420944558521561
-		},
-		{
-			"itemName": "Violet Gem",
-			"timesDropped": 105,
-			"dropRate": 0.043121149897330596
+			"timesDropped": 107,
+			"dropRate": 0.05268340718857706
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 101,
-			"dropRate": 0.04147843942505133
+			"timesDropped": 91,
+			"dropRate": 0.0448055145248646
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 84,
-			"dropRate": 0.03449691991786448
+			"timesDropped": 75,
+			"dropRate": 0.03692762186115214
 		},
 		{
 			"itemName": "Glacier Mask",
-			"timesDropped": 79,
-			"dropRate": 0.0324435318275154
+			"timesDropped": 66,
+			"dropRate": 0.03249630723781388
 		},
 		{
-			"itemName": "Glacier Amulet",
-			"timesDropped": 56,
-			"dropRate": 0.02299794661190965
-		},
-		{
-			"itemName": "Skull Helmet",
-			"timesDropped": 46,
-			"dropRate": 0.0188911704312115
+			"itemName": "Violet Gem",
+			"timesDropped": 60,
+			"dropRate": 0.029542097488921712
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 42,
-			"dropRate": 0.01724845995893224
+			"timesDropped": 43,
+			"dropRate": 0.02117183653372723
+		},
+		{
+			"itemName": "Skull Helmet",
+			"timesDropped": 38,
+			"dropRate": 0.018709995076317085
+		},
+		{
+			"itemName": "Glacier Amulet",
+			"timesDropped": 36,
+			"dropRate": 0.01772525849335303
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 33,
-			"dropRate": 0.013552361396303902
+			"timesDropped": 32,
+			"dropRate": 0.015755785327424915
 		},
 		{
 			"itemName": "Collar of Blue Plasma",
-			"timesDropped": 22,
-			"dropRate": 0.009034907597535934
+			"timesDropped": 25,
+			"dropRate": 0.012309207287050714
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 14,
-			"dropRate": 0.005749486652977412
+			"timesDropped": 10,
+			"dropRate": 0.004923682914820286
 		},
 		{
 			"itemName": "Composite Hornbow",
-			"timesDropped": 4,
-			"dropRate": 0.0016427104722792608
+			"timesDropped": 2,
+			"dropRate": 0.0009847365829640572
 		}
 	]
 }

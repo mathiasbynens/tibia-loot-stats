@@ -1,11 +1,16 @@
 {
 	"monsterName": "Lava Lurker",
-	"timesKilled": 2956,
+	"timesKilled": 404,
 	"items": [
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 448,
-			"dropRate": 0.15155615696887687
+			"timesDropped": 56,
+			"dropRate": 0.13861386138613863
+		},
+		{
+			"itemName": "Might Ring",
+			"timesDropped": 1,
+			"dropRate": 0.0024752475247524753
 		}
 	]
 }

@@ -1,126 +1,126 @@
 {
 	"monsterName": "Warlock",
-	"timesKilled": 15627,
+	"timesKilled": 16567,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4685,
-			"dropRate": 0.2998016253919498
+			"timesDropped": 4975,
+			"dropRate": 0.3002957686968069
 		},
 		{
 			"itemName": "Cherry",
-			"timesDropped": 3066,
-			"dropRate": 0.19619888654252254
+			"timesDropped": 3270,
+			"dropRate": 0.19738033439971026
 		},
 		{
 			"itemName": "Bread",
-			"timesDropped": 1398,
-			"dropRate": 0.08946054904972163
+			"timesDropped": 1477,
+			"dropRate": 0.08915313575179575
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 1203,
-			"dropRate": 0.07698214628527549
+			"timesDropped": 1280,
+			"dropRate": 0.0772620269209875
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 954,
-			"dropRate": 0.06104818583221348
+			"timesDropped": 1025,
+			"dropRate": 0.06186998249532202
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 795,
-			"dropRate": 0.05087348819351123
+			"timesDropped": 841,
+			"dropRate": 0.05076356612543007
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 780,
-			"dropRate": 0.0499136110577846
+			"timesDropped": 831,
+			"dropRate": 0.05015995654010986
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 514,
-			"dropRate": 0.032891789850899085
+			"timesDropped": 546,
+			"dropRate": 0.032957083358483734
 		},
 		{
 			"itemName": "Dark Mushroom",
-			"timesDropped": 458,
-			"dropRate": 0.029308248544186344
+			"timesDropped": 480,
+			"dropRate": 0.028973260095370313
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 333,
-			"dropRate": 0.02130927241313112
+			"timesDropped": 348,
+			"dropRate": 0.021005613569143478
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 306,
-			"dropRate": 0.019581493568823192
-		},
-		{
-			"itemName": "Candlestick",
-			"timesDropped": 246,
-			"dropRate": 0.015741985025916682
+			"timesDropped": 327,
+			"dropRate": 0.019738033439971027
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 243,
-			"dropRate": 0.015550009598771357
+			"timesDropped": 262,
+			"dropRate": 0.01581457113538963
+		},
+		{
+			"itemName": "Candlestick",
+			"timesDropped": 257,
+			"dropRate": 0.015512766342729523
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 200,
-			"dropRate": 0.01279836180968836
+			"timesDropped": 208,
+			"dropRate": 0.01255507937466047
 		},
 		{
 			"itemName": "Talon",
-			"timesDropped": 164,
-			"dropRate": 0.010494656683944455
+			"timesDropped": 176,
+			"dropRate": 0.010623528701635783
 		},
 		{
 			"itemName": "Lightning Robe",
-			"timesDropped": 158,
-			"dropRate": 0.010110705829653805
+			"timesDropped": 171,
+			"dropRate": 0.010321723908975674
 		},
 		{
 			"itemName": "Inkwell",
-			"timesDropped": 147,
-			"dropRate": 0.009406795930120945
+			"timesDropped": 154,
+			"dropRate": 0.00929558761393131
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 115,
-			"dropRate": 0.007359058040570807
+			"timesDropped": 116,
+			"dropRate": 0.007001871189714493
 		},
 		{
 			"itemName": "Luminous Orb",
-			"timesDropped": 75,
-			"dropRate": 0.004799385678633135
+			"timesDropped": 84,
+			"dropRate": 0.005070320516689805
 		},
 		{
 			"itemName": "Ring of the Sky",
-			"timesDropped": 65,
-			"dropRate": 0.004159467588148717
+			"timesDropped": 67,
+			"dropRate": 0.00404418422164544
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 55,
-			"dropRate": 0.003519549497664299
+			"timesDropped": 56,
+			"dropRate": 0.0033802136777932035
 		},
 		{
 			"itemName": "Red Tome",
-			"timesDropped": 38,
-			"dropRate": 0.0024316887438407884
+			"timesDropped": 42,
+			"dropRate": 0.0025351602583449026
 		},
 		{
 			"itemName": "Golden Armor",
-			"timesDropped": 32,
-			"dropRate": 0.0020477378895501375
+			"timesDropped": 34,
+			"dropRate": 0.0020522725900887304
 		},
 		{
 			"itemName": "Piggy Bank",
 			"timesDropped": 12,
-			"dropRate": 0.0007679017085813016
+			"dropRate": 0.0007243315023842578
 		}
 	]
 }

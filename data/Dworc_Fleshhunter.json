@@ -1,56 +1,66 @@
 {
 	"monsterName": "Dworc Fleshhunter",
-	"timesKilled": 100677,
+	"timesKilled": 105536,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 75418,
-			"dropRate": 0.7491085352165837
+			"timesDropped": 79041,
+			"dropRate": 0.7489482261976955
 		},
 		{
 			"itemName": "Leather Armor",
-			"timesDropped": 10896,
-			"dropRate": 0.10822730117107185
+			"timesDropped": 11395,
+			"dropRate": 0.10797263493026077
 		},
 		{
 			"itemName": "Cleaver",
-			"timesDropped": 9061,
-			"dropRate": 0.09000069529286729
+			"timesDropped": 9498,
+			"dropRate": 0.0899977258944815
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 5572,
-			"dropRate": 0.05534531223616119
+			"timesDropped": 5809,
+			"dropRate": 0.05504282898726501
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 3046,
-			"dropRate": 0.030255172482294864
+			"timesDropped": 3199,
+			"dropRate": 0.030311931473620376
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 2080,
-			"dropRate": 0.020660130913714155
+			"timesDropped": 2174,
+			"dropRate": 0.020599605821710127
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 1965,
-			"dropRate": 0.01951786406031169
+			"timesDropped": 2067,
+			"dropRate": 0.0195857337780473
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 1039,
-			"dropRate": 0.010320132701610099
+			"timesDropped": 1095,
+			"dropRate": 0.010375606428138265
 		},
 		{
 			"itemName": "Tribal Mask",
-			"timesDropped": 485,
-			"dropRate": 0.004817386294784311
+			"timesDropped": 508,
+			"dropRate": 0.0048135233474833235
 		},
 		{
 			"itemName": "Ripper Lance",
 			"timesDropped": 97,
-			"dropRate": 0.000963477258956862
+			"dropRate": 0.0009191176470588235
+		},
+		{
+			"itemName": "Gold Coins (Bounty Talisman Effect: More Loot)",
+			"timesDropped": 4,
+			"dropRate": 0.00003790175864160097
+		},
+		{
+			"itemName": "Poison Dagger (Bounty Talisman Effect: More Loot)",
+			"timesDropped": 2,
+			"dropRate": 0.000018950879320800486
 		}
 	]
 }

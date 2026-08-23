@@ -1,86 +1,91 @@
 {
 	"monsterName": "Drillworm",
-	"timesKilled": 68100,
+	"timesKilled": 76140,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 68100,
+			"timesDropped": 76140,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Lump of Earth",
-			"timesDropped": 10237,
-			"dropRate": 0.1503230543318649
+			"timesDropped": 11423,
+			"dropRate": 0.15002626740215394
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 8289,
-			"dropRate": 0.12171806167400881
+			"timesDropped": 9291,
+			"dropRate": 0.12202521670606777
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 6884,
-			"dropRate": 0.10108663729809104
+			"timesDropped": 7671,
+			"dropRate": 0.10074862096138693
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 6821,
-			"dropRate": 0.10016152716593245
+			"timesDropped": 7654,
+			"dropRate": 0.10052534804307854
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 6791,
-			"dropRate": 0.09972099853157122
+			"timesDropped": 7562,
+			"dropRate": 0.0993170475439979
 		},
 		{
 			"itemName": "Vein of Ore",
-			"timesDropped": 4989,
-			"dropRate": 0.07325991189427312
+			"timesDropped": 5604,
+			"dropRate": 0.07360126083530338
 		},
 		{
 			"itemName": "Pulverized Ore",
-			"timesDropped": 3531,
-			"dropRate": 0.05185022026431718
+			"timesDropped": 3921,
+			"dropRate": 0.051497241922773836
 		},
 		{
 			"itemName": "Pick",
-			"timesDropped": 3458,
-			"dropRate": 0.05077826725403818
+			"timesDropped": 3835,
+			"dropRate": 0.050367743630154976
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 3415,
-			"dropRate": 0.050146842878120414
+			"timesDropped": 3815,
+			"dropRate": 0.05010506960861571
 		},
 		{
 			"itemName": "Drill Bolt",
-			"timesDropped": 3410,
-			"dropRate": 0.050073421439060205
+			"timesDropped": 3812,
+			"dropRate": 0.05006566850538482
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 1764,
-			"dropRate": 0.02590308370044053
+			"timesDropped": 1946,
+			"dropRate": 0.025558182295770948
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 1631,
-			"dropRate": 0.02395007342143906
+			"timesDropped": 1846,
+			"dropRate": 0.0242448121880746
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 1046,
-			"dropRate": 0.015359765051395007
+			"timesDropped": 1153,
+			"dropRate": 0.015143157341738902
 		},
 		{
 			"itemName": "Clay Lump",
-			"timesDropped": 510,
-			"dropRate": 0.007488986784140969
+			"timesDropped": 568,
+			"dropRate": 0.007459942211715261
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 352,
-			"dropRate": 0.005168869309838473
+			"timesDropped": 390,
+			"dropRate": 0.00512214342001576
+		},
+		{
+			"itemName": "Lesser Spiritualist Gem",
+			"timesDropped": 1,
+			"dropRate": 0.000013133701076963488
 		}
 	]
 }

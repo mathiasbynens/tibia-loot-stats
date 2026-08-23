@@ -1,51 +1,51 @@
 {
 	"monsterName": "Feverish Citizen",
-	"timesKilled": 12243,
+	"timesKilled": 23664,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3666,
-			"dropRate": 0.2994364126439598
+			"timesDropped": 7065,
+			"dropRate": 0.29855476673427994
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 3020,
-			"dropRate": 0.2466715674262844
+			"timesDropped": 5942,
+			"dropRate": 0.25109871534820827
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 616,
-			"dropRate": 0.050314465408805034
-		},
-		{
-			"itemName": "Voluminous Piece of Cloth",
-			"timesDropped": 256,
-			"dropRate": 0.020909907702360533
+			"timesDropped": 1146,
+			"dropRate": 0.048427991886409734
 		},
 		{
 			"itemName": "Ludicrous Piece of Cloth",
-			"timesDropped": 250,
-			"dropRate": 0.020419831740586456
+			"timesDropped": 522,
+			"dropRate": 0.022058823529411766
+		},
+		{
+			"itemName": "Voluminous Piece of Cloth",
+			"timesDropped": 501,
+			"dropRate": 0.021171399594320486
 		},
 		{
 			"itemName": "Ominous Piece of Cloth",
-			"timesDropped": 242,
-			"dropRate": 0.019766397124887692
-		},
-		{
-			"itemName": "Luminous Piece of Cloth",
-			"timesDropped": 241,
-			"dropRate": 0.019684717797925345
+			"timesDropped": 476,
+			"dropRate": 0.020114942528735632
 		},
 		{
 			"itemName": "Obvious Piece of Cloth",
-			"timesDropped": 231,
-			"dropRate": 0.018867924528301886
+			"timesDropped": 469,
+			"dropRate": 0.019819134550371872
+		},
+		{
+			"itemName": "Luminous Piece of Cloth",
+			"timesDropped": 445,
+			"dropRate": 0.01880493576741041
 		},
 		{
 			"itemName": "Dubious Piece of Cloth",
-			"timesDropped": 211,
-			"dropRate": 0.01723433798905497
+			"timesDropped": 402,
+			"dropRate": 0.016987829614604464
 		}
 	]
 }

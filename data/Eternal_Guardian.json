@@ -1,76 +1,76 @@
 {
 	"monsterName": "Eternal Guardian",
-	"timesKilled": 18202,
+	"timesKilled": 20736,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18194,
-			"dropRate": 0.9995604878584771
+			"timesDropped": 20728,
+			"dropRate": 0.9996141975308642
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 18150,
-			"dropRate": 0.9971431710801011
+			"timesDropped": 20684,
+			"dropRate": 0.9974922839506173
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 5506,
-			"dropRate": 0.3024942314031425
+			"timesDropped": 6284,
+			"dropRate": 0.30304783950617287
 		},
 		{
 			"itemName": "Ancient Stone",
-			"timesDropped": 3638,
-			"dropRate": 0.19986814635754313
+			"timesDropped": 4132,
+			"dropRate": 0.19926697530864199
 		},
 		{
 			"itemName": "Spiked Iron Ball",
-			"timesDropped": 1816,
-			"dropRate": 0.09976925612570048
+			"timesDropped": 2080,
+			"dropRate": 0.10030864197530864
 		},
 		{
 			"itemName": "Zaoan Halberd",
-			"timesDropped": 363,
-			"dropRate": 0.019942863421602022
+			"timesDropped": 411,
+			"dropRate": 0.019820601851851853
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 305,
-			"dropRate": 0.01675640039556093
+			"timesDropped": 342,
+			"dropRate": 0.016493055555555556
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 147,
-			"dropRate": 0.008076035600483464
+			"timesDropped": 164,
+			"dropRate": 0.007908950617283951
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 145,
-			"dropRate": 0.007966157565102735
+			"timesDropped": 161,
+			"dropRate": 0.0077642746913580245
 		},
 		{
 			"itemName": "Clay Lump",
-			"timesDropped": 136,
-			"dropRate": 0.0074717064058894625
+			"timesDropped": 159,
+			"dropRate": 0.007667824074074074
 		},
 		{
 			"itemName": "Guardian Halberd",
-			"timesDropped": 103,
-			"dropRate": 0.00565871882210746
+			"timesDropped": 126,
+			"dropRate": 0.006076388888888889
 		},
 		{
 			"itemName": "Piece of Marble Rock",
-			"timesDropped": 89,
-			"dropRate": 0.004889572574442369
+			"timesDropped": 102,
+			"dropRate": 0.004918981481481482
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 80,
-			"dropRate": 0.004395121415229096
+			"timesDropped": 96,
+			"dropRate": 0.004629629629629629
 		},
 		{
 			"itemName": "Zaoan Sword",
-			"timesDropped": 19,
-			"dropRate": 0.0010438413361169101
+			"timesDropped": 23,
+			"dropRate": 0.001109182098765432
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Ice Golem",
-	"timesKilled": 60356,
+	"timesKilled": 65970,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 60356,
+			"timesDropped": 65970,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Frosty Heart",
-			"timesDropped": 8601,
-			"dropRate": 0.1425044734574856
+			"timesDropped": 9435,
+			"dropRate": 0.14301955434288313
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 3076,
-			"dropRate": 0.050964278613559545
+			"timesDropped": 3348,
+			"dropRate": 0.050750341064120054
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1827,
-			"dropRate": 0.03027039565246206
+			"timesDropped": 1980,
+			"dropRate": 0.030013642564802184
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1480,
-			"dropRate": 0.02452117436543177
+			"timesDropped": 1631,
+			"dropRate": 0.024723359102622404
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 895,
-			"dropRate": 0.014828683146663132
+			"timesDropped": 977,
+			"dropRate": 0.014809762013036229
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 451,
-			"dropRate": 0.0074723308370336005
-		},
-		{
-			"itemName": "Small Sapphire",
-			"timesDropped": 349,
-			"dropRate": 0.005782358009145735
+			"timesDropped": 486,
+			"dropRate": 0.007366984993178717
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 345,
-			"dropRate": 0.005716084564914839
+			"timesDropped": 375,
+			"dropRate": 0.005684402000909504
+		},
+		{
+			"itemName": "Small Sapphire",
+			"timesDropped": 370,
+			"dropRate": 0.0056086099742307105
 		},
 		{
 			"itemName": "Strange Helmet",
-			"timesDropped": 213,
-			"dropRate": 0.003529060905295248
+			"timesDropped": 232,
+			"dropRate": 0.0035167500378960135
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 193,
-			"dropRate": 0.0031976936841407646
+			"timesDropped": 217,
+			"dropRate": 0.003289373957859633
 		},
 		{
 			"itemName": "Shard",
-			"timesDropped": 120,
-			"dropRate": 0.0019882033269269005
+			"timesDropped": 123,
+			"dropRate": 0.0018644838562983175
 		},
 		{
 			"itemName": "Glacier Mask",
-			"timesDropped": 116,
-			"dropRate": 0.0019219298826960037
+			"timesDropped": 121,
+			"dropRate": 0.0018341670456268001
 		}
 	]
 }

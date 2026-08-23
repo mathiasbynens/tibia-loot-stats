@@ -1,91 +1,91 @@
 {
 	"monsterName": "Rustheap Golem",
-	"timesKilled": 1638,
+	"timesKilled": 6714,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1635,
-			"dropRate": 0.9981684981684982
+			"timesDropped": 6708,
+			"dropRate": 0.9991063449508489
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 855,
-			"dropRate": 0.521978021978022
+			"timesDropped": 3612,
+			"dropRate": 0.5379803395889187
 		},
 		{
 			"itemName": "Necromantic Rust",
-			"timesDropped": 248,
-			"dropRate": 0.1514041514041514
+			"timesDropped": 1032,
+			"dropRate": 0.15370866845397677
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 116,
-			"dropRate": 0.07081807081807082
+			"timesDropped": 452,
+			"dropRate": 0.06732201370271075
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 105,
-			"dropRate": 0.0641025641025641
+			"timesDropped": 445,
+			"dropRate": 0.06627941614536789
 		},
 		{
 			"itemName": "Flask of Rust Remover",
-			"timesDropped": 68,
-			"dropRate": 0.04151404151404151
+			"timesDropped": 310,
+			"dropRate": 0.04617217753946976
 		},
 		{
 			"itemName": "Gearwheel Chain",
-			"timesDropped": 67,
-			"dropRate": 0.040903540903540904
+			"timesDropped": 227,
+			"dropRate": 0.03380994935954722
 		},
 		{
 			"itemName": "Slightly Rusted Legs",
-			"timesDropped": 52,
-			"dropRate": 0.031746031746031744
+			"timesDropped": 212,
+			"dropRate": 0.031575811736669644
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
-			"timesDropped": 50,
-			"dropRate": 0.030525030525030524
+			"timesDropped": 201,
+			"dropRate": 0.02993744414655943
 		},
 		{
 			"itemName": "Nail",
-			"timesDropped": 48,
-			"dropRate": 0.029304029304029304
-		},
-		{
-			"itemName": "White Pearl",
-			"timesDropped": 41,
-			"dropRate": 0.025030525030525032
+			"timesDropped": 191,
+			"dropRate": 0.028448019064641047
 		},
 		{
 			"itemName": "Bronze Gear Wheel",
-			"timesDropped": 40,
-			"dropRate": 0.02442002442002442
+			"timesDropped": 187,
+			"dropRate": 0.027852249031873697
 		},
 		{
-			"itemName": "Iron Ore",
-			"timesDropped": 28,
-			"dropRate": 0.017094017094017096
+			"itemName": "White Pearl",
+			"timesDropped": 146,
+			"dropRate": 0.021745606196008342
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 28,
-			"dropRate": 0.017094017094017096
+			"timesDropped": 134,
+			"dropRate": 0.019958296097706284
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 24,
-			"dropRate": 0.014652014652014652
+			"timesDropped": 105,
+			"dropRate": 0.015638963360142984
 		},
 		{
-			"itemName": "Spiked Squelcher",
-			"timesDropped": 11,
-			"dropRate": 0.006715506715506716
+			"itemName": "Iron Ore",
+			"timesDropped": 98,
+			"dropRate": 0.01459636580280012
 		},
 		{
 			"itemName": "Metal Bat",
-			"timesDropped": 6,
-			"dropRate": 0.003663003663003663
+			"timesDropped": 46,
+			"dropRate": 0.0068513553768245455
+		},
+		{
+			"itemName": "Spiked Squelcher",
+			"timesDropped": 33,
+			"dropRate": 0.004915102770330653
 		}
 	]
 }

@@ -1,46 +1,46 @@
 {
 	"monsterName": "Stonerefiner",
-	"timesKilled": 10395,
+	"timesKilled": 15516,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5276,
-			"dropRate": 0.5075517075517075
+			"timesDropped": 7886,
+			"dropRate": 0.5082495488527972
 		},
 		{
 			"itemName": "Rare Earth",
-			"timesDropped": 4143,
-			"dropRate": 0.39855699855699855
+			"timesDropped": 6253,
+			"dropRate": 0.40300335137922144
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 3098,
-			"dropRate": 0.29802789802789803
+			"timesDropped": 4640,
+			"dropRate": 0.29904614591389533
 		},
 		{
 			"itemName": "Glob of Acid Slime",
-			"timesDropped": 2598,
-			"dropRate": 0.24992784992784992
-		},
-		{
-			"itemName": "Stonerefiner's Skull",
-			"timesDropped": 2085,
-			"dropRate": 0.20057720057720058
+			"timesDropped": 3847,
+			"dropRate": 0.2479376127868007
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 2027,
-			"dropRate": 0.194997594997595
+			"timesDropped": 3062,
+			"dropRate": 0.19734467646300594
+		},
+		{
+			"itemName": "Stonerefiner's Skull",
+			"timesDropped": 3055,
+			"dropRate": 0.19689352926011858
 		},
 		{
 			"itemName": "Half-Digested Stones",
-			"timesDropped": 1529,
-			"dropRate": 0.14708994708994708
+			"timesDropped": 2293,
+			"dropRate": 0.14778293374581078
 		},
 		{
 			"itemName": "Rat Cheese",
-			"timesDropped": 1081,
-			"dropRate": 0.103992303992304
+			"timesDropped": 1597,
+			"dropRate": 0.10292601185872648
 		}
 	]
 }

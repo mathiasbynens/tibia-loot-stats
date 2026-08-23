@@ -1,71 +1,76 @@
 {
 	"monsterName": "Barbarian Skullhunter",
-	"timesKilled": 25183,
+	"timesKilled": 4219,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18718,
-			"dropRate": 0.7432791962832069
+			"timesDropped": 3151,
+			"dropRate": 0.7468594453662005
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 15177,
-			"dropRate": 0.6026684668228567
+			"timesDropped": 2560,
+			"dropRate": 0.6067788575491823
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 5023,
-			"dropRate": 0.19945995314299328
+			"timesDropped": 861,
+			"dropRate": 0.20407679544915858
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 3769,
-			"dropRate": 0.14966445618075686
+			"timesDropped": 629,
+			"dropRate": 0.14908746148376392
 		},
 		{
 			"itemName": "Viking Helmet",
-			"timesDropped": 1986,
-			"dropRate": 0.07886272485406821
+			"timesDropped": 324,
+			"dropRate": 0.07679544915856838
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 1006,
-			"dropRate": 0.039947583687408174
+			"timesDropped": 177,
+			"dropRate": 0.041953069447736434
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 753,
-			"dropRate": 0.029901123773974508
+			"timesDropped": 137,
+			"dropRate": 0.032472149798530456
+		},
+		{
+			"itemName": "Ring of Orange Plasma",
+			"timesDropped": 61,
+			"dropRate": 0.014458402465039108
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 231,
-			"dropRate": 0.009172854703569868
+			"timesDropped": 33,
+			"dropRate": 0.007821758710594928
 		},
 		{
 			"itemName": "Brown Piece of Cloth",
-			"timesDropped": 131,
-			"dropRate": 0.0052019219314617
-		},
-		{
-			"itemName": "Life Ring",
-			"timesDropped": 63,
-			"dropRate": 0.002501687646428146
+			"timesDropped": 10,
+			"dropRate": 0.002370229912301493
 		},
 		{
 			"itemName": "Fur Boots",
-			"timesDropped": 26,
-			"dropRate": 0.0010324425207481238
+			"timesDropped": 6,
+			"dropRate": 0.001422137947380896
 		},
 		{
 			"itemName": "Ragnir Helmet",
-			"timesDropped": 25,
-			"dropRate": 0.000992733193027042
+			"timesDropped": 5,
+			"dropRate": 0.0011851149561507466
+		},
+		{
+			"itemName": "Life Ring",
+			"timesDropped": 2,
+			"dropRate": 0.00047404598246029864
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 22,
-			"dropRate": 0.000873605209863797
+			"timesDropped": 1,
+			"dropRate": 0.00023702299123014932
 		}
 	]
 }

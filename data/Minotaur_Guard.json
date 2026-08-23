@@ -1,61 +1,66 @@
 {
 	"monsterName": "Minotaur Guard",
-	"timesKilled": 47388,
+	"timesKilled": 53256,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 28279,
-			"dropRate": 0.5967544526040348
+			"timesDropped": 31762,
+			"dropRate": 0.5964022833108007
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 3887,
-			"dropRate": 0.08202498522832785
+			"timesDropped": 4341,
+			"dropRate": 0.08151194231635872
 		},
 		{
 			"itemName": "Piece of Warrior Armor",
-			"timesDropped": 2356,
-			"dropRate": 0.049717227990208494
+			"timesDropped": 2646,
+			"dropRate": 0.04968454258675079
 		},
 		{
 			"itemName": "Brass Armor",
-			"timesDropped": 1956,
-			"dropRate": 0.041276272474044064
+			"timesDropped": 2191,
+			"dropRate": 0.041140904311251315
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 1414,
-			"dropRate": 0.02983877774964126
+			"timesDropped": 1608,
+			"dropRate": 0.030193780982424517
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 994,
-			"dropRate": 0.020975774457668607
+			"timesDropped": 1105,
+			"dropRate": 0.020748835811927293
 		},
 		{
 			"itemName": "Minotaur Leather",
-			"timesDropped": 448,
-			"dropRate": 0.009453870178104161
+			"timesDropped": 492,
+			"dropRate": 0.009238395673726904
 		},
 		{
 			"itemName": "Fishing Rod",
-			"timesDropped": 226,
-			"dropRate": 0.004769139866632903
-		},
-		{
-			"itemName": "Double Axe",
-			"timesDropped": 205,
-			"dropRate": 0.004325989702034271
+			"timesDropped": 253,
+			"dropRate": 0.00475063842571729
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 194,
-			"dropRate": 0.004093863425339748
+			"timesDropped": 224,
+			"dropRate": 0.004206098843322818
+		},
+		{
+			"itemName": "Double Axe",
+			"timesDropped": 221,
+			"dropRate": 0.004149767162385459
 		},
 		{
 			"itemName": "Minotaur Trophy",
-			"timesDropped": 45,
-			"dropRate": 0.0009496074955684983
+			"timesDropped": 50,
+			"dropRate": 0.0009388613489559862
+		},
+		{
+			"itemName": "Soul Prism",
+			"timesDropped": 1,
+			"dropRate": 0.000018777226979119724
 		}
 	]
 }

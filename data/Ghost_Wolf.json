@@ -1,11 +1,16 @@
 {
 	"monsterName": "Ghost Wolf",
-	"timesKilled": 2173,
+	"timesKilled": 2234,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1506,
-			"dropRate": 0.6930510814542108
+			"timesDropped": 1547,
+			"dropRate": 0.6924798567591763
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 5,
+			"dropRate": 0.0022381378692927483
 		}
 	]
 }

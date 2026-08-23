@@ -1,96 +1,96 @@
 {
 	"monsterName": "Minotaur Invader",
-	"timesKilled": 7006,
+	"timesKilled": 15788,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7006,
+			"timesDropped": 15788,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3449,
-			"dropRate": 0.4922923208678276
+			"timesDropped": 7857,
+			"dropRate": 0.49765644793514063
 		},
 		{
 			"itemName": "Piece of Warrior Armor",
-			"timesDropped": 1033,
-			"dropRate": 0.14744504710248357
+			"timesDropped": 2366,
+			"dropRate": 0.14986065366100837
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 729,
-			"dropRate": 0.10405366828432772
+			"timesDropped": 1627,
+			"dropRate": 0.10305295160881682
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 581,
-			"dropRate": 0.08292891807022552
-		},
-		{
-			"itemName": "Minotaur Leather",
-			"timesDropped": 374,
-			"dropRate": 0.05338281473023123
+			"timesDropped": 1272,
+			"dropRate": 0.08056751963516595
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 363,
-			"dropRate": 0.05181273194404796
+			"timesDropped": 818,
+			"dropRate": 0.05181150240689131
+		},
+		{
+			"itemName": "Minotaur Leather",
+			"timesDropped": 799,
+			"dropRate": 0.05060805675196352
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 331,
-			"dropRate": 0.04724521838424208
+			"timesDropped": 744,
+			"dropRate": 0.04712439827717253
 		},
 		{
 			"itemName": "Mooh'tah Plate",
-			"timesDropped": 66,
-			"dropRate": 0.009420496717099628
+			"timesDropped": 143,
+			"dropRate": 0.009057512034456549
 		},
 		{
 			"itemName": "Blue Piece of Cloth",
-			"timesDropped": 60,
-			"dropRate": 0.008564087924636025
-		},
-		{
-			"itemName": "Red Gem",
-			"timesDropped": 59,
-			"dropRate": 0.008421353125892093
-		},
-		{
-			"itemName": "Knight Axe",
-			"timesDropped": 47,
-			"dropRate": 0.006708535540964887
+			"timesDropped": 135,
+			"dropRate": 0.008550798074486951
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 46,
-			"dropRate": 0.006565800742220953
+			"timesDropped": 121,
+			"dropRate": 0.007664048644540157
+		},
+		{
+			"itemName": "Red Gem",
+			"timesDropped": 117,
+			"dropRate": 0.007410691664555358
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 45,
-			"dropRate": 0.00642306594347702
+			"timesDropped": 97,
+			"dropRate": 0.006143906764631365
+		},
+		{
+			"itemName": "Knight Axe",
+			"timesDropped": 92,
+			"dropRate": 0.005827210539650367
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 43,
-			"dropRate": 0.006137596345989152
-		},
-		{
-			"itemName": "Titan Axe",
-			"timesDropped": 15,
-			"dropRate": 0.0021410219811590064
-		},
-		{
-			"itemName": "Blue Gem",
-			"timesDropped": 13,
-			"dropRate": 0.001855552383671139
+			"timesDropped": 86,
+			"dropRate": 0.005447175069673169
 		},
 		{
 			"itemName": "Minotaur Trophy",
-			"timesDropped": 12,
-			"dropRate": 0.0017128175849272054
+			"timesDropped": 35,
+			"dropRate": 0.0022168735748669876
+		},
+		{
+			"itemName": "Titan Axe",
+			"timesDropped": 35,
+			"dropRate": 0.0022168735748669876
+		},
+		{
+			"itemName": "Blue Gem",
+			"timesDropped": 25,
+			"dropRate": 0.0015834811249049912
 		}
 	]
 }

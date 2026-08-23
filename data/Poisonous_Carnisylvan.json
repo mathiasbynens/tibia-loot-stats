@@ -1,101 +1,101 @@
 {
 	"monsterName": "Poisonous Carnisylvan",
-	"timesKilled": 1090,
+	"timesKilled": 2614,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1035,
-			"dropRate": 0.9495412844036697
+			"timesDropped": 2489,
+			"dropRate": 0.9521805661820965
 		},
 		{
 			"itemName": "Carnisylvan Bark",
-			"timesDropped": 135,
-			"dropRate": 0.12385321100917432
+			"timesDropped": 314,
+			"dropRate": 0.12012241775057383
 		},
 		{
 			"itemName": "Mushroom Pie",
-			"timesDropped": 105,
-			"dropRate": 0.0963302752293578
-		},
-		{
-			"itemName": "Carnisylvan Finger",
-			"timesDropped": 96,
-			"dropRate": 0.08807339449541285
+			"timesDropped": 239,
+			"dropRate": 0.09143075745983167
 		},
 		{
 			"itemName": "Wooden Trash",
-			"timesDropped": 88,
-			"dropRate": 0.08073394495412844
+			"timesDropped": 227,
+			"dropRate": 0.08684009181331293
+		},
+		{
+			"itemName": "Carnisylvan Finger",
+			"timesDropped": 226,
+			"dropRate": 0.0864575363427697
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 79,
-			"dropRate": 0.07247706422018349
+			"timesDropped": 197,
+			"dropRate": 0.07536342769701607
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 70,
-			"dropRate": 0.06422018348623854
+			"timesDropped": 187,
+			"dropRate": 0.07153787299158378
 		},
 		{
 			"itemName": "Guardian Halberd",
-			"timesDropped": 68,
-			"dropRate": 0.062385321100917435
+			"timesDropped": 177,
+			"dropRate": 0.0677123182861515
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 63,
-			"dropRate": 0.05779816513761468
-		},
-		{
-			"itemName": "Knight Axe",
-			"timesDropped": 57,
-			"dropRate": 0.05229357798165138
-		},
-		{
-			"itemName": "Diamond Sceptre",
-			"timesDropped": 52,
-			"dropRate": 0.047706422018348627
-		},
-		{
-			"itemName": "Underworld Rod",
-			"timesDropped": 50,
-			"dropRate": 0.045871559633027525
-		},
-		{
-			"itemName": "Wand of Starstorm",
-			"timesDropped": 50,
-			"dropRate": 0.045871559633027525
+			"timesDropped": 145,
+			"dropRate": 0.05547054322876817
 		},
 		{
 			"itemName": "Collar of Blue Plasma",
-			"timesDropped": 48,
-			"dropRate": 0.044036697247706424
+			"timesDropped": 125,
+			"dropRate": 0.047819433817903594
+		},
+		{
+			"itemName": "Diamond Sceptre",
+			"timesDropped": 123,
+			"dropRate": 0.047054322876817135
+		},
+		{
+			"itemName": "Knight Axe",
+			"timesDropped": 123,
+			"dropRate": 0.047054322876817135
+		},
+		{
+			"itemName": "Wand of Starstorm",
+			"timesDropped": 113,
+			"dropRate": 0.04322876817138485
+		},
+		{
+			"itemName": "Underworld Rod",
+			"timesDropped": 93,
+			"dropRate": 0.03557765876052028
 		},
 		{
 			"itemName": "Fire Mushroom",
-			"timesDropped": 38,
-			"dropRate": 0.03486238532110092
+			"timesDropped": 83,
+			"dropRate": 0.031752104055087986
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 25,
-			"dropRate": 0.022935779816513763
+			"timesDropped": 62,
+			"dropRate": 0.023718439173680182
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 23,
-			"dropRate": 0.02110091743119266
+			"timesDropped": 55,
+			"dropRate": 0.021040550879877582
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 11,
-			"dropRate": 0.010091743119266056
+			"timesDropped": 23,
+			"dropRate": 0.008798775822494262
 		},
 		{
 			"itemName": "Human Teeth",
-			"timesDropped": 3,
-			"dropRate": 0.0027522935779816515
+			"timesDropped": 8,
+			"dropRate": 0.00306044376434583
 		}
 	]
 }

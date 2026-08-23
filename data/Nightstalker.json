@@ -1,61 +1,61 @@
 {
 	"monsterName": "Nightstalker",
-	"timesKilled": 21726,
+	"timesKilled": 25047,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19552,
-			"dropRate": 0.8999355610788916
+			"timesDropped": 22530,
+			"dropRate": 0.8995089232243383
 		},
 		{
 			"itemName": "Shadow Herb",
-			"timesDropped": 1033,
-			"dropRate": 0.047546718217803555
+			"timesDropped": 1185,
+			"dropRate": 0.047311055216193554
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 331,
-			"dropRate": 0.015235202062045476
+			"timesDropped": 388,
+			"dropRate": 0.015490877150956203
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 211,
-			"dropRate": 0.009711865967044094
+			"timesDropped": 252,
+			"dropRate": 0.01006108515989939
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 197,
-			"dropRate": 0.0090674767559606
+			"timesDropped": 231,
+			"dropRate": 0.00922266139657444
 		},
 		{
 			"itemName": "Spirit Cloak",
-			"timesDropped": 107,
-			"dropRate": 0.004924974684709565
+			"timesDropped": 131,
+			"dropRate": 0.005230167285503254
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 69,
-			"dropRate": 0.0031759182546257938
+			"timesDropped": 77,
+			"dropRate": 0.0030742204655248135
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 36,
-			"dropRate": 0.0016570008285004142
+			"timesDropped": 40,
+			"dropRate": 0.0015969976444284745
 		},
 		{
 			"itemName": "Crystal of Balance",
-			"timesDropped": 27,
-			"dropRate": 0.0012427506213753107
+			"timesDropped": 32,
+			"dropRate": 0.0012775981155427796
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 25,
-			"dropRate": 0.0011506950197919543
+			"timesDropped": 26,
+			"dropRate": 0.0010380484688785085
 		},
 		{
 			"itemName": "Chaos Mace",
-			"timesDropped": 22,
-			"dropRate": 0.0010126116174169197
+			"timesDropped": 25,
+			"dropRate": 0.0009981235277677965
 		}
 	]
 }

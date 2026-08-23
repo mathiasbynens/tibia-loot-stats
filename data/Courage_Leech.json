@@ -1,81 +1,81 @@
 {
 	"monsterName": "Courage Leech",
-	"timesKilled": 7383,
+	"timesKilled": 9892,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 4457,
-			"dropRate": 0.6036841392387918
+			"timesDropped": 5947,
+			"dropRate": 0.6011928831378892
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 848,
-			"dropRate": 0.1148584586211567
+			"timesDropped": 1147,
+			"dropRate": 0.11595228467448443
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 352,
-			"dropRate": 0.04767709603142354
+			"timesDropped": 478,
+			"dropRate": 0.048321876263647395
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 171,
-			"dropRate": 0.023161316537992686
+			"timesDropped": 224,
+			"dropRate": 0.022644561261625555
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 158,
-			"dropRate": 0.021400514695923068
+			"timesDropped": 207,
+			"dropRate": 0.02092600080873433
 		},
 		{
 			"itemName": "Gold Ring",
-			"timesDropped": 92,
-			"dropRate": 0.012461059190031152
+			"timesDropped": 120,
+			"dropRate": 0.01213101496158512
 		},
 		{
 			"itemName": "Jade Hammer",
-			"timesDropped": 71,
-			"dropRate": 0.009616686983610997
+			"timesDropped": 89,
+			"dropRate": 0.008997169429842296
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 51,
-			"dropRate": 0.00690776107273466
-		},
-		{
-			"itemName": "Twiceslicer",
-			"timesDropped": 46,
-			"dropRate": 0.006230529595015576
+			"timesDropped": 77,
+			"dropRate": 0.007784067933683785
 		},
 		{
 			"itemName": "Onyx Flail",
-			"timesDropped": 43,
-			"dropRate": 0.005824190708384126
+			"timesDropped": 63,
+			"dropRate": 0.006368782854832188
 		},
 		{
-			"itemName": "Hammer of Wrath",
-			"timesDropped": 42,
-			"dropRate": 0.005688744412840309
-		},
-		{
-			"itemName": "Nightmare Blade",
-			"timesDropped": 38,
-			"dropRate": 0.005146959230665041
+			"itemName": "Twiceslicer",
+			"timesDropped": 61,
+			"dropRate": 0.006166599272139102
 		},
 		{
 			"itemName": "Demonrage Sword",
-			"timesDropped": 37,
-			"dropRate": 0.0050115129351212245
+			"timesDropped": 54,
+			"dropRate": 0.005458956732713303
+		},
+		{
+			"itemName": "Hammer of Wrath",
+			"timesDropped": 52,
+			"dropRate": 0.005256773150020219
+		},
+		{
+			"itemName": "Nightmare Blade",
+			"timesDropped": 48,
+			"dropRate": 0.004852405984634048
 		},
 		{
 			"itemName": "Butcher's Axe",
-			"timesDropped": 30,
-			"dropRate": 0.0040633888663145065
+			"timesDropped": 39,
+			"dropRate": 0.003942579862515164
 		},
 		{
 			"itemName": "Dreaded Cleaver",
-			"timesDropped": 30,
-			"dropRate": 0.0040633888663145065
+			"timesDropped": 39,
+			"dropRate": 0.003942579862515164
 		}
 	]
 }

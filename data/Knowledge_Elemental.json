@@ -1,116 +1,111 @@
 {
 	"monsterName": "Knowledge Elemental",
-	"timesKilled": 6822,
+	"timesKilled": 193,
 	"items": [
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 5124,
-			"dropRate": 0.751099384344767
+			"timesDropped": 139,
+			"dropRate": 0.7202072538860104
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4644,
-			"dropRate": 0.6807387862796834
+			"timesDropped": 136,
+			"dropRate": 0.7046632124352331
 		},
 		{
 			"itemName": "Book Page",
-			"timesDropped": 2571,
-			"dropRate": 0.37686895338610377
+			"timesDropped": 75,
+			"dropRate": 0.38860103626943004
 		},
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 2285,
-			"dropRate": 0.33494576370565815
+			"timesDropped": 68,
+			"dropRate": 0.35233160621761656
 		},
 		{
 			"itemName": "Silken Bookmark",
-			"timesDropped": 1799,
-			"dropRate": 0.26370565816476105
+			"timesDropped": 52,
+			"dropRate": 0.2694300518134715
 		},
 		{
 			"itemName": "Quill",
-			"timesDropped": 1540,
-			"dropRate": 0.2257402521254764
-		},
-		{
-			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 1041,
-			"dropRate": 0.15259454705364994
+			"timesDropped": 44,
+			"dropRate": 0.22797927461139897
 		},
 		{
 			"itemName": "Flash Arrow",
-			"timesDropped": 1022,
-			"dropRate": 0.14980944004690708
+			"timesDropped": 34,
+			"dropRate": 0.17616580310880828
 		},
 		{
-			"itemName": "Ultimate Health Potion",
-			"timesDropped": 779,
-			"dropRate": 0.11418938727645851
-		},
-		{
-			"itemName": "Guardian Shield",
-			"timesDropped": 648,
-			"dropRate": 0.09498680738786279
+			"itemName": "Ultimate Mana Potion",
+			"timesDropped": 25,
+			"dropRate": 0.12953367875647667
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 610,
-			"dropRate": 0.08941659337437702
+			"timesDropped": 23,
+			"dropRate": 0.11917098445595854
+		},
+		{
+			"itemName": "Ultimate Health Potion",
+			"timesDropped": 22,
+			"dropRate": 0.11398963730569948
+		},
+		{
+			"itemName": "Guardian Shield",
+			"timesDropped": 21,
+			"dropRate": 0.10880829015544041
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 490,
-			"dropRate": 0.07182644385810613
-		},
-		{
-			"itemName": "Throwing Star",
-			"timesDropped": 480,
-			"dropRate": 0.07036059806508356
-		},
-		{
-			"itemName": "Crystal Sword",
-			"timesDropped": 327,
-			"dropRate": 0.04793315743183817
+			"timesDropped": 14,
+			"dropRate": 0.07253886010362694
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 313,
-			"dropRate": 0.045880973321606566
+			"timesDropped": 14,
+			"dropRate": 0.07253886010362694
 		},
 		{
-			"itemName": "Obsidian Lance",
-			"timesDropped": 193,
-			"dropRate": 0.02829082380533568
+			"itemName": "Crystal Sword",
+			"timesDropped": 13,
+			"dropRate": 0.06735751295336788
+		},
+		{
+			"itemName": "Throwing Star",
+			"timesDropped": 10,
+			"dropRate": 0.05181347150259067
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 160,
-			"dropRate": 0.023453532688361183
+			"timesDropped": 9,
+			"dropRate": 0.046632124352331605
 		},
 		{
-			"itemName": "Might Ring",
-			"timesDropped": 123,
-			"dropRate": 0.01802990325417766
+			"itemName": "Obsidian Lance",
+			"timesDropped": 7,
+			"dropRate": 0.03626943005181347
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 117,
-			"dropRate": 0.017150395778364115
+			"timesDropped": 4,
+			"dropRate": 0.02072538860103627
+		},
+		{
+			"itemName": "Might Ring",
+			"timesDropped": 4,
+			"dropRate": 0.02072538860103627
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 90,
-			"dropRate": 0.013192612137203167
+			"timesDropped": 3,
+			"dropRate": 0.015544041450777202
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 78,
-			"dropRate": 0.011433597185576077
-		},
-		{
-			"itemName": "Spellweaver's Robe",
-			"timesDropped": 25,
-			"dropRate": 0.003664614482556435
+			"timesDropped": 2,
+			"dropRate": 0.010362694300518135
 		}
 	]
 }

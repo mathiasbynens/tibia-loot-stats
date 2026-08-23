@@ -1,31 +1,31 @@
 {
 	"monsterName": "Sacred Spider",
-	"timesKilled": 8081,
+	"timesKilled": 8769,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7244,
-			"dropRate": 0.896423709936889
+			"timesDropped": 7867,
+			"dropRate": 0.897137643973087
 		},
 		{
 			"itemName": "Spider Fangs",
-			"timesDropped": 2027,
-			"dropRate": 0.25083529266179927
+			"timesDropped": 2214,
+			"dropRate": 0.25248032842969553
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 534,
-			"dropRate": 0.06608093057789878
+			"timesDropped": 591,
+			"dropRate": 0.06739651043448512
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 383,
-			"dropRate": 0.047395124365796314
+			"timesDropped": 414,
+			"dropRate": 0.047211768730756075
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 5,
-			"dropRate": 0.0006187353050365054
+			"dropRate": 0.0005701904436081651
 		}
 	]
 }

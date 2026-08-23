@@ -1,66 +1,66 @@
 {
 	"monsterName": "Island Troll",
-	"timesKilled": 11780,
+	"timesKilled": 17291,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7045,
-			"dropRate": 0.5980475382003395
+			"timesDropped": 10318,
+			"dropRate": 0.5967266207853796
 		},
 		{
 			"itemName": "Wood",
-			"timesDropped": 3623,
-			"dropRate": 0.3075551782682513
+			"timesDropped": 5289,
+			"dropRate": 0.3058816725464114
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 2346,
-			"dropRate": 0.19915110356536503
+			"timesDropped": 3498,
+			"dropRate": 0.2023017754901394
 		},
 		{
 			"itemName": "Hand Axe",
-			"timesDropped": 2099,
-			"dropRate": 0.17818336162988116
+			"timesDropped": 3082,
+			"dropRate": 0.1782430165982303
 		},
 		{
 			"itemName": "Wooden Shield",
-			"timesDropped": 1800,
-			"dropRate": 0.15280135823429541
-		},
-		{
-			"itemName": "Leather Boots",
-			"timesDropped": 1170,
-			"dropRate": 0.09932088285229201
+			"timesDropped": 2631,
+			"dropRate": 0.15216008328031924
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 1131,
-			"dropRate": 0.09601018675721562
+			"timesDropped": 1689,
+			"dropRate": 0.09768087444335204
+		},
+		{
+			"itemName": "Leather Boots",
+			"timesDropped": 1678,
+			"dropRate": 0.09704470533803713
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 941,
-			"dropRate": 0.0798811544991511
-		},
-		{
-			"itemName": "Studded Club",
-			"timesDropped": 606,
-			"dropRate": 0.051443123938879454
+			"timesDropped": 1420,
+			"dropRate": 0.0821236481406512
 		},
 		{
 			"itemName": "Mango",
-			"timesDropped": 593,
-			"dropRate": 0.05033955857385399
+			"timesDropped": 872,
+			"dropRate": 0.05043085998496328
+		},
+		{
+			"itemName": "Studded Club",
+			"timesDropped": 865,
+			"dropRate": 0.05002602509976288
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 9,
-			"dropRate": 0.0007640067911714771
+			"timesDropped": 19,
+			"dropRate": 0.0010988375455439246
 		},
 		{
 			"itemName": "Marlin",
-			"timesDropped": 8,
-			"dropRate": 0.0006791171477079797
+			"timesDropped": 10,
+			"dropRate": 0.0005783355502862761
 		}
 	]
 }

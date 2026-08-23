@@ -1,126 +1,126 @@
 {
 	"monsterName": "War Golem",
-	"timesKilled": 2128,
+	"timesKilled": 4027,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2118,
-			"dropRate": 0.9953007518796992
+			"timesDropped": 4009,
+			"dropRate": 0.9955301713434318
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 207,
-			"dropRate": 0.09727443609022557
+			"timesDropped": 391,
+			"dropRate": 0.0970946113732307
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 189,
-			"dropRate": 0.08881578947368421
-		},
-		{
-			"itemName": "Morning Star",
-			"timesDropped": 187,
-			"dropRate": 0.08787593984962407
+			"timesDropped": 362,
+			"dropRate": 0.08989322075987087
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 187,
-			"dropRate": 0.08787593984962407
+			"timesDropped": 344,
+			"dropRate": 0.0854233921033027
+		},
+		{
+			"itemName": "Morning Star",
+			"timesDropped": 343,
+			"dropRate": 0.08517506828904892
 		},
 		{
 			"itemName": "War Crystal",
-			"timesDropped": 163,
-			"dropRate": 0.07659774436090226
+			"timesDropped": 328,
+			"dropRate": 0.08145021107524211
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 146,
-			"dropRate": 0.06860902255639098
+			"timesDropped": 271,
+			"dropRate": 0.06729575366277626
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 119,
-			"dropRate": 0.05592105263157895
+			"timesDropped": 215,
+			"dropRate": 0.05338962006456419
 		},
 		{
 			"itemName": "Nail",
-			"timesDropped": 113,
-			"dropRate": 0.0531015037593985
+			"timesDropped": 211,
+			"dropRate": 0.05239632480754904
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 102,
-			"dropRate": 0.047932330827067667
+			"timesDropped": 188,
+			"dropRate": 0.046684877079711945
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 73,
-			"dropRate": 0.03430451127819549
+			"timesDropped": 141,
+			"dropRate": 0.03501365780978396
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 40,
-			"dropRate": 0.018796992481203006
-		},
-		{
-			"itemName": "Crystal Pedestal (Red)",
-			"timesDropped": 22,
-			"dropRate": 0.010338345864661654
+			"timesDropped": 76,
+			"dropRate": 0.018872609883287806
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 21,
-			"dropRate": 0.009868421052631578
+			"timesDropped": 48,
+			"dropRate": 0.011919543084181774
 		},
 		{
-			"itemName": "Life Crystal",
-			"timesDropped": 20,
-			"dropRate": 0.009398496240601503
+			"itemName": "Crystal Pedestal (Red)",
+			"timesDropped": 43,
+			"dropRate": 0.010677924012912838
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 16,
-			"dropRate": 0.007518796992481203
+			"timesDropped": 37,
+			"dropRate": 0.009187981127390117
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 15,
-			"dropRate": 0.007048872180451127
+			"timesDropped": 37,
+			"dropRate": 0.009187981127390117
+		},
+		{
+			"itemName": "Life Crystal",
+			"timesDropped": 37,
+			"dropRate": 0.009187981127390117
 		},
 		{
 			"itemName": "Bonebreaker",
-			"timesDropped": 12,
-			"dropRate": 0.005639097744360902
+			"timesDropped": 27,
+			"dropRate": 0.006704742984852247
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 12,
-			"dropRate": 0.005639097744360902
+			"timesDropped": 22,
+			"dropRate": 0.005463123913583313
 		},
 		{
 			"itemName": "Lightning Boots",
-			"timesDropped": 5,
-			"dropRate": 0.002349624060150376
-		},
-		{
-			"itemName": "Jade Hammer",
-			"timesDropped": 3,
-			"dropRate": 0.0014097744360902255
-		},
-		{
-			"itemName": "Crystal of Power",
-			"timesDropped": 2,
-			"dropRate": 0.0009398496240601503
+			"timesDropped": 8,
+			"dropRate": 0.0019865905140302956
 		},
 		{
 			"itemName": "Berserker",
-			"timesDropped": 1,
-			"dropRate": 0.00046992481203007516
+			"timesDropped": 7,
+			"dropRate": 0.0017382666997765085
+		},
+		{
+			"itemName": "Jade Hammer",
+			"timesDropped": 7,
+			"dropRate": 0.0017382666997765085
+		},
+		{
+			"itemName": "Crystal of Power",
+			"timesDropped": 4,
+			"dropRate": 0.0009932952570151478
 		},
 		{
 			"itemName": "Crystal Pedestal",
 			"timesDropped": 1,
-			"dropRate": 0.00046992481203007516
+			"dropRate": 0.00024832381425378696
 		}
 	]
 }

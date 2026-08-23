@@ -1,26 +1,26 @@
 {
 	"monsterName": "Terrified Elephant",
-	"timesKilled": 3078,
+	"timesKilled": 4554,
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 1257,
-			"dropRate": 0.4083820662768031
+			"timesDropped": 1834,
+			"dropRate": 0.40272288098375053
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 901,
-			"dropRate": 0.29272254710851203
+			"timesDropped": 1370,
+			"dropRate": 0.3008344312692139
 		},
 		{
 			"itemName": "Tusk",
-			"timesDropped": 265,
-			"dropRate": 0.08609486679662118
+			"timesDropped": 382,
+			"dropRate": 0.08388230127360562
 		},
 		{
 			"itemName": "Tusk Shield",
-			"timesDropped": 3,
-			"dropRate": 0.0009746588693957114
+			"timesDropped": 4,
+			"dropRate": 0.000878348704435661
 		}
 	]
 }

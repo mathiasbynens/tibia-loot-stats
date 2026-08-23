@@ -1,86 +1,86 @@
 {
 	"monsterName": "Adept of the Cult",
-	"timesKilled": 23604,
+	"timesKilled": 37530,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15498,
-			"dropRate": 0.6565836298932385
+			"timesDropped": 24309,
+			"dropRate": 0.6477218225419664
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 2430,
-			"dropRate": 0.10294865277071683
+			"timesDropped": 3842,
+			"dropRate": 0.10237143618438582
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 2338,
-			"dropRate": 0.09905100830367734
+			"timesDropped": 3722,
+			"dropRate": 0.09917399413802291
 		},
 		{
 			"itemName": "Pirate Voodoo Doll",
-			"timesDropped": 352,
-			"dropRate": 0.014912726656498898
-		},
-		{
-			"itemName": "Silver Amulet",
-			"timesDropped": 242,
-			"dropRate": 0.010252499576342992
+			"timesDropped": 544,
+			"dropRate": 0.014495070610178525
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 230,
-			"dropRate": 0.009744111167598712
+			"timesDropped": 393,
+			"dropRate": 0.01047162270183853
+		},
+		{
+			"itemName": "Silver Amulet",
+			"timesDropped": 368,
+			"dropRate": 0.009805488942179589
 		},
 		{
 			"itemName": "Book (Orange)",
-			"timesDropped": 210,
-			"dropRate": 0.008896797153024912
+			"timesDropped": 313,
+			"dropRate": 0.008339994670929923
 		},
 		{
 			"itemName": "Music Sheet (Third Verse)",
-			"timesDropped": 148,
-			"dropRate": 0.006270123707846128
+			"timesDropped": 218,
+			"dropRate": 0.005808686384225953
 		},
 		{
 			"itemName": "Amber Staff",
-			"timesDropped": 135,
-			"dropRate": 0.005719369598373157
+			"timesDropped": 196,
+			"dropRate": 0.005222488675726086
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 112,
-			"dropRate": 0.004744958481613286
+			"timesDropped": 174,
+			"dropRate": 0.004636290967226219
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 68,
-			"dropRate": 0.0028808676495509235
+			"timesDropped": 102,
+			"dropRate": 0.0027178257394084734
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 43,
-			"dropRate": 0.0018217251313336722
-		},
-		{
-			"itemName": "Cultish Symbol",
-			"timesDropped": 22,
-			"dropRate": 0.0009320454160311811
-		},
-		{
-			"itemName": "Lunar Staff",
-			"timesDropped": 22,
-			"dropRate": 0.0009320454160311811
+			"timesDropped": 60,
+			"dropRate": 0.0015987210231814548
 		},
 		{
 			"itemName": "Red Robe",
-			"timesDropped": 21,
-			"dropRate": 0.0008896797153024911
+			"timesDropped": 32,
+			"dropRate": 0.0008526512123634425
+		},
+		{
+			"itemName": "Lunar Staff",
+			"timesDropped": 31,
+			"dropRate": 0.000826005861977085
+		},
+		{
+			"itemName": "Cultish Symbol",
+			"timesDropped": 29,
+			"dropRate": 0.0007727151612043698
 		},
 		{
 			"itemName": "Broken Key Ring",
-			"timesDropped": 18,
-			"dropRate": 0.000762582613116421
+			"timesDropped": 25,
+			"dropRate": 0.0006661337596589396
 		}
 	]
 }

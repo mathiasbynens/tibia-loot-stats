@@ -1,66 +1,66 @@
 {
 	"monsterName": "Barbarian Headsplitter",
-	"timesKilled": 28768,
+	"timesKilled": 34618,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21647,
-			"dropRate": 0.7524680200222469
+			"timesDropped": 25996,
+			"dropRate": 0.7509388179559766
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 17192,
-			"dropRate": 0.5976084538375973
+			"timesDropped": 20705,
+			"dropRate": 0.5980992547229765
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 5798,
-			"dropRate": 0.20154338153503892
+			"timesDropped": 6934,
+			"dropRate": 0.20030042174591253
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 4279,
-			"dropRate": 0.1487416573971079
+			"timesDropped": 5127,
+			"dropRate": 0.14810214339361025
 		},
 		{
 			"itemName": "Viking Helmet",
-			"timesDropped": 1428,
-			"dropRate": 0.0496384872080089
+			"timesDropped": 1743,
+			"dropRate": 0.050349529146686695
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 1167,
-			"dropRate": 0.04056590656284761
+			"timesDropped": 1389,
+			"dropRate": 0.04012363510312554
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 909,
-			"dropRate": 0.0315976084538376
+			"timesDropped": 1081,
+			"dropRate": 0.031226529551100585
 		},
 		{
 			"itemName": "Brown Piece of Cloth",
-			"timesDropped": 275,
-			"dropRate": 0.009559232480533926
+			"timesDropped": 332,
+			"dropRate": 0.009590386504130799
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 153,
-			"dropRate": 0.005318409343715239
+			"timesDropped": 175,
+			"dropRate": 0.00505517360910509
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 66,
-			"dropRate": 0.0022942157953281424
+			"timesDropped": 77,
+			"dropRate": 0.0022242763880062394
 		},
 		{
 			"itemName": "Krimhorn Helmet",
-			"timesDropped": 31,
-			"dropRate": 0.0010775862068965517
+			"timesDropped": 41,
+			"dropRate": 0.0011843549598474783
 		},
 		{
 			"itemName": "Fur Boots",
-			"timesDropped": 26,
-			"dropRate": 0.000903781979977753
+			"timesDropped": 32,
+			"dropRate": 0.0009243746028077879
 		}
 	]
 }

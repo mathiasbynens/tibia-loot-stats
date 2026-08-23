@@ -1,11 +1,16 @@
 {
 	"monsterName": "White Shade",
-	"timesKilled": 1758,
+	"timesKilled": 447,
 	"items": [
 		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 20,
+			"dropRate": 0.0447427293064877
+		},
+		{
 			"itemName": "White Piece of Cloth",
-			"timesDropped": 54,
-			"dropRate": 0.030716723549488054
+			"timesDropped": 13,
+			"dropRate": 0.029082774049217
 		}
 	]
 }

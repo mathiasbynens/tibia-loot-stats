@@ -1,76 +1,76 @@
 {
 	"monsterName": "Mutated Bat",
-	"timesKilled": 6666,
+	"timesKilled": 11470,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6152,
-			"dropRate": 0.9228922892289229
+			"timesDropped": 10614,
+			"dropRate": 0.9253705318221447
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 849,
-			"dropRate": 0.12736273627362737
+			"timesDropped": 1394,
+			"dropRate": 0.12153443766346993
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 553,
-			"dropRate": 0.08295829582958296
+			"timesDropped": 916,
+			"dropRate": 0.07986050566695728
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 429,
-			"dropRate": 0.06435643564356436
+			"timesDropped": 748,
+			"dropRate": 0.06521360069747166
 		},
 		{
 			"itemName": "Mutated Bat Ear",
-			"timesDropped": 330,
-			"dropRate": 0.04950495049504951
-		},
-		{
-			"itemName": "Star Herb",
-			"timesDropped": 308,
-			"dropRate": 0.0462046204620462
+			"timesDropped": 595,
+			"dropRate": 0.05187445510026155
 		},
 		{
 			"itemName": "Bat Wing",
-			"timesDropped": 303,
-			"dropRate": 0.045454545454545456
+			"timesDropped": 590,
+			"dropRate": 0.05143853530950305
+		},
+		{
+			"itemName": "Star Herb",
+			"timesDropped": 551,
+			"dropRate": 0.04803836094158675
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 61,
-			"dropRate": 0.009150915091509152
+			"timesDropped": 97,
+			"dropRate": 0.008456843940714909
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 56,
-			"dropRate": 0.0084008400840084
+			"timesDropped": 89,
+			"dropRate": 0.007759372275501308
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 47,
-			"dropRate": 0.007050705070507051
+			"timesDropped": 82,
+			"dropRate": 0.0071490845684394075
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 39,
-			"dropRate": 0.0058505850585058505
-		},
-		{
-			"itemName": "Batwing Hat",
-			"timesDropped": 9,
-			"dropRate": 0.0013501350135013501
+			"timesDropped": 66,
+			"dropRate": 0.005754141238012205
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 8,
-			"dropRate": 0.0012001200120012002
+			"timesDropped": 16,
+			"dropRate": 0.0013949433304272015
+		},
+		{
+			"itemName": "Batwing Hat",
+			"timesDropped": 14,
+			"dropRate": 0.0012205754141238012
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 7,
-			"dropRate": 0.00105010501050105
+			"timesDropped": 9,
+			"dropRate": 0.0007846556233653008
 		}
 	]
 }

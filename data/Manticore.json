@@ -1,91 +1,91 @@
 {
 	"monsterName": "Manticore",
-	"timesKilled": 4909,
+	"timesKilled": 8190,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4909,
+			"timesDropped": 8190,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Manticore Tail",
-			"timesDropped": 451,
-			"dropRate": 0.09187207170503157
+			"timesDropped": 775,
+			"dropRate": 0.09462759462759462
 		},
 		{
 			"itemName": "Manticore Ear",
-			"timesDropped": 353,
-			"dropRate": 0.07190873905072316
+			"timesDropped": 578,
+			"dropRate": 0.07057387057387057
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 346,
-			"dropRate": 0.07048278671827256
+			"timesDropped": 565,
+			"dropRate": 0.06898656898656899
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 248,
-			"dropRate": 0.050519454063964145
+			"timesDropped": 435,
+			"dropRate": 0.05311355311355311
 		},
 		{
 			"itemName": "Flaming Arrow",
-			"timesDropped": 242,
-			"dropRate": 0.049297209207577915
+			"timesDropped": 423,
+			"dropRate": 0.051648351648351645
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 170,
-			"dropRate": 0.03463027093094317
+			"timesDropped": 285,
+			"dropRate": 0.0347985347985348
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 138,
-			"dropRate": 0.028111631696883275
-		},
-		{
-			"itemName": "Magma Coat",
-			"timesDropped": 132,
-			"dropRate": 0.026889386840497045
+			"timesDropped": 236,
+			"dropRate": 0.028815628815628817
 		},
 		{
 			"itemName": "Prismatic Quartz",
-			"timesDropped": 132,
-			"dropRate": 0.026889386840497045
+			"timesDropped": 228,
+			"dropRate": 0.02783882783882784
+		},
+		{
+			"itemName": "Magma Coat",
+			"timesDropped": 224,
+			"dropRate": 0.02735042735042735
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 127,
-			"dropRate": 0.025870849460175187
+			"timesDropped": 209,
+			"dropRate": 0.02551892551892552
 		},
 		{
 			"itemName": "Wand of Dragonbreath",
-			"timesDropped": 84,
-			"dropRate": 0.01711142798940721
+			"timesDropped": 151,
+			"dropRate": 0.018437118437118438
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 82,
-			"dropRate": 0.01670401303727847
+			"timesDropped": 127,
+			"dropRate": 0.015506715506715507
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 46,
-			"dropRate": 0.009370543898961092
-		},
-		{
-			"itemName": "Magma Legs",
-			"timesDropped": 45,
-			"dropRate": 0.00916683642289672
-		},
-		{
-			"itemName": "Royal Star",
-			"timesDropped": 42,
-			"dropRate": 0.008555713994703605
+			"timesDropped": 85,
+			"dropRate": 0.010378510378510378
 		},
 		{
 			"itemName": "Wand of Everblazing",
-			"timesDropped": 42,
-			"dropRate": 0.008555713994703605
+			"timesDropped": 82,
+			"dropRate": 0.010012210012210013
+		},
+		{
+			"itemName": "Royal Star",
+			"timesDropped": 80,
+			"dropRate": 0.009768009768009768
+		},
+		{
+			"itemName": "Magma Legs",
+			"timesDropped": 76,
+			"dropRate": 0.00927960927960928
 		}
 	]
 }

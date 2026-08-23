@@ -1,116 +1,116 @@
 {
 	"monsterName": "Ogre Brute",
-	"timesKilled": 5864,
+	"timesKilled": 11114,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5838,
-			"dropRate": 0.9955661664392906
+			"timesDropped": 11088,
+			"dropRate": 0.9976606082418571
 		},
 		{
 			"itemName": "Ogre Ear Stud",
-			"timesDropped": 1087,
-			"dropRate": 0.18536834924965895
+			"timesDropped": 2077,
+			"dropRate": 0.18688141083318338
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 871,
-			"dropRate": 0.14853342428376534
+			"timesDropped": 1656,
+			"dropRate": 0.14900125967248515
 		},
 		{
 			"itemName": "Ogre Nose Ring",
-			"timesDropped": 838,
-			"dropRate": 0.14290586630286495
+			"timesDropped": 1635,
+			"dropRate": 0.14711175094475437
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 738,
-			"dropRate": 0.12585266030013642
+			"timesDropped": 1366,
+			"dropRate": 0.12290804390858377
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 303,
-			"dropRate": 0.051671214188267395
+			"timesDropped": 555,
+			"dropRate": 0.049937016375742306
 		},
 		{
 			"itemName": "Battle Stone",
-			"timesDropped": 297,
-			"dropRate": 0.050648021828103684
+			"timesDropped": 523,
+			"dropRate": 0.047057764981104915
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 231,
-			"dropRate": 0.03939290586630286
+			"timesDropped": 425,
+			"dropRate": 0.038240057585027895
 		},
 		{
 			"itemName": "Skull Fetish",
-			"timesDropped": 197,
-			"dropRate": 0.03359481582537517
-		},
-		{
-			"itemName": "Small Ruby",
-			"timesDropped": 150,
-			"dropRate": 0.02557980900409277
+			"timesDropped": 369,
+			"dropRate": 0.03320136764441245
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 138,
-			"dropRate": 0.02353342428376535
+			"timesDropped": 265,
+			"dropRate": 0.02384380061184092
+		},
+		{
+			"itemName": "Small Ruby",
+			"timesDropped": 253,
+			"dropRate": 0.0227640813388519
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 131,
-			"dropRate": 0.022339699863574352
+			"timesDropped": 241,
+			"dropRate": 0.021684362065862876
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 125,
-			"dropRate": 0.02131650750341064
-		},
-		{
-			"itemName": "Opal",
-			"timesDropped": 98,
-			"dropRate": 0.016712141882673944
+			"timesDropped": 225,
+			"dropRate": 0.020244736368544177
 		},
 		{
 			"itemName": "Power Ring",
-			"timesDropped": 96,
-			"dropRate": 0.01637107776261937
+			"timesDropped": 184,
+			"dropRate": 0.01655569551916502
+		},
+		{
+			"itemName": "Opal",
+			"timesDropped": 178,
+			"dropRate": 0.016015835882670505
 		},
 		{
 			"itemName": "Ogre Klubba",
-			"timesDropped": 60,
-			"dropRate": 0.010231923601637109
+			"timesDropped": 105,
+			"dropRate": 0.00944754363865395
 		},
 		{
 			"itemName": "Pot",
-			"timesDropped": 15,
-			"dropRate": 0.002557980900409277
-		},
-		{
-			"itemName": "Ancient Stone",
-			"timesDropped": 14,
-			"dropRate": 0.0023874488403819918
+			"timesDropped": 38,
+			"dropRate": 0.0034191110311319055
 		},
 		{
 			"itemName": "Rusted Helmet",
-			"timesDropped": 13,
-			"dropRate": 0.002216916780354707
+			"timesDropped": 26,
+			"dropRate": 0.002339391758142883
 		},
 		{
-			"itemName": "Bonebreaker",
-			"timesDropped": 7,
-			"dropRate": 0.0011937244201909959
+			"itemName": "Ancient Stone",
+			"timesDropped": 21,
+			"dropRate": 0.00188950872773079
 		},
 		{
 			"itemName": "Shamanic Mask",
-			"timesDropped": 7,
-			"dropRate": 0.0011937244201909959
+			"timesDropped": 14,
+			"dropRate": 0.00125967248515386
+		},
+		{
+			"itemName": "Bonebreaker",
+			"timesDropped": 12,
+			"dropRate": 0.001079719272989023
 		},
 		{
 			"itemName": "Butcher's Axe",
 			"timesDropped": 1,
-			"dropRate": 0.00017053206002728513
+			"dropRate": 0.00008997660608241857
 		}
 	]
 }

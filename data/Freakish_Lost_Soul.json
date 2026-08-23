@@ -1,56 +1,61 @@
 {
 	"monsterName": "Freakish Lost Soul",
-	"timesKilled": 2647,
+	"timesKilled": 1836,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2647,
+			"timesDropped": 1836,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Lost Soul (Item)",
-			"timesDropped": 1214,
-			"dropRate": 0.45863241405364563
+			"timesDropped": 773,
+			"dropRate": 0.4210239651416122
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 199,
-			"dropRate": 0.07517944843218738
-		},
-		{
-			"itemName": "Death Toll",
-			"timesDropped": 148,
-			"dropRate": 0.05591235360785795
+			"timesDropped": 121,
+			"dropRate": 0.0659041394335512
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 137,
-			"dropRate": 0.051756705704571214
+			"timesDropped": 119,
+			"dropRate": 0.06481481481481481
+		},
+		{
+			"itemName": "Death Toll",
+			"timesDropped": 114,
+			"dropRate": 0.06209150326797386
 		},
 		{
 			"itemName": "Ensouled Essence",
-			"timesDropped": 100,
-			"dropRate": 0.037778617302606725
-		},
-		{
-			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 42,
-			"dropRate": 0.015867019267094825
+			"timesDropped": 70,
+			"dropRate": 0.03812636165577342
 		},
 		{
 			"itemName": "Silver Hand Mirror",
-			"timesDropped": 35,
-			"dropRate": 0.013222516055912353
+			"timesDropped": 29,
+			"dropRate": 0.01579520697167756
 		},
 		{
-			"itemName": "Ornate Crossbow",
+			"itemName": "Ring of Blue Plasma",
 			"timesDropped": 22,
-			"dropRate": 0.00831129580657348
+			"dropRate": 0.011982570806100218
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 21,
-			"dropRate": 0.007933509633547412
+			"timesDropped": 15,
+			"dropRate": 0.008169934640522876
+		},
+		{
+			"itemName": "Ornate Crossbow",
+			"timesDropped": 12,
+			"dropRate": 0.006535947712418301
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 6,
+			"dropRate": 0.0032679738562091504
 		}
 	]
 }

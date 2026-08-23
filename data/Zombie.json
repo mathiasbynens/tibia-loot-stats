@@ -1,61 +1,66 @@
 {
 	"monsterName": "Zombie",
-	"timesKilled": 20092,
+	"timesKilled": 5405,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16490,
-			"dropRate": 0.8207246665339438
-		},
-		{
-			"itemName": "Half-Eaten Brain",
-			"timesDropped": 2065,
-			"dropRate": 0.10277722476607605
+			"timesDropped": 4428,
+			"dropRate": 0.8192414431082331
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 1961,
-			"dropRate": 0.09760103523790563
+			"timesDropped": 555,
+			"dropRate": 0.1026827012025902
+		},
+		{
+			"itemName": "Half-Eaten Brain",
+			"timesDropped": 535,
+			"dropRate": 0.09898242368177614
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 1584,
-			"dropRate": 0.07883734819828787
+			"timesDropped": 417,
+			"dropRate": 0.07715078630897318
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 1384,
-			"dropRate": 0.06888313756719092
+			"timesDropped": 355,
+			"dropRate": 0.06567992599444958
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 1173,
-			"dropRate": 0.058381445351383635
+			"timesDropped": 326,
+			"dropRate": 0.0603145235892692
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 963,
-			"dropRate": 0.04792952418873184
+			"timesDropped": 269,
+			"dropRate": 0.04976873265494912
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 765,
-			"dropRate": 0.03807485566394585
+			"timesDropped": 216,
+			"dropRate": 0.03996299722479186
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 188,
-			"dropRate": 0.009356957993231137
+			"timesDropped": 53,
+			"dropRate": 0.009805735430157262
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 42,
+			"dropRate": 0.0077705827937095285
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 144,
-			"dropRate": 0.007167031654389807
+			"timesDropped": 37,
+			"dropRate": 0.0068455134135060125
 		},
 		{
 			"itemName": "Simple Dress",
-			"timesDropped": 104,
-			"dropRate": 0.005176189528170416
+			"timesDropped": 26,
+			"dropRate": 0.004810360777058279
 		}
 	]
 }

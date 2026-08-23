@@ -1,71 +1,71 @@
 {
 	"monsterName": "Cave Devourer",
-	"timesKilled": 2717,
+	"timesKilled": 2504,
 	"items": [
 		{
-			"itemName": "Cave Devourer Eyes",
-			"timesDropped": 509,
-			"dropRate": 0.187338976812661
+			"itemName": "Cave Devourer Maw",
+			"timesDropped": 484,
+			"dropRate": 0.19329073482428116
 		},
 		{
-			"itemName": "Cave Devourer Maw",
-			"timesDropped": 499,
-			"dropRate": 0.18365844681634155
+			"itemName": "Cave Devourer Eyes",
+			"timesDropped": 449,
+			"dropRate": 0.17931309904153356
 		},
 		{
 			"itemName": "Cave Devourer Legs",
-			"timesDropped": 399,
-			"dropRate": 0.14685314685314685
+			"timesDropped": 396,
+			"dropRate": 0.15814696485623003
 		},
 		{
 			"itemName": "Crystalline Arrow",
-			"timesDropped": 397,
-			"dropRate": 0.14611704085388297
+			"timesDropped": 393,
+			"dropRate": 0.15694888178913738
 		},
 		{
 			"itemName": "Slime Heart",
-			"timesDropped": 306,
-			"dropRate": 0.11262421788737578
+			"timesDropped": 270,
+			"dropRate": 0.10782747603833866
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 203,
-			"dropRate": 0.07471475892528524
-		},
-		{
-			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 185,
-			"dropRate": 0.06808980493191019
-		},
-		{
-			"itemName": "Blue Crystal Shard",
-			"timesDropped": 170,
-			"dropRate": 0.06256900993743099
+			"timesDropped": 183,
+			"dropRate": 0.07308306709265176
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 165,
-			"dropRate": 0.06072874493927125
+			"timesDropped": 171,
+			"dropRate": 0.06829073482428115
+		},
+		{
+			"itemName": "Blue Crystal Shard",
+			"timesDropped": 151,
+			"dropRate": 0.060303514376996804
+		},
+		{
+			"itemName": "Small Enchanted Ruby",
+			"timesDropped": 149,
+			"dropRate": 0.05950479233226837
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 155,
-			"dropRate": 0.057048214942951786
+			"timesDropped": 138,
+			"dropRate": 0.05511182108626198
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 118,
-			"dropRate": 0.04343025395656975
+			"timesDropped": 113,
+			"dropRate": 0.04512779552715655
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 56,
-			"dropRate": 0.020610967979389033
+			"timesDropped": 61,
+			"dropRate": 0.024361022364217253
 		},
 		{
 			"itemName": "Suspicious Device",
-			"timesDropped": 38,
-			"dropRate": 0.013986013986013986
+			"timesDropped": 51,
+			"dropRate": 0.02036741214057508
 		}
 	]
 }

@@ -1,151 +1,151 @@
 {
 	"monsterName": "Arachnophobica",
-	"timesKilled": 16915,
+	"timesKilled": 24508,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 13922,
-			"dropRate": 0.8230564587644102
+			"timesDropped": 19940,
+			"dropRate": 0.8136118818345031
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 5104,
-			"dropRate": 0.30174401418859
+			"timesDropped": 7188,
+			"dropRate": 0.29329198629019093
 		},
 		{
 			"itemName": "Spider Fangs",
-			"timesDropped": 1723,
-			"dropRate": 0.10186225243866391
+			"timesDropped": 2397,
+			"dropRate": 0.09780479843316468
 		},
 		{
 			"itemName": "Essence of a Bad Dream",
-			"timesDropped": 1213,
-			"dropRate": 0.07171149866981968
+			"timesDropped": 1834,
+			"dropRate": 0.07483270768728578
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 1136,
-			"dropRate": 0.06715932604197458
+			"timesDropped": 1657,
+			"dropRate": 0.06761057613840378
 		},
 		{
 			"itemName": "Sword Ring",
-			"timesDropped": 842,
-			"dropRate": 0.04977830328111144
+			"timesDropped": 1290,
+			"dropRate": 0.052635874000326426
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 765,
-			"dropRate": 0.04522613065326633
+			"timesDropped": 1077,
+			"dropRate": 0.043944834339807406
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 749,
-			"dropRate": 0.04428022465267514
+			"timesDropped": 1052,
+			"dropRate": 0.0429247592622817
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 694,
-			"dropRate": 0.04102867277564292
+			"timesDropped": 968,
+			"dropRate": 0.03949730700179533
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 490,
-			"dropRate": 0.028968371268105232
-		},
-		{
-			"itemName": "Underworld Rod",
-			"timesDropped": 470,
-			"dropRate": 0.027785988767366245
+			"timesDropped": 679,
+			"dropRate": 0.027705239105598172
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 465,
-			"dropRate": 0.027490393142181494
+			"timesDropped": 629,
+			"dropRate": 0.025665088950546762
 		},
 		{
 			"itemName": "Axe Ring",
-			"timesDropped": 450,
-			"dropRate": 0.026603606266627253
+			"timesDropped": 624,
+			"dropRate": 0.025461073935041618
+		},
+		{
+			"itemName": "Underworld Rod",
+			"timesDropped": 615,
+			"dropRate": 0.025093846907132365
 		},
 		{
 			"itemName": "Power Ring",
-			"timesDropped": 419,
-			"dropRate": 0.024770913390481823
+			"timesDropped": 586,
+			"dropRate": 0.023910559817202547
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 355,
-			"dropRate": 0.020987289388117055
-		},
-		{
-			"itemName": "Death Ring",
-			"timesDropped": 343,
-			"dropRate": 0.020277859887673663
+			"timesDropped": 501,
+			"dropRate": 0.020442304553615145
 		},
 		{
 			"itemName": "Orb",
-			"timesDropped": 310,
-			"dropRate": 0.01832692876145433
+			"timesDropped": 486,
+			"dropRate": 0.019830259507099723
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 286,
-			"dropRate": 0.016908069760567544
+			"timesDropped": 477,
+			"dropRate": 0.019463032479190467
+		},
+		{
+			"itemName": "Death Ring",
+			"timesDropped": 450,
+			"dropRate": 0.018361351395462706
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 278,
-			"dropRate": 0.01643511676027195
+			"timesDropped": 363,
+			"dropRate": 0.01481149012567325
 		},
 		{
 			"itemName": "Collar of Red Plasma",
-			"timesDropped": 237,
-			"dropRate": 0.014011232633757021
+			"timesDropped": 345,
+			"dropRate": 0.014077036069854741
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 224,
-			"dropRate": 0.013242684008276677
+			"timesDropped": 307,
+			"dropRate": 0.012526521952015668
 		},
 		{
 			"itemName": "Spider Silk",
-			"timesDropped": 217,
-			"dropRate": 0.012828850133018032
-		},
-		{
-			"itemName": "Garlic Necklace",
-			"timesDropped": 177,
-			"dropRate": 0.010464085131540053
-		},
-		{
-			"itemName": "Necklace of the Deep",
-			"timesDropped": 170,
-			"dropRate": 0.010050251256281407
+			"timesDropped": 305,
+			"dropRate": 0.012444915945813612
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 170,
-			"dropRate": 0.010050251256281407
+			"timesDropped": 246,
+			"dropRate": 0.010037538762852946
 		},
 		{
-			"itemName": "Stone Skin Amulet",
-			"timesDropped": 159,
-			"dropRate": 0.009399940880874962
+			"itemName": "Necklace of the Deep",
+			"timesDropped": 242,
+			"dropRate": 0.009874326750448833
+		},
+		{
+			"itemName": "Garlic Necklace",
+			"timesDropped": 228,
+			"dropRate": 0.009303084707034438
 		},
 		{
 			"itemName": "Strange Symbol",
-			"timesDropped": 113,
-			"dropRate": 0.006680461129175288
+			"timesDropped": 155,
+			"dropRate": 0.0063244654806593765
 		},
 		{
 			"itemName": "Strange Talisman",
-			"timesDropped": 98,
-			"dropRate": 0.005793674253621046
+			"timesDropped": 141,
+			"dropRate": 0.0057532234372449816
 		},
 		{
 			"itemName": "Collar of Green Plasma",
-			"timesDropped": 67,
-			"dropRate": 0.003960981377475613
+			"timesDropped": 101,
+			"dropRate": 0.004121103313203852
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 56,
+			"dropRate": 0.002284968173657581
 		}
 	]
 }

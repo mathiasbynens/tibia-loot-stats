@@ -1,36 +1,36 @@
 {
 	"monsterName": "Damaged Worker Golem",
-	"timesKilled": 6150,
+	"timesKilled": 6624,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4197,
-			"dropRate": 0.682439024390244
+			"timesDropped": 4542,
+			"dropRate": 0.6856884057971014
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 618,
-			"dropRate": 0.10048780487804879
+			"timesDropped": 664,
+			"dropRate": 0.10024154589371981
 		},
 		{
 			"itemName": "Nail",
-			"timesDropped": 76,
-			"dropRate": 0.012357723577235772
+			"timesDropped": 78,
+			"dropRate": 0.01177536231884058
 		},
 		{
 			"itemName": "Sword Ring",
-			"timesDropped": 30,
-			"dropRate": 0.004878048780487805
+			"timesDropped": 31,
+			"dropRate": 0.004679951690821256
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 25,
-			"dropRate": 0.0040650406504065045
+			"timesDropped": 27,
+			"dropRate": 0.004076086956521739
 		},
 		{
 			"itemName": "Gear Crystal",
-			"timesDropped": 13,
-			"dropRate": 0.002113821138211382
+			"timesDropped": 16,
+			"dropRate": 0.0024154589371980675
 		}
 	]
 }

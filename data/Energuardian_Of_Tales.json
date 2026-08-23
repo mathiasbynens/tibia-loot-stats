@@ -1,81 +1,71 @@
 {
 	"monsterName": "Energuardian of Tales",
-	"timesKilled": 7785,
+	"timesKilled": 62,
 	"items": [
 		{
 			"itemName": "Book Page",
-			"timesDropped": 4531,
-			"dropRate": 0.5820166987797045
+			"timesDropped": 37,
+			"dropRate": 0.5967741935483871
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 4335,
-			"dropRate": 0.5568400770712909
+			"timesDropped": 34,
+			"dropRate": 0.5483870967741935
 		},
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 1581,
-			"dropRate": 0.20308285163776493
-		},
-		{
-			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1031,
-			"dropRate": 0.13243416827231855
-		},
-		{
-			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 707,
-			"dropRate": 0.09081567116249196
-		},
-		{
-			"itemName": "Spellbook of Warding",
-			"timesDropped": 706,
-			"dropRate": 0.09068721901091843
-		},
-		{
-			"itemName": "Lightning Legs",
-			"timesDropped": 600,
-			"dropRate": 0.07707129094412331
+			"timesDropped": 13,
+			"dropRate": 0.20967741935483872
 		},
 		{
 			"itemName": "Flash Arrow",
-			"timesDropped": 584,
-			"dropRate": 0.07501605651894669
+			"timesDropped": 8,
+			"dropRate": 0.12903225806451613
 		},
 		{
-			"itemName": "Wand of Starstorm",
-			"timesDropped": 548,
-			"dropRate": 0.07039177906229929
+			"itemName": "Ultimate Health Potion",
+			"timesDropped": 8,
+			"dropRate": 0.12903225806451613
+		},
+		{
+			"itemName": "Spellbook of Warding",
+			"timesDropped": 6,
+			"dropRate": 0.0967741935483871
+		},
+		{
+			"itemName": "Lightning Legs",
+			"timesDropped": 5,
+			"dropRate": 0.08064516129032258
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 345,
-			"dropRate": 0.04431599229287091
+			"timesDropped": 4,
+			"dropRate": 0.06451612903225806
 		},
 		{
-			"itemName": "Platinum Amulet",
-			"timesDropped": 188,
-			"dropRate": 0.024149004495825306
+			"itemName": "Ultimate Mana Potion",
+			"timesDropped": 4,
+			"dropRate": 0.06451612903225806
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 184,
-			"dropRate": 0.02363519588953115
+			"timesDropped": 2,
+			"dropRate": 0.03225806451612903
 		},
 		{
-			"itemName": "Wand of Defiance",
-			"timesDropped": 97,
-			"dropRate": 0.012459858702633268
+			"itemName": "Platinum Amulet",
+			"timesDropped": 1,
+			"dropRate": 0.016129032258064516
 		},
 		{
 			"itemName": "Spellweaver's Robe",
-			"timesDropped": 69,
-			"dropRate": 0.008863198458574181
+			"timesDropped": 1,
+			"dropRate": 0.016129032258064516
 		},
 		{
-			"itemName": "Shockwave Amulet",
-			"timesDropped": 59,
-			"dropRate": 0.007578676942838793
+			"itemName": "Wand of Defiance",
+			"timesDropped": 1,
+			"dropRate": 0.016129032258064516
 		}
 	]
 }

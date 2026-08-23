@@ -1,61 +1,66 @@
 {
 	"monsterName": "Crypt Shambler",
-	"timesKilled": 115099,
+	"timesKilled": 2708,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 66864,
-			"dropRate": 0.5809259854559987
+			"timesDropped": 1570,
+			"dropRate": 0.5797636632200887
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 10348,
-			"dropRate": 0.08990521203485695
-		},
-		{
-			"itemName": "Bone",
-			"timesDropped": 5691,
-			"dropRate": 0.04944439135005517
+			"timesDropped": 276,
+			"dropRate": 0.1019202363367799
 		},
 		{
 			"itemName": "Half-Digested Piece of Meat",
-			"timesDropped": 5682,
-			"dropRate": 0.049366197794941745
+			"timesDropped": 137,
+			"dropRate": 0.050590841949778434
 		},
 		{
-			"itemName": "Iron Helmet",
-			"timesDropped": 2351,
-			"dropRate": 0.02042589423018445
+			"itemName": "Bone",
+			"timesDropped": 122,
+			"dropRate": 0.045051698670605614
 		},
 		{
 			"itemName": "Rotten Meat",
-			"timesDropped": 2275,
-			"dropRate": 0.019765593098115534
+			"timesDropped": 54,
+			"dropRate": 0.019940915805022157
+		},
+		{
+			"itemName": "Iron Helmet",
+			"timesDropped": 49,
+			"dropRate": 0.01809453471196455
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 2264,
-			"dropRate": 0.019670023197421352
-		},
-		{
-			"itemName": "Bone Shield",
-			"timesDropped": 1193,
-			"dropRate": 0.010364990138923882
+			"timesDropped": 42,
+			"dropRate": 0.0155096011816839
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 1154,
-			"dropRate": 0.010026151400099045
+			"timesDropped": 27,
+			"dropRate": 0.009970457902511078
 		},
 		{
 			"itemName": "Bone Sword",
-			"timesDropped": 1146,
-			"dropRate": 0.009956646017776
+			"timesDropped": 25,
+			"dropRate": 0.009231905465288036
+		},
+		{
+			"itemName": "Bone Shield",
+			"timesDropped": 24,
+			"dropRate": 0.008862629246676515
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 568,
-			"dropRate": 0.0049348821449360985
+			"timesDropped": 19,
+			"dropRate": 0.007016248153618907
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 2,
+			"dropRate": 0.0007385524372230429
 		}
 	]
 }

@@ -1,41 +1,46 @@
 {
 	"monsterName": "Emerald Damselfly",
-	"timesKilled": 78342,
+	"timesKilled": 83340,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 71204,
-			"dropRate": 0.908886676367721
+			"timesDropped": 75745,
+			"dropRate": 0.9088672906167506
 		},
 		{
 			"itemName": "Damselfly Wing",
-			"timesDropped": 9260,
-			"dropRate": 0.11819968854509713
+			"timesDropped": 9867,
+			"dropRate": 0.11839452843772498
 		},
 		{
 			"itemName": "Damselfly Eye",
-			"timesDropped": 7824,
-			"dropRate": 0.09986980163896761
+			"timesDropped": 8327,
+			"dropRate": 0.09991600671946245
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 5908,
-			"dropRate": 0.07541293303719589
+			"timesDropped": 6285,
+			"dropRate": 0.07541396688264938
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 3946,
-			"dropRate": 0.05036889535625846
+			"timesDropped": 4198,
+			"dropRate": 0.05037197024238061
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 2813,
-			"dropRate": 0.03590666564550305
+			"timesDropped": 3014,
+			"dropRate": 0.03616510679145668
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 2786,
-			"dropRate": 0.03556202292512318
+			"timesDropped": 2953,
+			"dropRate": 0.03543316534677226
+		},
+		{
+			"itemName": "Simple Jo Staff",
+			"timesDropped": 173,
+			"dropRate": 0.002075833933285337
 		}
 	]
 }

@@ -1,31 +1,31 @@
 {
 	"monsterName": "Swarmer",
-	"timesKilled": 61778,
+	"timesKilled": 64528,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 61777,
-			"dropRate": 0.9999838130078669
+			"timesDropped": 64527,
+			"dropRate": 0.9999845028514753
 		},
 		{
 			"itemName": "Swarmer Antenna",
-			"timesDropped": 9431,
-			"dropRate": 0.15265952280747191
+			"timesDropped": 9823,
+			"dropRate": 0.15222848995784777
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 7409,
-			"dropRate": 0.11992942471429958
+			"timesDropped": 7754,
+			"dropRate": 0.1201648896603025
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 606,
-			"dropRate": 0.009809317232671824
+			"timesDropped": 640,
+			"dropRate": 0.009918175055789735
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 264,
-			"dropRate": 0.004273365923144161
+			"timesDropped": 275,
+			"dropRate": 0.004261715844284652
 		}
 	]
 }

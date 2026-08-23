@@ -1,76 +1,76 @@
 {
 	"monsterName": "Hulking Carnisylvan",
-	"timesKilled": 1055,
+	"timesKilled": 2687,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1055,
+			"timesDropped": 2687,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 305,
-			"dropRate": 0.2890995260663507
+			"timesDropped": 765,
+			"dropRate": 0.28470413100111647
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 153,
-			"dropRate": 0.14502369668246445
+			"timesDropped": 390,
+			"dropRate": 0.14514328247115743
 		},
 		{
 			"itemName": "Carnisylvan Bark",
-			"timesDropped": 141,
-			"dropRate": 0.13364928909952606
+			"timesDropped": 365,
+			"dropRate": 0.13583922590249348
 		},
 		{
 			"itemName": "Carnisylvan Finger",
-			"timesDropped": 113,
-			"dropRate": 0.10710900473933649
+			"timesDropped": 311,
+			"dropRate": 0.11574246371417939
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 81,
-			"dropRate": 0.07677725118483412
+			"timesDropped": 220,
+			"dropRate": 0.08187569780424266
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 54,
-			"dropRate": 0.05118483412322275
-		},
-		{
-			"itemName": "Dragonbone Staff",
-			"timesDropped": 50,
-			"dropRate": 0.04739336492890995
-		},
-		{
-			"itemName": "Epee",
-			"timesDropped": 47,
-			"dropRate": 0.04454976303317536
-		},
-		{
-			"itemName": "Diamond Sceptre",
-			"timesDropped": 46,
-			"dropRate": 0.043601895734597156
-		},
-		{
-			"itemName": "Lightning Headband",
-			"timesDropped": 42,
-			"dropRate": 0.03981042654028436
+			"timesDropped": 136,
+			"dropRate": 0.05061406773353182
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 40,
-			"dropRate": 0.037914691943127965
+			"timesDropped": 126,
+			"dropRate": 0.046892445106066244
+		},
+		{
+			"itemName": "Diamond Sceptre",
+			"timesDropped": 116,
+			"dropRate": 0.04317082247860067
+		},
+		{
+			"itemName": "Dragonbone Staff",
+			"timesDropped": 114,
+			"dropRate": 0.04242649795310755
+		},
+		{
+			"itemName": "Epee",
+			"timesDropped": 110,
+			"dropRate": 0.04093784890212133
+		},
+		{
+			"itemName": "Lightning Headband",
+			"timesDropped": 106,
+			"dropRate": 0.0394491998511351
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 35,
-			"dropRate": 0.03317535545023697
+			"timesDropped": 82,
+			"dropRate": 0.030517305545217716
 		},
 		{
 			"itemName": "Human Teeth",
-			"timesDropped": 7,
-			"dropRate": 0.006635071090047393
+			"timesDropped": 19,
+			"dropRate": 0.0070710829921845925
 		}
 	]
 }

@@ -1,61 +1,46 @@
 {
 	"monsterName": "Massive Energy Elemental",
-	"timesKilled": 1331,
+	"timesKilled": 257,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1323,
-			"dropRate": 0.9939894815927873
+			"timesDropped": 255,
+			"dropRate": 0.9922178988326849
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 195,
-			"dropRate": 0.14650638617580766
-		},
-		{
-			"itemName": "Flash Arrow",
-			"timesDropped": 115,
-			"dropRate": 0.08640120210368145
-		},
-		{
-			"itemName": "Great Mana Potion",
-			"timesDropped": 99,
-			"dropRate": 0.0743801652892562
+			"timesDropped": 42,
+			"dropRate": 0.16342412451361868
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 96,
-			"dropRate": 0.07212622088655146
+			"timesDropped": 25,
+			"dropRate": 0.09727626459143969
+		},
+		{
+			"itemName": "Flash Arrow",
+			"timesDropped": 20,
+			"dropRate": 0.07782101167315175
+		},
+		{
+			"itemName": "Great Mana Potion",
+			"timesDropped": 16,
+			"dropRate": 0.0622568093385214
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 45,
-			"dropRate": 0.033809166040571
+			"timesDropped": 8,
+			"dropRate": 0.0311284046692607
+		},
+		{
+			"itemName": "Might Ring",
+			"timesDropped": 6,
+			"dropRate": 0.023346303501945526
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 10,
-			"dropRate": 0.007513148009015778
-		},
-		{
-			"itemName": "Spellbook of Warding",
-			"timesDropped": 6,
-			"dropRate": 0.004507888805409466
-		},
-		{
-			"itemName": "Lightning Pendant",
-			"timesDropped": 5,
-			"dropRate": 0.003756574004507889
-		},
-		{
-			"itemName": "Lightning Legs",
-			"timesDropped": 2,
-			"dropRate": 0.0015026296018031556
-		},
-		{
-			"itemName": "Shockwave Amulet",
-			"timesDropped": 1,
-			"dropRate": 0.0007513148009015778
+			"timesDropped": 4,
+			"dropRate": 0.01556420233463035
 		}
 	]
 }

@@ -1,91 +1,96 @@
 {
 	"monsterName": "Infernal Phantom",
-	"timesKilled": 3509,
+	"timesKilled": 191,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1797,
-			"dropRate": 0.512111712738672
+			"timesDropped": 88,
+			"dropRate": 0.4607329842931937
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 885,
-			"dropRate": 0.25220860644058135
+			"timesDropped": 47,
+			"dropRate": 0.24607329842931938
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 656,
-			"dropRate": 0.18694784838985465
+			"timesDropped": 33,
+			"dropRate": 0.17277486910994763
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 221,
-			"dropRate": 0.06298090624109433
-		},
-		{
-			"itemName": "Springsprout Rod",
-			"timesDropped": 137,
-			"dropRate": 0.039042462239954404
-		},
-		{
-			"itemName": "Infernal Heart",
-			"timesDropped": 136,
-			"dropRate": 0.03875748076375036
-		},
-		{
-			"itemName": "Underworld Rod",
-			"timesDropped": 122,
-			"dropRate": 0.0347677400968937
+			"timesDropped": 17,
+			"dropRate": 0.08900523560209424
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 115,
-			"dropRate": 0.03277286976346538
+			"timesDropped": 10,
+			"dropRate": 0.05235602094240838
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 7,
+			"dropRate": 0.03664921465968586
+		},
+		{
+			"itemName": "Underworld Rod",
+			"timesDropped": 7,
+			"dropRate": 0.03664921465968586
+		},
+		{
+			"itemName": "Infernal Heart",
+			"timesDropped": 6,
+			"dropRate": 0.031413612565445025
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 113,
-			"dropRate": 0.03220290681105728
+			"timesDropped": 6,
+			"dropRate": 0.031413612565445025
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 73,
-			"dropRate": 0.02080364776289541
+			"timesDropped": 5,
+			"dropRate": 0.02617801047120419
 		},
 		{
-			"itemName": "Wand of Voodoo",
-			"timesDropped": 66,
-			"dropRate": 0.018808777429467086
-		},
-		{
-			"itemName": "Warrior's Axe",
-			"timesDropped": 66,
-			"dropRate": 0.018808777429467086
-		},
-		{
-			"itemName": "Infernal Robe",
-			"timesDropped": 64,
-			"dropRate": 0.018238814477058992
+			"itemName": "Springsprout Rod",
+			"timesDropped": 5,
+			"dropRate": 0.02617801047120419
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 63,
-			"dropRate": 0.017953833000854943
-		},
-		{
-			"itemName": "Glorious Axe",
-			"timesDropped": 59,
-			"dropRate": 0.016813907096038756
+			"timesDropped": 4,
+			"dropRate": 0.020942408376963352
 		},
 		{
 			"itemName": "Chaos Mace",
-			"timesDropped": 42,
-			"dropRate": 0.011969222000569962
+			"timesDropped": 3,
+			"dropRate": 0.015706806282722512
+		},
+		{
+			"itemName": "Warrior's Axe",
+			"timesDropped": 3,
+			"dropRate": 0.015706806282722512
+		},
+		{
+			"itemName": "Glorious Axe",
+			"timesDropped": 2,
+			"dropRate": 0.010471204188481676
+		},
+		{
+			"itemName": "Wand of Voodoo",
+			"timesDropped": 2,
+			"dropRate": 0.010471204188481676
+		},
+		{
+			"itemName": "Infernal Robe",
+			"timesDropped": 1,
+			"dropRate": 0.005235602094240838
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 38,
-			"dropRate": 0.010829296095753777
+			"timesDropped": 1,
+			"dropRate": 0.005235602094240838
 		}
 	]
 }

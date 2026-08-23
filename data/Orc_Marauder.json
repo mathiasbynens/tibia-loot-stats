@@ -1,61 +1,61 @@
 {
 	"monsterName": "Orc Marauder",
-	"timesKilled": 14835,
+	"timesKilled": 18113,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8167,
-			"dropRate": 0.5505224132119987
+			"timesDropped": 10012,
+			"dropRate": 0.552752166951913
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 3670,
-			"dropRate": 0.24738793394000674
+			"timesDropped": 4452,
+			"dropRate": 0.2457903163473748
 		},
 		{
 			"itemName": "Shaggy Tail",
-			"timesDropped": 1499,
-			"dropRate": 0.1010448264239973
+			"timesDropped": 1822,
+			"dropRate": 0.10059073593551593
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 766,
-			"dropRate": 0.05163464779238288
+			"timesDropped": 917,
+			"dropRate": 0.050626621763374374
 		},
 		{
 			"itemName": "Broken Crossbow",
-			"timesDropped": 743,
-			"dropRate": 0.050084260195483656
+			"timesDropped": 913,
+			"dropRate": 0.0504057858996301
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 583,
-			"dropRate": 0.039298955173576004
+			"timesDropped": 722,
+			"dropRate": 0.03986087340584111
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 566,
-			"dropRate": 0.03815301651499831
+			"timesDropped": 713,
+			"dropRate": 0.039363992712416494
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 207,
-			"dropRate": 0.013953488372093023
+			"timesDropped": 266,
+			"dropRate": 0.014685584938994092
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 159,
-			"dropRate": 0.010717896865520727
+			"timesDropped": 196,
+			"dropRate": 0.010820957323469332
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 73,
-			"dropRate": 0.004920795416245366
+			"timesDropped": 92,
+			"dropRate": 0.005079224866118257
 		},
 		{
 			"itemName": "Silkweaver Bow",
-			"timesDropped": 10,
-			"dropRate": 0.0006740815638692282
+			"timesDropped": 13,
+			"dropRate": 0.0007177165571688842
 		}
 	]
 }

@@ -1,61 +1,61 @@
 {
 	"monsterName": "Quara Mantassin",
-	"timesKilled": 14727,
+	"timesKilled": 18074,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 11792,
-			"dropRate": 0.8007061859170231
+			"timesDropped": 14447,
+			"dropRate": 0.7993249972335952
 		},
 		{
 			"itemName": "Mantassin Tail",
-			"timesDropped": 1862,
-			"dropRate": 0.12643444014395328
-		},
-		{
-			"itemName": "Shrimp",
-			"timesDropped": 750,
-			"dropRate": 0.05092686901609289
+			"timesDropped": 2248,
+			"dropRate": 0.12437755892442182
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 745,
-			"dropRate": 0.050587356555985605
+			"timesDropped": 922,
+			"dropRate": 0.05101250414960717
 		},
 		{
-			"itemName": "Small Sapphire",
-			"timesDropped": 163,
-			"dropRate": 0.011068106199497522
+			"itemName": "Shrimp",
+			"timesDropped": 919,
+			"dropRate": 0.05084651986278632
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 162,
-			"dropRate": 0.011000203707476064
+			"timesDropped": 191,
+			"dropRate": 0.010567666260927299
 		},
 		{
-			"itemName": "Cape",
-			"timesDropped": 154,
-			"dropRate": 0.010456983771304407
+			"itemName": "Small Sapphire",
+			"timesDropped": 187,
+			"dropRate": 0.010346353878499501
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 147,
-			"dropRate": 0.009981666327154207
+			"timesDropped": 186,
+			"dropRate": 0.010291025782892553
+		},
+		{
+			"itemName": "Cape",
+			"timesDropped": 180,
+			"dropRate": 0.009959057209250858
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 89,
-			"dropRate": 0.00604332178990969
+			"timesDropped": 105,
+			"dropRate": 0.005809450038729667
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 15,
-			"dropRate": 0.001018537380321858
+			"timesDropped": 16,
+			"dropRate": 0.0008852495297111873
 		},
 		{
 			"itemName": "Strange Helmet",
-			"timesDropped": 12,
-			"dropRate": 0.0008148299042574863
+			"timesDropped": 15,
+			"dropRate": 0.0008299214341042381
 		}
 	]
 }

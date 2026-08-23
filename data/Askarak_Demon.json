@@ -1,66 +1,61 @@
 {
 	"monsterName": "Askarak Demon",
-	"timesKilled": 17575,
+	"timesKilled": 210,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16636,
-			"dropRate": 0.9465718349928877
+			"timesDropped": 201,
+			"dropRate": 0.9571428571428572
+		},
+		{
+			"itemName": "Platinum Coin",
+			"timesDropped": 161,
+			"dropRate": 0.7666666666666667
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1089,
-			"dropRate": 0.06196301564722617
+			"timesDropped": 15,
+			"dropRate": 0.07142857142857142
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 931,
-			"dropRate": 0.05297297297297297
-		},
-		{
-			"itemName": "Strong Mana Potion",
-			"timesDropped": 892,
-			"dropRate": 0.050753911806543386
-		},
-		{
-			"itemName": "Assassin Star",
-			"timesDropped": 860,
-			"dropRate": 0.048933143669985774
+			"timesDropped": 12,
+			"dropRate": 0.05714285714285714
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 677,
-			"dropRate": 0.03852062588904694
+			"timesDropped": 10,
+			"dropRate": 0.047619047619047616
 		},
 		{
-			"itemName": "Piggy Bank",
-			"timesDropped": 192,
-			"dropRate": 0.010924608819345661
+			"itemName": "Assassin Star",
+			"timesDropped": 8,
+			"dropRate": 0.0380952380952381
+		},
+		{
+			"itemName": "Strong Mana Potion",
+			"timesDropped": 6,
+			"dropRate": 0.02857142857142857
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 179,
-			"dropRate": 0.010184921763869132
+			"timesDropped": 3,
+			"dropRate": 0.014285714285714285
+		},
+		{
+			"itemName": "Piggy Bank",
+			"timesDropped": 2,
+			"dropRate": 0.009523809523809525
 		},
 		{
 			"itemName": "Mastermind Potion",
-			"timesDropped": 84,
-			"dropRate": 0.004779516358463727
+			"timesDropped": 1,
+			"dropRate": 0.004761904761904762
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 82,
-			"dropRate": 0.004665718349928876
-		},
-		{
-			"itemName": "Terra Legs",
-			"timesDropped": 21,
-			"dropRate": 0.0011948790896159317
-		},
-		{
-			"itemName": "Magic Sulphur",
-			"timesDropped": 19,
-			"dropRate": 0.001081081081081081
+			"timesDropped": 1,
+			"dropRate": 0.004761904761904762
 		}
 	]
 }

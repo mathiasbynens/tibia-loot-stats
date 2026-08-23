@@ -1,41 +1,41 @@
 {
 	"monsterName": "Abyssal Calamary",
-	"timesKilled": 2300,
+	"timesKilled": 3613,
 	"items": [
 		{
 			"itemName": "Fish",
-			"timesDropped": 237,
-			"dropRate": 0.10304347826086957
+			"timesDropped": 390,
+			"dropRate": 0.10794353722668143
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 219,
-			"dropRate": 0.09521739130434782
+			"timesDropped": 352,
+			"dropRate": 0.09742596180459452
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 28,
-			"dropRate": 0.01217391304347826
+			"timesDropped": 48,
+			"dropRate": 0.013285358427899253
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 15,
-			"dropRate": 0.006521739130434782
-		},
-		{
-			"itemName": "Small Ruby",
-			"timesDropped": 14,
-			"dropRate": 0.00608695652173913
+			"timesDropped": 20,
+			"dropRate": 0.005535566011624689
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 14,
-			"dropRate": 0.00608695652173913
+			"timesDropped": 20,
+			"dropRate": 0.005535566011624689
+		},
+		{
+			"itemName": "Small Ruby",
+			"timesDropped": 18,
+			"dropRate": 0.00498200941046222
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 6,
-			"dropRate": 0.0026086956521739132
+			"timesDropped": 10,
+			"dropRate": 0.0027677830058123443
 		}
 	]
 }

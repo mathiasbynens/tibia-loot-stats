@@ -1,101 +1,101 @@
 {
 	"monsterName": "Renegade Quara Pincher",
-	"timesKilled": 2204,
+	"timesKilled": 3110,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1776,
-			"dropRate": 0.8058076225045372
+			"timesDropped": 2506,
+			"dropRate": 0.8057877813504823
 		},
 		{
 			"itemName": "Quara Pincers",
-			"timesDropped": 395,
-			"dropRate": 0.1792196007259528
+			"timesDropped": 578,
+			"dropRate": 0.18585209003215433
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 222,
-			"dropRate": 0.10072595281306715
+			"timesDropped": 319,
+			"dropRate": 0.10257234726688103
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 197,
-			"dropRate": 0.08938294010889292
+			"timesDropped": 289,
+			"dropRate": 0.09292604501607717
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 189,
-			"dropRate": 0.08575317604355717
+			"timesDropped": 245,
+			"dropRate": 0.07877813504823152
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 170,
-			"dropRate": 0.07713248638838476
+			"timesDropped": 235,
+			"dropRate": 0.07556270096463022
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 143,
-			"dropRate": 0.0648820326678766
-		},
-		{
-			"itemName": "Red Gem",
-			"timesDropped": 120,
-			"dropRate": 0.0544464609800363
+			"timesDropped": 207,
+			"dropRate": 0.06655948553054662
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 111,
-			"dropRate": 0.050362976406533574
+			"timesDropped": 160,
+			"dropRate": 0.05144694533762058
+		},
+		{
+			"itemName": "Red Gem",
+			"timesDropped": 151,
+			"dropRate": 0.04855305466237942
 		},
 		{
 			"itemName": "Vortex Bolt",
-			"timesDropped": 86,
-			"dropRate": 0.03901996370235935
+			"timesDropped": 122,
+			"dropRate": 0.03922829581993569
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 36,
-			"dropRate": 0.016333938294010888
-		},
-		{
-			"itemName": "Fish Fin",
-			"timesDropped": 32,
-			"dropRate": 0.014519056261343012
+			"timesDropped": 56,
+			"dropRate": 0.0180064308681672
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 31,
-			"dropRate": 0.014065335753176044
+			"timesDropped": 49,
+			"dropRate": 0.015755627009646302
+		},
+		{
+			"itemName": "Fish Fin",
+			"timesDropped": 46,
+			"dropRate": 0.014790996784565916
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 14,
-			"dropRate": 0.006352087114337568
+			"timesDropped": 16,
+			"dropRate": 0.005144694533762058
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 7,
-			"dropRate": 0.003176043557168784
+			"timesDropped": 13,
+			"dropRate": 0.004180064308681672
 		},
 		{
 			"itemName": "Talon",
-			"timesDropped": 5,
-			"dropRate": 0.002268602540834846
+			"timesDropped": 9,
+			"dropRate": 0.0028938906752411574
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 4,
-			"dropRate": 0.0018148820326678765
+			"timesDropped": 7,
+			"dropRate": 0.0022508038585209
 		},
 		{
 			"itemName": "Giant Shrimp",
-			"timesDropped": 2,
-			"dropRate": 0.0009074410163339383
+			"timesDropped": 3,
+			"dropRate": 0.0009646302250803858
 		},
 		{
 			"itemName": "Twiceslicer",
 			"timesDropped": 1,
-			"dropRate": 0.00045372050816696913
+			"dropRate": 0.0003215434083601286
 		}
 	]
 }

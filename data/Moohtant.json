@@ -1,101 +1,101 @@
 {
 	"monsterName": "Moohtant",
-	"timesKilled": 6762,
+	"timesKilled": 9667,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6762,
+			"timesDropped": 9667,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3741,
-			"dropRate": 0.5532386867790594
+			"timesDropped": 5311,
+			"dropRate": 0.5493948484535016
 		},
 		{
 			"itemName": "Moohtant Horn",
-			"timesDropped": 1027,
-			"dropRate": 0.1518781425613724
+			"timesDropped": 1490,
+			"dropRate": 0.15413261611668563
 		},
 		{
 			"itemName": "Giant Pacifier",
-			"timesDropped": 758,
-			"dropRate": 0.11209701271813073
+			"timesDropped": 1069,
+			"dropRate": 0.11058239371056171
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 611,
-			"dropRate": 0.09035788228334812
+			"timesDropped": 882,
+			"dropRate": 0.09123823316437364
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 588,
-			"dropRate": 0.08695652173913043
+			"timesDropped": 860,
+			"dropRate": 0.08896244957070445
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 496,
-			"dropRate": 0.07335107956225968
-		},
-		{
-			"itemName": "Small Ruby",
-			"timesDropped": 343,
-			"dropRate": 0.050724637681159424
+			"timesDropped": 710,
+			"dropRate": 0.07344574325023275
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 335,
-			"dropRate": 0.049541555752735875
+			"timesDropped": 498,
+			"dropRate": 0.05151546498396607
+		},
+		{
+			"itemName": "Small Ruby",
+			"timesDropped": 494,
+			"dropRate": 0.05110168614875349
 		},
 		{
 			"itemName": "Minotaur Leather",
-			"timesDropped": 324,
-			"dropRate": 0.04791481810115351
-		},
-		{
-			"itemName": "Red Piece of Cloth",
-			"timesDropped": 170,
-			"dropRate": 0.025140490979000295
+			"timesDropped": 466,
+			"dropRate": 0.04820523430226544
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 167,
-			"dropRate": 0.024696835255841466
+			"timesDropped": 247,
+			"dropRate": 0.025550843074376745
+		},
+		{
+			"itemName": "Red Piece of Cloth",
+			"timesDropped": 233,
+			"dropRate": 0.02410261715113272
 		},
 		{
 			"itemName": "Moohtant Cudgel",
-			"timesDropped": 65,
-			"dropRate": 0.00961254066844129
+			"timesDropped": 88,
+			"dropRate": 0.009103134374676735
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 59,
-			"dropRate": 0.008725229222123631
+			"timesDropped": 81,
+			"dropRate": 0.008379021413054723
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 53,
-			"dropRate": 0.007837917775805975
+			"timesDropped": 78,
+			"dropRate": 0.008068687286645289
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 52,
-			"dropRate": 0.007690032534753032
+			"timesDropped": 74,
+			"dropRate": 0.007654908451432709
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 33,
-			"dropRate": 0.0048802129547471165
+			"timesDropped": 49,
+			"dropRate": 0.005068790731354091
 		},
 		{
 			"itemName": "Chaos Mace",
-			"timesDropped": 28,
-			"dropRate": 0.004140786749482402
+			"timesDropped": 41,
+			"dropRate": 0.004241233060928933
 		},
 		{
 			"itemName": "Minotaur Trophy",
-			"timesDropped": 22,
-			"dropRate": 0.003253475303164744
+			"timesDropped": 35,
+			"dropRate": 0.003620564808110065
 		}
 	]
 }

@@ -1,66 +1,66 @@
 {
 	"monsterName": "Tunnel Tyrant",
-	"timesKilled": 2840,
+	"timesKilled": 3006,
 	"items": [
 		{
 			"itemName": "Tunnel Tyrant Shell",
-			"timesDropped": 447,
-			"dropRate": 0.1573943661971831
+			"timesDropped": 496,
+			"dropRate": 0.1650033266799734
 		},
 		{
 			"itemName": "Tunnel Tyrant Head",
 			"timesDropped": 326,
-			"dropRate": 0.1147887323943662
-		},
-		{
-			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 226,
-			"dropRate": 0.0795774647887324
+			"dropRate": 0.10844976713240187
 		},
 		{
 			"itemName": "Lump of Dirt",
-			"timesDropped": 216,
-			"dropRate": 0.07605633802816901
+			"timesDropped": 236,
+			"dropRate": 0.07850964737192283
+		},
+		{
+			"itemName": "Small Enchanted Sapphire",
+			"timesDropped": 207,
+			"dropRate": 0.0688622754491018
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 202,
-			"dropRate": 0.07112676056338028
+			"timesDropped": 191,
+			"dropRate": 0.0635395874916833
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 121,
-			"dropRate": 0.0426056338028169
+			"timesDropped": 137,
+			"dropRate": 0.04557551563539587
 		},
 		{
 			"itemName": "Energy Vein",
-			"timesDropped": 66,
-			"dropRate": 0.02323943661971831
+			"timesDropped": 76,
+			"dropRate": 0.025282767797737856
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 52,
-			"dropRate": 0.018309859154929577
+			"timesDropped": 57,
+			"dropRate": 0.018962075848303395
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 41,
-			"dropRate": 0.014436619718309859
+			"timesDropped": 53,
+			"dropRate": 0.01763140385894877
 		},
 		{
 			"itemName": "Suspicious Device",
-			"timesDropped": 31,
-			"dropRate": 0.010915492957746478
+			"timesDropped": 37,
+			"dropRate": 0.012308715901530274
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 25,
-			"dropRate": 0.008802816901408451
+			"timesDropped": 30,
+			"dropRate": 0.00998003992015968
 		},
 		{
 			"itemName": "Crystalline Armor",
-			"timesDropped": 15,
-			"dropRate": 0.00528169014084507
+			"timesDropped": 17,
+			"dropRate": 0.005655355954757153
 		}
 	]
 }

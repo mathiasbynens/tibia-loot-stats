@@ -1,96 +1,101 @@
 {
 	"monsterName": "Bony Sea Devil",
-	"timesKilled": 6764,
+	"timesKilled": 537,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 3822,
-			"dropRate": 0.565050266114725
+			"timesDropped": 233,
+			"dropRate": 0.4338919925512104
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1582,
-			"dropRate": 0.23388527498521586
+			"timesDropped": 125,
+			"dropRate": 0.23277467411545624
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 962,
-			"dropRate": 0.14222353636901242
+			"timesDropped": 71,
+			"dropRate": 0.13221601489757914
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 609,
-			"dropRate": 0.0900354819633353
+			"timesDropped": 39,
+			"dropRate": 0.07262569832402235
 		},
 		{
 			"itemName": "Rod (Creature Product)",
-			"timesDropped": 247,
-			"dropRate": 0.03651685393258427
-		},
-		{
-			"itemName": "Rainbow Quartz",
-			"timesDropped": 235,
-			"dropRate": 0.03474275576581904
-		},
-		{
-			"itemName": "Hailstorm Rod",
-			"timesDropped": 225,
-			"dropRate": 0.03326434062684802
-		},
-		{
-			"itemName": "Northwind Rod",
-			"timesDropped": 206,
-			"dropRate": 0.030455351862803074
+			"timesDropped": 23,
+			"dropRate": 0.04283054003724395
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 180,
-			"dropRate": 0.026611472501478415
+			"timesDropped": 18,
+			"dropRate": 0.0335195530726257
+		},
+		{
+			"itemName": "Rainbow Quartz",
+			"timesDropped": 18,
+			"dropRate": 0.0335195530726257
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 162,
-			"dropRate": 0.023950325251330572
+			"timesDropped": 17,
+			"dropRate": 0.03165735567970205
+		},
+		{
+			"itemName": "Hailstorm Rod",
+			"timesDropped": 17,
+			"dropRate": 0.03165735567970205
+		},
+		{
+			"itemName": "Northwind Rod",
+			"timesDropped": 13,
+			"dropRate": 0.024208566108007448
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 148,
-			"dropRate": 0.02188054405677114
+			"timesDropped": 11,
+			"dropRate": 0.020484171322160148
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 134,
-			"dropRate": 0.019810762862211707
+			"timesDropped": 10,
+			"dropRate": 0.0186219739292365
 		},
 		{
 			"itemName": "Jaws",
-			"timesDropped": 115,
-			"dropRate": 0.017001774098166764
+			"timesDropped": 8,
+			"dropRate": 0.0148975791433892
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 110,
-			"dropRate": 0.016262566528681254
-		},
-		{
-			"itemName": "Glacier Kilt",
-			"timesDropped": 65,
-			"dropRate": 0.00960969840331165
-		},
-		{
-			"itemName": "Goblet of Gloom",
-			"timesDropped": 60,
-			"dropRate": 0.008870490833826138
+			"timesDropped": 8,
+			"dropRate": 0.0148975791433892
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 54,
-			"dropRate": 0.007983441750443524
+			"timesDropped": 7,
+			"dropRate": 0.01303538175046555
+		},
+		{
+			"itemName": "Glacier Kilt",
+			"timesDropped": 5,
+			"dropRate": 0.00931098696461825
+		},
+		{
+			"itemName": "Goblet of Gloom",
+			"timesDropped": 2,
+			"dropRate": 0.0037243947858473
 		},
 		{
 			"itemName": "Skullcracker Armor",
-			"timesDropped": 49,
-			"dropRate": 0.007244234180958013
+			"timesDropped": 2,
+			"dropRate": 0.0037243947858473
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 2,
+			"dropRate": 0.0037243947858473
 		}
 	]
 }

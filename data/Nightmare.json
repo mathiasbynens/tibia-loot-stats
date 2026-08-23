@@ -1,86 +1,91 @@
 {
 	"monsterName": "Nightmare",
-	"timesKilled": 4849,
+	"timesKilled": 9378,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4708,
-			"dropRate": 0.9709218395545474
+			"timesDropped": 9124,
+			"dropRate": 0.9729153337598635
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 1407,
-			"dropRate": 0.29016292018972983
+			"timesDropped": 2746,
+			"dropRate": 0.2928129665173811
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 1015,
-			"dropRate": 0.2093215095896061
+			"timesDropped": 1941,
+			"dropRate": 0.20697376839411388
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 987,
-			"dropRate": 0.2035471231181687
+			"timesDropped": 1911,
+			"dropRate": 0.2037747920665387
 		},
 		{
 			"itemName": "Essence of a Bad Dream",
-			"timesDropped": 757,
-			"dropRate": 0.15611466281707567
-		},
-		{
-			"itemName": "Scythe Leg",
-			"timesDropped": 484,
-			"dropRate": 0.09981439472056094
+			"timesDropped": 1470,
+			"dropRate": 0.15674984005118361
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 483,
-			"dropRate": 0.09960816663229533
+			"timesDropped": 973,
+			"dropRate": 0.1037534655576882
+		},
+		{
+			"itemName": "Scythe Leg",
+			"timesDropped": 954,
+			"dropRate": 0.1017274472168906
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 121,
-			"dropRate": 0.024953598680140236
-		},
-		{
-			"itemName": "Power Bolt",
-			"timesDropped": 55,
-			"dropRate": 0.011342544854609197
+			"timesDropped": 244,
+			"dropRate": 0.026018340797611433
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 50,
-			"dropRate": 0.01031140441328109
+			"timesDropped": 110,
+			"dropRate": 0.011729579867775645
+		},
+		{
+			"itemName": "Power Bolt",
+			"timesDropped": 107,
+			"dropRate": 0.011409682235018127
 		},
 		{
 			"itemName": "Ancient Shield",
-			"timesDropped": 48,
-			"dropRate": 0.009898948236749845
+			"timesDropped": 97,
+			"dropRate": 0.01034335679249307
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 40,
-			"dropRate": 0.008249123530624871
+			"timesDropped": 92,
+			"dropRate": 0.00981019407123054
 		},
 		{
 			"itemName": "Skeleton Decoration",
-			"timesDropped": 19,
-			"dropRate": 0.003918333677046814
+			"timesDropped": 38,
+			"dropRate": 0.004052036681595223
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 13,
-			"dropRate": 0.002680965147453083
+			"timesDropped": 24,
+			"dropRate": 0.0025591810620601407
 		},
 		{
 			"itemName": "Mysterious Voodoo Skull",
-			"timesDropped": 9,
-			"dropRate": 0.001856052794390596
+			"timesDropped": 14,
+			"dropRate": 0.001492855619535082
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 6,
-			"dropRate": 0.0012373685295937306
+			"timesDropped": 13,
+			"dropRate": 0.0013862230752825762
+		},
+		{
+			"itemName": "Soul Prism",
+			"timesDropped": 2,
+			"dropRate": 0.00021326508850501172
 		}
 	]
 }

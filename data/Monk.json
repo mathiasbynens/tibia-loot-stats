@@ -1,71 +1,66 @@
 {
 	"monsterName": "Monk",
-	"timesKilled": 30569,
+	"timesKilled": 2102,
 	"items": [
 		{
 			"itemName": "Bread",
-			"timesDropped": 6087,
-			"dropRate": 0.19912329484117897
+			"timesDropped": 418,
+			"dropRate": 0.1988582302568982
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4590,
-			"dropRate": 0.15015211488763125
+			"timesDropped": 340,
+			"dropRate": 0.16175071360608945
 		},
 		{
 			"itemName": "Book of Prayers",
-			"timesDropped": 1546,
-			"dropRate": 0.05057411102751153
+			"timesDropped": 130,
+			"dropRate": 0.06184586108468126
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 908,
-			"dropRate": 0.02970329418692139
+			"timesDropped": 61,
+			"dropRate": 0.029019980970504282
 		},
 		{
 			"itemName": "Ankh",
-			"timesDropped": 661,
-			"dropRate": 0.021623213058981322
+			"timesDropped": 49,
+			"dropRate": 0.023311132254995242
 		},
 		{
 			"itemName": "Scroll",
-			"timesDropped": 576,
-			"dropRate": 0.01884261833884
+			"timesDropped": 46,
+			"dropRate": 0.021883920076117985
 		},
 		{
 			"itemName": "Safety Pin",
-			"timesDropped": 318,
-			"dropRate": 0.010402695541234583
-		},
-		{
-			"itemName": "Life Crystal",
-			"timesDropped": 308,
-			"dropRate": 0.010075566750629723
-		},
-		{
-			"itemName": "Brown Flask",
-			"timesDropped": 269,
-			"dropRate": 0.008799764467270765
+			"timesDropped": 23,
+			"dropRate": 0.010941960038058992
 		},
 		{
 			"itemName": "Lamp",
-			"timesDropped": 265,
-			"dropRate": 0.00866891295102882
+			"timesDropped": 21,
+			"dropRate": 0.009990485252140819
+		},
+		{
+			"itemName": "Life Crystal",
+			"timesDropped": 21,
+			"dropRate": 0.009990485252140819
+		},
+		{
+			"itemName": "Brown Flask",
+			"timesDropped": 19,
+			"dropRate": 0.009039010466222646
 		},
 		{
 			"itemName": "Sandals",
-			"timesDropped": 232,
-			"dropRate": 0.0075893879420327786
+			"timesDropped": 15,
+			"dropRate": 0.007136060894386299
 		},
 		{
 			"itemName": "Staff",
-			"timesDropped": 145,
-			"dropRate": 0.0047433674637704865
-		},
-		{
-			"itemName": "Power Ring",
-			"timesDropped": 32,
-			"dropRate": 0.0010468121299355556
+			"timesDropped": 11,
+			"dropRate": 0.005233111322549952
 		}
 	]
 }

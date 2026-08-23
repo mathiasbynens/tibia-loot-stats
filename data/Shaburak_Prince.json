@@ -1,76 +1,76 @@
 {
 	"monsterName": "Shaburak Prince",
-	"timesKilled": 2402,
+	"timesKilled": 2673,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2307,
-			"dropRate": 0.9604496253122398
+			"timesDropped": 2568,
+			"dropRate": 0.9607182940516273
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 801,
-			"dropRate": 0.3334721065778518
+			"timesDropped": 908,
+			"dropRate": 0.3396932285821175
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 384,
-			"dropRate": 0.15986677768526228
+			"timesDropped": 414,
+			"dropRate": 0.15488215488215487
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 366,
-			"dropRate": 0.1523730224812656
+			"timesDropped": 404,
+			"dropRate": 0.15114104002992892
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 311,
-			"dropRate": 0.12947543713572024
+			"timesDropped": 343,
+			"dropRate": 0.12832023943135054
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 118,
-			"dropRate": 0.049125728559533725
+			"timesDropped": 137,
+			"dropRate": 0.0512532734754957
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 114,
-			"dropRate": 0.04746044962531224
+			"timesDropped": 132,
+			"dropRate": 0.04938271604938271
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 22,
-			"dropRate": 0.009159034138218152
+			"timesDropped": 25,
+			"dropRate": 0.00935278713056491
 		},
 		{
 			"itemName": "Magma Coat",
 			"timesDropped": 19,
-			"dropRate": 0.00791007493755204
+			"dropRate": 0.00710811821922933
+		},
+		{
+			"itemName": "Magic Sulphur",
+			"timesDropped": 15,
+			"dropRate": 0.005611672278338945
 		},
 		{
 			"itemName": "Bullseye Potion",
 			"timesDropped": 14,
-			"dropRate": 0.005828476269775187
-		},
-		{
-			"itemName": "Magic Sulphur",
-			"timesDropped": 12,
-			"dropRate": 0.004995836802664446
+			"dropRate": 0.005237560793116348
 		},
 		{
 			"itemName": "Butcher's Axe",
 			"timesDropped": 6,
-			"dropRate": 0.002497918401332223
+			"dropRate": 0.002244668911335578
 		},
 		{
 			"itemName": "Demonic Finger",
 			"timesDropped": 5,
-			"dropRate": 0.0020815986677768525
+			"dropRate": 0.0018705574261129816
 		},
 		{
 			"itemName": "Steel Boots",
 			"timesDropped": 2,
-			"dropRate": 0.0008326394671107411
+			"dropRate": 0.0007482229704451926
 		}
 	]
 }

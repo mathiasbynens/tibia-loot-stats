@@ -1,81 +1,91 @@
 {
 	"monsterName": "Werehyaena Shaman",
-	"timesKilled": 168,
+	"timesKilled": 4357,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 168,
+			"timesDropped": 4357,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 28,
-			"dropRate": 0.16666666666666666
+			"timesDropped": 897,
+			"dropRate": 0.2058756024787698
 		},
 		{
 			"itemName": "Werehyaena Nose",
-			"timesDropped": 20,
-			"dropRate": 0.11904761904761904
+			"timesDropped": 635,
+			"dropRate": 0.14574248336011017
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 17,
-			"dropRate": 0.10119047619047619
+			"timesDropped": 449,
+			"dropRate": 0.10305255910029837
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 14,
-			"dropRate": 0.08333333333333333
-		},
-		{
-			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 10,
-			"dropRate": 0.05952380952380952
-		},
-		{
-			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 9,
-			"dropRate": 0.05357142857142857
-		},
-		{
-			"itemName": "Sword Ring",
-			"timesDropped": 8,
-			"dropRate": 0.047619047619047616
-		},
-		{
-			"itemName": "Wand of Starstorm",
-			"timesDropped": 7,
-			"dropRate": 0.041666666666666664
-		},
-		{
-			"itemName": "Doublet",
-			"timesDropped": 6,
-			"dropRate": 0.03571428571428571
+			"timesDropped": 448,
+			"dropRate": 0.10282304337847142
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 6,
-			"dropRate": 0.03571428571428571
+			"timesDropped": 306,
+			"dropRate": 0.07023181087904522
 		},
 		{
-			"itemName": "Protection Amulet",
-			"timesDropped": 5,
-			"dropRate": 0.02976190476190476
+			"itemName": "Wand of Starstorm",
+			"timesDropped": 225,
+			"dropRate": 0.05164103741106266
 		},
 		{
-			"itemName": "Black Shield",
-			"timesDropped": 4,
-			"dropRate": 0.023809523809523808
+			"itemName": "Doublet",
+			"timesDropped": 222,
+			"dropRate": 0.05095249024558182
+		},
+		{
+			"itemName": "Small Enchanted Emerald",
+			"timesDropped": 203,
+			"dropRate": 0.046591691530869866
+		},
+		{
+			"itemName": "Brown Crystal Splinter",
+			"timesDropped": 198,
+			"dropRate": 0.04544411292173514
+		},
+		{
+			"itemName": "Sword Ring",
+			"timesDropped": 192,
+			"dropRate": 0.04406701859077347
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 4,
-			"dropRate": 0.023809523809523808
+			"timesDropped": 168,
+			"dropRate": 0.038558641266926784
+		},
+		{
+			"itemName": "Protection Amulet",
+			"timesDropped": 146,
+			"dropRate": 0.033509295386733993
+		},
+		{
+			"itemName": "Black Shield",
+			"timesDropped": 114,
+			"dropRate": 0.026164792288271746
+		},
+		{
+			"itemName": "Moonlight Crystals",
+			"timesDropped": 67,
+			"dropRate": 0.015377553362405325
+		},
+		{
+			"itemName": "Werehyaena Talisman",
+			"timesDropped": 25,
+			"dropRate": 0.005737893045673629
 		},
 		{
 			"itemName": "Werehyaena Trophy",
-			"timesDropped": 1,
-			"dropRate": 0.005952380952380952
+			"timesDropped": 7,
+			"dropRate": 0.001606610052788616
 		}
 	]
 }

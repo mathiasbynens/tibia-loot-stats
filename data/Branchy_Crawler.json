@@ -1,81 +1,81 @@
 {
 	"monsterName": "Branchy Crawler",
-	"timesKilled": 4183,
+	"timesKilled": 4487,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 2297,
-			"dropRate": 0.5491274205115946
+			"timesDropped": 2281,
+			"dropRate": 0.5083574771562291
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 365,
-			"dropRate": 0.08725794884054507
+			"timesDropped": 352,
+			"dropRate": 0.07844885223980388
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 357,
-			"dropRate": 0.08534544585225914
+			"timesDropped": 342,
+			"dropRate": 0.07622019166480945
 		},
 		{
 			"itemName": "Roots",
-			"timesDropped": 237,
-			"dropRate": 0.05665790102797036
+			"timesDropped": 252,
+			"dropRate": 0.056162246489859596
 		},
 		{
 			"itemName": "Blue Gem",
 			"timesDropped": 75,
-			"dropRate": 0.01792971551518049
-		},
-		{
-			"itemName": "Crawler's Essence",
-			"timesDropped": 53,
-			"dropRate": 0.012670332297394215
+			"dropRate": 0.016714954312458213
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 53,
-			"dropRate": 0.012670332297394215
+			"timesDropped": 56,
+			"dropRate": 0.0124804992199688
 		},
 		{
-			"itemName": "Violet Gem",
-			"timesDropped": 47,
-			"dropRate": 0.011235955056179775
-		},
-		{
-			"itemName": "Green Gem",
-			"timesDropped": 38,
-			"dropRate": 0.009084389194358116
+			"itemName": "Crawler's Essence",
+			"timesDropped": 50,
+			"dropRate": 0.011143302874972142
 		},
 		{
 			"itemName": "Hammer of Wrath",
-			"timesDropped": 28,
-			"dropRate": 0.006693760459000717
-		},
-		{
-			"itemName": "Twiceslicer",
-			"timesDropped": 28,
-			"dropRate": 0.006693760459000717
+			"timesDropped": 34,
+			"dropRate": 0.007577445954981056
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 27,
-			"dropRate": 0.006454697585464977
+			"timesDropped": 28,
+			"dropRate": 0.0062402496099844
 		},
 		{
-			"itemName": "Ruthless Axe",
-			"timesDropped": 24,
-			"dropRate": 0.005737508964857758
+			"itemName": "Green Gem",
+			"timesDropped": 28,
+			"dropRate": 0.0062402496099844
+		},
+		{
+			"itemName": "Violet Gem",
+			"timesDropped": 27,
+			"dropRate": 0.0060173835524849565
 		},
 		{
 			"itemName": "Nightmare Blade",
-			"timesDropped": 22,
-			"dropRate": 0.005259383217786278
+			"timesDropped": 23,
+			"dropRate": 0.005125919322487185
+		},
+		{
+			"itemName": "Ruthless Axe",
+			"timesDropped": 15,
+			"dropRate": 0.0033429908624916425
+		},
+		{
+			"itemName": "Twiceslicer",
+			"timesDropped": 15,
+			"dropRate": 0.0033429908624916425
 		},
 		{
 			"itemName": "Crystalline Sword",
-			"timesDropped": 17,
-			"dropRate": 0.004064068850107579
+			"timesDropped": 10,
+			"dropRate": 0.0022286605749944283
 		}
 	]
 }

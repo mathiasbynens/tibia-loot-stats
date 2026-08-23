@@ -1,146 +1,146 @@
 {
 	"monsterName": "Lost Exile",
-	"timesKilled": 2153,
+	"timesKilled": 2607,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2153,
+			"timesDropped": 2607,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1274,
-			"dropRate": 0.5917324663260567
+			"timesDropped": 1555,
+			"dropRate": 0.5964710395090141
 		},
 		{
 			"itemName": "Red Hair Dye",
-			"timesDropped": 328,
-			"dropRate": 0.15234556432884347
+			"timesDropped": 386,
+			"dropRate": 0.14806290755657844
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 302,
-			"dropRate": 0.14026939154667906
+			"timesDropped": 378,
+			"dropRate": 0.14499424626006904
 		},
 		{
 			"itemName": "Wimp Tooth Chain",
-			"timesDropped": 282,
-			"dropRate": 0.13098002786809104
-		},
-		{
-			"itemName": "Coal",
-			"timesDropped": 267,
-			"dropRate": 0.12401300510915002
+			"timesDropped": 333,
+			"dropRate": 0.1277330264672037
 		},
 		{
 			"itemName": "Holy Ash",
-			"timesDropped": 261,
-			"dropRate": 0.12122619600557362
+			"timesDropped": 320,
+			"dropRate": 0.12274645186037592
+		},
+		{
+			"itemName": "Coal",
+			"timesDropped": 319,
+			"dropRate": 0.12236286919831224
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 223,
-			"dropRate": 0.10357640501625638
+			"timesDropped": 275,
+			"dropRate": 0.10548523206751055
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 213,
-			"dropRate": 0.09893172317696237
+			"timesDropped": 265,
+			"dropRate": 0.1016494054468738
 		},
 		{
 			"itemName": "Bonecarving Knife",
-			"timesDropped": 212,
-			"dropRate": 0.09846725499303298
+			"timesDropped": 255,
+			"dropRate": 0.09781357882623705
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 212,
-			"dropRate": 0.09846725499303298
-		},
-		{
-			"itemName": "Bone Fetish",
-			"timesDropped": 201,
-			"dropRate": 0.09335810496980956
+			"timesDropped": 254,
+			"dropRate": 0.09742999616417337
 		},
 		{
 			"itemName": "Lost Husher's Staff",
-			"timesDropped": 198,
-			"dropRate": 0.09196470041802136
+			"timesDropped": 247,
+			"dropRate": 0.09474491752972766
+		},
+		{
+			"itemName": "Bone Fetish",
+			"timesDropped": 239,
+			"dropRate": 0.09167625623321826
 		},
 		{
 			"itemName": "Skull Shatterer",
-			"timesDropped": 181,
-			"dropRate": 0.08406874129122155
+			"timesDropped": 213,
+			"dropRate": 0.08170310701956271
 		},
 		{
 			"itemName": "Basalt Figurine",
-			"timesDropped": 168,
-			"dropRate": 0.07803065490013934
+			"timesDropped": 201,
+			"dropRate": 0.07710011507479862
 		},
 		{
 			"itemName": "Basalt Fetish",
-			"timesDropped": 136,
-			"dropRate": 0.06316767301439852
+			"timesDropped": 163,
+			"dropRate": 0.06252397391637898
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 51,
-			"dropRate": 0.023687877380399444
+			"timesDropped": 62,
+			"dropRate": 0.023782125047947834
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 28,
-			"dropRate": 0.013005109150023224
+			"timesDropped": 30,
+			"dropRate": 0.011507479861910242
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 19,
-			"dropRate": 0.008824895494658615
+			"timesDropped": 24,
+			"dropRate": 0.009205983889528193
 		},
 		{
 			"itemName": "Buckle",
-			"timesDropped": 18,
-			"dropRate": 0.008360427310729215
-		},
-		{
-			"itemName": "Clay Lump",
-			"timesDropped": 15,
-			"dropRate": 0.006967022758941012
+			"timesDropped": 22,
+			"dropRate": 0.008438818565400843
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 15,
-			"dropRate": 0.006967022758941012
+			"timesDropped": 19,
+			"dropRate": 0.00728807057920982
 		},
 		{
-			"itemName": "Skull Staff",
-			"timesDropped": 12,
-			"dropRate": 0.00557361820715281
-		},
-		{
-			"itemName": "Fire Axe",
-			"timesDropped": 8,
-			"dropRate": 0.0037157454714352067
+			"itemName": "Clay Lump",
+			"timesDropped": 16,
+			"dropRate": 0.006137322593018795
 		},
 		{
 			"itemName": "Suspicious Device",
-			"timesDropped": 8,
-			"dropRate": 0.0037157454714352067
+			"timesDropped": 14,
+			"dropRate": 0.005370157268891446
+		},
+		{
+			"itemName": "Skull Staff",
+			"timesDropped": 13,
+			"dropRate": 0.004986574606827772
+		},
+		{
+			"itemName": "Fire Axe",
+			"timesDropped": 9,
+			"dropRate": 0.0034522439585730723
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 5,
-			"dropRate": 0.0023223409196470044
+			"timesDropped": 6,
+			"dropRate": 0.0023014959723820483
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 4,
-			"dropRate": 0.0018578727357176034
+			"timesDropped": 5,
+			"dropRate": 0.0019179133103183737
 		},
 		{
 			"itemName": "Tower Shield",
 			"timesDropped": 3,
-			"dropRate": 0.0013934045517882026
+			"dropRate": 0.0011507479861910242
 		}
 	]
 }

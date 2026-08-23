@@ -1,51 +1,51 @@
 {
 	"monsterName": "Death Priest",
-	"timesKilled": 5081,
+	"timesKilled": 100,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3543,
-			"dropRate": 0.6973036803778784
+			"timesDropped": 81,
+			"dropRate": 0.81
 		},
 		{
 			"itemName": "Hieroglyph Banner",
-			"timesDropped": 1326,
-			"dropRate": 0.2609722495571738
+			"timesDropped": 24,
+			"dropRate": 0.24
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 813,
-			"dropRate": 0.16000787246605
+			"timesDropped": 12,
+			"dropRate": 0.12
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 750,
-			"dropRate": 0.14760873843731548
+			"timesDropped": 11,
+			"dropRate": 0.11
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 479,
-			"dropRate": 0.09427278094863216
+			"timesDropped": 10,
+			"dropRate": 0.1
 		},
 		{
 			"itemName": "Orichalcum Pearl",
-			"timesDropped": 313,
-			"dropRate": 0.061602046841173
+			"timesDropped": 7,
+			"dropRate": 0.07
 		},
 		{
 			"itemName": "Spellbook",
-			"timesDropped": 266,
-			"dropRate": 0.05235189923243456
+			"timesDropped": 4,
+			"dropRate": 0.04
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 135,
-			"dropRate": 0.026569572918716786
+			"timesDropped": 2,
+			"dropRate": 0.02
 		},
 		{
-			"itemName": "Ring of Healing",
-			"timesDropped": 52,
-			"dropRate": 0.010234205864987207
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 1,
+			"dropRate": 0.01
 		}
 	]
 }

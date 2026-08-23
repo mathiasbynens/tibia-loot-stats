@@ -1,61 +1,61 @@
 {
 	"monsterName": "Misguided Thief",
-	"timesKilled": 2568,
+	"timesKilled": 3810,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1918,
-			"dropRate": 0.7468847352024922
+			"timesDropped": 2836,
+			"dropRate": 0.7443569553805774
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 1413,
-			"dropRate": 0.5502336448598131
+			"timesDropped": 2085,
+			"dropRate": 0.547244094488189
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 1147,
-			"dropRate": 0.44665109034267914
+			"timesDropped": 1681,
+			"dropRate": 0.44120734908136483
 		},
 		{
 			"itemName": "Rubbish Amulet",
-			"timesDropped": 217,
-			"dropRate": 0.08450155763239875
-		},
-		{
-			"itemName": "Red Gem",
-			"timesDropped": 169,
-			"dropRate": 0.06580996884735202
-		},
-		{
-			"itemName": "Strong Mana Potion",
-			"timesDropped": 163,
-			"dropRate": 0.06347352024922118
-		},
-		{
-			"itemName": "Strong Health Potion",
-			"timesDropped": 158,
-			"dropRate": 0.061526479750778816
+			"timesDropped": 342,
+			"dropRate": 0.08976377952755905
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 148,
-			"dropRate": 0.05763239875389408
+			"timesDropped": 238,
+			"dropRate": 0.06246719160104987
 		},
 		{
-			"itemName": "Stone Skin Amulet",
-			"timesDropped": 23,
-			"dropRate": 0.00895638629283489
+			"itemName": "Red Gem",
+			"timesDropped": 236,
+			"dropRate": 0.06194225721784777
+		},
+		{
+			"itemName": "Strong Mana Potion",
+			"timesDropped": 232,
+			"dropRate": 0.06089238845144357
+		},
+		{
+			"itemName": "Strong Health Potion",
+			"timesDropped": 228,
+			"dropRate": 0.05984251968503937
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 21,
-			"dropRate": 0.008177570093457943
+			"timesDropped": 34,
+			"dropRate": 0.008923884514435695
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 33,
+			"dropRate": 0.008661417322834646
 		},
 		{
 			"itemName": "Gold Ring",
-			"timesDropped": 8,
-			"dropRate": 0.003115264797507788
+			"timesDropped": 17,
+			"dropRate": 0.004461942257217848
 		}
 	]
 }

@@ -1,61 +1,66 @@
 {
 	"monsterName": "Waspoid",
-	"timesKilled": 17606,
+	"timesKilled": 21832,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 17564,
-			"dropRate": 0.9976144496194479
+			"timesDropped": 21790,
+			"dropRate": 0.9980762183950165
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10669,
-			"dropRate": 0.6059865954788141
+			"timesDropped": 13193,
+			"dropRate": 0.6042964455844632
 		},
 		{
 			"itemName": "Waspoid Wing",
-			"timesDropped": 2435,
-			"dropRate": 0.13830512325343633
+			"timesDropped": 3037,
+			"dropRate": 0.1391077317698791
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 2430,
-			"dropRate": 0.13802112916051346
+			"timesDropped": 3012,
+			"dropRate": 0.1379626236716746
 		},
 		{
 			"itemName": "Waspoid Claw",
-			"timesDropped": 1725,
-			"dropRate": 0.09797796205838918
+			"timesDropped": 2147,
+			"dropRate": 0.09834188347379992
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 817,
-			"dropRate": 0.0464046347835965
+			"timesDropped": 1002,
+			"dropRate": 0.04589593257603518
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 363,
-			"dropRate": 0.02061797114620016
+			"timesDropped": 452,
+			"dropRate": 0.020703554415536826
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 175,
-			"dropRate": 0.009939793252300351
+			"timesDropped": 221,
+			"dropRate": 0.01012275558812752
 		},
 		{
 			"itemName": "Hive Scythe",
-			"timesDropped": 67,
-			"dropRate": 0.0038055208451664205
+			"timesDropped": 80,
+			"dropRate": 0.003664345914254306
 		},
 		{
 			"itemName": "Grasshopper Legs",
-			"timesDropped": 30,
-			"dropRate": 0.0017039645575372031
+			"timesDropped": 40,
+			"dropRate": 0.001832172957127153
 		},
 		{
 			"itemName": "Carapace Shield",
-			"timesDropped": 25,
-			"dropRate": 0.001419970464614336
+			"timesDropped": 30,
+			"dropRate": 0.0013741297178453645
+		},
+		{
+			"itemName": "Soul Prism",
+			"timesDropped": 2,
+			"dropRate": 0.00009160864785635764
 		}
 	]
 }

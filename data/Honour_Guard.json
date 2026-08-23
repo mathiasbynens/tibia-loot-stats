@@ -1,36 +1,41 @@
 {
 	"monsterName": "Honour Guard",
-	"timesKilled": 7027,
+	"timesKilled": 2649,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3488,
-			"dropRate": 0.49637113988899956
+			"timesDropped": 1278,
+			"dropRate": 0.4824462061155153
 		},
 		{
 			"itemName": "Pelvis Bone",
-			"timesDropped": 625,
-			"dropRate": 0.08894264977942223
+			"timesDropped": 244,
+			"dropRate": 0.09211023027557569
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 432,
-			"dropRate": 0.06147715952753664
+			"timesDropped": 181,
+			"dropRate": 0.06832767081917705
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 249,
-			"dropRate": 0.03543475167212182
+			"timesDropped": 123,
+			"dropRate": 0.0464326160815402
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 189,
-			"dropRate": 0.026896257293297282
+			"timesDropped": 68,
+			"dropRate": 0.025670064175160438
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 92,
-			"dropRate": 0.013092358047530952
+			"timesDropped": 36,
+			"dropRate": 0.013590033975084938
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 33,
+			"dropRate": 0.01245753114382786
 		}
 	]
 }

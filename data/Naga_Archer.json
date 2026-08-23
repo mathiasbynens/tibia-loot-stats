@@ -1,91 +1,91 @@
 {
 	"monsterName": "Naga Archer",
-	"timesKilled": 2365,
+	"timesKilled": 3101,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2365,
+			"timesDropped": 3101,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Naga Archer Scales",
-			"timesDropped": 386,
-			"dropRate": 0.16321353065539113
+			"timesDropped": 494,
+			"dropRate": 0.15930345049983877
 		},
 		{
 			"itemName": "Naga Earring",
-			"timesDropped": 305,
-			"dropRate": 0.12896405919661733
+			"timesDropped": 440,
+			"dropRate": 0.1418897129958078
 		},
 		{
 			"itemName": "Naga Armring",
-			"timesDropped": 174,
-			"dropRate": 0.07357293868921776
+			"timesDropped": 213,
+			"dropRate": 0.06868752015478878
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 137,
-			"dropRate": 0.057928118393234675
-		},
-		{
-			"itemName": "Crossbow",
-			"timesDropped": 94,
-			"dropRate": 0.039746300211416494
+			"timesDropped": 189,
+			"dropRate": 0.060948081264108354
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 89,
-			"dropRate": 0.03763213530655391
+			"timesDropped": 104,
+			"dropRate": 0.03353756852628184
 		},
 		{
-			"itemName": "Blue Crystal Shard",
-			"timesDropped": 48,
-			"dropRate": 0.02029598308668076
+			"itemName": "Crossbow",
+			"timesDropped": 101,
+			"dropRate": 0.03257013866494679
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 45,
-			"dropRate": 0.019027484143763214
+			"timesDropped": 57,
+			"dropRate": 0.018381167365366012
 		},
 		{
-			"itemName": "Silver Brooch",
-			"timesDropped": 19,
-			"dropRate": 0.008033826638477801
+			"itemName": "Blue Crystal Shard",
+			"timesDropped": 54,
+			"dropRate": 0.017413737504030958
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 17,
-			"dropRate": 0.00718816067653277
+			"timesDropped": 30,
+			"dropRate": 0.009674298613350531
+		},
+		{
+			"itemName": "Silver Brooch",
+			"timesDropped": 29,
+			"dropRate": 0.009351821992905514
 		},
 		{
 			"itemName": "Ornate Crossbow",
 			"timesDropped": 16,
-			"dropRate": 0.006765327695560253
-		},
-		{
-			"itemName": "Emerald Bangle",
-			"timesDropped": 12,
-			"dropRate": 0.00507399577167019
+			"dropRate": 0.0051596259271202835
 		},
 		{
 			"itemName": "Elvish Bow",
-			"timesDropped": 10,
-			"dropRate": 0.004228329809725159
+			"timesDropped": 14,
+			"dropRate": 0.004514672686230248
+		},
+		{
+			"itemName": "Emerald Bangle",
+			"timesDropped": 14,
+			"dropRate": 0.004514672686230248
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 8,
-			"dropRate": 0.0033826638477801266
+			"timesDropped": 9,
+			"dropRate": 0.0029022895840051595
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 5,
-			"dropRate": 0.0021141649048625794
+			"timesDropped": 8,
+			"dropRate": 0.0025798129635601417
 		},
 		{
 			"itemName": "Bullseye Potion",
-			"timesDropped": 2,
-			"dropRate": 0.0008456659619450317
+			"timesDropped": 7,
+			"dropRate": 0.002257336343115124
 		}
 	]
 }

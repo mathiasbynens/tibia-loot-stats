@@ -1,91 +1,91 @@
 {
 	"monsterName": "Pixie",
-	"timesKilled": 11925,
+	"timesKilled": 16823,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7196,
-			"dropRate": 0.6034381551362683
+			"timesDropped": 10134,
+			"dropRate": 0.6023895856862629
 		},
 		{
 			"itemName": "Wild Flowers",
-			"timesDropped": 2143,
-			"dropRate": 0.17970649895178198
+			"timesDropped": 3032,
+			"dropRate": 0.18022944777982525
 		},
 		{
 			"itemName": "Dandelion Seeds",
-			"timesDropped": 1751,
-			"dropRate": 0.1468343815513627
+			"timesDropped": 2467,
+			"dropRate": 0.14664447482613088
 		},
 		{
 			"itemName": "Fresh Fruit",
-			"timesDropped": 1166,
-			"dropRate": 0.09777777777777778
+			"timesDropped": 1676,
+			"dropRate": 0.0996255126909588
 		},
 		{
 			"itemName": "Colourful Snail Shell",
-			"timesDropped": 1156,
-			"dropRate": 0.09693920335429769
+			"timesDropped": 1638,
+			"dropRate": 0.09736670035071034
 		},
 		{
 			"itemName": "Leaf Star",
-			"timesDropped": 1060,
-			"dropRate": 0.08888888888888889
+			"timesDropped": 1494,
+			"dropRate": 0.08880699042976876
 		},
 		{
 			"itemName": "Star Herb",
-			"timesDropped": 591,
-			"dropRate": 0.04955974842767295
+			"timesDropped": 843,
+			"dropRate": 0.050109968495512094
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 549,
-			"dropRate": 0.046037735849056606
+			"timesDropped": 742,
+			"dropRate": 0.04410628306485169
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 392,
-			"dropRate": 0.03287211740041929
+			"timesDropped": 547,
+			"dropRate": 0.032515009213576654
 		},
 		{
 			"itemName": "Red Rose",
-			"timesDropped": 371,
-			"dropRate": 0.03111111111111111
+			"timesDropped": 530,
+			"dropRate": 0.031504487903465495
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 364,
-			"dropRate": 0.030524109014675053
+			"timesDropped": 508,
+			"dropRate": 0.030196754443321643
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 261,
-			"dropRate": 0.02188679245283019
+			"timesDropped": 343,
+			"dropRate": 0.020388753492242763
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 205,
-			"dropRate": 0.017190775681341718
+			"timesDropped": 281,
+			"dropRate": 0.016703322831837366
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 102,
-			"dropRate": 0.008553459119496854
+			"timesDropped": 146,
+			"dropRate": 0.008678594780954646
 		},
 		{
 			"itemName": "Butterfly Ring",
-			"timesDropped": 72,
-			"dropRate": 0.0060377358490566035
+			"timesDropped": 105,
+			"dropRate": 0.00624145515068656
 		},
 		{
 			"itemName": "Dream Blossom Staff",
-			"timesDropped": 63,
-			"dropRate": 0.005283018867924529
+			"timesDropped": 93,
+			"dropRate": 0.005528145990608096
 		},
 		{
 			"itemName": "Wooden Spellbook",
-			"timesDropped": 42,
-			"dropRate": 0.003522012578616352
+			"timesDropped": 55,
+			"dropRate": 0.0032693336503596265
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Instable Breach Brood",
-	"timesKilled": 5335,
+	"timesKilled": 15834,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5279,
-			"dropRate": 0.9895032802249297
+			"timesDropped": 15750,
+			"dropRate": 0.9946949602122016
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3700,
-			"dropRate": 0.6935332708528584
-		},
-		{
-			"itemName": "Crystal Bone",
-			"timesDropped": 541,
-			"dropRate": 0.1014058106841612
+			"timesDropped": 11046,
+			"dropRate": 0.6976127320954907
 		},
 		{
 			"itemName": "Plasma Pearls",
-			"timesDropped": 533,
-			"dropRate": 0.09990627928772258
+			"timesDropped": 1601,
+			"dropRate": 0.1011115321460149
 		},
 		{
-			"itemName": "Great Mana Potion",
-			"timesDropped": 290,
-			"dropRate": 0.05435801312089972
+			"itemName": "Crystal Bone",
+			"timesDropped": 1571,
+			"dropRate": 0.09921687507894404
 		},
 		{
 			"itemName": "Energy Drink",
-			"timesDropped": 286,
-			"dropRate": 0.05360824742268041
+			"timesDropped": 839,
+			"dropRate": 0.052987242642415056
 		},
 		{
-			"itemName": "Energy Bar",
-			"timesDropped": 277,
-			"dropRate": 0.051921274601686974
-		},
-		{
-			"itemName": "Great Health Potion",
-			"timesDropped": 267,
-			"dropRate": 0.05004686035613871
+			"itemName": "Great Mana Potion",
+			"timesDropped": 803,
+			"dropRate": 0.05071365416193002
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 267,
-			"dropRate": 0.05004686035613871
+			"timesDropped": 796,
+			"dropRate": 0.05027156751294682
 		},
 		{
-			"itemName": "Green Crystal Shard",
-			"timesDropped": 201,
-			"dropRate": 0.03767572633552015
+			"itemName": "Energy Bar",
+			"timesDropped": 779,
+			"dropRate": 0.049197928508273335
+		},
+		{
+			"itemName": "Great Health Potion",
+			"timesDropped": 740,
+			"dropRate": 0.04673487432108122
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 199,
-			"dropRate": 0.037300843486410495
+			"timesDropped": 630,
+			"dropRate": 0.03978779840848806
+		},
+		{
+			"itemName": "Green Crystal Shard",
+			"timesDropped": 588,
+			"dropRate": 0.03713527851458886
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 175,
-			"dropRate": 0.03280224929709466
+			"timesDropped": 475,
+			"dropRate": 0.02999873689528862
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 114,
-			"dropRate": 0.021368322399250236
+			"timesDropped": 332,
+			"dropRate": 0.02096753820891752
 		}
 	]
 }

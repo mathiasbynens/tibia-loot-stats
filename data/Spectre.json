@@ -1,86 +1,91 @@
 {
 	"monsterName": "Spectre",
-	"timesKilled": 3103,
+	"timesKilled": 1339,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3098,
-			"dropRate": 0.9983886561392201
+			"timesDropped": 1337,
+			"dropRate": 0.9985063480209111
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 959,
-			"dropRate": 0.309055752497583
-		},
-		{
-			"itemName": "Lyre",
-			"timesDropped": 333,
-			"dropRate": 0.10731550112794071
+			"timesDropped": 421,
+			"dropRate": 0.3144137415982076
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 324,
-			"dropRate": 0.1044150821785369
+			"timesDropped": 154,
+			"dropRate": 0.11501120238984316
+		},
+		{
+			"itemName": "Lyre",
+			"timesDropped": 125,
+			"dropRate": 0.09335324869305452
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 217,
-			"dropRate": 0.06993232355784725
+			"timesDropped": 96,
+			"dropRate": 0.07169529499626587
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 207,
-			"dropRate": 0.06670963583628746
+			"timesDropped": 71,
+			"dropRate": 0.05302464525765497
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 110,
-			"dropRate": 0.03544956493715759
+			"timesDropped": 50,
+			"dropRate": 0.037341299477221805
 		},
 		{
 			"itemName": "White Piece of Cloth",
-			"timesDropped": 105,
-			"dropRate": 0.0338382210763777
+			"timesDropped": 43,
+			"dropRate": 0.03211351755041075
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 29,
-			"dropRate": 0.009345794392523364
+			"timesDropped": 19,
+			"dropRate": 0.014189693801344288
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 26,
-			"dropRate": 0.00837898807605543
+			"timesDropped": 17,
+			"dropRate": 0.012696041822255415
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 23,
-			"dropRate": 0.007412181759587496
-		},
-		{
-			"itemName": "Relic Sword",
-			"timesDropped": 18,
-			"dropRate": 0.005800837898807605
-		},
-		{
-			"itemName": "Stealth Ring",
-			"timesDropped": 13,
-			"dropRate": 0.004189494038027715
+			"timesDropped": 12,
+			"dropRate": 0.008961911874533234
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 11,
-			"dropRate": 0.003544956493715759
+			"timesDropped": 3,
+			"dropRate": 0.0022404779686333084
 		},
 		{
-			"itemName": "Demonbone Amulet",
-			"timesDropped": 8,
-			"dropRate": 0.002578150177247825
+			"itemName": "Relic Sword",
+			"timesDropped": 3,
+			"dropRate": 0.0022404779686333084
+		},
+		{
+			"itemName": "Stealth Ring",
+			"timesDropped": 3,
+			"dropRate": 0.0022404779686333084
 		},
 		{
 			"itemName": "Shadow Sceptre",
 			"timesDropped": 2,
-			"dropRate": 0.0006445375443119562
+			"dropRate": 0.0014936519790888724
+		},
+		{
+			"itemName": "Demonbone Amulet",
+			"timesDropped": 1,
+			"dropRate": 0.0007468259895444362
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 1,
+			"dropRate": 0.0007468259895444362
 		}
 	]
 }

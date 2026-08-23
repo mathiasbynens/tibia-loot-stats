@@ -1,51 +1,51 @@
 {
 	"monsterName": "Enraged Crystal Golem",
-	"timesKilled": 14635,
+	"timesKilled": 16056,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 14635,
+			"timesDropped": 16056,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Crystalline Spikes",
-			"timesDropped": 1213,
-			"dropRate": 0.08288349846258969
+			"timesDropped": 1346,
+			"dropRate": 0.0838315894369706
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1193,
-			"dropRate": 0.08151691151349505
+			"timesDropped": 1307,
+			"dropRate": 0.08140259093173892
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1190,
-			"dropRate": 0.08131192347113085
+			"timesDropped": 1305,
+			"dropRate": 0.0812780269058296
 		},
 		{
 			"itemName": "Crystalline Arrow",
-			"timesDropped": 751,
-			"dropRate": 0.05131533993850359
+			"timesDropped": 811,
+			"dropRate": 0.050510712506228204
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 695,
-			"dropRate": 0.04748889648103861
+			"timesDropped": 752,
+			"dropRate": 0.046836073741903336
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 599,
-			"dropRate": 0.040929279125384355
+			"timesDropped": 649,
+			"dropRate": 0.040421026407573495
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 139,
-			"dropRate": 0.009497779296207721
+			"timesDropped": 151,
+			"dropRate": 0.009404583956153463
 		},
 		{
 			"itemName": "Glorious Axe",
-			"timesDropped": 57,
-			"dropRate": 0.003894772804919713
+			"timesDropped": 60,
+			"dropRate": 0.0037369207772795215
 		}
 	]
 }

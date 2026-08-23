@@ -1,126 +1,126 @@
 {
 	"monsterName": "Behemoth",
-	"timesKilled": 46582,
+	"timesKilled": 53687,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 46582,
+			"timesDropped": 53687,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 28024,
-			"dropRate": 0.60160577046928
+			"timesDropped": 32326,
+			"dropRate": 0.6021196937806172
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 13806,
-			"dropRate": 0.2963805761882272
+			"timesDropped": 15864,
+			"dropRate": 0.2954905284333265
 		},
 		{
 			"itemName": "Battle Stone",
-			"timesDropped": 6976,
-			"dropRate": 0.14975741702803658
+			"timesDropped": 8104,
+			"dropRate": 0.150949019315663
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 4681,
-			"dropRate": 0.1004894594478554
+			"timesDropped": 5394,
+			"dropRate": 0.10047125002328311
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 4649,
-			"dropRate": 0.09980249881928642
-		},
-		{
-			"itemName": "Two Handed Sword",
-			"timesDropped": 2819,
-			"dropRate": 0.06051693787299815
+			"timesDropped": 5318,
+			"dropRate": 0.09905563730512042
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 2818,
-			"dropRate": 0.060495470353355375
+			"timesDropped": 3240,
+			"dropRate": 0.060349805353251254
+		},
+		{
+			"itemName": "Two Handed Sword",
+			"timesDropped": 3231,
+			"dropRate": 0.060182167005047776
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 2361,
-			"dropRate": 0.050684813876604694
+			"timesDropped": 2724,
+			"dropRate": 0.05073854005625198
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 1932,
-			"dropRate": 0.04147524794985188
+			"timesDropped": 2213,
+			"dropRate": 0.0412204071749213
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 1919,
-			"dropRate": 0.04119617019449573
+			"timesDropped": 2184,
+			"dropRate": 0.04068023916404344
 		},
 		{
 			"itemName": "Crystal Necklace",
-			"timesDropped": 1184,
-			"dropRate": 0.025417543257052082
+			"timesDropped": 1376,
+			"dropRate": 0.025630040791998064
 		},
 		{
 			"itemName": "Perfect Behemoth Fang",
-			"timesDropped": 467,
-			"dropRate": 0.01002533167317848
+			"timesDropped": 534,
+			"dropRate": 0.009946541993406225
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 452,
-			"dropRate": 0.009703318878536774
+			"timesDropped": 504,
+			"dropRate": 0.009387747499394639
 		},
 		{
 			"itemName": "Strange Symbol",
-			"timesDropped": 387,
-			"dropRate": 0.008307930101756043
+			"timesDropped": 457,
+			"dropRate": 0.008512302792109822
 		},
 		{
 			"itemName": "Big Bone",
-			"timesDropped": 319,
-			"dropRate": 0.006848138766046971
+			"timesDropped": 383,
+			"dropRate": 0.007133943040214577
 		},
 		{
 			"itemName": "Pick",
-			"timesDropped": 290,
-			"dropRate": 0.006225580696406338
+			"timesDropped": 319,
+			"dropRate": 0.005941848119656527
 		},
 		{
 			"itemName": "Behemoth Claw",
-			"timesDropped": 217,
-			"dropRate": 0.004658451762483363
+			"timesDropped": 247,
+			"dropRate": 0.004600741334028722
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 201,
-			"dropRate": 0.0043149714481988755
+			"timesDropped": 246,
+			"dropRate": 0.004582114850895003
 		},
 		{
 			"itemName": "Crowbar",
-			"timesDropped": 60,
-			"dropRate": 0.0012880511785668283
+			"timesDropped": 69,
+			"dropRate": 0.0012852273362266471
 		},
 		{
 			"itemName": "Behemoth Trophy",
-			"timesDropped": 52,
-			"dropRate": 0.0011163110214245846
+			"timesDropped": 60,
+			"dropRate": 0.0011175889880231714
 		},
 		{
 			"itemName": "Amphora",
-			"timesDropped": 47,
-			"dropRate": 0.0010089734232106822
+			"timesDropped": 53,
+			"dropRate": 0.0009872036060871348
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 34,
-			"dropRate": 0.000729895667854536
+			"timesDropped": 37,
+			"dropRate": 0.0006891798759476223
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 32,
-			"dropRate": 0.0006869606285689751
+			"timesDropped": 37,
+			"dropRate": 0.0006891798759476223
 		}
 	]
 }

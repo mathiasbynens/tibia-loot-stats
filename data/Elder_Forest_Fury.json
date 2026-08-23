@@ -1,66 +1,71 @@
 {
 	"monsterName": "Elder Forest Fury",
-	"timesKilled": 530,
+	"timesKilled": 1284,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 478,
-			"dropRate": 0.9018867924528302
+			"timesDropped": 1139,
+			"dropRate": 0.8870716510903427
 		},
 		{
 			"itemName": "Bolt",
-			"timesDropped": 236,
-			"dropRate": 0.44528301886792454
+			"timesDropped": 605,
+			"dropRate": 0.471183800623053
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 117,
-			"dropRate": 0.22075471698113208
+			"timesDropped": 311,
+			"dropRate": 0.24221183800623053
 		},
 		{
 			"itemName": "Venison",
-			"timesDropped": 97,
-			"dropRate": 0.1830188679245283
+			"timesDropped": 258,
+			"dropRate": 0.20093457943925233
 		},
 		{
 			"itemName": "Piercing Bolt",
-			"timesDropped": 92,
-			"dropRate": 0.17358490566037735
+			"timesDropped": 194,
+			"dropRate": 0.15109034267912771
 		},
 		{
 			"itemName": "Elven Hoof",
-			"timesDropped": 68,
-			"dropRate": 0.12830188679245283
+			"timesDropped": 152,
+			"dropRate": 0.11838006230529595
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 44,
-			"dropRate": 0.0830188679245283
+			"timesDropped": 95,
+			"dropRate": 0.07398753894080996
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 19,
-			"dropRate": 0.035849056603773584
+			"timesDropped": 44,
+			"dropRate": 0.03426791277258567
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 16,
-			"dropRate": 0.03018867924528302
+			"timesDropped": 41,
+			"dropRate": 0.031931464174454825
 		},
 		{
 			"itemName": "Raspberry",
-			"timesDropped": 4,
-			"dropRate": 0.007547169811320755
-		},
-		{
-			"itemName": "Bullseye Potion",
-			"timesDropped": 3,
-			"dropRate": 0.005660377358490566
+			"timesDropped": 12,
+			"dropRate": 0.009345794392523364
 		},
 		{
 			"itemName": "Terra Rod",
+			"timesDropped": 5,
+			"dropRate": 0.003894080996884735
+		},
+		{
+			"itemName": "Bullseye Potion",
+			"timesDropped": 4,
+			"dropRate": 0.003115264797507788
+		},
+		{
+			"itemName": "Elvish Bow",
 			"timesDropped": 2,
-			"dropRate": 0.0037735849056603774
+			"dropRate": 0.001557632398753894
 		}
 	]
 }

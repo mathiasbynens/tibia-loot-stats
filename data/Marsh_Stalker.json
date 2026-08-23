@@ -1,51 +1,56 @@
 {
 	"monsterName": "Marsh Stalker",
-	"timesKilled": 31529,
+	"timesKilled": 37333,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 20183,
-			"dropRate": 0.6401408227346252
+			"timesDropped": 23901,
+			"dropRate": 0.6402110733131546
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 6385,
-			"dropRate": 0.20251197310412636
+			"timesDropped": 7602,
+			"dropRate": 0.20362681809659014
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 6284,
-			"dropRate": 0.1993085730597228
+			"timesDropped": 7435,
+			"dropRate": 0.199153563871106
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 4624,
-			"dropRate": 0.14665863173586222
+			"timesDropped": 5524,
+			"dropRate": 0.1479656068357753
 		},
 		{
 			"itemName": "Marsh Stalker Feather",
-			"timesDropped": 2725,
-			"dropRate": 0.08642836753465064
+			"timesDropped": 3272,
+			"dropRate": 0.08764363967535424
 		},
 		{
 			"itemName": "Longsword",
-			"timesDropped": 2355,
-			"dropRate": 0.07469313964921184
+			"timesDropped": 2795,
+			"dropRate": 0.07486673988160608
 		},
 		{
 			"itemName": "Marsh Stalker Beak",
-			"timesDropped": 1925,
-			"dropRate": 0.06105490183640458
+			"timesDropped": 2247,
+			"dropRate": 0.06018803739319101
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 1546,
-			"dropRate": 0.04903422246186051
+			"timesDropped": 1813,
+			"dropRate": 0.048562933597621406
 		},
 		{
 			"itemName": "Seeds",
 			"timesDropped": 33,
-			"dropRate": 0.00104665546005265
+			"dropRate": 0.0008839364637184261
+		},
+		{
+			"itemName": "Soul Prism",
+			"timesDropped": 1,
+			"dropRate": 0.000026785953446012912
 		}
 	]
 }

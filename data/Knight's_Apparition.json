@@ -1,61 +1,61 @@
 {
 	"monsterName": "Knight's Apparition",
-	"timesKilled": 2545,
+	"timesKilled": 1929,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1527,
-			"dropRate": 0.6
+			"timesDropped": 1121,
+			"dropRate": 0.5811301192327631
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 179,
-			"dropRate": 0.07033398821218075
+			"timesDropped": 146,
+			"dropRate": 0.07568688439606014
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 120,
-			"dropRate": 0.047151277013752456
+			"timesDropped": 98,
+			"dropRate": 0.05080352514256091
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 89,
-			"dropRate": 0.034970530451866405
-		},
-		{
-			"itemName": "Violet Gem",
-			"timesDropped": 75,
-			"dropRate": 0.029469548133595286
-		},
-		{
-			"itemName": "Glacier Amulet",
 			"timesDropped": 69,
-			"dropRate": 0.02711198428290766
+			"dropRate": 0.03576982892690513
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 66,
-			"dropRate": 0.02593320235756385
+			"timesDropped": 55,
+			"dropRate": 0.02851218247796786
 		},
 		{
-			"itemName": "Jade Hammer",
+			"itemName": "Violet Gem",
+			"timesDropped": 51,
+			"dropRate": 0.026438569206842923
+		},
+		{
+			"itemName": "Glacier Amulet",
 			"timesDropped": 31,
-			"dropRate": 0.01218074656188605
+			"dropRate": 0.01607050285121825
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 27,
-			"dropRate": 0.010609037328094302
+			"timesDropped": 30,
+			"dropRate": 0.015552099533437015
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 18,
+			"dropRate": 0.00933125972006221
 		},
 		{
 			"itemName": "Crown Shield",
 			"timesDropped": 16,
-			"dropRate": 0.006286836935166994
+			"dropRate": 0.00829445308449974
 		},
 		{
-			"itemName": "Stone Skin Amulet",
-			"timesDropped": 14,
-			"dropRate": 0.00550098231827112
+			"itemName": "Jade Hammer",
+			"timesDropped": 15,
+			"dropRate": 0.007776049766718507
 		}
 	]
 }

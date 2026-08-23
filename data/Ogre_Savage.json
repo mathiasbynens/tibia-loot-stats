@@ -1,91 +1,91 @@
 {
 	"monsterName": "Ogre Savage",
-	"timesKilled": 3205,
+	"timesKilled": 6062,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3184,
-			"dropRate": 0.9934477379095163
+			"timesDropped": 6041,
+			"dropRate": 0.9965357967667436
 		},
 		{
 			"itemName": "Ogre Ear Stud",
-			"timesDropped": 624,
-			"dropRate": 0.19469578783151326
+			"timesDropped": 1178,
+			"dropRate": 0.19432530517980864
 		},
 		{
 			"itemName": "Ogre Nose Ring",
-			"timesDropped": 548,
-			"dropRate": 0.17098283931357255
+			"timesDropped": 1089,
+			"dropRate": 0.17964368195315078
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 495,
-			"dropRate": 0.1544461778471139
+			"timesDropped": 908,
+			"dropRate": 0.14978554932365556
 		},
 		{
 			"itemName": "Skull Fetish",
-			"timesDropped": 301,
-			"dropRate": 0.0939157566302652
+			"timesDropped": 586,
+			"dropRate": 0.09666776641372485
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 263,
-			"dropRate": 0.08205928237129485
+			"timesDropped": 501,
+			"dropRate": 0.08264599142197294
 		},
 		{
 			"itemName": "Mysterious Fetish",
-			"timesDropped": 199,
-			"dropRate": 0.06209048361934477
+			"timesDropped": 387,
+			"dropRate": 0.06384031672715275
 		},
 		{
 			"itemName": "Jalapeno Pepper",
-			"timesDropped": 129,
-			"dropRate": 0.04024960998439937
+			"timesDropped": 213,
+			"dropRate": 0.03513691850874299
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 94,
-			"dropRate": 0.029329173166926677
-		},
-		{
-			"itemName": "Onyx Chip",
-			"timesDropped": 93,
-			"dropRate": 0.029017160686427457
+			"timesDropped": 194,
+			"dropRate": 0.032002639392939625
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 91,
-			"dropRate": 0.02839313572542902
+			"timesDropped": 177,
+			"dropRate": 0.029198284394589245
+		},
+		{
+			"itemName": "Onyx Chip",
+			"timesDropped": 175,
+			"dropRate": 0.028868360277136258
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 69,
-			"dropRate": 0.021528861154446178
+			"timesDropped": 129,
+			"dropRate": 0.021280105575717585
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 47,
-			"dropRate": 0.014664586583463339
+			"timesDropped": 83,
+			"dropRate": 0.013691850874298911
 		},
 		{
 			"itemName": "Ogre Choppa",
-			"timesDropped": 35,
-			"dropRate": 0.0109204368174727
+			"timesDropped": 61,
+			"dropRate": 0.010062685582316067
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 16,
-			"dropRate": 0.0049921996879875195
+			"timesDropped": 30,
+			"dropRate": 0.0049488617617947876
 		},
 		{
 			"itemName": "Shamanic Mask",
-			"timesDropped": 12,
-			"dropRate": 0.00374414976599064
+			"timesDropped": 26,
+			"dropRate": 0.004289013526888816
 		},
 		{
 			"itemName": "Dreaded Cleaver",
 			"timesDropped": 1,
-			"dropRate": 0.00031201248049921997
+			"dropRate": 0.0001649620587264929
 		}
 	]
 }

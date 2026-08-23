@@ -1,86 +1,86 @@
 {
 	"monsterName": "Infernal Demon",
-	"timesKilled": 3607,
+	"timesKilled": 240,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1917,
-			"dropRate": 0.531466592736346
-		},
-		{
-			"itemName": "Ultimate Health Potion",
-			"timesDropped": 644,
-			"dropRate": 0.17854172442472968
+			"timesDropped": 118,
+			"dropRate": 0.49166666666666664
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 573,
-			"dropRate": 0.15885777654560576
+			"timesDropped": 38,
+			"dropRate": 0.15833333333333333
 		},
 		{
-			"itemName": "Blue Crystal Shard",
-			"timesDropped": 239,
-			"dropRate": 0.06626004990296645
-		},
-		{
-			"itemName": "Small Diamond",
-			"timesDropped": 238,
-			"dropRate": 0.06598281120044358
-		},
-		{
-			"itemName": "Red Crystal Fragment",
-			"timesDropped": 236,
-			"dropRate": 0.06542833379539784
+			"itemName": "Ultimate Health Potion",
+			"timesDropped": 35,
+			"dropRate": 0.14583333333333334
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 201,
-			"dropRate": 0.05572497920709731
+			"timesDropped": 15,
+			"dropRate": 0.0625
 		},
 		{
-			"itemName": "Onyx Chip",
-			"timesDropped": 129,
-			"dropRate": 0.03576379262545051
+			"itemName": "Red Crystal Fragment",
+			"timesDropped": 15,
+			"dropRate": 0.0625
 		},
 		{
-			"itemName": "Blue Gem",
-			"timesDropped": 89,
-			"dropRate": 0.024674244524535625
-		},
-		{
-			"itemName": "Magma Boots",
-			"timesDropped": 85,
-			"dropRate": 0.023565289714444135
+			"itemName": "Small Diamond",
+			"timesDropped": 14,
+			"dropRate": 0.058333333333333334
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 79,
-			"dropRate": 0.0219018574993069
+			"timesDropped": 11,
+			"dropRate": 0.04583333333333333
 		},
 		{
-			"itemName": "Magma Amulet",
-			"timesDropped": 66,
-			"dropRate": 0.018297754366509565
+			"itemName": "Onyx Chip",
+			"timesDropped": 10,
+			"dropRate": 0.041666666666666664
 		},
 		{
-			"itemName": "Mercenary Sword",
-			"timesDropped": 60,
-			"dropRate": 0.01663432215137233
+			"itemName": "Blue Gem",
+			"timesDropped": 9,
+			"dropRate": 0.0375
+		},
+		{
+			"itemName": "Blue Crystal Shard",
+			"timesDropped": 8,
+			"dropRate": 0.03333333333333333
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 53,
-			"dropRate": 0.014693651233712227
+			"timesDropped": 3,
+			"dropRate": 0.0125
 		},
 		{
-			"itemName": "War Axe",
-			"timesDropped": 47,
-			"dropRate": 0.013030219018574993
+			"itemName": "Magma Amulet",
+			"timesDropped": 3,
+			"dropRate": 0.0125
+		},
+		{
+			"itemName": "Magma Boots",
+			"timesDropped": 3,
+			"dropRate": 0.0125
+		},
+		{
+			"itemName": "Mercenary Sword",
+			"timesDropped": 3,
+			"dropRate": 0.0125
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 28,
-			"dropRate": 0.007762683670640421
+			"timesDropped": 2,
+			"dropRate": 0.008333333333333333
+		},
+		{
+			"itemName": "War Axe",
+			"timesDropped": 2,
+			"dropRate": 0.008333333333333333
 		}
 	]
 }

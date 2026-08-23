@@ -1,91 +1,91 @@
 {
 	"monsterName": "Stabilizing Dread Intruder",
-	"timesKilled": 4754,
+	"timesKilled": 6145,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4689,
-			"dropRate": 0.986327303323517
+			"timesDropped": 6072,
+			"dropRate": 0.988120423108218
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4114,
-			"dropRate": 0.8653765250315524
+			"timesDropped": 5314,
+			"dropRate": 0.8647681041497152
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 497,
-			"dropRate": 0.1045435422801851
+			"timesDropped": 627,
+			"dropRate": 0.10203417412530513
 		},
 		{
 			"itemName": "Solid Rage",
-			"timesDropped": 473,
-			"dropRate": 0.09949516196886832
-		},
-		{
-			"itemName": "Energy Drink",
-			"timesDropped": 471,
-			"dropRate": 0.09907446360959192
-		},
-		{
-			"itemName": "Strange Proto Matter",
-			"timesDropped": 471,
-			"dropRate": 0.09907446360959192
-		},
-		{
-			"itemName": "Great Mana Potion",
-			"timesDropped": 449,
-			"dropRate": 0.09444678165755153
-		},
-		{
-			"itemName": "Ultimate Health Potion",
-			"timesDropped": 449,
-			"dropRate": 0.09444678165755153
+			"timesDropped": 607,
+			"dropRate": 0.09877949552481692
 		},
 		{
 			"itemName": "Glistening Bone",
-			"timesDropped": 442,
-			"dropRate": 0.09297433740008414
+			"timesDropped": 596,
+			"dropRate": 0.09698942229454842
+		},
+		{
+			"itemName": "Energy Drink",
+			"timesDropped": 595,
+			"dropRate": 0.096826688364524
+		},
+		{
+			"itemName": "Strange Proto Matter",
+			"timesDropped": 594,
+			"dropRate": 0.0966639544344996
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 433,
-			"dropRate": 0.09108119478334034
+			"timesDropped": 586,
+			"dropRate": 0.0953620829943043
 		},
 		{
-			"itemName": "Violet Crystal Shard",
-			"timesDropped": 250,
-			"dropRate": 0.05258729490954985
+			"itemName": "Great Mana Potion",
+			"timesDropped": 576,
+			"dropRate": 0.09373474369406021
 		},
 		{
-			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 246,
-			"dropRate": 0.05174589819099706
+			"itemName": "Ultimate Health Potion",
+			"timesDropped": 571,
+			"dropRate": 0.09292107404393816
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 246,
-			"dropRate": 0.05174589819099706
+			"timesDropped": 326,
+			"dropRate": 0.053051261187957686
+		},
+		{
+			"itemName": "Violet Crystal Shard",
+			"timesDropped": 322,
+			"dropRate": 0.05240032546786005
+		},
+		{
+			"itemName": "Blue Crystal Splinter",
+			"timesDropped": 309,
+			"dropRate": 0.05028478437754272
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 236,
-			"dropRate": 0.04964240639461506
+			"timesDropped": 301,
+			"dropRate": 0.04898291293734744
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 234,
-			"dropRate": 0.049221708035338665
+			"timesDropped": 291,
+			"dropRate": 0.04735557363710333
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 200,
-			"dropRate": 0.04206983592763988
+			"timesDropped": 263,
+			"dropRate": 0.042799023596419856
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 9,
-			"dropRate": 0.0018931426167437947
+			"timesDropped": 13,
+			"dropRate": 0.002115541090317331
 		}
 	]
 }

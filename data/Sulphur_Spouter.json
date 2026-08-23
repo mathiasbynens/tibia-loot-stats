@@ -1,66 +1,71 @@
 {
 	"monsterName": "Sulphur Spouter",
-	"timesKilled": 641,
+	"timesKilled": 1313,
 	"items": [
 		{
 			"itemName": "Sulphur Powder",
-			"timesDropped": 261,
-			"dropRate": 0.40717628705148207
+			"timesDropped": 520,
+			"dropRate": 0.39603960396039606
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 143,
-			"dropRate": 0.22308892355694226
+			"timesDropped": 252,
+			"dropRate": 0.19192688499619193
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 77,
-			"dropRate": 0.12012480499219969
+			"timesDropped": 190,
+			"dropRate": 0.1447067783701447
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 22,
-			"dropRate": 0.0343213728549142
+			"timesDropped": 46,
+			"dropRate": 0.035034272658035034
 		},
 		{
 			"itemName": "Slightly Rusted Legs",
-			"timesDropped": 21,
-			"dropRate": 0.0327613104524181
+			"timesDropped": 42,
+			"dropRate": 0.03198781416603199
 		},
 		{
-			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 16,
-			"dropRate": 0.0249609984399376
+			"itemName": "Giant Shimmering Pearl (Green)",
+			"timesDropped": 34,
+			"dropRate": 0.025894897182025894
 		},
 		{
-			"itemName": "Red Gem",
-			"timesDropped": 15,
-			"dropRate": 0.0234009360374415
-		},
-		{
-			"itemName": "Warrior's Shield",
-			"timesDropped": 14,
-			"dropRate": 0.0218408736349454
+			"itemName": "Might Ring",
+			"timesDropped": 32,
+			"dropRate": 0.024371667936024372
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 13,
-			"dropRate": 0.0202808112324493
+			"timesDropped": 28,
+			"dropRate": 0.021325209444021324
 		},
 		{
-			"itemName": "Ring of Red Plasma",
-			"timesDropped": 10,
-			"dropRate": 0.015600624024960999
+			"itemName": "Red Gem",
+			"timesDropped": 27,
+			"dropRate": 0.020563594821020565
+		},
+		{
+			"itemName": "Warrior's Shield",
+			"timesDropped": 21,
+			"dropRate": 0.015993907083015995
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 6,
-			"dropRate": 0.0093603744149766
+			"timesDropped": 17,
+			"dropRate": 0.012947448591012947
+		},
+		{
+			"itemName": "Ring of Red Plasma",
+			"timesDropped": 11,
+			"dropRate": 0.008377760853008377
 		},
 		{
 			"itemName": "Crystal Crossbow",
-			"timesDropped": 3,
-			"dropRate": 0.0046801872074883
+			"timesDropped": 8,
+			"dropRate": 0.006092916984006093
 		}
 	]
 }

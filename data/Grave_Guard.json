@@ -1,41 +1,46 @@
 {
 	"monsterName": "Grave Guard",
-	"timesKilled": 7513,
+	"timesKilled": 164,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7169,
-			"dropRate": 0.9542126979901504
+			"timesDropped": 154,
+			"dropRate": 0.9390243902439024
 		},
 		{
 			"itemName": "Grave Flower",
-			"timesDropped": 5253,
-			"dropRate": 0.6991880740050579
+			"timesDropped": 112,
+			"dropRate": 0.6829268292682927
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 1525,
-			"dropRate": 0.2029814987355251
+			"timesDropped": 32,
+			"dropRate": 0.1951219512195122
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 1488,
-			"dropRate": 0.19805670171702383
+			"timesDropped": 29,
+			"dropRate": 0.17682926829268292
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 363,
-			"dropRate": 0.048316251830161056
+			"timesDropped": 11,
+			"dropRate": 0.06707317073170732
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 164,
-			"dropRate": 0.02182883002795155
+			"timesDropped": 7,
+			"dropRate": 0.042682926829268296
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 6,
+			"dropRate": 0.036585365853658534
 		},
 		{
 			"itemName": "Daramian Waraxe",
-			"timesDropped": 72,
-			"dropRate": 0.009583388792759218
+			"timesDropped": 1,
+			"dropRate": 0.006097560975609756
 		}
 	]
 }

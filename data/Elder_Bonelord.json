@@ -1,66 +1,66 @@
 {
 	"monsterName": "Elder Bonelord",
-	"timesKilled": 45657,
+	"timesKilled": 47222,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 45335,
-			"dropRate": 0.9929474122259456
+			"timesDropped": 46892,
+			"dropRate": 0.9930117318199144
 		},
 		{
 			"itemName": "Elder Bonelord Tentacle",
-			"timesDropped": 9147,
-			"dropRate": 0.2003416781654511
+			"timesDropped": 9475,
+			"dropRate": 0.20064800304942612
 		},
 		{
 			"itemName": "Small Flask of Eyedrops",
-			"timesDropped": 4437,
-			"dropRate": 0.09718115513502858
+			"timesDropped": 4604,
+			"dropRate": 0.09749692939731482
 		},
 		{
 			"itemName": "Sniper Arrow",
-			"timesDropped": 4011,
-			"dropRate": 0.08785071292463369
+			"timesDropped": 4159,
+			"dropRate": 0.08807335563932066
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 1357,
-			"dropRate": 0.029721619904943382
+			"timesDropped": 1410,
+			"dropRate": 0.029858964042183727
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 926,
-			"dropRate": 0.020281665462032108
+			"timesDropped": 965,
+			"dropRate": 0.020435390284189572
 		},
 		{
 			"itemName": "Bonelord Eye",
-			"timesDropped": 878,
-			"dropRate": 0.019230348029874937
+			"timesDropped": 916,
+			"dropRate": 0.01939773834229808
 		},
 		{
 			"itemName": "Spellbook",
-			"timesDropped": 463,
-			"dropRate": 0.010140832731016054
+			"timesDropped": 485,
+			"dropRate": 0.010270636567701495
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 381,
-			"dropRate": 0.008344832117747553
+			"timesDropped": 398,
+			"dropRate": 0.00842827495658803
 		},
 		{
 			"itemName": "Giant Eye",
-			"timesDropped": 208,
-			"dropRate": 0.004555708872681079
+			"timesDropped": 217,
+			"dropRate": 0.004595315742662319
 		},
 		{
 			"itemName": "Bonelord Helmet",
-			"timesDropped": 40,
-			"dropRate": 0.0008760978601309766
+			"timesDropped": 42,
+			"dropRate": 0.0008894159501927068
 		},
 		{
 			"itemName": "Bonelord Shield",
-			"timesDropped": 40,
-			"dropRate": 0.0008760978601309766
+			"timesDropped": 42,
+			"dropRate": 0.0008894159501927068
 		}
 	]
 }

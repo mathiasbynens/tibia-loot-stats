@@ -1,66 +1,66 @@
 {
 	"monsterName": "Barbarian Brutetamer",
-	"timesKilled": 14176,
+	"timesKilled": 16751,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12792,
-			"dropRate": 0.9023702031602708
+			"timesDropped": 15075,
+			"dropRate": 0.8999462718643663
 		},
 		{
 			"itemName": "Corncob",
-			"timesDropped": 1552,
-			"dropRate": 0.10948081264108352
+			"timesDropped": 1843,
+			"dropRate": 0.11002328219210794
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 1284,
-			"dropRate": 0.09057562076749436
+			"timesDropped": 1523,
+			"dropRate": 0.0909199450779058
 		},
 		{
 			"itemName": "Fur Bag",
-			"timesDropped": 1091,
-			"dropRate": 0.07696106094808126
+			"timesDropped": 1331,
+			"dropRate": 0.07945794280938451
 		},
 		{
 			"itemName": "Staff",
-			"timesDropped": 929,
-			"dropRate": 0.06553329571106095
+			"timesDropped": 1115,
+			"dropRate": 0.06656319025729807
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 754,
-			"dropRate": 0.05318848758465011
+			"timesDropped": 875,
+			"dropRate": 0.05223568742164647
 		},
 		{
 			"itemName": "Book (Grey)",
-			"timesDropped": 666,
-			"dropRate": 0.04698081264108352
+			"timesDropped": 785,
+			"dropRate": 0.046862873858277115
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 84,
-			"dropRate": 0.005925507900677201
+			"timesDropped": 100,
+			"dropRate": 0.005969792848188168
 		},
 		{
 			"itemName": "Brutetamer's Staff",
-			"timesDropped": 43,
-			"dropRate": 0.003033295711060948
+			"timesDropped": 52,
+			"dropRate": 0.0031042922810578474
 		},
 		{
 			"itemName": "Fur Boots",
-			"timesDropped": 21,
-			"dropRate": 0.0014813769751693003
+			"timesDropped": 25,
+			"dropRate": 0.001492448212047042
 		},
 		{
 			"itemName": "Mammoth Fur Cape",
-			"timesDropped": 19,
-			"dropRate": 0.001340293453724605
+			"timesDropped": 24,
+			"dropRate": 0.0014327502835651603
 		},
 		{
 			"itemName": "Mammoth Fur Shorts",
-			"timesDropped": 12,
-			"dropRate": 0.0008465011286681715
+			"timesDropped": 13,
+			"dropRate": 0.0007760730702644618
 		}
 	]
 }

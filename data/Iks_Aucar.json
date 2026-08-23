@@ -1,76 +1,96 @@
 {
 	"monsterName": "Iks Aucar",
-	"timesKilled": 73,
+	"timesKilled": 5151,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 73,
+			"timesDropped": 5151,
 			"dropRate": 1
 		},
 		{
-			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 11,
-			"dropRate": 0.1506849315068493
+			"itemName": "Platinum Coin",
+			"timesDropped": 2193,
+			"dropRate": 0.42574257425742573
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 11,
-			"dropRate": 0.1506849315068493
+			"timesDropped": 776,
+			"dropRate": 0.15065035915356242
+		},
+		{
+			"itemName": "Brown Crystal Splinter",
+			"timesDropped": 743,
+			"dropRate": 0.1442438361483207
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 8,
-			"dropRate": 0.1095890410958904
-		},
-		{
-			"itemName": "Onyx Chip",
-			"timesDropped": 6,
-			"dropRate": 0.0821917808219178
-		},
-		{
-			"itemName": "War Hammer",
-			"timesDropped": 6,
-			"dropRate": 0.0821917808219178
+			"timesDropped": 577,
+			"dropRate": 0.1120170840613473
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 5,
-			"dropRate": 0.0684931506849315
+			"timesDropped": 458,
+			"dropRate": 0.08891477383032421
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 5,
-			"dropRate": 0.0684931506849315
+			"timesDropped": 394,
+			"dropRate": 0.07649000194137061
+		},
+		{
+			"itemName": "Onyx Chip",
+			"timesDropped": 388,
+			"dropRate": 0.07532517957678121
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 4,
-			"dropRate": 0.0547945205479452
+			"timesDropped": 317,
+			"dropRate": 0.061541448262473306
 		},
 		{
-			"itemName": "Rotten Feather",
-			"timesDropped": 4,
-			"dropRate": 0.0547945205479452
+			"itemName": "War Hammer",
+			"timesDropped": 255,
+			"dropRate": 0.04950495049504951
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 4,
-			"dropRate": 0.0547945205479452
+			"timesDropped": 234,
+			"dropRate": 0.045428072218986607
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 2,
-			"dropRate": 0.0273972602739726
+			"timesDropped": 228,
+			"dropRate": 0.0442632498543972
 		},
 		{
-			"itemName": "Broken Iks Sandals",
-			"timesDropped": 1,
-			"dropRate": 0.0136986301369863
+			"itemName": "Rotten Feather",
+			"timesDropped": 94,
+			"dropRate": 0.0182488837119006
+		},
+		{
+			"itemName": "Ritual Tooth",
+			"timesDropped": 81,
+			"dropRate": 0.0157251019219569
 		},
 		{
 			"itemName": "Gold-Brocaded Cloth",
-			"timesDropped": 1,
-			"dropRate": 0.0136986301369863
+			"timesDropped": 53,
+			"dropRate": 0.0102892642205397
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 24,
+			"dropRate": 0.004659289458357601
+		},
+		{
+			"itemName": "Broken Iks Cuirass",
+			"timesDropped": 2,
+			"dropRate": 0.00038827412152980003
+		},
+		{
+			"itemName": "Broken Iks Faulds",
+			"timesDropped": 2,
+			"dropRate": 0.00038827412152980003
 		}
 	]
 }

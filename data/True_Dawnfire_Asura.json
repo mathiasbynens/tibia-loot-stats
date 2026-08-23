@@ -1,141 +1,141 @@
 {
 	"monsterName": "True Dawnfire Asura",
-	"timesKilled": 3183,
+	"timesKilled": 2272,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3183,
-			"dropRate": 1
+			"timesDropped": 2260,
+			"dropRate": 0.9947183098591549
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 957,
-			"dropRate": 0.3006597549481621
+			"timesDropped": 628,
+			"dropRate": 0.2764084507042254
 		},
 		{
 			"itemName": "Golden Lotus Brooch",
-			"timesDropped": 713,
-			"dropRate": 0.22400251335218346
-		},
-		{
-			"itemName": "Demonic Essence",
-			"timesDropped": 704,
-			"dropRate": 0.22117499214577444
+			"timesDropped": 458,
+			"dropRate": 0.20158450704225353
 		},
 		{
 			"itemName": "Peacock Feather Fan",
-			"timesDropped": 683,
-			"dropRate": 0.21457744266415332
+			"timesDropped": 440,
+			"dropRate": 0.1936619718309859
+		},
+		{
+			"itemName": "Demonic Essence",
+			"timesDropped": 432,
+			"dropRate": 0.19014084507042253
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 640,
-			"dropRate": 0.20106817467797675
+			"timesDropped": 393,
+			"dropRate": 0.17297535211267606
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 573,
-			"dropRate": 0.18001885014137606
+			"timesDropped": 387,
+			"dropRate": 0.17033450704225353
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 528,
-			"dropRate": 0.16588124410933083
+			"timesDropped": 336,
+			"dropRate": 0.14788732394366197
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 379,
-			"dropRate": 0.11907005969211436
+			"timesDropped": 255,
+			"dropRate": 0.11223591549295775
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 300,
-			"dropRate": 0.0942507068803016
+			"timesDropped": 185,
+			"dropRate": 0.08142605633802817
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 273,
-			"dropRate": 0.08576814326107446
+			"timesDropped": 183,
+			"dropRate": 0.08054577464788733
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 239,
-			"dropRate": 0.07508639648130694
+			"timesDropped": 166,
+			"dropRate": 0.07306338028169014
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 216,
-			"dropRate": 0.06786050895381715
+			"timesDropped": 151,
+			"dropRate": 0.0664612676056338
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 149,
-			"dropRate": 0.04681118441721646
+			"timesDropped": 119,
+			"dropRate": 0.05237676056338028
 		},
 		{
 			"itemName": "Ruby Necklace",
-			"timesDropped": 137,
-			"dropRate": 0.0430411561420044
+			"timesDropped": 73,
+			"dropRate": 0.032130281690140844
 		},
 		{
 			"itemName": "Royal Star",
-			"timesDropped": 129,
-			"dropRate": 0.04052780395852969
+			"timesDropped": 72,
+			"dropRate": 0.03169014084507042
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 120,
-			"dropRate": 0.03770028275212064
-		},
-		{
-			"itemName": "Mystic Turban",
-			"timesDropped": 101,
-			"dropRate": 0.03173107131636821
+			"timesDropped": 68,
+			"dropRate": 0.02992957746478873
 		},
 		{
 			"itemName": "Oriental Shoes",
-			"timesDropped": 99,
-			"dropRate": 0.03110273327049953
+			"timesDropped": 66,
+			"dropRate": 0.029049295774647887
 		},
 		{
-			"itemName": "Red Piece of Cloth",
-			"timesDropped": 98,
-			"dropRate": 0.03078856424756519
-		},
-		{
-			"itemName": "Mysterious Fetish",
-			"timesDropped": 90,
-			"dropRate": 0.02827521206409048
+			"itemName": "Mystic Turban",
+			"timesDropped": 63,
+			"dropRate": 0.02772887323943662
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 82,
-			"dropRate": 0.025761859880615773
+			"timesDropped": 59,
+			"dropRate": 0.02596830985915493
+		},
+		{
+			"itemName": "Mysterious Fetish",
+			"timesDropped": 56,
+			"dropRate": 0.02464788732394366
+		},
+		{
+			"itemName": "Red Piece of Cloth",
+			"timesDropped": 55,
+			"dropRate": 0.02420774647887324
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 70,
-			"dropRate": 0.021991831605403706
+			"timesDropped": 40,
+			"dropRate": 0.017605633802816902
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 63,
-			"dropRate": 0.019792648444863337
+			"timesDropped": 40,
+			"dropRate": 0.017605633802816902
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 46,
-			"dropRate": 0.014451775054979578
+			"timesDropped": 34,
+			"dropRate": 0.014964788732394365
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 38,
-			"dropRate": 0.011938422871504869
+			"timesDropped": 26,
+			"dropRate": 0.011443661971830986
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 35,
-			"dropRate": 0.010995915802701853
+			"timesDropped": 12,
+			"dropRate": 0.00528169014084507
 		}
 	]
 }

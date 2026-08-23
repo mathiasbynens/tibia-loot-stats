@@ -1,36 +1,36 @@
 {
 	"monsterName": "Gloom Wolf",
-	"timesKilled": 2207,
+	"timesKilled": 7441,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1464,
-			"dropRate": 0.6633439057544177
-		},
-		{
-			"itemName": "Meat",
-			"timesDropped": 917,
-			"dropRate": 0.4154961486180335
+			"timesDropped": 4947,
+			"dropRate": 0.6648299959682838
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 867,
-			"dropRate": 0.3928409605799728
+			"timesDropped": 3030,
+			"dropRate": 0.40720333288536487
+		},
+		{
+			"itemName": "Meat",
+			"timesDropped": 2929,
+			"dropRate": 0.39362988845585273
 		},
 		{
 			"itemName": "Gloom Wolf Fur",
-			"timesDropped": 182,
-			"dropRate": 0.082464884458541
+			"timesDropped": 583,
+			"dropRate": 0.07834968418223356
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 159,
-			"dropRate": 0.07204349796103307
+			"timesDropped": 515,
+			"dropRate": 0.06921112753662143
 		},
 		{
 			"itemName": "Wolf Paw",
-			"timesDropped": 71,
-			"dropRate": 0.032170367014046214
+			"timesDropped": 245,
+			"dropRate": 0.03292568203198495
 		}
 	]
 }

@@ -1,96 +1,96 @@
 {
 	"monsterName": "Spiky Carnivor",
-	"timesKilled": 1593,
+	"timesKilled": 7294,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1054,
-			"dropRate": 0.6616446955430006
+			"timesDropped": 4716,
+			"dropRate": 0.6465588154647656
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 220,
-			"dropRate": 0.13810420590081607
+			"timesDropped": 1006,
+			"dropRate": 0.13792157938031258
 		},
 		{
 			"itemName": "Green Glass Plate",
-			"timesDropped": 167,
-			"dropRate": 0.10483364720652856
+			"timesDropped": 749,
+			"dropRate": 0.10268714011516315
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 144,
-			"dropRate": 0.0903954802259887
+			"timesDropped": 548,
+			"dropRate": 0.07513024403619413
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 109,
-			"dropRate": 0.06842435655994979
+			"timesDropped": 504,
+			"dropRate": 0.0690978886756238
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 73,
-			"dropRate": 0.045825486503452605
+			"timesDropped": 350,
+			"dropRate": 0.04798464491362764
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 45,
-			"dropRate": 0.02824858757062147
+			"timesDropped": 216,
+			"dropRate": 0.029613380860981628
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 37,
-			"dropRate": 0.02322661644695543
+			"timesDropped": 189,
+			"dropRate": 0.025911708253358926
 		},
 		{
 			"itemName": "Talon",
-			"timesDropped": 32,
-			"dropRate": 0.020087884494664157
-		},
-		{
-			"itemName": "Glacier Amulet",
-			"timesDropped": 28,
-			"dropRate": 0.017576898932831136
-		},
-		{
-			"itemName": "Blue Robe",
-			"timesDropped": 26,
-			"dropRate": 0.016321406151914627
+			"timesDropped": 156,
+			"dropRate": 0.021387441732931178
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 26,
-			"dropRate": 0.016321406151914627
+			"timesDropped": 139,
+			"dropRate": 0.01905675897998355
+		},
+		{
+			"itemName": "Glacier Amulet",
+			"timesDropped": 122,
+			"dropRate": 0.01672607622703592
+		},
+		{
+			"itemName": "Blue Robe",
+			"timesDropped": 97,
+			"dropRate": 0.013298601590348232
 		},
 		{
 			"itemName": "Prismatic Quartz",
-			"timesDropped": 19,
-			"dropRate": 0.011927181418706842
+			"timesDropped": 94,
+			"dropRate": 0.012887304633945709
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 17,
-			"dropRate": 0.010671688637790333
-		},
-		{
-			"itemName": "Doublet",
-			"timesDropped": 4,
-			"dropRate": 0.0025109855618330196
+			"timesDropped": 69,
+			"dropRate": 0.00945982999725802
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 4,
-			"dropRate": 0.0025109855618330196
-		},
-		{
-			"itemName": "Buckle",
-			"timesDropped": 3,
-			"dropRate": 0.0018832391713747645
+			"timesDropped": 31,
+			"dropRate": 0.0042500685494927335
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 2,
-			"dropRate": 0.0012554927809165098
+			"timesDropped": 28,
+			"dropRate": 0.003838771593090211
+		},
+		{
+			"itemName": "Doublet",
+			"timesDropped": 22,
+			"dropRate": 0.003016177680285166
+		},
+		{
+			"itemName": "Buckle",
+			"timesDropped": 12,
+			"dropRate": 0.0016451878256100905
 		}
 	]
 }

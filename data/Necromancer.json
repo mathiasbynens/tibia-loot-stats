@@ -1,66 +1,66 @@
 {
 	"monsterName": "Necromancer",
-	"timesKilled": 65772,
+	"timesKilled": 72228,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19736,
-			"dropRate": 0.3000668977680472
+			"timesDropped": 21726,
+			"dropRate": 0.3007974746635654
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 9823,
-			"dropRate": 0.14934926716535912
+			"timesDropped": 10804,
+			"dropRate": 0.14958187960347788
 		},
 		{
 			"itemName": "Book of Necromantic Rituals",
-			"timesDropped": 6624,
-			"dropRate": 0.10071154898741105
+			"timesDropped": 7237,
+			"dropRate": 0.10019659965664285
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 979,
-			"dropRate": 0.014884753390500516
+			"timesDropped": 1079,
+			"dropRate": 0.014938804895608351
 		},
 		{
 			"itemName": "Necromantic Robe",
-			"timesDropped": 674,
-			"dropRate": 0.010247521741774615
+			"timesDropped": 740,
+			"dropRate": 0.010245334219416292
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 331,
-			"dropRate": 0.005032536641732044
+			"timesDropped": 357,
+			"dropRate": 0.004942681508556239
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 244,
-			"dropRate": 0.0037097853189807213
+			"timesDropped": 274,
+			"dropRate": 0.0037935426704325194
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 224,
-			"dropRate": 0.0034057045551298426
+			"timesDropped": 251,
+			"dropRate": 0.003475106606856067
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 128,
-			"dropRate": 0.0019461168886456242
-		},
-		{
-			"itemName": "Skull Staff",
-			"timesDropped": 70,
-			"dropRate": 0.0010642826734780758
+			"timesDropped": 151,
+			"dropRate": 0.002090601982610622
 		},
 		{
 			"itemName": "Spellbook of Warding",
-			"timesDropped": 68,
-			"dropRate": 0.0010338745970929878
+			"timesDropped": 77,
+			"dropRate": 0.0010660685606689927
+		},
+		{
+			"itemName": "Skull Staff",
+			"timesDropped": 75,
+			"dropRate": 0.0010383784681840837
 		},
 		{
 			"itemName": "Noble Axe",
 			"timesDropped": 5,
-			"dropRate": 0.0000760201909627197
+			"dropRate": 0.00006922523121227224
 		}
 	]
 }

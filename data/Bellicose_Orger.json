@@ -1,71 +1,71 @@
 {
 	"monsterName": "Bellicose Orger",
-	"timesKilled": 11103,
+	"timesKilled": 16965,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5569,
-			"dropRate": 0.5015761505899307
+			"timesDropped": 8519,
+			"dropRate": 0.5021514883583849
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 1523,
-			"dropRate": 0.1371701341979645
+			"timesDropped": 2382,
+			"dropRate": 0.14040671971706453
 		},
 		{
 			"itemName": "Leather Legs",
-			"timesDropped": 1278,
-			"dropRate": 0.11510402593893543
+			"timesDropped": 1921,
+			"dropRate": 0.11323312702623048
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 471,
-			"dropRate": 0.04242096730613348
+			"timesDropped": 742,
+			"dropRate": 0.043737105806071326
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 378,
-			"dropRate": 0.034044852742502026
+			"timesDropped": 575,
+			"dropRate": 0.03389330975537872
 		},
 		{
 			"itemName": "Cape",
-			"timesDropped": 149,
-			"dropRate": 0.013419796451409529
-		},
-		{
-			"itemName": "Glorious Axe",
-			"timesDropped": 147,
-			"dropRate": 0.013239664955417455
+			"timesDropped": 231,
+			"dropRate": 0.013616268788682582
 		},
 		{
 			"itemName": "Dark Shield",
-			"timesDropped": 137,
-			"dropRate": 0.012339007475457084
+			"timesDropped": 218,
+			"dropRate": 0.012849985263778367
+		},
+		{
+			"itemName": "Glorious Axe",
+			"timesDropped": 214,
+			"dropRate": 0.012614205717653993
 		},
 		{
 			"itemName": "Metal Spats",
-			"timesDropped": 124,
-			"dropRate": 0.0111681527515086
+			"timesDropped": 211,
+			"dropRate": 0.012437371058060713
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 58,
-			"dropRate": 0.005223813383770152
+			"timesDropped": 94,
+			"dropRate": 0.005540819333922782
+		},
+		{
+			"itemName": "Decorative Blue Sheet",
+			"timesDropped": 3,
+			"dropRate": 0.00017683465959328028
 		},
 		{
 			"itemName": "Decorative Red Sheet",
 			"timesDropped": 3,
-			"dropRate": 0.0002701972439881113
-		},
-		{
-			"itemName": "Decorative Blue Sheet",
-			"timesDropped": 2,
-			"dropRate": 0.00018013149599207422
+			"dropRate": 0.00017683465959328028
 		},
 		{
 			"itemName": "Decorative Green Sheet",
 			"timesDropped": 2,
-			"dropRate": 0.00018013149599207422
+			"dropRate": 0.00011788977306218685
 		}
 	]
 }

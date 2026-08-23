@@ -1,86 +1,86 @@
 {
 	"monsterName": "Yielothax",
-	"timesKilled": 93393,
+	"timesKilled": 5519,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 93199,
-			"dropRate": 0.9979227565235081
-		},
-		{
-			"itemName": "Strong Health Potion",
-			"timesDropped": 18610,
-			"dropRate": 0.19926546957480754
+			"timesDropped": 5509,
+			"dropRate": 0.9981880775502808
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 18570,
-			"dropRate": 0.1988371719507886
+			"timesDropped": 1173,
+			"dropRate": 0.21253850335205654
+		},
+		{
+			"itemName": "Strong Health Potion",
+			"timesDropped": 1128,
+			"dropRate": 0.20438485232832035
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 9280,
-			"dropRate": 0.09936504877239194
+			"timesDropped": 544,
+			"dropRate": 0.09856858126472187
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 4575,
-			"dropRate": 0.04898654074716521
+			"timesDropped": 296,
+			"dropRate": 0.0536329045116869
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 3736,
-			"dropRate": 0.04000299808336813
+			"timesDropped": 83,
+			"dropRate": 0.015038956332668961
 		},
 		{
 			"itemName": "Talon",
-			"timesDropped": 918,
-			"dropRate": 0.009829430471234461
+			"timesDropped": 57,
+			"dropRate": 0.010327957963399166
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 718,
-			"dropRate": 0.007687942351139807
-		},
-		{
-			"itemName": "Shockwave Amulet",
-			"timesDropped": 538,
-			"dropRate": 0.0057606030430546185
-		},
-		{
-			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 501,
-			"dropRate": 0.0053644277408371075
+			"timesDropped": 36,
+			"dropRate": 0.006522920818988948
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 471,
-			"dropRate": 0.00504320452282291
-		},
-		{
-			"itemName": "Mastermind Potion",
-			"timesDropped": 462,
-			"dropRate": 0.00494683755741865
+			"timesDropped": 32,
+			"dropRate": 0.005798151839101286
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 459,
-			"dropRate": 0.004914715235617231
+			"timesDropped": 28,
+			"dropRate": 0.005073382859213626
 		},
 		{
-			"itemName": "Broken Ring of Ending",
-			"timesDropped": 273,
-			"dropRate": 0.0029231312839292025
+			"itemName": "Mastermind Potion",
+			"timesDropped": 24,
+			"dropRate": 0.004348613879325965
+		},
+		{
+			"itemName": "Wand of Cosmic Energy",
+			"timesDropped": 24,
+			"dropRate": 0.004348613879325965
 		},
 		{
 			"itemName": "Yielocks",
-			"timesDropped": 273,
-			"dropRate": 0.0029231312839292025
+			"timesDropped": 20,
+			"dropRate": 0.003623844899438304
 		},
 		{
 			"itemName": "Yielowax",
-			"timesDropped": 256,
-			"dropRate": 0.002741104793721157
+			"timesDropped": 20,
+			"dropRate": 0.003623844899438304
+		},
+		{
+			"itemName": "Broken Ring of Ending",
+			"timesDropped": 13,
+			"dropRate": 0.0023554991846348977
+		},
+		{
+			"itemName": "Shockwave Amulet",
+			"timesDropped": 13,
+			"dropRate": 0.0023554991846348977
 		}
 	]
 }

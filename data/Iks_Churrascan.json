@@ -1,41 +1,51 @@
 {
 	"monsterName": "Iks Churrascan",
-	"timesKilled": 55,
+	"timesKilled": 1497,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 55,
+			"timesDropped": 1497,
 			"dropRate": 1
 		},
 		{
-			"itemName": "Green Crystal Splinter",
-			"timesDropped": 4,
-			"dropRate": 0.07272727272727272
-		},
-		{
-			"itemName": "Small Emerald",
-			"timesDropped": 4,
-			"dropRate": 0.07272727272727272
-		},
-		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 4,
-			"dropRate": 0.07272727272727272
+			"timesDropped": 133,
+			"dropRate": 0.08884435537742151
 		},
 		{
-			"itemName": "Onyx Chip",
-			"timesDropped": 3,
-			"dropRate": 0.05454545454545454
-		},
-		{
-			"itemName": "Opal",
-			"timesDropped": 3,
-			"dropRate": 0.05454545454545454
+			"itemName": "Green Crystal Splinter",
+			"timesDropped": 106,
+			"dropRate": 0.07080828323313293
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 2,
-			"dropRate": 0.03636363636363636
+			"timesDropped": 97,
+			"dropRate": 0.06479625918503674
+		},
+		{
+			"itemName": "Onyx Chip",
+			"timesDropped": 75,
+			"dropRate": 0.050100200400801605
+		},
+		{
+			"itemName": "Small Emerald",
+			"timesDropped": 69,
+			"dropRate": 0.04609218436873747
+		},
+		{
+			"itemName": "Opal",
+			"timesDropped": 41,
+			"dropRate": 0.02738810955243821
+		},
+		{
+			"itemName": "Small Ruby",
+			"timesDropped": 34,
+			"dropRate": 0.022712090848363394
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 34,
+			"dropRate": 0.022712090848363394
 		}
 	]
 }

@@ -1,66 +1,71 @@
 {
 	"monsterName": "Blood Beast",
-	"timesKilled": 14660,
+	"timesKilled": 8935,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 14660,
+			"timesDropped": 8935,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Slime Heart",
-			"timesDropped": 2847,
-			"dropRate": 0.1942019099590723
+			"timesDropped": 1801,
+			"dropRate": 0.20156687185226638
 		},
 		{
 			"itemName": "Poisoned Fang",
-			"timesDropped": 2443,
-			"dropRate": 0.16664392905866302
+			"timesDropped": 1406,
+			"dropRate": 0.15735870173475097
 		},
 		{
 			"itemName": "Viper Star",
-			"timesDropped": 1170,
-			"dropRate": 0.07980900409276943
+			"timesDropped": 697,
+			"dropRate": 0.07800783435926133
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1103,
-			"dropRate": 0.0752387448840382
+			"timesDropped": 646,
+			"dropRate": 0.07229994404029098
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 721,
-			"dropRate": 0.04918144611186903
+			"timesDropped": 421,
+			"dropRate": 0.047118074986010075
 		},
 		{
 			"itemName": "Glooth Steak",
-			"timesDropped": 518,
-			"dropRate": 0.035334242837653476
-		},
-		{
-			"itemName": "Glooth Amulet",
-			"timesDropped": 135,
-			"dropRate": 0.009208731241473396
-		},
-		{
-			"itemName": "Glooth Axe",
-			"timesDropped": 135,
-			"dropRate": 0.009208731241473396
-		},
-		{
-			"itemName": "Glooth Club",
-			"timesDropped": 117,
-			"dropRate": 0.007980900409276945
+			"timesDropped": 311,
+			"dropRate": 0.03480693900391718
 		},
 		{
 			"itemName": "Glooth Spear",
-			"timesDropped": 116,
-			"dropRate": 0.00791268758526603
+			"timesDropped": 91,
+			"dropRate": 0.010184667039731393
 		},
 		{
 			"itemName": "Glooth Blade",
-			"timesDropped": 114,
-			"dropRate": 0.007776261937244202
+			"timesDropped": 64,
+			"dropRate": 0.0071628427532176835
+		},
+		{
+			"itemName": "Glooth Amulet",
+			"timesDropped": 62,
+			"dropRate": 0.006939003917179631
+		},
+		{
+			"itemName": "Glooth Club",
+			"timesDropped": 62,
+			"dropRate": 0.006939003917179631
+		},
+		{
+			"itemName": "Glooth Axe",
+			"timesDropped": 60,
+			"dropRate": 0.006715165081141578
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 8,
+			"dropRate": 0.0008953553441522104
 		}
 	]
 }

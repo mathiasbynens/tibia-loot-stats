@@ -1,116 +1,116 @@
 {
 	"monsterName": "Afflicted Strider",
-	"timesKilled": 1913,
+	"timesKilled": 2252,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1913,
+			"timesDropped": 2252,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Afflicted Strider Worms",
-			"timesDropped": 191,
-			"dropRate": 0.09984317825405123
+			"timesDropped": 227,
+			"dropRate": 0.10079928952042629
 		},
 		{
 			"itemName": "Guardian Halberd",
-			"timesDropped": 165,
-			"dropRate": 0.08625196027182436
+			"timesDropped": 192,
+			"dropRate": 0.0852575488454707
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 161,
-			"dropRate": 0.08416100365917407
+			"timesDropped": 190,
+			"dropRate": 0.08436944937833037
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 130,
-			"dropRate": 0.06795608991113435
+			"timesDropped": 157,
+			"dropRate": 0.06971580817051509
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 125,
-			"dropRate": 0.06534239414532149
+			"timesDropped": 144,
+			"dropRate": 0.06394316163410302
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 115,
-			"dropRate": 0.06011500261369577
+			"timesDropped": 129,
+			"dropRate": 0.05728241563055062
 		},
 		{
 			"itemName": "Afflicted Strider Head",
-			"timesDropped": 96,
-			"dropRate": 0.0501829587036069
+			"timesDropped": 115,
+			"dropRate": 0.05106571936056838
 		},
 		{
 			"itemName": "Doublet",
-			"timesDropped": 96,
-			"dropRate": 0.0501829587036069
+			"timesDropped": 106,
+			"dropRate": 0.04706927175843695
 		},
 		{
 			"itemName": "Belted Cape",
-			"timesDropped": 81,
-			"dropRate": 0.042341871406168324
+			"timesDropped": 93,
+			"dropRate": 0.04129662522202487
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 78,
-			"dropRate": 0.04077365394668061
+			"timesDropped": 88,
+			"dropRate": 0.03907637655417407
 		},
 		{
 			"itemName": "Machete",
-			"timesDropped": 69,
-			"dropRate": 0.03606900156821746
+			"timesDropped": 81,
+			"dropRate": 0.03596802841918295
 		},
 		{
 			"itemName": "Spirit Cloak",
-			"timesDropped": 58,
-			"dropRate": 0.030318870883429168
+			"timesDropped": 67,
+			"dropRate": 0.02975133214920071
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 48,
-			"dropRate": 0.02509147935180345
-		},
-		{
-			"itemName": "Broadsword",
-			"timesDropped": 40,
-			"dropRate": 0.020909566126502875
-		},
-		{
-			"itemName": "Ice Rapier",
-			"timesDropped": 40,
-			"dropRate": 0.020909566126502875
+			"timesDropped": 60,
+			"dropRate": 0.02664298401420959
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 40,
-			"dropRate": 0.020909566126502875
+			"timesDropped": 49,
+			"dropRate": 0.021758436944937832
 		},
 		{
 			"itemName": "Serpent Sword",
-			"timesDropped": 38,
-			"dropRate": 0.01986408782017773
+			"timesDropped": 48,
+			"dropRate": 0.021314387211367674
 		},
 		{
-			"itemName": "Mercenary Sword",
-			"timesDropped": 28,
-			"dropRate": 0.014636696288552013
+			"itemName": "Broadsword",
+			"timesDropped": 46,
+			"dropRate": 0.020426287744227355
+		},
+		{
+			"itemName": "Ice Rapier",
+			"timesDropped": 44,
+			"dropRate": 0.019538188277087035
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 28,
-			"dropRate": 0.014636696288552013
-		},
-		{
-			"itemName": "Knight Axe",
-			"timesDropped": 24,
-			"dropRate": 0.012545739675901725
+			"timesDropped": 36,
+			"dropRate": 0.015985790408525755
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 23,
-			"dropRate": 0.012023000522739153
+			"timesDropped": 34,
+			"dropRate": 0.015097690941385435
+		},
+		{
+			"itemName": "Mercenary Sword",
+			"timesDropped": 33,
+			"dropRate": 0.014653641207815276
+		},
+		{
+			"itemName": "Knight Axe",
+			"timesDropped": 26,
+			"dropRate": 0.011545293072824156
 		}
 	]
 }

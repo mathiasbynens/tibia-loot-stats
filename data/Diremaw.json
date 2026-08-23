@@ -1,81 +1,81 @@
 {
 	"monsterName": "Diremaw",
-	"timesKilled": 7805,
+	"timesKilled": 12215,
 	"items": [
 		{
 			"itemName": "Ham",
-			"timesDropped": 3185,
-			"dropRate": 0.4080717488789238
+			"timesDropped": 4984,
+			"dropRate": 0.4080229226361031
 		},
 		{
 			"itemName": "Diremaw Brainpan",
-			"timesDropped": 1892,
-			"dropRate": 0.24240871236386932
+			"timesDropped": 2984,
+			"dropRate": 0.24428980761358984
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 893,
-			"dropRate": 0.11441383728379244
+			"timesDropped": 1428,
+			"dropRate": 0.1169054441260745
 		},
 		{
 			"itemName": "Diremaw Legs",
-			"timesDropped": 758,
-			"dropRate": 0.0971172325432415
+			"timesDropped": 1195,
+			"dropRate": 0.0978305362259517
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 738,
-			"dropRate": 0.09455477258167841
-		},
-		{
-			"itemName": "Violet Crystal Shard",
-			"timesDropped": 653,
-			"dropRate": 0.08366431774503523
+			"timesDropped": 1194,
+			"dropRate": 0.09774866966844044
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 649,
-			"dropRate": 0.08315182575272262
+			"timesDropped": 1014,
+			"dropRate": 0.08301268931641424
+		},
+		{
+			"itemName": "Violet Crystal Shard",
+			"timesDropped": 1009,
+			"dropRate": 0.08260335652885796
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 628,
-			"dropRate": 0.08046124279308135
+			"timesDropped": 960,
+			"dropRate": 0.07859189521080638
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 365,
-			"dropRate": 0.04676489429852659
+			"timesDropped": 597,
+			"dropRate": 0.04887433483422022
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 246,
-			"dropRate": 0.03151825752722614
-		},
-		{
-			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 237,
-			"dropRate": 0.030365150544522743
+			"timesDropped": 371,
+			"dropRate": 0.03037249283667622
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 236,
-			"dropRate": 0.030237027546444587
+			"timesDropped": 368,
+			"dropRate": 0.030126893164142448
+		},
+		{
+			"itemName": "Small Enchanted Emerald",
+			"timesDropped": 365,
+			"dropRate": 0.029881293491608677
 		},
 		{
 			"itemName": "Suspicious Device",
-			"timesDropped": 124,
-			"dropRate": 0.015887251761691222
+			"timesDropped": 199,
+			"dropRate": 0.016291444944740073
 		},
 		{
 			"itemName": "Mycological Bow",
-			"timesDropped": 6,
-			"dropRate": 0.0007687379884689302
+			"timesDropped": 13,
+			"dropRate": 0.0010642652476463364
 		},
 		{
 			"itemName": "Mushroom Backpack",
-			"timesDropped": 4,
-			"dropRate": 0.0005124919923126201
+			"timesDropped": 7,
+			"dropRate": 0.0005730659025787965
 		}
 	]
 }

@@ -1,146 +1,131 @@
 {
 	"monsterName": "Hand of Cursed Fate",
-	"timesKilled": 7508,
+	"timesKilled": 606,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7508,
+			"timesDropped": 606,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7383,
-			"dropRate": 0.9833510921683537
+			"timesDropped": 606,
+			"dropRate": 1
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 2292,
-			"dropRate": 0.30527437400106555
+			"timesDropped": 181,
+			"dropRate": 0.2986798679867987
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 2238,
-			"dropRate": 0.29808204581779435
+			"timesDropped": 179,
+			"dropRate": 0.2953795379537954
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1474,
-			"dropRate": 0.19632392115077252
+			"timesDropped": 117,
+			"dropRate": 0.19306930693069307
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1422,
-			"dropRate": 0.18939797549280768
+			"timesDropped": 99,
+			"dropRate": 0.16336633663366337
 		},
 		{
 			"itemName": "Mind Stone",
-			"timesDropped": 1157,
-			"dropRate": 0.15410229088971764
+			"timesDropped": 91,
+			"dropRate": 0.15016501650165018
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 1130,
-			"dropRate": 0.15050612679808203
+			"timesDropped": 84,
+			"dropRate": 0.13861386138613863
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 1080,
-			"dropRate": 0.14384656366542356
+			"timesDropped": 82,
+			"dropRate": 0.1353135313531353
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 873,
-			"dropRate": 0.11627597229621736
+			"timesDropped": 72,
+			"dropRate": 0.1188118811881188
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 770,
-			"dropRate": 0.10255727224294087
+			"timesDropped": 69,
+			"dropRate": 0.11386138613861387
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 440,
-			"dropRate": 0.05860415556739478
-		},
-		{
-			"itemName": "Emerald Bangle",
-			"timesDropped": 390,
-			"dropRate": 0.05194459243473628
+			"timesDropped": 42,
+			"dropRate": 0.06930693069306931
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 358,
-			"dropRate": 0.04768247202983484
+			"timesDropped": 39,
+			"dropRate": 0.06435643564356436
+		},
+		{
+			"itemName": "Emerald Bangle",
+			"timesDropped": 35,
+			"dropRate": 0.057755775577557754
 		},
 		{
 			"itemName": "Sudden Death Rune",
-			"timesDropped": 327,
-			"dropRate": 0.043553542887586574
+			"timesDropped": 31,
+			"dropRate": 0.05115511551155116
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 295,
-			"dropRate": 0.039291422482685134
-		},
-		{
-			"itemName": "Energy Ring",
-			"timesDropped": 165,
-			"dropRate": 0.021976558337773042
-		},
-		{
-			"itemName": "Blue Gem",
-			"timesDropped": 127,
-			"dropRate": 0.016915290356952585
+			"timesDropped": 30,
+			"dropRate": 0.04950495049504951
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 98,
-			"dropRate": 0.013052743740010656
+			"timesDropped": 12,
+			"dropRate": 0.019801980198019802
 		},
 		{
-			"itemName": "Violet Gem",
-			"timesDropped": 75,
-			"dropRate": 0.009989344698987747
-		},
-		{
-			"itemName": "Platinum Amulet",
-			"timesDropped": 72,
-			"dropRate": 0.009589770911028236
-		},
-		{
-			"itemName": "Skull Staff",
-			"timesDropped": 72,
-			"dropRate": 0.009589770911028236
+			"itemName": "Energy Ring",
+			"timesDropped": 11,
+			"dropRate": 0.018151815181518153
 		},
 		{
 			"itemName": "Book (Orange)",
-			"timesDropped": 66,
-			"dropRate": 0.008790623335109217
+			"timesDropped": 8,
+			"dropRate": 0.013201320132013201
 		},
 		{
-			"itemName": "Crown Armor",
-			"timesDropped": 66,
-			"dropRate": 0.008790623335109217
+			"itemName": "Blue Gem",
+			"timesDropped": 6,
+			"dropRate": 0.009900990099009901
+		},
+		{
+			"itemName": "Violet Gem",
+			"timesDropped": 6,
+			"dropRate": 0.009900990099009901
+		},
+		{
+			"itemName": "Skull Staff",
+			"timesDropped": 4,
+			"dropRate": 0.006600660066006601
+		},
+		{
+			"itemName": "Platinum Amulet",
+			"timesDropped": 3,
+			"dropRate": 0.0049504950495049506
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 44,
-			"dropRate": 0.005860415556739478
+			"timesDropped": 2,
+			"dropRate": 0.0033003300330033004
 		},
 		{
-			"itemName": "Boots of Haste",
-			"timesDropped": 10,
-			"dropRate": 0.0013319126265316996
-		},
-		{
-			"itemName": "Mysterious Voodoo Skull",
-			"timesDropped": 8,
-			"dropRate": 0.0010655301012253596
-		},
-		{
-			"itemName": "Abyss Hammer",
-			"timesDropped": 5,
-			"dropRate": 0.0006659563132658498
+			"itemName": "Crown Armor",
+			"timesDropped": 1,
+			"dropRate": 0.0016501650165016502
 		}
 	]
 }

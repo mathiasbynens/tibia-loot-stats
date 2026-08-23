@@ -1,61 +1,66 @@
 {
 	"monsterName": "Crypt Warrior",
-	"timesKilled": 6708,
+	"timesKilled": 1391,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5294,
-			"dropRate": 0.7892069171138939
+			"timesDropped": 1114,
+			"dropRate": 0.800862688713156
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 4093,
-			"dropRate": 0.6101669648181276
+			"timesDropped": 849,
+			"dropRate": 0.6103522645578721
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 2062,
-			"dropRate": 0.3073941562313655
+			"timesDropped": 441,
+			"dropRate": 0.3170381020848311
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 1353,
-			"dropRate": 0.2016994633273703
+			"timesDropped": 272,
+			"dropRate": 0.19554277498202732
 		},
 		{
 			"itemName": "Pelvis Bone",
-			"timesDropped": 1302,
-			"dropRate": 0.19409660107334525
+			"timesDropped": 263,
+			"dropRate": 0.18907260963335729
 		},
 		{
 			"itemName": "Unholy Bone",
-			"timesDropped": 789,
-			"dropRate": 0.11762075134168157
-		},
-		{
-			"itemName": "Brown Mushroom",
-			"timesDropped": 348,
-			"dropRate": 0.0518783542039356
+			"timesDropped": 151,
+			"dropRate": 0.10855499640546369
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 322,
-			"dropRate": 0.04800238521168754
+			"timesDropped": 72,
+			"dropRate": 0.05176132278936017
+		},
+		{
+			"itemName": "Brown Mushroom",
+			"timesDropped": 56,
+			"dropRate": 0.040258806613946804
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 199,
-			"dropRate": 0.029666070363744784
+			"timesDropped": 35,
+			"dropRate": 0.02516175413371675
 		},
 		{
 			"itemName": "Mammoth Whopper",
-			"timesDropped": 129,
-			"dropRate": 0.019230769230769232
+			"timesDropped": 30,
+			"dropRate": 0.021567217828900073
 		},
 		{
 			"itemName": "Ruthless Axe",
-			"timesDropped": 35,
-			"dropRate": 0.005217650566487776
+			"timesDropped": 11,
+			"dropRate": 0.007907979870596693
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 10,
+			"dropRate": 0.007189072609633357
 		}
 	]
 }

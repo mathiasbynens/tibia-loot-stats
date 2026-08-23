@@ -1,81 +1,86 @@
 {
 	"monsterName": "Sorcerer's Apparition",
-	"timesKilled": 2407,
+	"timesKilled": 1586,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1367,
-			"dropRate": 0.5679268799335272
+			"timesDropped": 888,
+			"dropRate": 0.5598991172761665
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1188,
-			"dropRate": 0.493560448691317
+			"timesDropped": 795,
+			"dropRate": 0.5012610340479193
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 121,
-			"dropRate": 0.050270045700041545
-		},
-		{
-			"itemName": "Ring of Red Plasma",
-			"timesDropped": 105,
-			"dropRate": 0.043622766929788115
+			"timesDropped": 91,
+			"dropRate": 0.05737704918032787
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 94,
-			"dropRate": 0.039052762775238885
+			"timesDropped": 69,
+			"dropRate": 0.043505674653215635
+		},
+		{
+			"itemName": "Ring of Red Plasma",
+			"timesDropped": 38,
+			"dropRate": 0.02395964691046658
+		},
+		{
+			"itemName": "Ring of Orange Plasma",
+			"timesDropped": 37,
+			"dropRate": 0.023329129886506934
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 57,
-			"dropRate": 0.023680930619027835
-		},
-		{
-			"itemName": "Glacier Amulet",
-			"timesDropped": 50,
-			"dropRate": 0.02077274615704196
+			"timesDropped": 36,
+			"dropRate": 0.02269861286254729
 		},
 		{
 			"itemName": "Wand of Everblazing",
-			"timesDropped": 42,
-			"dropRate": 0.017449106771915246
-		},
-		{
-			"itemName": "Violet Gem",
-			"timesDropped": 40,
-			"dropRate": 0.016618196925633568
+			"timesDropped": 35,
+			"dropRate": 0.022068095838587643
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 38,
-			"dropRate": 0.01578728707935189
+			"timesDropped": 33,
+			"dropRate": 0.02080706179066835
 		},
 		{
 			"itemName": "Ring of Green Plasma",
-			"timesDropped": 35,
-			"dropRate": 0.014540922309929373
+			"timesDropped": 27,
+			"dropRate": 0.017023959646910468
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 27,
-			"dropRate": 0.011217282924802658
-		},
-		{
-			"itemName": "Alloy Legs",
 			"timesDropped": 26,
-			"dropRate": 0.01080182800166182
+			"dropRate": 0.01639344262295082
 		},
 		{
-			"itemName": "Wand of Starstorm",
+			"itemName": "Violet Gem",
+			"timesDropped": 23,
+			"dropRate": 0.014501891551071878
+		},
+		{
+			"itemName": "Glacier Amulet",
 			"timesDropped": 17,
-			"dropRate": 0.007062733693394266
+			"dropRate": 0.010718789407313998
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 16,
-			"dropRate": 0.006647278770253427
+			"timesDropped": 11,
+			"dropRate": 0.0069356872635561164
+		},
+		{
+			"itemName": "Wand of Starstorm",
+			"timesDropped": 8,
+			"dropRate": 0.005044136191677175
+		},
+		{
+			"itemName": "Alloy Legs",
+			"timesDropped": 7,
+			"dropRate": 0.004413619167717529
 		}
 	]
 }

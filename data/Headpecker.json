@@ -1,66 +1,66 @@
 {
 	"monsterName": "Headpecker",
-	"timesKilled": 904,
+	"timesKilled": 1640,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 340,
-			"dropRate": 0.37610619469026546
+			"timesDropped": 508,
+			"dropRate": 0.3097560975609756
 		},
 		{
 			"itemName": "Headpecker Beak",
-			"timesDropped": 106,
-			"dropRate": 0.1172566371681416
+			"timesDropped": 205,
+			"dropRate": 0.125
 		},
 		{
 			"itemName": "Headpecker Feather",
-			"timesDropped": 60,
-			"dropRate": 0.06637168141592921
-		},
-		{
-			"itemName": "Carrot",
-			"timesDropped": 50,
-			"dropRate": 0.05530973451327434
+			"timesDropped": 117,
+			"dropRate": 0.07134146341463414
 		},
 		{
 			"itemName": "Furry Club",
-			"timesDropped": 42,
-			"dropRate": 0.046460176991150445
+			"timesDropped": 86,
+			"dropRate": 0.0524390243902439
+		},
+		{
+			"itemName": "Carrot",
+			"timesDropped": 83,
+			"dropRate": 0.05060975609756098
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 35,
-			"dropRate": 0.03871681415929203
+			"timesDropped": 65,
+			"dropRate": 0.039634146341463415
 		},
 		{
 			"itemName": "Spike Sword",
-			"timesDropped": 32,
-			"dropRate": 0.035398230088495575
+			"timesDropped": 52,
+			"dropRate": 0.03170731707317073
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 17,
-			"dropRate": 0.018805309734513276
-		},
-		{
-			"itemName": "Gold Ingot",
-			"timesDropped": 13,
-			"dropRate": 0.014380530973451327
-		},
-		{
-			"itemName": "Titan Axe",
-			"timesDropped": 11,
-			"dropRate": 0.012168141592920354
+			"timesDropped": 43,
+			"dropRate": 0.02621951219512195
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 8,
-			"dropRate": 0.008849557522123894
+			"timesDropped": 31,
+			"dropRate": 0.018902439024390243
+		},
+		{
+			"itemName": "Titan Axe",
+			"timesDropped": 27,
+			"dropRate": 0.016463414634146342
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 8,
-			"dropRate": 0.008849557522123894
+			"timesDropped": 13,
+			"dropRate": 0.007926829268292683
+		},
+		{
+			"itemName": "Gold Ingot",
+			"timesDropped": 10,
+			"dropRate": 0.006097560975609756
 		}
 	]
 }

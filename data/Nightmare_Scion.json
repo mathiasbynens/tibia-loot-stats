@@ -1,66 +1,66 @@
 {
 	"monsterName": "Nightmare Scion",
-	"timesKilled": 20151,
+	"timesKilled": 23610,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19554,
-			"dropRate": 0.9703736787256215
+			"timesDropped": 22897,
+			"dropRate": 0.9698009318085556
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 10145,
-			"dropRate": 0.5034489603493623
+			"timesDropped": 11862,
+			"dropRate": 0.5024142312579416
 		},
 		{
 			"itemName": "Essence of a Bad Dream",
-			"timesDropped": 1621,
-			"dropRate": 0.08044265793260881
+			"timesDropped": 1911,
+			"dropRate": 0.0809402795425667
 		},
 		{
 			"itemName": "Scythe Leg",
-			"timesDropped": 998,
-			"dropRate": 0.049526078110267484
+			"timesDropped": 1147,
+			"dropRate": 0.048581109699279965
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 215,
-			"dropRate": 0.010669445685077664
+			"timesDropped": 245,
+			"dropRate": 0.01037695891571368
 		},
 		{
 			"itemName": "Crown Helmet",
-			"timesDropped": 145,
-			"dropRate": 0.007195672671331447
+			"timesDropped": 165,
+			"dropRate": 0.00698856416772554
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 73,
-			"dropRate": 0.003622649000049625
-		},
-		{
-			"itemName": "Focus Cape",
-			"timesDropped": 67,
-			"dropRate": 0.003324897027442807
+			"timesDropped": 82,
+			"dropRate": 0.0034731046166878443
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 57,
-			"dropRate": 0.002828643739764776
+			"timesDropped": 78,
+			"dropRate": 0.003303684879288437
+		},
+		{
+			"itemName": "Focus Cape",
+			"timesDropped": 76,
+			"dropRate": 0.0032189750105887337
 		},
 		{
 			"itemName": "Shadow Sceptre",
-			"timesDropped": 49,
-			"dropRate": 0.002431641109622351
+			"timesDropped": 57,
+			"dropRate": 0.0024142312579415503
 		},
 		{
 			"itemName": "Bar of Chocolate",
-			"timesDropped": 48,
-			"dropRate": 0.002382015780854548
+			"timesDropped": 52,
+			"dropRate": 0.0022024565861922915
 		},
 		{
 			"itemName": "Crystal of Focus",
-			"timesDropped": 22,
-			"dropRate": 0.0010917572328916678
+			"timesDropped": 27,
+			"dropRate": 0.0011435832274459975
 		}
 	]
 }

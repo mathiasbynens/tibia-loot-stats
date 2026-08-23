@@ -1,86 +1,86 @@
 {
 	"monsterName": "Pirate Corsair",
-	"timesKilled": 9276,
+	"timesKilled": 11478,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5137,
-			"dropRate": 0.5537947391116861
+			"timesDropped": 6358,
+			"dropRate": 0.5539292559679386
 		},
 		{
 			"itemName": "Compass",
-			"timesDropped": 946,
-			"dropRate": 0.10198361362656318
+			"timesDropped": 1163,
+			"dropRate": 0.10132427252134518
 		},
 		{
 			"itemName": "Sabre",
-			"timesDropped": 909,
-			"dropRate": 0.09799482535575679
+			"timesDropped": 1132,
+			"dropRate": 0.09862345356333856
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 749,
-			"dropRate": 0.0807460112117292
+			"timesDropped": 908,
+			"dropRate": 0.07910785851193587
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 174,
-			"dropRate": 0.018758085381630013
-		},
-		{
-			"itemName": "Dark Shield",
-			"timesDropped": 102,
-			"dropRate": 0.010996119016817595
+			"timesDropped": 225,
+			"dropRate": 0.019602718243596447
 		},
 		{
 			"itemName": "Pirate Hat",
-			"timesDropped": 102,
-			"dropRate": 0.010996119016817595
+			"timesDropped": 126,
+			"dropRate": 0.01097752221641401
+		},
+		{
+			"itemName": "Dark Shield",
+			"timesDropped": 120,
+			"dropRate": 0.010454783063251438
 		},
 		{
 			"itemName": "Pirate Backpack",
-			"timesDropped": 95,
-			"dropRate": 0.010241483398016386
+			"timesDropped": 118,
+			"dropRate": 0.010280536678863913
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 75,
-			"dropRate": 0.008085381630012937
+			"timesDropped": 93,
+			"dropRate": 0.008102456874019864
 		},
 		{
 			"itemName": "Hook",
-			"timesDropped": 53,
-			"dropRate": 0.005713669685209142
+			"timesDropped": 65,
+			"dropRate": 0.005663007492594529
 		},
 		{
 			"itemName": "Peg Leg",
-			"timesDropped": 51,
-			"dropRate": 0.005498059508408797
+			"timesDropped": 62,
+			"dropRate": 0.005401637916013243
 		},
 		{
 			"itemName": "Eye Patch",
-			"timesDropped": 46,
-			"dropRate": 0.004959034066407934
+			"timesDropped": 56,
+			"dropRate": 0.004878898762850671
 		},
 		{
 			"itemName": "Pirate Boots",
-			"timesDropped": 30,
-			"dropRate": 0.003234152652005175
-		},
-		{
-			"itemName": "Skull Candle",
-			"timesDropped": 11,
-			"dropRate": 0.0011858559724018973
+			"timesDropped": 35,
+			"dropRate": 0.0030493117267816694
 		},
 		{
 			"itemName": "Rum Flask",
-			"timesDropped": 9,
-			"dropRate": 0.0009702457956015524
+			"timesDropped": 15,
+			"dropRate": 0.0013068478829064297
+		},
+		{
+			"itemName": "Skull Candle",
+			"timesDropped": 13,
+			"dropRate": 0.0011326014985189056
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 8,
-			"dropRate": 0.0008624407072013799
+			"timesDropped": 10,
+			"dropRate": 0.0008712319219376198
 		}
 	]
 }

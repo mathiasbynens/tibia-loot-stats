@@ -1,26 +1,26 @@
 {
 	"monsterName": "Insectoid Scout",
-	"timesKilled": 1280,
+	"timesKilled": 1298,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1048,
-			"dropRate": 0.81875
+			"timesDropped": 1063,
+			"dropRate": 0.8189522342064715
 		},
 		{
 			"itemName": "Ripper Lance",
-			"timesDropped": 4,
-			"dropRate": 0.003125
+			"timesDropped": 5,
+			"dropRate": 0.003852080123266564
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 2,
-			"dropRate": 0.0015625
+			"dropRate": 0.0015408320493066256
 		},
 		{
 			"itemName": "Club Ring",
 			"timesDropped": 1,
-			"dropRate": 0.00078125
+			"dropRate": 0.0007704160246533128
 		}
 	]
 }

@@ -1,46 +1,51 @@
 {
 	"monsterName": "Evil Prospector",
-	"timesKilled": 1794,
+	"timesKilled": 640,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1794,
+			"timesDropped": 640,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Spectral Silver Nugget",
-			"timesDropped": 183,
-			"dropRate": 0.1020066889632107
+			"timesDropped": 73,
+			"dropRate": 0.1140625
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 155,
-			"dropRate": 0.08639910813823858
-		},
-		{
-			"itemName": "Emerald Bangle",
-			"timesDropped": 84,
-			"dropRate": 0.046822742474916385
-		},
-		{
-			"itemName": "Lightning Pendant",
-			"timesDropped": 77,
-			"dropRate": 0.04292084726867335
+			"timesDropped": 69,
+			"dropRate": 0.1078125
 		},
 		{
 			"itemName": "Strange Talisman",
-			"timesDropped": 63,
-			"dropRate": 0.03511705685618729
+			"timesDropped": 24,
+			"dropRate": 0.0375
 		},
 		{
-			"itemName": "Lightning Headband",
-			"timesDropped": 61,
-			"dropRate": 0.03400222965440357
+			"itemName": "Emerald Bangle",
+			"timesDropped": 23,
+			"dropRate": 0.0359375
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 23,
+			"dropRate": 0.0359375
+		},
+		{
+			"itemName": "Lightning Pendant",
+			"timesDropped": 21,
+			"dropRate": 0.0328125
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 32,
-			"dropRate": 0.017837235228539576
+			"timesDropped": 21,
+			"dropRate": 0.0328125
+		},
+		{
+			"itemName": "Lightning Headband",
+			"timesDropped": 18,
+			"dropRate": 0.028125
 		}
 	]
 }

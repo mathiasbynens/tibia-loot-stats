@@ -1,106 +1,91 @@
 {
 	"monsterName": "Armadile",
-	"timesKilled": 2436,
+	"timesKilled": 61,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2436,
+			"timesDropped": 61,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2324,
-			"dropRate": 0.9540229885057471
+			"timesDropped": 59,
+			"dropRate": 0.9672131147540983
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 378,
-			"dropRate": 0.15517241379310345
+			"timesDropped": 13,
+			"dropRate": 0.21311475409836064
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 372,
-			"dropRate": 0.15270935960591134
-		},
-		{
-			"itemName": "Strong Mana Potion",
-			"timesDropped": 367,
-			"dropRate": 0.1506568144499179
+			"timesDropped": 11,
+			"dropRate": 0.18032786885245902
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 364,
-			"dropRate": 0.14942528735632185
-		},
-		{
-			"itemName": "Strong Health Potion",
-			"timesDropped": 358,
-			"dropRate": 0.1469622331691297
-		},
-		{
-			"itemName": "Crystalline Spikes",
-			"timesDropped": 350,
-			"dropRate": 0.14367816091954022
+			"timesDropped": 9,
+			"dropRate": 0.14754098360655737
 		},
 		{
 			"itemName": "Battle Stone",
-			"timesDropped": 299,
-			"dropRate": 0.12274220032840723
-		},
-		{
-			"itemName": "Envenomed Arrow",
-			"timesDropped": 267,
-			"dropRate": 0.10960591133004927
+			"timesDropped": 8,
+			"dropRate": 0.13114754098360656
 		},
 		{
 			"itemName": "Drill Bolt",
-			"timesDropped": 186,
-			"dropRate": 0.07635467980295567
+			"timesDropped": 8,
+			"dropRate": 0.13114754098360656
+		},
+		{
+			"itemName": "Crystalline Spikes",
+			"timesDropped": 7,
+			"dropRate": 0.11475409836065574
+		},
+		{
+			"itemName": "Strong Mana Potion",
+			"timesDropped": 7,
+			"dropRate": 0.11475409836065574
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 153,
-			"dropRate": 0.06280788177339902
+			"timesDropped": 5,
+			"dropRate": 0.08196721311475409
+		},
+		{
+			"itemName": "Strong Health Potion",
+			"timesDropped": 5,
+			"dropRate": 0.08196721311475409
+		},
+		{
+			"itemName": "Envenomed Arrow",
+			"timesDropped": 3,
+			"dropRate": 0.04918032786885246
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 144,
-			"dropRate": 0.059113300492610835
+			"timesDropped": 3,
+			"dropRate": 0.04918032786885246
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 99,
-			"dropRate": 0.04064039408866995
-		},
-		{
-			"itemName": "Terra Boots",
-			"timesDropped": 63,
-			"dropRate": 0.02586206896551724
+			"timesDropped": 3,
+			"dropRate": 0.04918032786885246
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 37,
-			"dropRate": 0.015188834154351396
+			"timesDropped": 3,
+			"dropRate": 0.04918032786885246
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 30,
-			"dropRate": 0.012315270935960592
-		},
-		{
-			"itemName": "Bonebreaker",
-			"timesDropped": 26,
-			"dropRate": 0.010673234811165846
+			"timesDropped": 1,
+			"dropRate": 0.01639344262295082
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 15,
-			"dropRate": 0.006157635467980296
-		},
-		{
-			"itemName": "Crystalline Armor",
-			"timesDropped": 5,
-			"dropRate": 0.002052545155993432
+			"timesDropped": 1,
+			"dropRate": 0.01639344262295082
 		}
 	]
 }

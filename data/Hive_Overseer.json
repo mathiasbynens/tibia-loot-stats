@@ -1,81 +1,81 @@
 {
 	"monsterName": "Hive Overseer",
-	"timesKilled": 4048,
+	"timesKilled": 4457,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3981,
-			"dropRate": 0.9834486166007905
+			"timesDropped": 4384,
+			"dropRate": 0.9836212699124972
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3428,
-			"dropRate": 0.8468379446640316
+			"timesDropped": 3770,
+			"dropRate": 0.8458604442450078
 		},
 		{
 			"itemName": "Kollos Shell",
-			"timesDropped": 1174,
-			"dropRate": 0.2900197628458498
+			"timesDropped": 1317,
+			"dropRate": 0.2954902400717972
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 1155,
-			"dropRate": 0.28532608695652173
-		},
-		{
-			"itemName": "Great Mana Potion",
-			"timesDropped": 750,
-			"dropRate": 0.18527667984189725
+			"timesDropped": 1271,
+			"dropRate": 0.2851693964550146
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 746,
-			"dropRate": 0.1842885375494071
+			"timesDropped": 821,
+			"dropRate": 0.184204621943011
+		},
+		{
+			"itemName": "Great Mana Potion",
+			"timesDropped": 816,
+			"dropRate": 0.18308279111509984
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 641,
-			"dropRate": 0.1583498023715415
+			"timesDropped": 710,
+			"dropRate": 0.15929997756338343
 		},
 		{
 			"itemName": "Gooey Mass",
-			"timesDropped": 512,
-			"dropRate": 0.12648221343873517
+			"timesDropped": 552,
+			"dropRate": 0.12385012340139107
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 497,
-			"dropRate": 0.12277667984189723
+			"timesDropped": 542,
+			"dropRate": 0.12160646174556877
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 254,
-			"dropRate": 0.06274703557312253
+			"timesDropped": 286,
+			"dropRate": 0.06416872335651784
 		},
 		{
 			"itemName": "Hive Scythe",
-			"timesDropped": 62,
-			"dropRate": 0.015316205533596838
+			"timesDropped": 71,
+			"dropRate": 0.015929997756338344
 		},
 		{
 			"itemName": "Calopteryx Cape",
-			"timesDropped": 60,
-			"dropRate": 0.014822134387351778
+			"timesDropped": 68,
+			"dropRate": 0.015256899259591653
 		},
 		{
 			"itemName": "Carapace Shield",
-			"timesDropped": 37,
-			"dropRate": 0.009140316205533596
+			"timesDropped": 42,
+			"dropRate": 0.009423378954453668
 		},
 		{
 			"itemName": "Hive Bow",
-			"timesDropped": 23,
-			"dropRate": 0.005681818181818182
+			"timesDropped": 27,
+			"dropRate": 0.006057886470720216
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 19,
-			"dropRate": 0.004693675889328063
+			"timesDropped": 21,
+			"dropRate": 0.004711689477226834
 		}
 	]
 }

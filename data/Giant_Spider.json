@@ -1,71 +1,71 @@
 {
 	"monsterName": "Giant Spider",
-	"timesKilled": 90834,
+	"timesKilled": 104385,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 90819,
-			"dropRate": 0.9998348635973314
+			"timesDropped": 104370,
+			"dropRate": 0.9998563011927001
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 10852,
-			"dropRate": 0.11947068278397957
+			"timesDropped": 12451,
+			"dropRate": 0.11927958997940317
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 9097,
-			"dropRate": 0.10014972367175287
+			"timesDropped": 10478,
+			"dropRate": 0.10037840685922307
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 7172,
-			"dropRate": 0.07895721866261532
+			"timesDropped": 8237,
+			"dropRate": 0.0789098050486181
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 4631,
-			"dropRate": 0.05098311205055376
+			"timesDropped": 5308,
+			"dropRate": 0.05085021794319107
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 4447,
-			"dropRate": 0.04895743884448554
+			"timesDropped": 5120,
+			"dropRate": 0.049049192891699
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 3230,
-			"dropRate": 0.03555937204130612
+			"timesDropped": 3699,
+			"dropRate": 0.0354361258801552
 		},
 		{
 			"itemName": "Spider Silk",
-			"timesDropped": 1798,
-			"dropRate": 0.019794350133210032
+			"timesDropped": 2069,
+			"dropRate": 0.01982085548689946
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 750,
-			"dropRate": 0.008256820133430213
+			"timesDropped": 852,
+			"dropRate": 0.008162092254634287
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 649,
-			"dropRate": 0.007144901688794944
+			"timesDropped": 749,
+			"dropRate": 0.007175360444508311
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 441,
-			"dropRate": 0.004855010238456966
-		},
-		{
-			"itemName": "Platinum Amulet",
-			"timesDropped": 248,
-			"dropRate": 0.0027302551907875906
+			"timesDropped": 515,
+			"dropRate": 0.00493365905062988
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 246,
-			"dropRate": 0.00270823700376511
+			"timesDropped": 284,
+			"dropRate": 0.002720697418211429
+		},
+		{
+			"itemName": "Platinum Amulet",
+			"timesDropped": 284,
+			"dropRate": 0.002720697418211429
 		}
 	]
 }

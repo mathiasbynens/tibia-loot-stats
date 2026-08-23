@@ -1,86 +1,91 @@
 {
 	"monsterName": "Vibrant Phantom",
-	"timesKilled": 5695,
+	"timesKilled": 2231,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 3094,
-			"dropRate": 0.5432835820895522
+			"timesDropped": 1247,
+			"dropRate": 0.5589421783953384
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1509,
-			"dropRate": 0.26496927129060577
+			"timesDropped": 613,
+			"dropRate": 0.27476467951591216
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 510,
-			"dropRate": 0.08955223880597014
-		},
-		{
-			"itemName": "Gold Ingot",
-			"timesDropped": 447,
-			"dropRate": 0.07848990342405619
+			"timesDropped": 205,
+			"dropRate": 0.09188704616763783
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 401,
-			"dropRate": 0.0704126426690079
+			"timesDropped": 180,
+			"dropRate": 0.08068130883012102
+		},
+		{
+			"itemName": "Gold Ingot",
+			"timesDropped": 164,
+			"dropRate": 0.07350963693411026
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 340,
-			"dropRate": 0.05970149253731343
+			"timesDropped": 130,
+			"dropRate": 0.05826983415508741
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 262,
-			"dropRate": 0.046005267778753293
+			"timesDropped": 93,
+			"dropRate": 0.04168534289556253
 		},
 		{
 			"itemName": "Vibrant Heart",
-			"timesDropped": 215,
-			"dropRate": 0.03775241439859526
-		},
-		{
-			"itemName": "Green Gem",
-			"timesDropped": 200,
-			"dropRate": 0.03511852502194908
-		},
-		{
-			"itemName": "Blue Gem",
-			"timesDropped": 148,
-			"dropRate": 0.025987708516242318
-		},
-		{
-			"itemName": "Underworld Rod",
-			"timesDropped": 125,
-			"dropRate": 0.021949078138718173
+			"timesDropped": 73,
+			"dropRate": 0.03272075302554908
 		},
 		{
 			"itemName": "Vibrant Robe",
-			"timesDropped": 120,
-			"dropRate": 0.021071115013169446
+			"timesDropped": 64,
+			"dropRate": 0.02868668758404303
+		},
+		{
+			"itemName": "Underworld Rod",
+			"timesDropped": 62,
+			"dropRate": 0.027790228597041687
+		},
+		{
+			"itemName": "Blue Gem",
+			"timesDropped": 58,
+			"dropRate": 0.025997310623038995
+		},
+		{
+			"itemName": "Green Gem",
+			"timesDropped": 58,
+			"dropRate": 0.025997310623038995
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 118,
-			"dropRate": 0.020719929762949955
-		},
-		{
-			"itemName": "Blue Crystal Shard",
-			"timesDropped": 110,
-			"dropRate": 0.019315188762071993
+			"timesDropped": 40,
+			"dropRate": 0.017929179740026894
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 92,
-			"dropRate": 0.016154521510096578
+			"timesDropped": 37,
+			"dropRate": 0.016584491259524877
+		},
+		{
+			"itemName": "Blue Crystal Shard",
+			"timesDropped": 33,
+			"dropRate": 0.014791573285522188
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 73,
-			"dropRate": 0.012818261633011413
+			"timesDropped": 33,
+			"dropRate": 0.014791573285522188
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 8,
+			"dropRate": 0.003585835948005379
 		}
 	]
 }

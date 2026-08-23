@@ -1,121 +1,121 @@
 {
 	"monsterName": "Eyeless Devourer",
-	"timesKilled": 2860,
+	"timesKilled": 3343,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2860,
+			"timesDropped": 3343,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 853,
-			"dropRate": 0.29825174825174827
+			"timesDropped": 993,
+			"dropRate": 0.2970385880945259
 		},
 		{
 			"itemName": "Eyeless Devourer Maw",
-			"timesDropped": 393,
-			"dropRate": 0.1374125874125874
+			"timesDropped": 455,
+			"dropRate": 0.13610529464552798
 		},
 		{
 			"itemName": "Eyeless Devourer Legs",
-			"timesDropped": 242,
-			"dropRate": 0.08461538461538462
+			"timesDropped": 283,
+			"dropRate": 0.08465450194436135
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 218,
-			"dropRate": 0.07622377622377623
+			"timesDropped": 258,
+			"dropRate": 0.07717618905174993
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 192,
-			"dropRate": 0.06713286713286713
-		},
-		{
-			"itemName": "Violet Crystal Shard",
-			"timesDropped": 185,
-			"dropRate": 0.06468531468531469
+			"timesDropped": 227,
+			"dropRate": 0.06790308106491176
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 180,
-			"dropRate": 0.06293706293706294
+			"timesDropped": 211,
+			"dropRate": 0.06311696081364045
+		},
+		{
+			"itemName": "Violet Crystal Shard",
+			"timesDropped": 208,
+			"dropRate": 0.06221956326652707
 		},
 		{
 			"itemName": "Eyeless Devourer Tongue",
-			"timesDropped": 100,
-			"dropRate": 0.03496503496503497
+			"timesDropped": 118,
+			"dropRate": 0.03529763685312594
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 89,
-			"dropRate": 0.031118881118881118
+			"timesDropped": 105,
+			"dropRate": 0.031408914148967994
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 73,
-			"dropRate": 0.025524475524475523
+			"timesDropped": 90,
+			"dropRate": 0.026921926413401135
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 66,
-			"dropRate": 0.023076923076923078
+			"timesDropped": 76,
+			"dropRate": 0.02273407119353874
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 53,
-			"dropRate": 0.01853146853146853
+			"timesDropped": 66,
+			"dropRate": 0.019742746036494167
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 38,
-			"dropRate": 0.013286713286713287
-		},
-		{
-			"itemName": "Noble Axe",
-			"timesDropped": 38,
-			"dropRate": 0.013286713286713287
+			"timesDropped": 46,
+			"dropRate": 0.013760095722405025
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 38,
-			"dropRate": 0.013286713286713287
+			"timesDropped": 43,
+			"dropRate": 0.012862698175291655
 		},
 		{
 			"itemName": "Relic Sword",
-			"timesDropped": 35,
-			"dropRate": 0.012237762237762238
+			"timesDropped": 42,
+			"dropRate": 0.012563565659587198
+		},
+		{
+			"itemName": "Noble Axe",
+			"timesDropped": 41,
+			"dropRate": 0.01226443314388274
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 31,
-			"dropRate": 0.010839160839160839
-		},
-		{
-			"itemName": "Jade Hammer",
-			"timesDropped": 28,
-			"dropRate": 0.009790209790209791
+			"timesDropped": 36,
+			"dropRate": 0.010768770565360455
 		},
 		{
 			"itemName": "Ornate Crossbow",
-			"timesDropped": 27,
-			"dropRate": 0.00944055944055944
+			"timesDropped": 33,
+			"dropRate": 0.009871373018247084
+		},
+		{
+			"itemName": "Jade Hammer",
+			"timesDropped": 29,
+			"dropRate": 0.008674842955429255
 		},
 		{
 			"itemName": "Execowtioner Axe",
-			"timesDropped": 19,
-			"dropRate": 0.006643356643356644
+			"timesDropped": 26,
+			"dropRate": 0.007777445408315884
 		},
 		{
 			"itemName": "Shadow Sceptre",
-			"timesDropped": 18,
-			"dropRate": 0.006293706293706294
+			"timesDropped": 21,
+			"dropRate": 0.006281782829793599
 		},
 		{
 			"itemName": "Metal Bat",
-			"timesDropped": 15,
-			"dropRate": 0.005244755244755245
+			"timesDropped": 20,
+			"dropRate": 0.005982650314089142
 		}
 	]
 }

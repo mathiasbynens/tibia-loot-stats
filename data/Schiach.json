@@ -1,96 +1,96 @@
 {
 	"monsterName": "Schiach",
-	"timesKilled": 9138,
+	"timesKilled": 19028,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9138,
+			"timesDropped": 19028,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Fireworks Capsule",
-			"timesDropped": 1246,
-			"dropRate": 0.1363536878966951
+			"timesDropped": 2612,
+			"dropRate": 0.13727138953121715
 		},
 		{
 			"itemName": "Broken Bell",
-			"timesDropped": 919,
-			"dropRate": 0.10056905230903918
+			"timesDropped": 1874,
+			"dropRate": 0.09848644103426529
 		},
 		{
 			"itemName": "Grainy Fireworks Powder",
-			"timesDropped": 712,
-			"dropRate": 0.07791639308382578
-		},
-		{
-			"itemName": "Versicolour Fireworks Powder",
-			"timesDropped": 452,
-			"dropRate": 0.04946377763186693
+			"timesDropped": 1556,
+			"dropRate": 0.08177422745427791
 		},
 		{
 			"itemName": "Percht Horns",
-			"timesDropped": 439,
-			"dropRate": 0.04804114685926899
+			"timesDropped": 930,
+			"dropRate": 0.048875341601849906
+		},
+		{
+			"itemName": "Versicolour Fireworks Powder",
+			"timesDropped": 917,
+			"dropRate": 0.0481921379020391
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 381,
-			"dropRate": 0.04169402495075509
+			"timesDropped": 806,
+			"dropRate": 0.04235862938826992
 		},
 		{
 			"itemName": "Blue Fireworks Powder",
-			"timesDropped": 324,
-			"dropRate": 0.03545633617859488
-		},
-		{
-			"itemName": "Bright Bell",
-			"timesDropped": 260,
-			"dropRate": 0.028452615451958853
+			"timesDropped": 671,
+			"dropRate": 0.03526382173638848
 		},
 		{
 			"itemName": "Turquoise Fireworks Powder",
-			"timesDropped": 251,
-			"dropRate": 0.027467717224775662
+			"timesDropped": 669,
+			"dropRate": 0.03515871347487912
 		},
 		{
-			"itemName": "Purple Fireworks Powder",
-			"timesDropped": 239,
-			"dropRate": 0.02615451958853141
+			"itemName": "Bright Bell",
+			"timesDropped": 522,
+			"dropRate": 0.02743325625394156
 		},
 		{
 			"itemName": "Green Fireworks Powder",
-			"timesDropped": 231,
-			"dropRate": 0.025279054497701903
+			"timesDropped": 485,
+			"dropRate": 0.0254887534160185
 		},
 		{
 			"itemName": "Yellow Fireworks Powder",
-			"timesDropped": 225,
-			"dropRate": 0.024622455679579776
+			"timesDropped": 466,
+			"dropRate": 0.02449022493167963
+		},
+		{
+			"itemName": "Purple Fireworks Powder",
+			"timesDropped": 464,
+			"dropRate": 0.024385116670170275
 		},
 		{
 			"itemName": "Orange Fireworks Powder",
-			"timesDropped": 206,
-			"dropRate": 0.022543226088859707
+			"timesDropped": 436,
+			"dropRate": 0.02291360100903931
 		},
 		{
 			"itemName": "Red Fireworks Powder",
-			"timesDropped": 182,
-			"dropRate": 0.019916830816371196
+			"timesDropped": 380,
+			"dropRate": 0.019970569686777382
 		},
 		{
 			"itemName": "Glacier Kilt",
-			"timesDropped": 112,
-			"dropRate": 0.012256511271613044
+			"timesDropped": 240,
+			"dropRate": 0.012612991381122556
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 52,
-			"dropRate": 0.005690523090391771
+			"timesDropped": 121,
+			"dropRate": 0.006359049821315956
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 44,
-			"dropRate": 0.004815057999562267
+			"timesDropped": 100,
+			"dropRate": 0.0052554130754677315
 		}
 	]
 }

@@ -1,81 +1,86 @@
 {
 	"monsterName": "Turbulent Elemental",
-	"timesKilled": 6562,
+	"timesKilled": 1815,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 3688,
-			"dropRate": 0.5620237732398659
+			"timesDropped": 768,
+			"dropRate": 0.4231404958677686
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 1052,
-			"dropRate": 0.16031697653154525
+			"timesDropped": 248,
+			"dropRate": 0.13663911845730028
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 929,
-			"dropRate": 0.14157269125266686
+			"timesDropped": 242,
+			"dropRate": 0.13333333333333333
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 247,
-			"dropRate": 0.037640963120999696
+			"timesDropped": 66,
+			"dropRate": 0.03636363636363636
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 241,
-			"dropRate": 0.03672660774154221
+			"timesDropped": 61,
+			"dropRate": 0.03360881542699724
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 228,
-			"dropRate": 0.034745504419384336
+			"timesDropped": 59,
+			"dropRate": 0.032506887052341595
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 220,
-			"dropRate": 0.03352636391344102
-		},
-		{
-			"itemName": "Northwind Rod",
-			"timesDropped": 160,
-			"dropRate": 0.0243828101188662
+			"timesDropped": 51,
+			"dropRate": 0.02809917355371901
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 148,
-			"dropRate": 0.022554099359951233
+			"timesDropped": 47,
+			"dropRate": 0.025895316804407712
+		},
+		{
+			"itemName": "Northwind Rod",
+			"timesDropped": 37,
+			"dropRate": 0.020385674931129475
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 86,
-			"dropRate": 0.013105760438890583
+			"timesDropped": 17,
+			"dropRate": 0.009366391184573003
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 69,
-			"dropRate": 0.010515086863761049
+			"timesDropped": 14,
+			"dropRate": 0.007713498622589532
+		},
+		{
+			"itemName": "Might Ring",
+			"timesDropped": 13,
+			"dropRate": 0.007162534435261708
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 57,
-			"dropRate": 0.008686376104846084
+			"timesDropped": 12,
+			"dropRate": 0.006611570247933884
 		},
 		{
 			"itemName": "Rubber Cap",
-			"timesDropped": 51,
-			"dropRate": 0.007772020725388601
-		},
-		{
-			"itemName": "Fur Armor",
-			"timesDropped": 38,
-			"dropRate": 0.005790917403230723
+			"timesDropped": 10,
+			"dropRate": 0.005509641873278237
 		},
 		{
 			"itemName": "Crystalline Armor",
-			"timesDropped": 29,
-			"dropRate": 0.004419384334044499
+			"timesDropped": 8,
+			"dropRate": 0.004407713498622589
+		},
+		{
+			"itemName": "Fur Armor",
+			"timesDropped": 6,
+			"dropRate": 0.003305785123966942
 		}
 	]
 }

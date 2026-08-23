@@ -1,101 +1,101 @@
 {
 	"monsterName": "Minotaur Cult Zealot",
-	"timesKilled": 4280,
+	"timesKilled": 4955,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4280,
+			"timesDropped": 4955,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1681,
-			"dropRate": 0.3927570093457944
+			"timesDropped": 1966,
+			"dropRate": 0.39677093844601413
 		},
 		{
 			"itemName": "Purple Robe",
-			"timesDropped": 709,
-			"dropRate": 0.16565420560747662
+			"timesDropped": 810,
+			"dropRate": 0.16347124117053483
 		},
 		{
 			"itemName": "Snakebite Rod",
-			"timesDropped": 517,
-			"dropRate": 0.12079439252336449
+			"timesDropped": 590,
+			"dropRate": 0.11907164480322906
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 504,
-			"dropRate": 0.11775700934579439
+			"timesDropped": 579,
+			"dropRate": 0.11685166498486377
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 417,
-			"dropRate": 0.09742990654205608
+			"timesDropped": 488,
+			"dropRate": 0.09848637739656912
 		},
 		{
 			"itemName": "Taurus Mace",
-			"timesDropped": 276,
-			"dropRate": 0.06448598130841121
+			"timesDropped": 315,
+			"dropRate": 0.06357214934409687
 		},
 		{
 			"itemName": "Minotaur Leather",
-			"timesDropped": 219,
-			"dropRate": 0.05116822429906542
+			"timesDropped": 259,
+			"dropRate": 0.05227043390514632
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 129,
-			"dropRate": 0.03014018691588785
-		},
-		{
-			"itemName": "Small Emerald",
-			"timesDropped": 120,
-			"dropRate": 0.028037383177570093
+			"timesDropped": 146,
+			"dropRate": 0.02946518668012109
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 117,
-			"dropRate": 0.027336448598130843
+			"timesDropped": 143,
+			"dropRate": 0.028859737638748738
+		},
+		{
+			"itemName": "Small Emerald",
+			"timesDropped": 130,
+			"dropRate": 0.026236125126135216
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 114,
-			"dropRate": 0.02663551401869159
-		},
-		{
-			"itemName": "Small Diamond",
-			"timesDropped": 99,
-			"dropRate": 0.023130841121495327
-		},
-		{
-			"itemName": "Small Topaz",
-			"timesDropped": 97,
-			"dropRate": 0.02266355140186916
-		},
-		{
-			"itemName": "Red Piece of Cloth",
-			"timesDropped": 89,
-			"dropRate": 0.020794392523364486
+			"timesDropped": 126,
+			"dropRate": 0.02542885973763875
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 88,
-			"dropRate": 0.020560747663551402
+			"timesDropped": 114,
+			"dropRate": 0.023007063572149343
+		},
+		{
+			"itemName": "Small Topaz",
+			"timesDropped": 112,
+			"dropRate": 0.02260343087790111
+		},
+		{
+			"itemName": "Small Diamond",
+			"timesDropped": 111,
+			"dropRate": 0.022401614530776992
+		},
+		{
+			"itemName": "Red Piece of Cloth",
+			"timesDropped": 103,
+			"dropRate": 0.020787083753784057
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 22,
-			"dropRate": 0.0051401869158878505
+			"timesDropped": 26,
+			"dropRate": 0.005247225025227043
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 19,
-			"dropRate": 0.0044392523364485985
+			"timesDropped": 26,
+			"dropRate": 0.005247225025227043
 		},
 		{
 			"itemName": "Minotaur Trophy",
 			"timesDropped": 4,
-			"dropRate": 0.0009345794392523365
+			"dropRate": 0.0008072653884964682
 		}
 	]
 }

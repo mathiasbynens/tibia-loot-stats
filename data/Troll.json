@@ -1,71 +1,66 @@
 {
 	"monsterName": "Troll",
-	"timesKilled": 5404,
+	"timesKilled": 24056,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3541,
-			"dropRate": 0.6552553663952627
+			"timesDropped": 15561,
+			"dropRate": 0.6468656468240771
 		},
 		{
 			"itemName": "Hand Axe",
-			"timesDropped": 1051,
-			"dropRate": 0.19448556624722427
+			"timesDropped": 4390,
+			"dropRate": 0.182490854672431
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 817,
-			"dropRate": 0.1511843079200592
+			"timesDropped": 3650,
+			"dropRate": 0.15172929830395743
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 713,
-			"dropRate": 0.13193930421909697
+			"timesDropped": 3141,
+			"dropRate": 0.13057033588293981
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 645,
-			"dropRate": 0.1193560325684678
+			"timesDropped": 2917,
+			"dropRate": 0.12125872963086132
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 538,
-			"dropRate": 0.0995558845299778
+			"timesDropped": 2398,
+			"dropRate": 0.09968407050216162
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 444,
-			"dropRate": 0.08216136195410807
-		},
-		{
-			"itemName": "Wooden Shield",
-			"timesDropped": 284,
-			"dropRate": 0.052553663952627686
+			"timesDropped": 1951,
+			"dropRate": 0.08110242766877286
 		},
 		{
 			"itemName": "Studded Club",
-			"timesDropped": 276,
-			"dropRate": 0.05107327905255366
+			"timesDropped": 1228,
+			"dropRate": 0.05104755570335883
+		},
+		{
+			"itemName": "Wooden Shield",
+			"timesDropped": 1208,
+			"dropRate": 0.05021616228799468
 		},
 		{
 			"itemName": "Heavy Old Tome",
-			"timesDropped": 122,
-			"dropRate": 0.022575869726128794
+			"timesDropped": 523,
+			"dropRate": 0.02174093781177253
 		},
 		{
 			"itemName": "Bunch of Troll Hair",
-			"timesDropped": 56,
-			"dropRate": 0.010362694300518135
-		},
-		{
-			"itemName": "Old Rag",
-			"timesDropped": 1,
-			"dropRate": 0.0001850481125092524
+			"timesDropped": 239,
+			"dropRate": 0.009935151313601596
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 1,
-			"dropRate": 0.0001850481125092524
+			"timesDropped": 20,
+			"dropRate": 0.0008313934153641503
 		}
 	]
 }

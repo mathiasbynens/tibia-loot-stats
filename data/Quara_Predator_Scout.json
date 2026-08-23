@@ -1,51 +1,56 @@
 {
 	"monsterName": "Quara Predator Scout",
-	"timesKilled": 58727,
+	"timesKilled": 62953,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 58115,
-			"dropRate": 0.989578898973215
+			"timesDropped": 62298,
+			"dropRate": 0.9895954124505584
 		},
 		{
 			"itemName": "Quara Bone",
-			"timesDropped": 5926,
-			"dropRate": 0.10090758935413013
+			"timesDropped": 6382,
+			"dropRate": 0.10137721792448334
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 5260,
-			"dropRate": 0.08956697941321709
+			"timesDropped": 5655,
+			"dropRate": 0.0898289199879275
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 3395,
-			"dropRate": 0.057809865990089734
+			"timesDropped": 3634,
+			"dropRate": 0.05772560481629152
 		},
 		{
 			"itemName": "Shrimp",
-			"timesDropped": 2959,
-			"dropRate": 0.05038568290564817
+			"timesDropped": 3188,
+			"dropRate": 0.05064095436277858
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 2946,
-			"dropRate": 0.05016431964854326
+			"timesDropped": 3150,
+			"dropRate": 0.050037329436246086
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 1763,
-			"dropRate": 0.030020263251996526
+			"timesDropped": 1876,
+			"dropRate": 0.029800009530919894
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 624,
-			"dropRate": 0.01062543634103564
+			"timesDropped": 660,
+			"dropRate": 0.010484011881880133
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 557,
-			"dropRate": 0.009484564169802647
+			"timesDropped": 600,
+			"dropRate": 0.009530919892618303
+		},
+		{
+			"itemName": "Soul Prism",
+			"timesDropped": 1,
+			"dropRate": 0.00001588486648769717
 		}
 	]
 }

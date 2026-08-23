@@ -1,76 +1,76 @@
 {
 	"monsterName": "Corym Vanguard",
-	"timesKilled": 12093,
+	"timesKilled": 14924,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12093,
+			"timesDropped": 14924,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Soft Cheese",
-			"timesDropped": 1816,
-			"dropRate": 0.15016951955676838
+			"timesDropped": 2280,
+			"dropRate": 0.1527740552130796
 		},
 		{
 			"itemName": "Cheese",
-			"timesDropped": 1789,
-			"dropRate": 0.14793682295542876
+			"timesDropped": 2211,
+			"dropRate": 0.14815062985794694
 		},
 		{
 			"itemName": "Rat Cheese",
-			"timesDropped": 1768,
-			"dropRate": 0.14620028115438682
+			"timesDropped": 2202,
+			"dropRate": 0.14754757437684268
 		},
 		{
 			"itemName": "Cheese Cutter",
-			"timesDropped": 1419,
-			"dropRate": 0.11734061027040436
+			"timesDropped": 1750,
+			"dropRate": 0.11726078799249531
 		},
 		{
 			"itemName": "Bola",
-			"timesDropped": 1182,
-			"dropRate": 0.0977424956586455
+			"timesDropped": 1455,
+			"dropRate": 0.09749396944518895
 		},
 		{
 			"itemName": "Earflap",
-			"timesDropped": 1089,
-			"dropRate": 0.09005209625403125
-		},
-		{
-			"itemName": "Cheesy Figurine",
-			"timesDropped": 272,
-			"dropRate": 0.022492350946828745
+			"timesDropped": 1387,
+			"dropRate": 0.09293755025462343
 		},
 		{
 			"itemName": "Spiky Club",
-			"timesDropped": 268,
-			"dropRate": 0.022161581079963615
-		},
-		{
-			"itemName": "Ratana",
-			"timesDropped": 267,
-			"dropRate": 0.022078888613247333
+			"timesDropped": 342,
+			"dropRate": 0.02291610828196194
 		},
 		{
 			"itemName": "Spike Shield",
-			"timesDropped": 262,
-			"dropRate": 0.021665426279665924
+			"timesDropped": 331,
+			"dropRate": 0.022179040471723397
+		},
+		{
+			"itemName": "Cheesy Figurine",
+			"timesDropped": 316,
+			"dropRate": 0.021173948003216297
+		},
+		{
+			"itemName": "Ratana",
+			"timesDropped": 316,
+			"dropRate": 0.021173948003216297
 		},
 		{
 			"itemName": "Life Preserver",
-			"timesDropped": 224,
-			"dropRate": 0.0185231125444472
+			"timesDropped": 284,
+			"dropRate": 0.01902975073706781
 		},
 		{
 			"itemName": "Leather Harness",
-			"timesDropped": 185,
-			"dropRate": 0.015298106342512198
+			"timesDropped": 212,
+			"dropRate": 0.014205306888233718
 		},
 		{
 			"itemName": "Rat God Doll",
 			"timesDropped": 2,
-			"dropRate": 0.0001653849334325643
+			"dropRate": 0.00013401232913428035
 		}
 	]
 }

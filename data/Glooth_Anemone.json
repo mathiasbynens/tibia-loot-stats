@@ -1,96 +1,96 @@
 {
 	"monsterName": "Glooth Anemone",
-	"timesKilled": 10966,
+	"timesKilled": 27585,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10958,
-			"dropRate": 0.999270472369141
+			"timesDropped": 27577,
+			"dropRate": 0.9997099873119449
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6469,
-			"dropRate": 0.589914280503374
+			"timesDropped": 16460,
+			"dropRate": 0.5967011056733732
 		},
 		{
 			"itemName": "Slimy Leaf Tentacle",
-			"timesDropped": 2030,
-			"dropRate": 0.185117636330476
+			"timesDropped": 5051,
+			"dropRate": 0.18310676092079028
 		},
 		{
 			"itemName": "Bowl of Glooth Soup",
-			"timesDropped": 1108,
-			"dropRate": 0.10103957687397411
+			"timesDropped": 2825,
+			"dropRate": 0.10241073046945803
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 872,
-			"dropRate": 0.07951851176363305
-		},
-		{
-			"itemName": "Small Ruby",
-			"timesDropped": 858,
-			"dropRate": 0.07824183840962977
-		},
-		{
-			"itemName": "Strong Mana Potion",
-			"timesDropped": 858,
-			"dropRate": 0.07824183840962977
+			"timesDropped": 2222,
+			"dropRate": 0.08055102410730469
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 849,
-			"dropRate": 0.07742111982491337
+			"timesDropped": 2188,
+			"dropRate": 0.0793184701830705
+		},
+		{
+			"itemName": "Small Ruby",
+			"timesDropped": 2156,
+			"dropRate": 0.0781584194308501
+		},
+		{
+			"itemName": "Strong Mana Potion",
+			"timesDropped": 2135,
+			"dropRate": 0.07739713612470546
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 810,
-			"dropRate": 0.07386467262447566
+			"timesDropped": 2075,
+			"dropRate": 0.07522204096429219
 		},
 		{
 			"itemName": "Glooth Whip",
-			"timesDropped": 444,
-			"dropRate": 0.04048878351267554
+			"timesDropped": 1113,
+			"dropRate": 0.040348015225666126
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 311,
-			"dropRate": 0.028360386649644357
+			"timesDropped": 809,
+			"dropRate": 0.02932753307957223
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 238,
-			"dropRate": 0.021703447018055808
+			"timesDropped": 566,
+			"dropRate": 0.020518397679898496
 		},
 		{
 			"itemName": "Glooth Club",
-			"timesDropped": 114,
-			"dropRate": 0.010395768739741018
+			"timesDropped": 275,
+			"dropRate": 0.009969186151894145
 		},
 		{
 			"itemName": "Glooth Amulet",
-			"timesDropped": 103,
-			"dropRate": 0.009392668247309867
-		},
-		{
-			"itemName": "Glooth Blade",
-			"timesDropped": 100,
-			"dropRate": 0.009119095385737734
+			"timesDropped": 269,
+			"dropRate": 0.009751676635852819
 		},
 		{
 			"itemName": "Glooth Spear",
-			"timesDropped": 98,
-			"dropRate": 0.00893671347802298
+			"timesDropped": 269,
+			"dropRate": 0.009751676635852819
 		},
 		{
 			"itemName": "Glooth Axe",
-			"timesDropped": 94,
-			"dropRate": 0.00857194966259347
+			"timesDropped": 264,
+			"dropRate": 0.00957041870581838
+		},
+		{
+			"itemName": "Glooth Blade",
+			"timesDropped": 254,
+			"dropRate": 0.009207902845749502
 		},
 		{
 			"itemName": "Glooth Cape",
-			"timesDropped": 85,
-			"dropRate": 0.0077512310778770745
+			"timesDropped": 212,
+			"dropRate": 0.007685336233460214
 		}
 	]
 }

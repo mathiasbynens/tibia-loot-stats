@@ -1,66 +1,66 @@
 {
 	"monsterName": "Lizard Templar",
-	"timesKilled": 17885,
+	"timesKilled": 465,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15038,
-			"dropRate": 0.8408163265306122
+			"timesDropped": 375,
+			"dropRate": 0.8064516129032258
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 1761,
-			"dropRate": 0.09846239865809338
+			"timesDropped": 39,
+			"dropRate": 0.08387096774193549
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 881,
-			"dropRate": 0.04925915571708135
-		},
-		{
-			"itemName": "Steel Helmet",
-			"timesDropped": 350,
-			"dropRate": 0.019569471624266144
+			"timesDropped": 24,
+			"dropRate": 0.05161290322580645
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 342,
-			"dropRate": 0.01912216941571149
+			"timesDropped": 9,
+			"dropRate": 0.01935483870967742
+		},
+		{
+			"itemName": "Steel Helmet",
+			"timesDropped": 9,
+			"dropRate": 0.01935483870967742
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 183,
-			"dropRate": 0.010232038020687726
-		},
-		{
-			"itemName": "Lizard Scale",
-			"timesDropped": 173,
-			"dropRate": 0.00967291025999441
+			"timesDropped": 7,
+			"dropRate": 0.015053763440860216
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 158,
-			"dropRate": 0.00883421861895443
+			"timesDropped": 5,
+			"dropRate": 0.010752688172043012
 		},
 		{
-			"itemName": "Health Potion",
-			"timesDropped": 145,
-			"dropRate": 0.008107352530053118
-		},
-		{
-			"itemName": "Templar Scytheblade",
-			"timesDropped": 95,
-			"dropRate": 0.005311713726586525
+			"itemName": "Lizard Scale",
+			"timesDropped": 3,
+			"dropRate": 0.0064516129032258064
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 45,
-			"dropRate": 0.002516074923119933
+			"timesDropped": 2,
+			"dropRate": 0.004301075268817204
+		},
+		{
+			"itemName": "Templar Scytheblade",
+			"timesDropped": 2,
+			"dropRate": 0.004301075268817204
 		},
 		{
 			"itemName": "Salamander Shield",
-			"timesDropped": 20,
-			"dropRate": 0.0011182555213866368
+			"timesDropped": 1,
+			"dropRate": 0.002150537634408602
+		},
+		{
+			"itemName": "Zaoan Monk Robe",
+			"timesDropped": 1,
+			"dropRate": 0.002150537634408602
 		}
 	]
 }

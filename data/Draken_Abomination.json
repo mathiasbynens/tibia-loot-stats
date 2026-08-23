@@ -1,101 +1,106 @@
 {
 	"monsterName": "Draken Abomination",
-	"timesKilled": 36113,
+	"timesKilled": 36963,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 35065,
-			"dropRate": 0.9709799795087641
+			"timesDropped": 35895,
+			"dropRate": 0.9711062413765117
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 18148,
-			"dropRate": 0.5025337136211336
+			"timesDropped": 18590,
+			"dropRate": 0.5029353678002326
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 18061,
-			"dropRate": 0.5001246088666131
+			"timesDropped": 18477,
+			"dropRate": 0.4998782566350134
 		},
 		{
 			"itemName": "Eye of Corruption",
-			"timesDropped": 4350,
-			"dropRate": 0.12045523772602663
+			"timesDropped": 4461,
+			"dropRate": 0.12068825582339096
 		},
 		{
 			"itemName": "Scale of Corruption",
-			"timesDropped": 3958,
-			"dropRate": 0.10960042090106056
+			"timesDropped": 4036,
+			"dropRate": 0.10919027135243352
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 3311,
-			"dropRate": 0.09168443496801706
+			"timesDropped": 3371,
+			"dropRate": 0.09119930741552364
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 3276,
-			"dropRate": 0.09071525489435937
+			"timesDropped": 3349,
+			"dropRate": 0.09060411763114466
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 3000,
-			"dropRate": 0.08307257774208733
+			"timesDropped": 3081,
+			"dropRate": 0.08335362389416444
 		},
 		{
 			"itemName": "Tail of Corruption",
-			"timesDropped": 2262,
-			"dropRate": 0.06263672361753385
+			"timesDropped": 2316,
+			"dropRate": 0.06265725184644104
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 1784,
-			"dropRate": 0.049400492897294604
+			"timesDropped": 1829,
+			"dropRate": 0.04948191434677921
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 1027,
-			"dropRate": 0.028438512447041233
+			"timesDropped": 1054,
+			"dropRate": 0.02851500148797446
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 372,
-			"dropRate": 0.01030099964001883
+			"timesDropped": 382,
+			"dropRate": 0.010334658983307632
 		},
 		{
 			"itemName": "Zaoan Legs",
-			"timesDropped": 297,
-			"dropRate": 0.008224185196466647
+			"timesDropped": 304,
+			"dropRate": 0.00822444065687309
 		},
 		{
 			"itemName": "Zaoan Armor",
-			"timesDropped": 272,
-			"dropRate": 0.007531913715282585
+			"timesDropped": 277,
+			"dropRate": 0.00749398046695344
 		},
 		{
 			"itemName": "Zaoan Helmet",
-			"timesDropped": 227,
-			"dropRate": 0.006285825049151275
+			"timesDropped": 235,
+			"dropRate": 0.006357709060411763
 		},
 		{
 			"itemName": "Draken Boots",
-			"timesDropped": 197,
-			"dropRate": 0.005455099271730402
+			"timesDropped": 200,
+			"dropRate": 0.005410816221627032
 		},
 		{
 			"itemName": "Bamboo Leaves",
-			"timesDropped": 114,
-			"dropRate": 0.003156757954199319
+			"timesDropped": 115,
+			"dropRate": 0.0031112193274355437
 		},
 		{
 			"itemName": "Shield of Corruption",
 			"timesDropped": 5,
-			"dropRate": 0.00013845429623681222
+			"dropRate": 0.0001352704055406758
 		},
 		{
 			"itemName": "Snake God's Wristguard",
 			"timesDropped": 5,
-			"dropRate": 0.00013845429623681222
+			"dropRate": 0.0001352704055406758
+		},
+		{
+			"itemName": "Lesser Spiritualist Gem",
+			"timesDropped": 1,
+			"dropRate": 0.00002705408110813516
 		}
 	]
 }

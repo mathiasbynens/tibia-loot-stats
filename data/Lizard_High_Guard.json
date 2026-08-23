@@ -1,86 +1,91 @@
 {
 	"monsterName": "Lizard High Guard",
-	"timesKilled": 211550,
+	"timesKilled": 218485,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 203245,
-			"dropRate": 0.9607421413377452
+			"timesDropped": 209927,
+			"dropRate": 0.960830262947113
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 25258,
-			"dropRate": 0.11939494209406759
+			"timesDropped": 26101,
+			"dropRate": 0.1194635787353823
 		},
 		{
 			"itemName": "High Guard Shoulderplates",
-			"timesDropped": 17132,
-			"dropRate": 0.08098321909714015
+			"timesDropped": 17689,
+			"dropRate": 0.0809620797766437
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 14954,
-			"dropRate": 0.0706877806665091
+			"timesDropped": 15431,
+			"dropRate": 0.0706272741835824
 		},
 		{
 			"itemName": "Spiked Iron Ball",
-			"timesDropped": 14746,
-			"dropRate": 0.06970456156936894
+			"timesDropped": 15245,
+			"dropRate": 0.0697759571595304
 		},
 		{
 			"itemName": "Bunch of Ripe Rice",
-			"timesDropped": 10433,
-			"dropRate": 0.049316946348381
+			"timesDropped": 10768,
+			"dropRate": 0.04928484793006385
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10375,
-			"dropRate": 0.049042779484755376
+			"timesDropped": 10745,
+			"dropRate": 0.049179577545369245
 		},
 		{
 			"itemName": "High Guard Flag",
-			"timesDropped": 6360,
-			"dropRate": 0.03006381470101631
+			"timesDropped": 6567,
+			"dropRate": 0.030056983316932514
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 5253,
-			"dropRate": 0.024831009217679036
+			"timesDropped": 5432,
+			"dropRate": 0.02486211868091631
 		},
 		{
 			"itemName": "Red Lantern",
-			"timesDropped": 2560,
-			"dropRate": 0.012101158118648073
+			"timesDropped": 2623,
+			"dropRate": 0.012005400828432157
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 2183,
-			"dropRate": 0.01031907350508154
+			"timesDropped": 2248,
+			"dropRate": 0.010289035860585395
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 2114,
-			"dropRate": 0.009992909477664855
+			"timesDropped": 2172,
+			"dropRate": 0.009941185893768452
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 2021,
-			"dropRate": 0.009553297092885842
+			"timesDropped": 2097,
+			"dropRate": 0.009597912900199098
 		},
 		{
 			"itemName": "Zaoan Legs",
-			"timesDropped": 1551,
-			"dropRate": 0.007331600094540298
+			"timesDropped": 1591,
+			"dropRate": 0.007281964436917867
 		},
 		{
 			"itemName": "Zaoan Shoes",
-			"timesDropped": 1453,
-			"dropRate": 0.006868352635310801
+			"timesDropped": 1507,
+			"dropRate": 0.006897498684120191
 		},
 		{
 			"itemName": "Zaoan Armor",
-			"timesDropped": 160,
-			"dropRate": 0.0007563223824155046
+			"timesDropped": 164,
+			"dropRate": 0.0007506236126049843
+		},
+		{
+			"itemName": "Soul Prism",
+			"timesDropped": 1,
+			"dropRate": 0.0000045769732475913675
 		}
 	]
 }

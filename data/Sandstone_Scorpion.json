@@ -1,41 +1,41 @@
 {
 	"monsterName": "Sandstone Scorpion",
-	"timesKilled": 10900,
+	"timesKilled": 11752,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10109,
-			"dropRate": 0.9274311926605504
+			"timesDropped": 10888,
+			"dropRate": 0.9264805990469708
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1196,
-			"dropRate": 0.10972477064220183
+			"timesDropped": 1309,
+			"dropRate": 0.1113852961198094
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1087,
-			"dropRate": 0.09972477064220184
+			"timesDropped": 1190,
+			"dropRate": 0.10125936010891763
 		},
 		{
 			"itemName": "Daramian Mace",
-			"timesDropped": 545,
-			"dropRate": 0.05
+			"timesDropped": 586,
+			"dropRate": 0.049863852961198094
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 515,
-			"dropRate": 0.04724770642201835
+			"timesDropped": 550,
+			"dropRate": 0.046800544588155205
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 198,
-			"dropRate": 0.0181651376146789
+			"timesDropped": 212,
+			"dropRate": 0.018039482641252554
 		},
 		{
 			"itemName": "Fist on a Stick",
-			"timesDropped": 21,
-			"dropRate": 0.001926605504587156
+			"timesDropped": 25,
+			"dropRate": 0.0021272974812797823
 		}
 	]
 }

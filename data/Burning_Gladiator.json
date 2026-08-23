@@ -1,86 +1,86 @@
 {
 	"monsterName": "Burning Gladiator",
-	"timesKilled": 6958,
+	"timesKilled": 13560,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6958,
+			"timesDropped": 13560,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Fafnar Symbol",
-			"timesDropped": 709,
-			"dropRate": 0.10189709686691578
+			"timesDropped": 1394,
+			"dropRate": 0.1028023598820059
 		},
 		{
 			"itemName": "Secret Instruction",
-			"timesDropped": 539,
-			"dropRate": 0.07746478873239436
+			"timesDropped": 1025,
+			"dropRate": 0.07558997050147492
 		},
 		{
 			"itemName": "Dragon Necklace",
-			"timesDropped": 419,
-			"dropRate": 0.06021845357861454
+			"timesDropped": 803,
+			"dropRate": 0.059218289085545724
 		},
 		{
 			"itemName": "Strange Talisman",
-			"timesDropped": 356,
-			"dropRate": 0.05116412762288014
-		},
-		{
-			"itemName": "Lightning Pendant",
-			"timesDropped": 320,
-			"dropRate": 0.045990227076746194
+			"timesDropped": 703,
+			"dropRate": 0.051843657817109146
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 298,
-			"dropRate": 0.042828398965219894
+			"timesDropped": 601,
+			"dropRate": 0.04432153392330383
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 297,
-			"dropRate": 0.04268467950560506
+			"timesDropped": 587,
+			"dropRate": 0.043289085545722715
+		},
+		{
+			"itemName": "Lightning Pendant",
+			"timesDropped": 571,
+			"dropRate": 0.04210914454277286
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 292,
-			"dropRate": 0.0419660822075309
+			"timesDropped": 553,
+			"dropRate": 0.040781710914454275
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 262,
-			"dropRate": 0.03765449841908594
+			"timesDropped": 484,
+			"dropRate": 0.03569321533923304
 		},
 		{
 			"itemName": "Empty Honey Glass",
-			"timesDropped": 180,
-			"dropRate": 0.025869502730669732
+			"timesDropped": 361,
+			"dropRate": 0.02662241887905605
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 178,
-			"dropRate": 0.02558206381144007
+			"timesDropped": 297,
+			"dropRate": 0.02190265486725664
 		},
 		{
 			"itemName": "Lightning Boots",
-			"timesDropped": 107,
-			"dropRate": 0.015377982178787008
+			"timesDropped": 213,
+			"dropRate": 0.015707964601769913
 		},
 		{
 			"itemName": "Spellweaver's Robe",
-			"timesDropped": 78,
-			"dropRate": 0.011210117849956885
+			"timesDropped": 167,
+			"dropRate": 0.012315634218289085
 		},
 		{
 			"itemName": "Golden Mask",
-			"timesDropped": 58,
-			"dropRate": 0.008335728657660248
+			"timesDropped": 105,
+			"dropRate": 0.007743362831858407
 		},
 		{
 			"itemName": "Sea Horse Figurine",
-			"timesDropped": 40,
-			"dropRate": 0.005748778384593274
+			"timesDropped": 82,
+			"dropRate": 0.006047197640117994
 		}
 	]
 }

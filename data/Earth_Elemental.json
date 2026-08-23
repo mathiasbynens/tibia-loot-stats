@@ -1,56 +1,61 @@
 {
 	"monsterName": "Earth Elemental",
-	"timesKilled": 92387,
+	"timesKilled": 96388,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 85871,
-			"dropRate": 0.9294705965124963
+			"timesDropped": 89588,
+			"dropRate": 0.929451798979126
 		},
 		{
 			"itemName": "Earth Arrow",
-			"timesDropped": 18611,
-			"dropRate": 0.20144609090023488
+			"timesDropped": 19447,
+			"dropRate": 0.2017574801842553
 		},
 		{
 			"itemName": "Lump of Earth",
-			"timesDropped": 18434,
-			"dropRate": 0.19953023693809735
+			"timesDropped": 19279,
+			"dropRate": 0.20001452462962194
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 9336,
-			"dropRate": 0.10105317847749143
+			"timesDropped": 9728,
+			"dropRate": 0.10092542640162676
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 9024,
-			"dropRate": 0.09767607996796086
+			"timesDropped": 9428,
+			"dropRate": 0.0978130057683529
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 4731,
-			"dropRate": 0.05120850336086246
+			"timesDropped": 4965,
+			"dropRate": 0.05151056148068224
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1841,
-			"dropRate": 0.019927046012967194
+			"timesDropped": 1925,
+			"dropRate": 0.01997136573017388
 		},
 		{
 			"itemName": "Clay Lump",
-			"timesDropped": 564,
-			"dropRate": 0.006104754997997554
+			"timesDropped": 586,
+			"dropRate": 0.006079594970328257
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 444,
-			"dropRate": 0.004805870955870414
+			"timesDropped": 466,
+			"dropRate": 0.004834626717018716
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 432,
-			"dropRate": 0.004675982551657701
+			"timesDropped": 445,
+			"dropRate": 0.004616757272689546
+		},
+		{
+			"itemName": "Might Ring",
+			"timesDropped": 38,
+			"dropRate": 0.0003942399468813545
 		}
 	]
 }

@@ -1,66 +1,66 @@
 {
 	"monsterName": "Brimstone Bug",
-	"timesKilled": 29244,
+	"timesKilled": 31589,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 29244,
+			"timesDropped": 31589,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 14606,
-			"dropRate": 0.4994528792230885
+			"timesDropped": 15746,
+			"dropRate": 0.49846465541802526
 		},
 		{
 			"itemName": "Lump of Earth",
-			"timesDropped": 5803,
-			"dropRate": 0.19843386677609082
+			"timesDropped": 6234,
+			"dropRate": 0.1973471778150622
 		},
 		{
 			"itemName": "Sulphurous Stone",
-			"timesDropped": 4362,
-			"dropRate": 0.14915880180549856
+			"timesDropped": 4696,
+			"dropRate": 0.14865934344233753
 		},
 		{
 			"itemName": "Brimstone Shell",
-			"timesDropped": 2970,
-			"dropRate": 0.10155929421419778
+			"timesDropped": 3217,
+			"dropRate": 0.10183924783943778
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 2691,
-			"dropRate": 0.09201887566680345
+			"timesDropped": 2893,
+			"dropRate": 0.09158251290006014
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 2629,
-			"dropRate": 0.08989878265627137
+			"timesDropped": 2863,
+			"dropRate": 0.09063281522048815
 		},
 		{
 			"itemName": "Brimstone Fangs",
-			"timesDropped": 1749,
-			"dropRate": 0.059807139926138696
+			"timesDropped": 1881,
+			"dropRate": 0.059546044509164585
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 815,
-			"dropRate": 0.027868964573929695
+			"timesDropped": 882,
+			"dropRate": 0.027921111779416887
 		},
 		{
 			"itemName": "Magic Sulphur",
-			"timesDropped": 460,
-			"dropRate": 0.015729722336205718
+			"timesDropped": 510,
+			"dropRate": 0.01614486055272405
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 267,
-			"dropRate": 0.00913007796471071
+			"timesDropped": 290,
+			"dropRate": 0.009180410902529362
 		},
 		{
 			"itemName": "Platinum Amulet",
-			"timesDropped": 25,
-			"dropRate": 0.0008548762139242238
+			"timesDropped": 27,
+			"dropRate": 0.0008547279116148026
 		}
 	]
 }

@@ -1,61 +1,61 @@
 {
 	"monsterName": "Souleater",
-	"timesKilled": 42385,
+	"timesKilled": 4584,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 37306,
-			"dropRate": 0.8801698714167748
+			"timesDropped": 4003,
+			"dropRate": 0.8732547993019197
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 21089,
-			"dropRate": 0.4975580983838622
+			"timesDropped": 2303,
+			"dropRate": 0.5023996509598604
 		},
 		{
 			"itemName": "Lizard Essence",
-			"timesDropped": 6369,
-			"dropRate": 0.15026542408871063
+			"timesDropped": 687,
+			"dropRate": 0.149869109947644
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 3876,
-			"dropRate": 0.0914474460304353
+			"timesDropped": 387,
+			"dropRate": 0.0844240837696335
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 3361,
-			"dropRate": 0.07929692108057096
+			"timesDropped": 336,
+			"dropRate": 0.07329842931937172
 		},
 		{
 			"itemName": "Ectoplasmic Sushi",
-			"timesDropped": 847,
-			"dropRate": 0.019983484723369117
-		},
-		{
-			"itemName": "Necrotic Rod",
-			"timesDropped": 412,
-			"dropRate": 0.009720419959891471
+			"timesDropped": 89,
+			"dropRate": 0.019415357766143105
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 401,
-			"dropRate": 0.0094608941842633
+			"timesDropped": 62,
+			"dropRate": 0.013525305410122163
+		},
+		{
+			"itemName": "Necrotic Rod",
+			"timesDropped": 44,
+			"dropRate": 0.009598603839441536
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 136,
-			"dropRate": 0.003208682316857379
+			"timesDropped": 14,
+			"dropRate": 0.0030541012216404886
 		},
 		{
 			"itemName": "Spirit Container",
-			"timesDropped": 56,
-			"dropRate": 0.0013212221304706854
+			"timesDropped": 10,
+			"dropRate": 0.002181500872600349
 		},
 		{
-			"itemName": "Souleater Trophy",
+			"itemName": "Stone Skin Amulet",
 			"timesDropped": 6,
-			"dropRate": 0.000141559513979002
+			"dropRate": 0.0013089005235602095
 		}
 	]
 }

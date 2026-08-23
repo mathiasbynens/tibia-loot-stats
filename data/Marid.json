@@ -1,91 +1,91 @@
 {
 	"monsterName": "Marid",
-	"timesKilled": 8478,
+	"timesKilled": 10785,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8229,
-			"dropRate": 0.9706298655343242
+			"timesDropped": 10454,
+			"dropRate": 0.9693092257765414
 		},
 		{
 			"itemName": "Blueberry",
-			"timesDropped": 2169,
-			"dropRate": 0.25583864118895966
+			"timesDropped": 2778,
+			"dropRate": 0.2575799721835883
 		},
 		{
 			"itemName": "Royal Spear",
-			"timesDropped": 1329,
-			"dropRate": 0.156758669497523
+			"timesDropped": 1663,
+			"dropRate": 0.15419564209550302
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 837,
-			"dropRate": 0.09872611464968153
+			"timesDropped": 1098,
+			"dropRate": 0.10180806675938804
 		},
 		{
 			"itemName": "Jewelled Belt",
-			"timesDropped": 669,
-			"dropRate": 0.0789101203113942
+			"timesDropped": 838,
+			"dropRate": 0.07770050996754752
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 549,
-			"dropRate": 0.06475583864118896
+			"timesDropped": 706,
+			"dropRate": 0.06546128882707464
 		},
 		{
 			"itemName": "Heavy Machete",
-			"timesDropped": 414,
-			"dropRate": 0.04883227176220807
+			"timesDropped": 526,
+			"dropRate": 0.0487714418173389
 		},
 		{
 			"itemName": "Blue Piece of Cloth",
-			"timesDropped": 268,
-			"dropRate": 0.03161122906345836
-		},
-		{
-			"itemName": "Seeds",
-			"timesDropped": 222,
-			"dropRate": 0.026185421089879687
+			"timesDropped": 337,
+			"dropRate": 0.031247102457116364
 		},
 		{
 			"itemName": "Blue Tapestry",
-			"timesDropped": 220,
-			"dropRate": 0.02594951639537627
+			"timesDropped": 289,
+			"dropRate": 0.0267964765878535
+		},
+		{
+			"itemName": "Seeds",
+			"timesDropped": 288,
+			"dropRate": 0.02670375521557719
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 56,
-			"dropRate": 0.006605331446095777
+			"timesDropped": 77,
+			"dropRate": 0.007139545665275846
 		},
 		{
 			"itemName": "Noble Turban",
-			"timesDropped": 46,
-			"dropRate": 0.005425807973578675
-		},
-		{
-			"itemName": "Wooden Flute",
-			"timesDropped": 31,
-			"dropRate": 0.0036565227648030197
+			"timesDropped": 53,
+			"dropRate": 0.004914232730644413
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 30,
-			"dropRate": 0.003538570417551309
+			"timesDropped": 38,
+			"dropRate": 0.003523412146499768
+		},
+		{
+			"itemName": "Wooden Flute",
+			"timesDropped": 36,
+			"dropRate": 0.003337969401947149
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 17,
-			"dropRate": 0.0020051899032790753
+			"timesDropped": 19,
+			"dropRate": 0.001761706073249884
 		},
 		{
 			"itemName": "Small Oil Lamp",
-			"timesDropped": 16,
-			"dropRate": 0.001887237556027365
+			"timesDropped": 19,
+			"dropRate": 0.001761706073249884
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 10,
-			"dropRate": 0.0011795234725171032
+			"timesDropped": 13,
+			"dropRate": 0.001205377839592026
 		}
 	]
 }

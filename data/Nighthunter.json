@@ -1,61 +1,61 @@
 {
 	"monsterName": "Nighthunter",
-	"timesKilled": 1357,
+	"timesKilled": 2885,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 472,
-			"dropRate": 0.34782608695652173
+			"timesDropped": 835,
+			"dropRate": 0.28942807625649913
 		},
 		{
 			"itemName": "Nighthunter Wing",
-			"timesDropped": 336,
-			"dropRate": 0.24760501105379515
+			"timesDropped": 739,
+			"dropRate": 0.2561525129982669
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 202,
-			"dropRate": 0.14885777450257923
-		},
-		{
-			"itemName": "Green Crystal Shard",
-			"timesDropped": 55,
-			"dropRate": 0.040530582166543844
+			"timesDropped": 347,
+			"dropRate": 0.12027729636048527
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 54,
-			"dropRate": 0.0397936624907885
+			"timesDropped": 153,
+			"dropRate": 0.053032928942807624
+		},
+		{
+			"itemName": "Green Crystal Shard",
+			"timesDropped": 122,
+			"dropRate": 0.04228769497400347
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 46,
-			"dropRate": 0.03389830508474576
+			"timesDropped": 84,
+			"dropRate": 0.029116117850953208
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 31,
-			"dropRate": 0.022844509948415623
-		},
-		{
-			"itemName": "Warrior's Axe",
-			"timesDropped": 18,
-			"dropRate": 0.013264554163596167
+			"timesDropped": 80,
+			"dropRate": 0.02772963604852686
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 16,
-			"dropRate": 0.011790714812085483
+			"timesDropped": 44,
+			"dropRate": 0.015251299826689775
+		},
+		{
+			"itemName": "Warrior's Axe",
+			"timesDropped": 41,
+			"dropRate": 0.014211438474870018
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 12,
-			"dropRate": 0.008843036109064112
+			"timesDropped": 27,
+			"dropRate": 0.009358752166377816
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 11,
-			"dropRate": 0.008106116433308769
+			"timesDropped": 27,
+			"dropRate": 0.009358752166377816
 		}
 	]
 }

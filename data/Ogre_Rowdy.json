@@ -1,96 +1,101 @@
 {
 	"monsterName": "Ogre Rowdy",
-	"timesKilled": 996,
+	"timesKilled": 2663,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 996,
-			"dropRate": 1
+			"timesDropped": 2076,
+			"dropRate": 0.779571911378145
 		},
 		{
 			"itemName": "Flaming Arrow",
-			"timesDropped": 228,
-			"dropRate": 0.2289156626506024
+			"timesDropped": 642,
+			"dropRate": 0.24108148704468643
 		},
 		{
 			"itemName": "Ogre Ear Stud",
-			"timesDropped": 195,
-			"dropRate": 0.19578313253012047
+			"timesDropped": 571,
+			"dropRate": 0.21441982726248593
 		},
 		{
 			"itemName": "Ogre Nose Ring",
-			"timesDropped": 178,
-			"dropRate": 0.178714859437751
+			"timesDropped": 453,
+			"dropRate": 0.17010889973713855
 		},
 		{
 			"itemName": "Skull Fetish",
-			"timesDropped": 102,
-			"dropRate": 0.10240963855421686
+			"timesDropped": 268,
+			"dropRate": 0.10063837776943298
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 82,
-			"dropRate": 0.0823293172690763
+			"timesDropped": 202,
+			"dropRate": 0.0758542996620353
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 48,
-			"dropRate": 0.04819277108433735
+			"timesDropped": 153,
+			"dropRate": 0.05745399924896733
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 48,
-			"dropRate": 0.04819277108433735
-		},
-		{
-			"itemName": "Prismatic Quartz",
-			"timesDropped": 46,
-			"dropRate": 0.04618473895582329
-		},
-		{
-			"itemName": "Blue Crystal Shard",
-			"timesDropped": 31,
-			"dropRate": 0.03112449799196787
-		},
-		{
-			"itemName": "Jalapeno Pepper",
-			"timesDropped": 29,
-			"dropRate": 0.029116465863453816
+			"timesDropped": 135,
+			"dropRate": 0.050694705219677054
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 28,
-			"dropRate": 0.028112449799196786
+			"timesDropped": 114,
+			"dropRate": 0.04280886218550507
+		},
+		{
+			"itemName": "Prismatic Quartz",
+			"timesDropped": 107,
+			"dropRate": 0.04018024784078107
+		},
+		{
+			"itemName": "Blue Crystal Shard",
+			"timesDropped": 92,
+			"dropRate": 0.03454750281637251
+		},
+		{
+			"itemName": "Jalapeno Pepper",
+			"timesDropped": 84,
+			"dropRate": 0.031543372136687946
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 27,
-			"dropRate": 0.02710843373493976
-		},
-		{
-			"itemName": "Blue Gem",
-			"timesDropped": 15,
-			"dropRate": 0.015060240963855422
+			"timesDropped": 61,
+			"dropRate": 0.02290649643259482
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 15,
-			"dropRate": 0.015060240963855422
+			"timesDropped": 48,
+			"dropRate": 0.018024784078107398
 		},
 		{
-			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 12,
-			"dropRate": 0.012048192771084338
-		},
-		{
-			"itemName": "Ogre Choppa",
-			"timesDropped": 12,
-			"dropRate": 0.012048192771084338
+			"itemName": "Blue Gem",
+			"timesDropped": 47,
+			"dropRate": 0.01764926774314683
 		},
 		{
 			"itemName": "Wand of Everblazing",
-			"timesDropped": 12,
-			"dropRate": 0.012048192771084338
+			"timesDropped": 34,
+			"dropRate": 0.012767555388659407
+		},
+		{
+			"itemName": "Ogre Choppa",
+			"timesDropped": 26,
+			"dropRate": 0.00976342470897484
+		},
+		{
+			"itemName": "Giant Shimmering Pearl (Brown)",
+			"timesDropped": 25,
+			"dropRate": 0.00938790837401427
+		},
+		{
+			"itemName": "Soul Prism",
+			"timesDropped": 1,
+			"dropRate": 0.0003755163349605708
 		}
 	]
 }

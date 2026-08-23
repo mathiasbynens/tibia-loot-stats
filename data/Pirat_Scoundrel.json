@@ -1,46 +1,51 @@
 {
 	"monsterName": "Pirat Scoundrel",
-	"timesKilled": 5800,
+	"timesKilled": 9072,
 	"items": [
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 618,
-			"dropRate": 0.10655172413793103
-		},
-		{
-			"itemName": "Wand of Inferno",
-			"timesDropped": 452,
-			"dropRate": 0.07793103448275862
+			"timesDropped": 973,
+			"dropRate": 0.10725308641975309
 		},
 		{
 			"itemName": "Grappling Hook",
-			"timesDropped": 447,
-			"dropRate": 0.07706896551724138
+			"timesDropped": 694,
+			"dropRate": 0.07649911816578484
+		},
+		{
+			"itemName": "Wand of Inferno",
+			"timesDropped": 680,
+			"dropRate": 0.07495590828924162
 		},
 		{
 			"itemName": "Pirate Coin",
-			"timesDropped": 380,
-			"dropRate": 0.06551724137931035
+			"timesDropped": 617,
+			"dropRate": 0.06801146384479718
 		},
 		{
 			"itemName": "Pirat's Tail",
-			"timesDropped": 301,
-			"dropRate": 0.05189655172413793
+			"timesDropped": 479,
+			"dropRate": 0.05279982363315697
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 273,
-			"dropRate": 0.04706896551724138
+			"timesDropped": 431,
+			"dropRate": 0.047508818342151676
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 210,
-			"dropRate": 0.03620689655172414
+			"timesDropped": 354,
+			"dropRate": 0.03902116402116402
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 168,
-			"dropRate": 0.028965517241379312
+			"timesDropped": 272,
+			"dropRate": 0.029982363315696647
+		},
+		{
+			"itemName": "Soul Prism",
+			"timesDropped": 1,
+			"dropRate": 0.00011022927689594356
 		}
 	]
 }

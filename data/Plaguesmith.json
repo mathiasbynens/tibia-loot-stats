@@ -1,141 +1,141 @@
 {
 	"monsterName": "Plaguesmith",
-	"timesKilled": 5671,
+	"timesKilled": 11452,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5452,
-			"dropRate": 0.9613824722271205
+			"timesDropped": 11024,
+			"dropRate": 0.9626266154383514
 		},
 		{
 			"itemName": "Dirty Cape",
-			"timesDropped": 2766,
-			"dropRate": 0.4877446658437665
+			"timesDropped": 5532,
+			"dropRate": 0.48305972755850507
 		},
 		{
 			"itemName": "Mouldy Cheese",
-			"timesDropped": 2289,
-			"dropRate": 0.40363251631105623
+			"timesDropped": 4664,
+			"dropRate": 0.4072651065316102
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 1338,
-			"dropRate": 0.23593722447540116
-		},
-		{
-			"itemName": "Piece of Iron",
-			"timesDropped": 951,
-			"dropRate": 0.1676952918356551
+			"timesDropped": 2689,
+			"dropRate": 0.23480614739783445
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 937,
-			"dropRate": 0.16522659143008286
+			"timesDropped": 1861,
+			"dropRate": 0.16250436604959834
 		},
 		{
-			"itemName": "Steel Shield",
-			"timesDropped": 926,
-			"dropRate": 0.16328689825427614
+			"itemName": "Piece of Iron",
+			"timesDropped": 1858,
+			"dropRate": 0.16224240307369892
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 887,
-			"dropRate": 0.15640980426732498
+			"timesDropped": 1855,
+			"dropRate": 0.16198044009779952
+		},
+		{
+			"itemName": "Steel Shield",
+			"timesDropped": 1853,
+			"dropRate": 0.16180579811386658
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 577,
-			"dropRate": 0.10174572385822606
+			"timesDropped": 1089,
+			"dropRate": 0.09509256025148445
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 430,
-			"dropRate": 0.07582436959971786
+			"timesDropped": 850,
+			"dropRate": 0.07422284317149842
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 391,
-			"dropRate": 0.06894727561276671
-		},
-		{
-			"itemName": "Onyx Arrow",
-			"timesDropped": 388,
-			"dropRate": 0.06841826838300123
+			"timesDropped": 829,
+			"dropRate": 0.07238910234020259
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
-			"timesDropped": 346,
-			"dropRate": 0.0610121671662846
+			"timesDropped": 725,
+			"dropRate": 0.06330771917568984
 		},
 		{
-			"itemName": "Knight Legs",
-			"timesDropped": 341,
-			"dropRate": 0.06013048845000882
+			"itemName": "Onyx Arrow",
+			"timesDropped": 715,
+			"dropRate": 0.06243450925602515
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 339,
-			"dropRate": 0.0597778169634985
+			"timesDropped": 690,
+			"dropRate": 0.06025148445686343
 		},
 		{
-			"itemName": "Axe Ring",
-			"timesDropped": 241,
-			"dropRate": 0.04249691412449304
+			"itemName": "Knight Legs",
+			"timesDropped": 675,
+			"dropRate": 0.0589416695773664
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 224,
-			"dropRate": 0.03949920648915535
+			"timesDropped": 489,
+			"dropRate": 0.042699965071603216
+		},
+		{
+			"itemName": "Axe Ring",
+			"timesDropped": 479,
+			"dropRate": 0.041826755151938524
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 215,
-			"dropRate": 0.03791218479985893
+			"timesDropped": 457,
+			"dropRate": 0.03990569332867622
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 107,
-			"dropRate": 0.018867924528301886
+			"timesDropped": 207,
+			"dropRate": 0.01807544533705903
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 74,
-			"dropRate": 0.013048845000881678
+			"timesDropped": 187,
+			"dropRate": 0.016329025497729653
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 67,
-			"dropRate": 0.011814494798095574
+			"timesDropped": 122,
+			"dropRate": 0.010653161019909187
 		},
 		{
 			"itemName": "Piece of Draconian Steel",
-			"timesDropped": 47,
-			"dropRate": 0.008287779932992418
+			"timesDropped": 104,
+			"dropRate": 0.009081383164512749
 		},
 		{
 			"itemName": "Piece of Hell Steel",
-			"timesDropped": 41,
-			"dropRate": 0.0072297654734614705
+			"timesDropped": 100,
+			"dropRate": 0.008732099196646874
 		},
 		{
 			"itemName": "Piece of Royal Steel",
-			"timesDropped": 40,
-			"dropRate": 0.007053429730206313
+			"timesDropped": 98,
+			"dropRate": 0.008557457212713936
 		},
 		{
 			"itemName": "Hammer of Wrath",
-			"timesDropped": 29,
-			"dropRate": 0.005113736554399576
+			"timesDropped": 69,
+			"dropRate": 0.006025148445686343
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 15,
-			"dropRate": 0.0026450361488273674
+			"timesDropped": 32,
+			"dropRate": 0.0027942717429269995
 		},
 		{
 			"itemName": "War Horn",
-			"timesDropped": 3,
-			"dropRate": 0.0005290072297654734
+			"timesDropped": 6,
+			"dropRate": 0.0005239259517988125
 		}
 	]
 }

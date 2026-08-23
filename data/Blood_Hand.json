@@ -1,91 +1,91 @@
 {
 	"monsterName": "Blood Hand",
-	"timesKilled": 6093,
+	"timesKilled": 7008,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6093,
+			"timesDropped": 7008,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Blood Tincture in a Vial",
-			"timesDropped": 955,
-			"dropRate": 0.15673723945511242
+			"timesDropped": 1076,
+			"dropRate": 0.15353881278538814
 		},
 		{
 			"itemName": "Book of Necromantic Rituals",
-			"timesDropped": 618,
-			"dropRate": 0.10142786804529788
+			"timesDropped": 714,
+			"dropRate": 0.10188356164383562
 		},
 		{
 			"itemName": "Lancet",
-			"timesDropped": 610,
-			"dropRate": 0.10011488593467914
+			"timesDropped": 707,
+			"dropRate": 0.10088470319634703
 		},
 		{
 			"itemName": "Incantation Notes",
-			"timesDropped": 589,
-			"dropRate": 0.09666830789430494
+			"timesDropped": 688,
+			"dropRate": 0.09817351598173515
 		},
 		{
 			"itemName": "Horoscope",
-			"timesDropped": 486,
-			"dropRate": 0.07976366322008863
+			"timesDropped": 556,
+			"dropRate": 0.079337899543379
 		},
 		{
 			"itemName": "Pieces of Magic Chalk",
-			"timesDropped": 388,
-			"dropRate": 0.06367963236500902
+			"timesDropped": 437,
+			"dropRate": 0.06235730593607306
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 359,
-			"dropRate": 0.058920072214016087
+			"timesDropped": 416,
+			"dropRate": 0.0593607305936073
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 189,
-			"dropRate": 0.0310192023633678
+			"timesDropped": 224,
+			"dropRate": 0.0319634703196347
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 67,
-			"dropRate": 0.010996225176431972
+			"timesDropped": 79,
+			"dropRate": 0.01127283105022831
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 62,
-			"dropRate": 0.010175611357295257
+			"timesDropped": 69,
+			"dropRate": 0.009845890410958904
 		},
 		{
 			"itemName": "White Piece of Cloth",
-			"timesDropped": 57,
-			"dropRate": 0.009354997538158542
+			"timesDropped": 69,
+			"dropRate": 0.009845890410958904
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 41,
-			"dropRate": 0.006729033316921057
+			"timesDropped": 43,
+			"dropRate": 0.006135844748858447
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 32,
-			"dropRate": 0.005251928442474971
+			"timesDropped": 35,
+			"dropRate": 0.004994292237442922
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 7,
-			"dropRate": 0.0011488593467914
+			"timesDropped": 8,
+			"dropRate": 0.001141552511415525
 		},
 		{
 			"itemName": "Skull Staff",
 			"timesDropped": 3,
-			"dropRate": 0.0004923682914820286
+			"dropRate": 0.0004280821917808219
 		},
 		{
 			"itemName": "Noble Axe",
-			"timesDropped": 1,
-			"dropRate": 0.00016412276382734285
+			"timesDropped": 2,
+			"dropRate": 0.00028538812785388126
 		}
 	]
 }

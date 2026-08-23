@@ -1,111 +1,111 @@
 {
 	"monsterName": "Tremendous Tyrant",
-	"timesKilled": 1130,
+	"timesKilled": 1781,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1130,
+			"timesDropped": 1781,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 154,
-			"dropRate": 0.13628318584070798
+			"timesDropped": 230,
+			"dropRate": 0.1291409320606401
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 111,
-			"dropRate": 0.09823008849557523
+			"timesDropped": 169,
+			"dropRate": 0.0948905109489051
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 83,
-			"dropRate": 0.07345132743362832
+			"timesDropped": 144,
+			"dropRate": 0.08085345311622684
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 75,
-			"dropRate": 0.06637168141592921
+			"timesDropped": 117,
+			"dropRate": 0.06569343065693431
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 68,
-			"dropRate": 0.06017699115044248
-		},
-		{
-			"itemName": "Spellbook of Warding",
-			"timesDropped": 63,
-			"dropRate": 0.05575221238938053
-		},
-		{
-			"itemName": "Yellow Gem",
-			"timesDropped": 61,
-			"dropRate": 0.05398230088495575
+			"timesDropped": 116,
+			"dropRate": 0.06513194834362718
 		},
 		{
 			"itemName": "Tremendous Tyrant Shell",
-			"timesDropped": 59,
-			"dropRate": 0.05221238938053097
+			"timesDropped": 93,
+			"dropRate": 0.05221785513756317
+		},
+		{
+			"itemName": "Spellbook of Warding",
+			"timesDropped": 90,
+			"dropRate": 0.05053340819764177
+		},
+		{
+			"itemName": "Yellow Gem",
+			"timesDropped": 89,
+			"dropRate": 0.04997192588433464
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 48,
-			"dropRate": 0.04247787610619469
-		},
-		{
-			"itemName": "Tremendous Tyrant Head",
-			"timesDropped": 43,
-			"dropRate": 0.03805309734513274
+			"timesDropped": 70,
+			"dropRate": 0.039303761931499155
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 42,
-			"dropRate": 0.03716814159292035
-		},
-		{
-			"itemName": "Dragonbone Staff",
-			"timesDropped": 41,
-			"dropRate": 0.036283185840707964
+			"timesDropped": 67,
+			"dropRate": 0.037619314991577765
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 36,
-			"dropRate": 0.03185840707964602
+			"timesDropped": 67,
+			"dropRate": 0.037619314991577765
 		},
 		{
-			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 35,
-			"dropRate": 0.030973451327433628
+			"itemName": "Dragonbone Staff",
+			"timesDropped": 65,
+			"dropRate": 0.0364963503649635
+		},
+		{
+			"itemName": "Tremendous Tyrant Head",
+			"timesDropped": 60,
+			"dropRate": 0.033688938798427846
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 34,
-			"dropRate": 0.03008849557522124
+			"timesDropped": 58,
+			"dropRate": 0.03256597417181359
 		},
 		{
-			"itemName": "Focus Cape",
-			"timesDropped": 31,
-			"dropRate": 0.02743362831858407
+			"itemName": "Wand of Cosmic Energy",
+			"timesDropped": 55,
+			"dropRate": 0.030881527231892195
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 28,
-			"dropRate": 0.024778761061946902
-		},
-		{
-			"itemName": "Warrior's Shield",
-			"timesDropped": 28,
-			"dropRate": 0.024778761061946902
+			"timesDropped": 53,
+			"dropRate": 0.029758562605277934
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 27,
-			"dropRate": 0.023893805309734513
+			"timesDropped": 45,
+			"dropRate": 0.025266704098820886
+		},
+		{
+			"itemName": "Warrior's Shield",
+			"timesDropped": 45,
+			"dropRate": 0.025266704098820886
+		},
+		{
+			"itemName": "Focus Cape",
+			"timesDropped": 43,
+			"dropRate": 0.024143739472206625
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 26,
-			"dropRate": 0.023008849557522124
+			"timesDropped": 35,
+			"dropRate": 0.019651880965749578
 		}
 	]
 }

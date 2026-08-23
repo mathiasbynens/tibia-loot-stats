@@ -1,81 +1,81 @@
 {
 	"monsterName": "Crazed Beggar",
-	"timesKilled": 3556,
+	"timesKilled": 4718,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3535,
-			"dropRate": 0.9940944881889764
+			"timesDropped": 4688,
+			"dropRate": 0.9936413734633319
 		},
 		{
 			"itemName": "Dirty Cape",
-			"timesDropped": 2161,
-			"dropRate": 0.6077052868391452
+			"timesDropped": 2854,
+			"dropRate": 0.6049173378550233
 		},
 		{
 			"itemName": "Roll",
-			"timesDropped": 682,
-			"dropRate": 0.19178852643419572
+			"timesDropped": 922,
+			"dropRate": 0.19542178889359899
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 352,
-			"dropRate": 0.09898762654668167
+			"timesDropped": 466,
+			"dropRate": 0.09877066553624417
 		},
 		{
 			"itemName": "Wooden Spoon",
-			"timesDropped": 340,
-			"dropRate": 0.09561304836895389
+			"timesDropped": 451,
+			"dropRate": 0.09559135226791013
 		},
 		{
 			"itemName": "Wooden Hammer",
-			"timesDropped": 240,
-			"dropRate": 0.06749156355455568
+			"timesDropped": 332,
+			"dropRate": 0.07036880033912675
 		},
 		{
 			"itemName": "Red Rose",
-			"timesDropped": 180,
-			"dropRate": 0.05061867266591676
+			"timesDropped": 252,
+			"dropRate": 0.05341246290801187
 		},
 		{
 			"itemName": "Rolling Pin",
-			"timesDropped": 168,
-			"dropRate": 0.047244094488188976
+			"timesDropped": 204,
+			"dropRate": 0.04323866044934294
 		},
 		{
 			"itemName": "Small Blue Pillow",
-			"timesDropped": 22,
-			"dropRate": 0.006186726659167604
-		},
-		{
-			"itemName": "Sling Herb",
-			"timesDropped": 21,
-			"dropRate": 0.005905511811023622
+			"timesDropped": 31,
+			"dropRate": 0.006570580754557015
 		},
 		{
 			"itemName": "Rum Flask",
-			"timesDropped": 18,
-			"dropRate": 0.005061867266591676
+			"timesDropped": 26,
+			"dropRate": 0.005510809665112336
+		},
+		{
+			"itemName": "Sling Herb",
+			"timesDropped": 25,
+			"dropRate": 0.0052988554472234
 		},
 		{
 			"itemName": "Lute",
-			"timesDropped": 13,
-			"dropRate": 0.003655793025871766
+			"timesDropped": 15,
+			"dropRate": 0.00317931326833404
+		},
+		{
+			"itemName": "Heavily Rusted Armor",
+			"timesDropped": 14,
+			"dropRate": 0.002967359050445104
 		},
 		{
 			"itemName": "Very Noble-Looking Watch",
 			"timesDropped": 13,
-			"dropRate": 0.003655793025871766
-		},
-		{
-			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 10,
-			"dropRate": 0.00281214848143982
+			"dropRate": 0.002755404832556168
 		},
 		{
 			"itemName": "Dwarven Ring",
 			"timesDropped": 5,
-			"dropRate": 0.00140607424071991
+			"dropRate": 0.00105977108944468
 		}
 	]
 }

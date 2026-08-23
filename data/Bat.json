@@ -1,5 +1,11 @@
 {
 	"monsterName": "Bat",
-	"timesKilled": 2,
-	"items": []
+	"timesKilled": 72620,
+	"items": [
+		{
+			"itemName": "Bat Wing",
+			"timesDropped": 775,
+			"dropRate": 0.010671991187000827
+		}
+	]
 }

@@ -1,116 +1,126 @@
 {
 	"monsterName": "Foam Stalker",
-	"timesKilled": 1546,
+	"timesKilled": 829,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1546,
+			"timesDropped": 829,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 171,
-			"dropRate": 0.11060802069857698
-		},
-		{
-			"itemName": "Strong Mana Potion",
-			"timesDropped": 152,
-			"dropRate": 0.09831824062095731
-		},
-		{
-			"itemName": "Orichalcum Pearl",
-			"timesDropped": 142,
-			"dropRate": 0.09184993531694696
-		},
-		{
-			"itemName": "Spike Sword",
-			"timesDropped": 128,
-			"dropRate": 0.08279430789133248
-		},
-		{
-			"itemName": "Combat Knife",
-			"timesDropped": 118,
-			"dropRate": 0.07632600258732213
-		},
-		{
-			"itemName": "Staff",
-			"timesDropped": 112,
-			"dropRate": 0.0724450194049159
-		},
-		{
-			"itemName": "Twigs",
-			"timesDropped": 104,
-			"dropRate": 0.06727037516170763
-		},
-		{
-			"itemName": "Flotsam",
-			"timesDropped": 99,
-			"dropRate": 0.06403622250970246
-		},
-		{
-			"itemName": "Glacier Shoes",
-			"timesDropped": 98,
-			"dropRate": 0.06338939197930142
+			"timesDropped": 85,
+			"dropRate": 0.10253317249698432
 		},
 		{
 			"itemName": "Remains of a Fish",
-			"timesDropped": 93,
-			"dropRate": 0.06015523932729625
+			"timesDropped": 74,
+			"dropRate": 0.08926417370325694
 		},
 		{
-			"itemName": "Black Pearl",
-			"timesDropped": 89,
-			"dropRate": 0.057567917205692105
+			"itemName": "Combat Knife",
+			"timesDropped": 73,
+			"dropRate": 0.08805790108564536
+		},
+		{
+			"itemName": "Orichalcum Pearl",
+			"timesDropped": 70,
+			"dropRate": 0.08443908323281062
+		},
+		{
+			"itemName": "Staff",
+			"timesDropped": 65,
+			"dropRate": 0.07840772014475271
+		},
+		{
+			"itemName": "Strong Mana Potion",
+			"timesDropped": 64,
+			"dropRate": 0.07720144752714113
+		},
+		{
+			"itemName": "Twigs",
+			"timesDropped": 64,
+			"dropRate": 0.07720144752714113
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 86,
-			"dropRate": 0.055627425614489
+			"timesDropped": 63,
+			"dropRate": 0.07599517490952955
 		},
 		{
-			"itemName": "Soul Orb",
-			"timesDropped": 74,
-			"dropRate": 0.047865459249676584
+			"itemName": "Black Pearl",
+			"timesDropped": 54,
+			"dropRate": 0.06513872135102533
+		},
+		{
+			"itemName": "Flotsam",
+			"timesDropped": 54,
+			"dropRate": 0.06513872135102533
 		},
 		{
 			"itemName": "Coral Branch",
-			"timesDropped": 70,
-			"dropRate": 0.045278137128072445
+			"timesDropped": 52,
+			"dropRate": 0.06272617611580217
 		},
 		{
-			"itemName": "Small Diamond",
-			"timesDropped": 68,
-			"dropRate": 0.04398447606727038
+			"itemName": "Spike Sword",
+			"timesDropped": 51,
+			"dropRate": 0.061519903498190594
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 59,
-			"dropRate": 0.03816300129366106
+			"timesDropped": 43,
+			"dropRate": 0.05186972255729795
 		},
 		{
-			"itemName": "Terra Boots",
-			"timesDropped": 38,
-			"dropRate": 0.02457956015523933
+			"itemName": "Glacier Shoes",
+			"timesDropped": 41,
+			"dropRate": 0.04945717732207479
+		},
+		{
+			"itemName": "Small Diamond",
+			"timesDropped": 34,
+			"dropRate": 0.04101326899879373
+		},
+		{
+			"itemName": "Soul Orb",
+			"timesDropped": 34,
+			"dropRate": 0.04101326899879373
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 35,
-			"dropRate": 0.022639068564036222
+			"timesDropped": 20,
+			"dropRate": 0.024125452352231604
 		},
 		{
-			"itemName": "Mercenary Sword",
-			"timesDropped": 16,
-			"dropRate": 0.01034928848641656
+			"itemName": "Terra Boots",
+			"timesDropped": 20,
+			"dropRate": 0.024125452352231604
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 15,
-			"dropRate": 0.009702457956015523
+			"timesDropped": 16,
+			"dropRate": 0.019300361881785282
+		},
+		{
+			"itemName": "Collar of Orange Plasma",
+			"timesDropped": 9,
+			"dropRate": 0.010856453558504222
+		},
+		{
+			"itemName": "Mercenary Sword",
+			"timesDropped": 6,
+			"dropRate": 0.007237635705669481
+		},
+		{
+			"itemName": "Might Ring",
+			"timesDropped": 3,
+			"dropRate": 0.0036188178528347406
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 6,
-			"dropRate": 0.0038809831824062097
+			"timesDropped": 3,
+			"dropRate": 0.0036188178528347406
 		}
 	]
 }

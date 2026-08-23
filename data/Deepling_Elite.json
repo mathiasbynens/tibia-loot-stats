@@ -1,81 +1,81 @@
 {
 	"monsterName": "Deepling Elite",
-	"timesKilled": 2114,
+	"timesKilled": 2340,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2114,
+			"timesDropped": 2340,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 548,
-			"dropRate": 0.25922421948912017
-		},
-		{
-			"itemName": "Eye of a Deepling",
-			"timesDropped": 537,
-			"dropRate": 0.2540208136234626
+			"timesDropped": 608,
+			"dropRate": 0.25982905982905985
 		},
 		{
 			"itemName": "Deepling Filet",
-			"timesDropped": 534,
-			"dropRate": 0.25260170293282874
+			"timesDropped": 596,
+			"dropRate": 0.2547008547008547
+		},
+		{
+			"itemName": "Eye of a Deepling",
+			"timesDropped": 591,
+			"dropRate": 0.25256410256410255
 		},
 		{
 			"itemName": "Vortex Bolt",
-			"timesDropped": 525,
-			"dropRate": 0.24834437086092714
-		},
-		{
-			"itemName": "Deepling Warts",
-			"timesDropped": 518,
-			"dropRate": 0.24503311258278146
+			"timesDropped": 587,
+			"dropRate": 0.25085470085470085
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 513,
-			"dropRate": 0.24266792809839166
+			"timesDropped": 576,
+			"dropRate": 0.24615384615384617
+		},
+		{
+			"itemName": "Deepling Warts",
+			"timesDropped": 571,
+			"dropRate": 0.244017094017094
 		},
 		{
 			"itemName": "Deeptags",
-			"timesDropped": 433,
-			"dropRate": 0.20482497634815516
+			"timesDropped": 483,
+			"dropRate": 0.2064102564102564
 		},
 		{
 			"itemName": "Deepling Ridge",
-			"timesDropped": 402,
-			"dropRate": 0.1901608325449385
+			"timesDropped": 431,
+			"dropRate": 0.1841880341880342
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 145,
-			"dropRate": 0.06859035004730368
+			"timesDropped": 169,
+			"dropRate": 0.07222222222222222
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 119,
-			"dropRate": 0.056291390728476824
+			"timesDropped": 127,
+			"dropRate": 0.054273504273504275
 		},
 		{
 			"itemName": "Heavy Trident",
-			"timesDropped": 75,
-			"dropRate": 0.035477767265846734
+			"timesDropped": 81,
+			"dropRate": 0.03461538461538462
 		},
 		{
 			"itemName": "Fish Fin",
-			"timesDropped": 49,
-			"dropRate": 0.023178807947019868
+			"timesDropped": 55,
+			"dropRate": 0.023504273504273504
 		},
 		{
 			"itemName": "Warrior's Shield",
-			"timesDropped": 24,
-			"dropRate": 0.011352885525070956
+			"timesDropped": 27,
+			"dropRate": 0.011538461538461539
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 17,
-			"dropRate": 0.00804162724692526
+			"timesDropped": 20,
+			"dropRate": 0.008547008547008548
 		}
 	]
 }

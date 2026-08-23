@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"scripts": {
-		"build": "npm run compute-items-yesterday",
+		"build": "npm run compute-items-yesterday && npm run update-average-loot-stats",
 		"update-average-loot-stats": "node --no-warnings update-average-loot-stats.mjs",
 		"compute-items-yesterday": "node --no-warnings compute-items-yesterday.mjs"
 	}

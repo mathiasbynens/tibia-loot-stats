@@ -1,66 +1,66 @@
 {
 	"monsterName": "Mutated Human",
-	"timesKilled": 102822,
+	"timesKilled": 109243,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 90720,
-			"dropRate": 0.8823014529964405
+			"timesDropped": 96380,
+			"dropRate": 0.8822533251558452
 		},
 		{
 			"itemName": "Mutated Flesh",
-			"timesDropped": 20512,
-			"dropRate": 0.1994903814358795
+			"timesDropped": 21739,
+			"dropRate": 0.1989967320560585
 		},
 		{
 			"itemName": "Fishbone",
-			"timesDropped": 10351,
-			"dropRate": 0.1006691175040361
+			"timesDropped": 10971,
+			"dropRate": 0.1004274873447269
 		},
 		{
 			"itemName": "Cheese",
-			"timesDropped": 8287,
-			"dropRate": 0.08059559238295307
+			"timesDropped": 8819,
+			"dropRate": 0.08072828464981738
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 8046,
-			"dropRate": 0.07825173600980335
+			"timesDropped": 8533,
+			"dropRate": 0.07811026793478758
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 7281,
-			"dropRate": 0.07081169399544844
+			"timesDropped": 7756,
+			"dropRate": 0.0709976840621367
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 5211,
-			"dropRate": 0.05067981560366459
+			"timesDropped": 5606,
+			"dropRate": 0.051316789176423204
 		},
 		{
 			"itemName": "Strange Talisman",
-			"timesDropped": 5093,
-			"dropRate": 0.04953220127988174
+			"timesDropped": 5446,
+			"dropRate": 0.0498521644407422
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 2057,
-			"dropRate": 0.02000544630526541
+			"timesDropped": 2195,
+			"dropRate": 0.020092820592623784
 		},
 		{
 			"itemName": "Peanut",
-			"timesDropped": 552,
-			"dropRate": 0.005368500904475696
+			"timesDropped": 591,
+			"dropRate": 0.005409957617421711
 		},
 		{
 			"itemName": "Fern",
-			"timesDropped": 432,
-			"dropRate": 0.00420143549045924
+			"timesDropped": 451,
+			"dropRate": 0.004128410973700832
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 104,
-			"dropRate": 0.0010114566921475949
+			"timesDropped": 109,
+			"dropRate": 0.0009977756011826844
 		}
 	]
 }

@@ -1,66 +1,66 @@
 {
 	"monsterName": "Walker",
-	"timesKilled": 2573,
+	"timesKilled": 3379,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2573,
+			"timesDropped": 3379,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1337,
-			"dropRate": 0.5196268946754761
+			"timesDropped": 1725,
+			"dropRate": 0.5105060668836934
 		},
 		{
 			"itemName": "Metal Toe",
-			"timesDropped": 538,
-			"dropRate": 0.2090944422852701
+			"timesDropped": 703,
+			"dropRate": 0.2080497188517313
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 271,
-			"dropRate": 0.10532452390205985
+			"timesDropped": 347,
+			"dropRate": 0.10269310446877775
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 209,
-			"dropRate": 0.08122813835989118
+			"timesDropped": 260,
+			"dropRate": 0.07694584196507842
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 187,
-			"dropRate": 0.07267780800621843
+			"timesDropped": 243,
+			"dropRate": 0.07191476768274638
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 127,
-			"dropRate": 0.049358725223474544
+			"timesDropped": 172,
+			"dropRate": 0.050902633915359576
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 112,
-			"dropRate": 0.04352895452778857
+			"timesDropped": 147,
+			"dropRate": 0.04350399526487126
 		},
 		{
 			"itemName": "Metal Spats",
-			"timesDropped": 91,
-			"dropRate": 0.035367275553828216
+			"timesDropped": 115,
+			"dropRate": 0.03403373779224623
 		},
 		{
 			"itemName": "Gearwheel Chain",
-			"timesDropped": 53,
-			"dropRate": 0.020598523124757094
+			"timesDropped": 70,
+			"dropRate": 0.020716188221367268
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 16,
-			"dropRate": 0.006218422075398368
+			"timesDropped": 21,
+			"dropRate": 0.006214856466410181
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 13,
-			"dropRate": 0.005052467936261173
+			"timesDropped": 17,
+			"dropRate": 0.005031074282332051
 		}
 	]
 }

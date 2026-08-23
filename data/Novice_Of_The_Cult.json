@@ -1,61 +1,61 @@
 {
 	"monsterName": "Novice of the Cult",
-	"timesKilled": 18540,
+	"timesKilled": 23039,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8076,
-			"dropRate": 0.4355987055016181
+			"timesDropped": 9997,
+			"dropRate": 0.43391640262164155
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 1091,
-			"dropRate": 0.05884573894282632
+			"timesDropped": 1367,
+			"dropRate": 0.05933417249012544
 		},
 		{
 			"itemName": "Scarf",
-			"timesDropped": 550,
-			"dropRate": 0.0296655879180151
+			"timesDropped": 675,
+			"dropRate": 0.02929814662094709
 		},
 		{
 			"itemName": "Music Sheet (First Verse)",
-			"timesDropped": 195,
-			"dropRate": 0.010517799352750809
+			"timesDropped": 248,
+			"dropRate": 0.010764356091844264
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 188,
-			"dropRate": 0.010140237324703344
+			"timesDropped": 225,
+			"dropRate": 0.00976604887364903
 		},
 		{
 			"itemName": "Book (Orange)",
-			"timesDropped": 129,
-			"dropRate": 0.0069579288025889965
-		},
-		{
-			"itemName": "Dwarven Ring",
-			"timesDropped": 94,
-			"dropRate": 0.005070118662351672
+			"timesDropped": 172,
+			"dropRate": 0.007465601805633925
 		},
 		{
 			"itemName": "Pirate Voodoo Doll",
-			"timesDropped": 91,
-			"dropRate": 0.004908306364617044
+			"timesDropped": 122,
+			"dropRate": 0.005295368722600807
+		},
+		{
+			"itemName": "Dwarven Ring",
+			"timesDropped": 120,
+			"dropRate": 0.0052085593992794825
 		},
 		{
 			"itemName": "Wand of Vortex",
-			"timesDropped": 84,
-			"dropRate": 0.004530744336569579
+			"timesDropped": 107,
+			"dropRate": 0.004644298797690872
 		},
 		{
 			"itemName": "Garlic Necklace",
-			"timesDropped": 78,
-			"dropRate": 0.004207119741100324
+			"timesDropped": 97,
+			"dropRate": 0.0042102521810842486
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 36,
-			"dropRate": 0.001941747572815534
+			"timesDropped": 45,
+			"dropRate": 0.001953209774729806
 		}
 	]
 }

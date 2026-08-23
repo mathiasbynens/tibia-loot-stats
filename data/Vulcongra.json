@@ -1,86 +1,86 @@
 {
 	"monsterName": "Vulcongra",
-	"timesKilled": 8098,
+	"timesKilled": 10910,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8098,
+			"timesDropped": 10910,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1173,
-			"dropRate": 0.1448505803902198
+			"timesDropped": 1600,
+			"dropRate": 0.1466544454628781
 		},
 		{
 			"itemName": "Magma Clump",
-			"timesDropped": 989,
-			"dropRate": 0.12212892072116573
+			"timesDropped": 1336,
+			"dropRate": 0.12245646196150321
 		},
 		{
 			"itemName": "Banana",
-			"timesDropped": 770,
-			"dropRate": 0.09508520622375895
+			"timesDropped": 1053,
+			"dropRate": 0.09651695692025665
 		},
 		{
 			"itemName": "Fiery Heart",
-			"timesDropped": 729,
-			"dropRate": 0.09002222771054581
+			"timesDropped": 992,
+			"dropRate": 0.09092575618698442
 		},
 		{
 			"itemName": "Blazing Bone",
-			"timesDropped": 643,
-			"dropRate": 0.07940232156087923
+			"timesDropped": 872,
+			"dropRate": 0.07992667277726856
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 600,
-			"dropRate": 0.07409236848604593
+			"timesDropped": 811,
+			"dropRate": 0.07433547204399633
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 589,
-			"dropRate": 0.07273400839713509
+			"timesDropped": 790,
+			"dropRate": 0.07241063244729606
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 395,
-			"dropRate": 0.048777475919980245
+			"timesDropped": 536,
+			"dropRate": 0.04912923923006416
 		},
 		{
 			"itemName": "Sword Ring",
-			"timesDropped": 249,
-			"dropRate": 0.030748332921709063
+			"timesDropped": 342,
+			"dropRate": 0.03134738771769019
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 197,
-			"dropRate": 0.02432699431958508
+			"timesDropped": 250,
+			"dropRate": 0.022914757103574702
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 76,
-			"dropRate": 0.009385033341565818
+			"timesDropped": 110,
+			"dropRate": 0.01008249312557287
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 72,
-			"dropRate": 0.008891084218325513
+			"timesDropped": 96,
+			"dropRate": 0.008799266727772686
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 68,
-			"dropRate": 0.008397135095085207
+			"timesDropped": 93,
+			"dropRate": 0.008524289642529789
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 24,
-			"dropRate": 0.0029636947394418374
+			"timesDropped": 30,
+			"dropRate": 0.002749770852428964
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 13,
-			"dropRate": 0.0016053346505309953
+			"timesDropped": 18,
+			"dropRate": 0.0016498625114573786
 		}
 	]
 }

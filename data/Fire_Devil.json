@@ -1,51 +1,51 @@
 {
 	"monsterName": "Fire Devil",
-	"timesKilled": 15770,
+	"timesKilled": 18513,
 	"items": [
 		{
 			"itemName": "Small Pitchfork",
-			"timesDropped": 3059,
-			"dropRate": 0.19397590361445782
+			"timesDropped": 3563,
+			"dropRate": 0.19245935288716037
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 1729,
-			"dropRate": 0.10963855421686747
+			"timesDropped": 2019,
+			"dropRate": 0.10905849943283098
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 473,
-			"dropRate": 0.029993658845909956
-		},
-		{
-			"itemName": "Double Axe",
-			"timesDropped": 220,
-			"dropRate": 0.013950538998097653
+			"timesDropped": 528,
+			"dropRate": 0.0285204991087344
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 219,
-			"dropRate": 0.01388712745719721
+			"timesDropped": 267,
+			"dropRate": 0.014422297844757738
+		},
+		{
+			"itemName": "Double Axe",
+			"timesDropped": 255,
+			"dropRate": 0.013774104683195593
 		},
 		{
 			"itemName": "Cleaver",
-			"timesDropped": 150,
-			"dropRate": 0.009511731135066582
+			"timesDropped": 176,
+			"dropRate": 0.009506833036244802
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 75,
-			"dropRate": 0.004755865567533291
+			"timesDropped": 92,
+			"dropRate": 0.004969480905309782
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 45,
-			"dropRate": 0.0028535193405199747
+			"timesDropped": 48,
+			"dropRate": 0.002592772646248582
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 35,
-			"dropRate": 0.0022194039315155357
+			"timesDropped": 42,
+			"dropRate": 0.0022686760654675093
 		}
 	]
 }

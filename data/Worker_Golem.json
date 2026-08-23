@@ -1,96 +1,96 @@
 {
 	"monsterName": "Worker Golem",
-	"timesKilled": 20224,
+	"timesKilled": 22925,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18965,
-			"dropRate": 0.9377472310126582
+			"timesDropped": 21504,
+			"dropRate": 0.9380152671755725
 		},
 		{
 			"itemName": "Nail",
-			"timesDropped": 984,
-			"dropRate": 0.04865506329113924
+			"timesDropped": 1095,
+			"dropRate": 0.04776444929116685
 		},
 		{
 			"itemName": "Gear Crystal",
-			"timesDropped": 440,
-			"dropRate": 0.021756329113924052
+			"timesDropped": 494,
+			"dropRate": 0.021548527808069793
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 396,
-			"dropRate": 0.019580696202531646
-		},
-		{
-			"itemName": "Rusted Armor",
-			"timesDropped": 318,
-			"dropRate": 0.01572389240506329
+			"timesDropped": 441,
+			"dropRate": 0.019236641221374046
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 315,
-			"dropRate": 0.015575553797468354
+			"timesDropped": 359,
+			"dropRate": 0.015659760087241004
+		},
+		{
+			"itemName": "Rusted Armor",
+			"timesDropped": 354,
+			"dropRate": 0.015441657579062159
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 213,
-			"dropRate": 0.010532041139240507
+			"timesDropped": 244,
+			"dropRate": 0.01064340239912759
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 205,
-			"dropRate": 0.010136471518987342
+			"timesDropped": 231,
+			"dropRate": 0.010076335877862596
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 201,
-			"dropRate": 0.009938686708860759
+			"timesDropped": 228,
+			"dropRate": 0.00994547437295529
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 197,
-			"dropRate": 0.009740901898734177
+			"timesDropped": 222,
+			"dropRate": 0.009683751363140676
 		},
 		{
 			"itemName": "Rusted Legs",
-			"timesDropped": 184,
-			"dropRate": 0.009098101265822785
+			"timesDropped": 203,
+			"dropRate": 0.008854961832061069
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 182,
-			"dropRate": 0.008999208860759493
+			"timesDropped": 200,
+			"dropRate": 0.008724100327153763
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 175,
-			"dropRate": 0.008653085443037974
-		},
-		{
-			"itemName": "Great Spirit Potion",
-			"timesDropped": 167,
-			"dropRate": 0.00825751582278481
+			"timesDropped": 199,
+			"dropRate": 0.008680479825517994
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 156,
-			"dropRate": 0.007713607594936709
+			"timesDropped": 183,
+			"dropRate": 0.007982551799345693
+		},
+		{
+			"itemName": "Great Spirit Potion",
+			"timesDropped": 180,
+			"dropRate": 0.007851690294438387
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 101,
-			"dropRate": 0.004994066455696202
+			"timesDropped": 115,
+			"dropRate": 0.005016357688113413
 		},
 		{
 			"itemName": "Crystal Pedestal (Cyan)",
-			"timesDropped": 32,
-			"dropRate": 0.0015822784810126582
+			"timesDropped": 36,
+			"dropRate": 0.0015703380588876772
 		},
 		{
 			"itemName": "Bonebreaker",
-			"timesDropped": 23,
-			"dropRate": 0.001137262658227848
+			"timesDropped": 25,
+			"dropRate": 0.0010905125408942203
 		}
 	]
 }

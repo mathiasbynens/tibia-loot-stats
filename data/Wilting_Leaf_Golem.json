@@ -1,36 +1,41 @@
 {
 	"monsterName": "Wilting Leaf Golem",
-	"timesKilled": 73255,
+	"timesKilled": 78917,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 71451,
-			"dropRate": 0.975373694628353
+			"timesDropped": 76969,
+			"dropRate": 0.9753158381590785
 		},
 		{
 			"itemName": "Fir Cone",
-			"timesDropped": 10949,
-			"dropRate": 0.1494642003958774
+			"timesDropped": 11801,
+			"dropRate": 0.14953685517695808
 		},
 		{
 			"itemName": "Dowser",
-			"timesDropped": 8724,
-			"dropRate": 0.1190908470411576
+			"timesDropped": 9401,
+			"dropRate": 0.1191251568103197
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 3689,
-			"dropRate": 0.05035833731485905
+			"timesDropped": 4011,
+			"dropRate": 0.05082555089524437
 		},
 		{
 			"itemName": "Swampling Club",
-			"timesDropped": 3567,
-			"dropRate": 0.048692921984847454
+			"timesDropped": 3846,
+			"dropRate": 0.04873474663253798
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 761,
-			"dropRate": 0.010388369394580575
+			"timesDropped": 813,
+			"dropRate": 0.010301962821698747
+		},
+		{
+			"itemName": "Soul Prism",
+			"timesDropped": 1,
+			"dropRate": 0.00001267154098609932
 		}
 	]
 }

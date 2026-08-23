@@ -1,71 +1,81 @@
 {
 	"monsterName": "Distorted Phantom",
-	"timesKilled": 3859,
+	"timesKilled": 2897,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 2297,
-			"dropRate": 0.5952319253692666
+			"timesDropped": 1670,
+			"dropRate": 0.576458405246807
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 692,
-			"dropRate": 0.1793210676341021
-		},
-		{
-			"itemName": "Underworld Rod",
-			"timesDropped": 144,
-			"dropRate": 0.03731536667530448
-		},
-		{
-			"itemName": "Distorted Heart",
-			"timesDropped": 129,
-			"dropRate": 0.0334283493132936
-		},
-		{
-			"itemName": "Spellbook of Warding",
-			"timesDropped": 124,
-			"dropRate": 0.03213267685928997
+			"timesDropped": 541,
+			"dropRate": 0.18674490852606143
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 116,
-			"dropRate": 0.030059600932884168
+			"timesDropped": 112,
+			"dropRate": 0.03866068346565413
+		},
+		{
+			"itemName": "Distorted Heart",
+			"timesDropped": 101,
+			"dropRate": 0.03486365205384881
+		},
+		{
+			"itemName": "Spellbook of Warding",
+			"timesDropped": 101,
+			"dropRate": 0.03486365205384881
+		},
+		{
+			"itemName": "Underworld Rod",
+			"timesDropped": 94,
+			"dropRate": 0.03244735933724543
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 110,
-			"dropRate": 0.028504793988079813
-		},
-		{
-			"itemName": "Springsprout Rod",
-			"timesDropped": 102,
-			"dropRate": 0.02643171806167401
-		},
-		{
-			"itemName": "Ring of Red Plasma",
-			"timesDropped": 95,
-			"dropRate": 0.02461777662606893
-		},
-		{
-			"itemName": "Distorted Robe",
-			"timesDropped": 94,
-			"dropRate": 0.024358642135268203
-		},
-		{
-			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 71,
-			"dropRate": 0.018398548846851517
+			"timesDropped": 89,
+			"dropRate": 0.03072143596824301
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 67,
-			"dropRate": 0.017362010883648613
+			"timesDropped": 71,
+			"dropRate": 0.024508111839834312
+		},
+		{
+			"itemName": "Distorted Robe",
+			"timesDropped": 55,
+			"dropRate": 0.018985157059026578
+		},
+		{
+			"itemName": "Springsprout Rod",
+			"timesDropped": 50,
+			"dropRate": 0.01725923369002416
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 49,
+			"dropRate": 0.01691404901622368
+		},
+		{
+			"itemName": "Ring of Orange Plasma",
+			"timesDropped": 42,
+			"dropRate": 0.014497756299620296
+		},
+		{
+			"itemName": "Ring of Blue Plasma",
+			"timesDropped": 41,
+			"dropRate": 0.014152571625819814
 		},
 		{
 			"itemName": "Ring of Green Plasma",
-			"timesDropped": 61,
-			"dropRate": 0.01580720393884426
+			"timesDropped": 34,
+			"dropRate": 0.01173627890921643
+		},
+		{
+			"itemName": "Ring of Red Plasma",
+			"timesDropped": 27,
+			"dropRate": 0.009319986192613048
 		}
 	]
 }

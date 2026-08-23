@@ -1,86 +1,86 @@
 {
 	"monsterName": "Phantasm",
-	"timesKilled": 4670,
+	"timesKilled": 5953,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4105,
-			"dropRate": 0.8790149892933619
+			"timesDropped": 5232,
+			"dropRate": 0.8788845960020157
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4105,
-			"dropRate": 0.8790149892933619
+			"timesDropped": 5232,
+			"dropRate": 0.8788845960020157
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1444,
-			"dropRate": 0.30920770877944326
+			"timesDropped": 1829,
+			"dropRate": 0.3072400470351083
 		},
 		{
 			"itemName": "Shadow Herb",
-			"timesDropped": 1227,
-			"dropRate": 0.2627408993576017
+			"timesDropped": 1565,
+			"dropRate": 0.262892659163447
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 1002,
-			"dropRate": 0.2145610278372591
+			"timesDropped": 1274,
+			"dropRate": 0.21400974298672937
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 821,
-			"dropRate": 0.17580299785867237
+			"timesDropped": 1065,
+			"dropRate": 0.1789013942549975
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 810,
-			"dropRate": 0.1734475374732334
-		},
-		{
-			"itemName": "Small Topaz",
-			"timesDropped": 636,
-			"dropRate": 0.13618843683083512
+			"timesDropped": 1027,
+			"dropRate": 0.1725180581219553
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 628,
-			"dropRate": 0.13447537473233404
+			"timesDropped": 808,
+			"dropRate": 0.13572988409205441
 		},
 		{
-			"itemName": "Small Emerald",
-			"timesDropped": 510,
-			"dropRate": 0.10920770877944326
+			"itemName": "Small Topaz",
+			"timesDropped": 778,
+			"dropRate": 0.13069040819754746
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 509,
-			"dropRate": 0.10899357601713063
+			"timesDropped": 665,
+			"dropRate": 0.11170838232823786
 		},
 		{
-			"itemName": "Stealth Ring",
-			"timesDropped": 39,
-			"dropRate": 0.00835117773019272
+			"itemName": "Small Emerald",
+			"timesDropped": 632,
+			"dropRate": 0.10616495884428019
 		},
 		{
 			"itemName": "Shadow Sceptre",
-			"timesDropped": 38,
-			"dropRate": 0.008137044967880086
+			"timesDropped": 52,
+			"dropRate": 0.00873509155047875
+		},
+		{
+			"itemName": "Stealth Ring",
+			"timesDropped": 47,
+			"dropRate": 0.007895178901394255
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 33,
-			"dropRate": 0.007066381156316916
+			"timesDropped": 40,
+			"dropRate": 0.0067193011926759616
 		},
 		{
 			"itemName": "Abyss Hammer",
-			"timesDropped": 18,
-			"dropRate": 0.003854389721627409
+			"timesDropped": 24,
+			"dropRate": 0.004031580715605577
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 15,
-			"dropRate": 0.0032119914346895075
+			"timesDropped": 24,
+			"dropRate": 0.004031580715605577
 		}
 	]
 }

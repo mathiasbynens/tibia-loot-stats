@@ -1,91 +1,91 @@
 {
 	"monsterName": "Cursed Book",
-	"timesKilled": 2271,
+	"timesKilled": 4350,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1716,
-			"dropRate": 0.7556142668428005
+			"timesDropped": 3291,
+			"dropRate": 0.756551724137931
 		},
 		{
 			"itemName": "Book Page",
-			"timesDropped": 1474,
-			"dropRate": 0.6490532804931748
+			"timesDropped": 2805,
+			"dropRate": 0.6448275862068965
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 1103,
-			"dropRate": 0.4856891237340379
+			"timesDropped": 2148,
+			"dropRate": 0.49379310344827587
 		},
 		{
 			"itemName": "Silken Bookmark",
-			"timesDropped": 847,
-			"dropRate": 0.37296345222369
+			"timesDropped": 1620,
+			"dropRate": 0.3724137931034483
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 610,
-			"dropRate": 0.26860413914575076
+			"timesDropped": 1166,
+			"dropRate": 0.26804597701149424
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 433,
-			"dropRate": 0.1906649053280493
+			"timesDropped": 830,
+			"dropRate": 0.19080459770114944
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 210,
-			"dropRate": 0.09247027741083223
+			"timesDropped": 400,
+			"dropRate": 0.09195402298850575
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 138,
-			"dropRate": 0.0607661822985469
+			"timesDropped": 278,
+			"dropRate": 0.0639080459770115
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 124,
-			"dropRate": 0.054601497137824744
-		},
-		{
-			"itemName": "Terra Hood",
-			"timesDropped": 95,
-			"dropRate": 0.041831792162043156
+			"timesDropped": 225,
+			"dropRate": 0.05172413793103448
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 90,
-			"dropRate": 0.03963011889035667
+			"timesDropped": 176,
+			"dropRate": 0.04045977011494253
 		},
 		{
-			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 41,
-			"dropRate": 0.01805372082782915
+			"itemName": "Terra Hood",
+			"timesDropped": 171,
+			"dropRate": 0.039310344827586205
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 41,
-			"dropRate": 0.01805372082782915
+			"timesDropped": 93,
+			"dropRate": 0.021379310344827585
+		},
+		{
+			"itemName": "Sacred Tree Amulet",
+			"timesDropped": 85,
+			"dropRate": 0.01954022988505747
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 27,
-			"dropRate": 0.011889035667107
-		},
-		{
-			"itemName": "Terra Mantle",
-			"timesDropped": 16,
-			"dropRate": 0.007045354469396741
+			"timesDropped": 44,
+			"dropRate": 0.010114942528735632
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 15,
-			"dropRate": 0.0066050198150594455
+			"timesDropped": 32,
+			"dropRate": 0.0073563218390804595
+		},
+		{
+			"itemName": "Terra Mantle",
+			"timesDropped": 29,
+			"dropRate": 0.006666666666666667
 		},
 		{
 			"itemName": "Swamplair Armor",
-			"timesDropped": 5,
-			"dropRate": 0.002201673271686482
+			"timesDropped": 8,
+			"dropRate": 0.0018390804597701149
 		}
 	]
 }

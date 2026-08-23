@@ -1,71 +1,71 @@
 {
 	"monsterName": "Crape Man",
-	"timesKilled": 2558,
+	"timesKilled": 777,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2038,
-			"dropRate": 0.7967161845191556
-		},
-		{
-			"itemName": "Crab Man Claws",
-			"timesDropped": 137,
-			"dropRate": 0.053557466770914774
+			"timesDropped": 504,
+			"dropRate": 0.6486486486486487
 		},
 		{
 			"itemName": "Guardian Halberd",
-			"timesDropped": 125,
-			"dropRate": 0.04886630179827991
+			"timesDropped": 43,
+			"dropRate": 0.055341055341055344
 		},
 		{
-			"itemName": "Green Gem",
-			"timesDropped": 63,
-			"dropRate": 0.024628616106333073
-		},
-		{
-			"itemName": "Great Health Potion",
-			"timesDropped": 57,
-			"dropRate": 0.022283033620015637
+			"itemName": "Crab Man Claws",
+			"timesDropped": 37,
+			"dropRate": 0.047619047619047616
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 56,
-			"dropRate": 0.0218921032056294
+			"timesDropped": 28,
+			"dropRate": 0.036036036036036036
+		},
+		{
+			"itemName": "Great Health Potion",
+			"timesDropped": 20,
+			"dropRate": 0.02574002574002574
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 48,
-			"dropRate": 0.018764659890539485
+			"timesDropped": 15,
+			"dropRate": 0.019305019305019305
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 48,
-			"dropRate": 0.018764659890539485
+			"timesDropped": 15,
+			"dropRate": 0.019305019305019305
+		},
+		{
+			"itemName": "Green Gem",
+			"timesDropped": 14,
+			"dropRate": 0.018018018018018018
 		},
 		{
 			"itemName": "Warrior's Shield",
-			"timesDropped": 39,
-			"dropRate": 0.01524628616106333
+			"timesDropped": 12,
+			"dropRate": 0.015444015444015444
 		},
 		{
 			"itemName": "Glacier Kilt",
-			"timesDropped": 37,
-			"dropRate": 0.014464425332290852
-		},
-		{
-			"itemName": "Hammer of Wrath",
-			"timesDropped": 26,
-			"dropRate": 0.010164190774042221
+			"timesDropped": 6,
+			"dropRate": 0.007722007722007722
 		},
 		{
 			"itemName": "Noble Axe",
-			"timesDropped": 18,
-			"dropRate": 0.007036747458952306
+			"timesDropped": 6,
+			"dropRate": 0.007722007722007722
+		},
+		{
+			"itemName": "Hammer of Wrath",
+			"timesDropped": 5,
+			"dropRate": 0.006435006435006435
 		},
 		{
 			"itemName": "Ring of the Sky",
-			"timesDropped": 4,
-			"dropRate": 0.001563721657544957
+			"timesDropped": 2,
+			"dropRate": 0.002574002574002574
 		}
 	]
 }
