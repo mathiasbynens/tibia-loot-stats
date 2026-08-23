@@ -1,0 +1,41 @@
+{
+	"monsterName": "Midnight Panther",
+	"timesKilled": 37,
+	"items": [
+		{
+			"itemName": "Panther Paw",
+			"timesDropped": 37,
+			"dropRate": 1
+		},
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 35,
+			"dropRate": 0.9459459459459459
+		},
+		{
+			"itemName": "Meat",
+			"timesDropped": 10,
+			"dropRate": 0.2702702702702703
+		},
+		{
+			"itemName": "Panther Head",
+			"timesDropped": 6,
+			"dropRate": 0.16216216216216217
+		},
+		{
+			"itemName": "Life Ring",
+			"timesDropped": 1,
+			"dropRate": 0.02702702702702703
+		},
+		{
+			"itemName": "Sabretooth",
+			"timesDropped": 1,
+			"dropRate": 0.02702702702702703
+		},
+		{
+			"itemName": "Strong Health Potion",
+			"timesDropped": 1,
+			"dropRate": 0.02702702702702703
+		}
+	]
+}

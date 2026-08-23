@@ -1,0 +1,36 @@
+{
+	"monsterName": "Yeti",
+	"timesKilled": 117,
+	"items": [
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 89,
+			"dropRate": 0.7606837606837606
+		},
+		{
+			"itemName": "Meat",
+			"timesDropped": 81,
+			"dropRate": 0.6923076923076923
+		},
+		{
+			"itemName": "Snowball",
+			"timesDropped": 62,
+			"dropRate": 0.5299145299145299
+		},
+		{
+			"itemName": "Ham",
+			"timesDropped": 44,
+			"dropRate": 0.37606837606837606
+		},
+		{
+			"itemName": "Bunnyslippers",
+			"timesDropped": 1,
+			"dropRate": 0.008547008547008548
+		},
+		{
+			"itemName": "Wolf Tooth Chain",
+			"timesDropped": 1,
+			"dropRate": 0.008547008547008548
+		}
+	]
+}

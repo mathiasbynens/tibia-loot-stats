@@ -59,6 +59,7 @@ for (const creature of uglyCreatureNames) {
 	await writeJsonFile(`./data/${slug}.json`, result);
 
 	const lootToDropRateObject = {};
+	if (!result.items) continue;
 	for (const item of result.items) {
 		lootToDropRateObject[item.itemName] = item.dropRate;
 	}

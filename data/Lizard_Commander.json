@@ -1,0 +1,51 @@
+{
+	"monsterName": "Lizard Commander",
+	"timesKilled": 370,
+	"items": [
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 277,
+			"dropRate": 0.7486486486486487
+		},
+		{
+			"itemName": "Dragon Necklace",
+			"timesDropped": 189,
+			"dropRate": 0.5108108108108108
+		},
+		{
+			"itemName": "Health Potion",
+			"timesDropped": 113,
+			"dropRate": 0.3054054054054054
+		},
+		{
+			"itemName": "Mana Potion",
+			"timesDropped": 100,
+			"dropRate": 0.2702702702702703
+		},
+		{
+			"itemName": "Lizard Tail",
+			"timesDropped": 68,
+			"dropRate": 0.1837837837837838
+		},
+		{
+			"itemName": "Scale Armor",
+			"timesDropped": 26,
+			"dropRate": 0.07027027027027027
+		},
+		{
+			"itemName": "Small Emerald",
+			"timesDropped": 18,
+			"dropRate": 0.04864864864864865
+		},
+		{
+			"itemName": "Lizard Scale",
+			"timesDropped": 4,
+			"dropRate": 0.010810810810810811
+		},
+		{
+			"itemName": "Lizard Leather",
+			"timesDropped": 1,
+			"dropRate": 0.002702702702702703
+		}
+	]
+}

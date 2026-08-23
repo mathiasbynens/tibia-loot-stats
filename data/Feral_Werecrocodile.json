@@ -1,0 +1,71 @@
+{
+	"monsterName": "Feral Werecrocodile",
+	"timesKilled": 720,
+	"items": [
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 720,
+			"dropRate": 1
+		},
+		{
+			"itemName": "Platinum Coin",
+			"timesDropped": 720,
+			"dropRate": 1
+		},
+		{
+			"itemName": "Werecrocodile Tongue",
+			"timesDropped": 62,
+			"dropRate": 0.08611111111111111
+		},
+		{
+			"itemName": "Ham",
+			"timesDropped": 35,
+			"dropRate": 0.04861111111111111
+		},
+		{
+			"itemName": "Moonlight Crystals",
+			"timesDropped": 35,
+			"dropRate": 0.04861111111111111
+		},
+		{
+			"itemName": "War Hammer",
+			"timesDropped": 35,
+			"dropRate": 0.04861111111111111
+		},
+		{
+			"itemName": "Golden Sun Coin",
+			"timesDropped": 12,
+			"dropRate": 0.016666666666666666
+		},
+		{
+			"itemName": "Ring of Orange Plasma",
+			"timesDropped": 12,
+			"dropRate": 0.016666666666666666
+		},
+		{
+			"itemName": "Violet Gem",
+			"timesDropped": 10,
+			"dropRate": 0.013888888888888888
+		},
+		{
+			"itemName": "Terra Mantle",
+			"timesDropped": 9,
+			"dropRate": 0.0125
+		},
+		{
+			"itemName": "Sun Brooch",
+			"timesDropped": 7,
+			"dropRate": 0.009722222222222222
+		},
+		{
+			"itemName": "Ornate Crossbow",
+			"timesDropped": 6,
+			"dropRate": 0.008333333333333333
+		},
+		{
+			"itemName": "Swamplair Armor",
+			"timesDropped": 2,
+			"dropRate": 0.002777777777777778
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"monsterName": "Thornfire Wolf",
+	"timesKilled": 33,
+	"items": [
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 26,
+			"dropRate": 0.7878787878787878
+		},
+		{
+			"itemName": "Meat",
+			"timesDropped": 9,
+			"dropRate": 0.2727272727272727
+		},
+		{
+			"itemName": "Flaming Arrow",
+			"timesDropped": 4,
+			"dropRate": 0.12121212121212122
+		},
+		{
+			"itemName": "Fiery Heart",
+			"timesDropped": 3,
+			"dropRate": 0.09090909090909091
+		},
+		{
+			"itemName": "Wolf Paw",
+			"timesDropped": 1,
+			"dropRate": 0.030303030303030304
+		}
+	]
+}

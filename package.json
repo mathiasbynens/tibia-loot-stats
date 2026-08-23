@@ -1,8 +1,13 @@
 {
 	"private": true,
 	"scripts": {
+		"format": "prettier . --write",
 		"build": "npm run compute-items-yesterday && npm run update-average-loot-stats",
 		"update-average-loot-stats": "node --no-warnings update-average-loot-stats.mjs",
+		"update-creatures": "node --no-warnings update-creatures.mjs",
 		"compute-items-yesterday": "node --no-warnings compute-items-yesterday.mjs"
+	},
+	"devDependencies": {
+		"prettier": "^3.9.6"
 	}
 }

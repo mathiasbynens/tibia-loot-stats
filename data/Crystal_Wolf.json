@@ -1,0 +1,36 @@
+{
+	"monsterName": "Crystal Wolf",
+	"timesKilled": 68,
+	"items": [
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 57,
+			"dropRate": 0.8382352941176471
+		},
+		{
+			"itemName": "Meat",
+			"timesDropped": 32,
+			"dropRate": 0.47058823529411764
+		},
+		{
+			"itemName": "Shiver Arrow",
+			"timesDropped": 8,
+			"dropRate": 0.11764705882352941
+		},
+		{
+			"itemName": "Hailstorm Rod",
+			"timesDropped": 3,
+			"dropRate": 0.04411764705882353
+		},
+		{
+			"itemName": "Crystalline Armor",
+			"timesDropped": 1,
+			"dropRate": 0.014705882352941176
+		},
+		{
+			"itemName": "Wolf Paw",
+			"timesDropped": 1,
+			"dropRate": 0.014705882352941176
+		}
+	]
+}

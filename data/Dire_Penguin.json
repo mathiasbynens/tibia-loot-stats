@@ -1,0 +1,16 @@
+{
+	"monsterName": "Dire Penguin",
+	"timesKilled": 55,
+	"items": [
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 35,
+			"dropRate": 0.6363636363636364
+		},
+		{
+			"itemName": "Fish",
+			"timesDropped": 5,
+			"dropRate": 0.09090909090909091
+		}
+	]
+}

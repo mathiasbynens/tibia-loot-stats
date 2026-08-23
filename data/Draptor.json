@@ -1,0 +1,26 @@
+{
+	"monsterName": "Draptor",
+	"timesKilled": 280,
+	"items": [
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 276,
+			"dropRate": 0.9857142857142858
+		},
+		{
+			"itemName": "Strong Health Potion",
+			"timesDropped": 63,
+			"dropRate": 0.225
+		},
+		{
+			"itemName": "Strong Mana Potion",
+			"timesDropped": 43,
+			"dropRate": 0.15357142857142858
+		},
+		{
+			"itemName": "Draptor Scales",
+			"timesDropped": 23,
+			"dropRate": 0.08214285714285714
+		}
+	]
+}

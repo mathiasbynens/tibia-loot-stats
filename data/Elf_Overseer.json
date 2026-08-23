@@ -1,0 +1,46 @@
+{
+	"monsterName": "Elf Overseer",
+	"timesKilled": 41,
+	"items": [
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 23,
+			"dropRate": 0.5609756097560976
+		},
+		{
+			"itemName": "Battle Shield",
+			"timesDropped": 7,
+			"dropRate": 0.17073170731707318
+		},
+		{
+			"itemName": "Elvish Talisman",
+			"timesDropped": 7,
+			"dropRate": 0.17073170731707318
+		},
+		{
+			"itemName": "Bread",
+			"timesDropped": 5,
+			"dropRate": 0.12195121951219512
+		},
+		{
+			"itemName": "Health Potion",
+			"timesDropped": 5,
+			"dropRate": 0.12195121951219512
+		},
+		{
+			"itemName": "Holy Orchid",
+			"timesDropped": 3,
+			"dropRate": 0.07317073170731707
+		},
+		{
+			"itemName": "Mana Potion",
+			"timesDropped": 3,
+			"dropRate": 0.07317073170731707
+		},
+		{
+			"itemName": "Crystal Sword",
+			"timesDropped": 2,
+			"dropRate": 0.04878048780487805
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"monsterName": "Vicious Manbat",
+	"timesKilled": 17,
+	"items": [
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 17,
+			"dropRate": 1
+		},
+		{
+			"itemName": "Strong Mana Potion",
+			"timesDropped": 4,
+			"dropRate": 0.23529411764705882
+		},
+		{
+			"itemName": "Small Ruby",
+			"timesDropped": 2,
+			"dropRate": 0.11764705882352941
+		}
+	]
+}

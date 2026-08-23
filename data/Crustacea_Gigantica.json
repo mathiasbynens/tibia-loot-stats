@@ -1,0 +1,31 @@
+{
+	"monsterName": "Crustacea Gigantica",
+	"timesKilled": 113,
+	"items": [
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 111,
+			"dropRate": 0.9823008849557522
+		},
+		{
+			"itemName": "Strong Mana Potion",
+			"timesDropped": 8,
+			"dropRate": 0.07079646017699115
+		},
+		{
+			"itemName": "Giant Crab Pincer",
+			"timesDropped": 5,
+			"dropRate": 0.04424778761061947
+		},
+		{
+			"itemName": "Strong Health Potion",
+			"timesDropped": 3,
+			"dropRate": 0.02654867256637168
+		},
+		{
+			"itemName": "Ring of Healing",
+			"timesDropped": 1,
+			"dropRate": 0.008849557522123894
+		}
+	]
+}

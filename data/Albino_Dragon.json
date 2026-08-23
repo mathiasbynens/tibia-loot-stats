@@ -1,0 +1,66 @@
+{
+	"monsterName": "Albino Dragon",
+	"timesKilled": 50,
+	"items": [
+		{
+			"itemName": "Gold Coin",
+			"timesDropped": 48,
+			"dropRate": 0.96
+		},
+		{
+			"itemName": "Dragon Ham",
+			"timesDropped": 38,
+			"dropRate": 0.76
+		},
+		{
+			"itemName": "Platinum Coin",
+			"timesDropped": 17,
+			"dropRate": 0.34
+		},
+		{
+			"itemName": "Royal Spear",
+			"timesDropped": 12,
+			"dropRate": 0.24
+		},
+		{
+			"itemName": "Power Bolt",
+			"timesDropped": 9,
+			"dropRate": 0.18
+		},
+		{
+			"itemName": "Energy Ring",
+			"timesDropped": 6,
+			"dropRate": 0.12
+		},
+		{
+			"itemName": "Golden Mug",
+			"timesDropped": 6,
+			"dropRate": 0.12
+		},
+		{
+			"itemName": "Green Mushroom",
+			"timesDropped": 5,
+			"dropRate": 0.1
+		},
+		{
+			"itemName": "Book",
+			"timesDropped": 4,
+			"dropRate": 0.08
+		},
+		{
+			"itemName": "Small Sapphire",
+			"timesDropped": 2,
+			"dropRate": 0.04
+		},
+		{
+			"itemName": "Strong Health Potion",
+			"timesDropped": 2,
+			"dropRate": 0.04
+		},
+		{
+			"itemName": "Life Crystal",
+			"timesDropped": 1,
+			"dropRate": 0.02
+		}
+	]
+}
