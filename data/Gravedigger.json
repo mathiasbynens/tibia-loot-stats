@@ -1,71 +1,71 @@
 {
 	"monsterName": "Gravedigger",
-	"timesKilled": 321,
+	"timesKilled": 322,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 321,
+			"timesDropped": 322,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
 			"timesDropped": 80,
-			"dropRate": 0.24922118380062305
+			"dropRate": 0.2484472049689441
 		},
 		{
 			"itemName": "Unholy Bone",
 			"timesDropped": 33,
-			"dropRate": 0.102803738317757
+			"dropRate": 0.10248447204968944
 		},
 		{
 			"itemName": "Pile of Grave Earth",
 			"timesDropped": 30,
-			"dropRate": 0.09345794392523364
+			"dropRate": 0.09316770186335403
 		},
 		{
 			"itemName": "Safety Pin",
 			"timesDropped": 22,
-			"dropRate": 0.06853582554517133
+			"dropRate": 0.06832298136645963
 		},
 		{
 			"itemName": "Wand of Inferno",
 			"timesDropped": 18,
-			"dropRate": 0.056074766355140186
+			"dropRate": 0.055900621118012424
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 16,
-			"dropRate": 0.04984423676012461
+			"dropRate": 0.049689440993788817
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 14,
-			"dropRate": 0.04361370716510903
+			"dropRate": 0.043478260869565216
 		},
 		{
 			"itemName": "Sudden Death Rune",
 			"timesDropped": 10,
-			"dropRate": 0.03115264797507788
+			"dropRate": 0.031055900621118012
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 5,
-			"dropRate": 0.01557632398753894
+			"dropRate": 0.015527950310559006
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 5,
-			"dropRate": 0.01557632398753894
+			"dropRate": 0.015527950310559006
 		},
 		{
 			"itemName": "Death Ring",
 			"timesDropped": 2,
-			"dropRate": 0.006230529595015576
+			"dropRate": 0.006211180124223602
 		},
 		{
 			"itemName": "Mysterious Voodoo Skull",
 			"timesDropped": 1,
-			"dropRate": 0.003115264797507788
+			"dropRate": 0.003105590062111801
 		}
 	]
 }
