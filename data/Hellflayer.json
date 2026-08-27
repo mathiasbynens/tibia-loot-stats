@@ -1,166 +1,166 @@
 {
 	"monsterName": "Hellflayer",
-	"timesKilled": 21108,
+	"timesKilled": 22289,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19181,
-			"dropRate": 0.9087075990145916
+			"timesDropped": 20259,
+			"dropRate": 0.9089236843285926
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 18812,
-			"dropRate": 0.8912260754216411
+			"timesDropped": 19842,
+			"dropRate": 0.8902149042128404
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 4340,
-			"dropRate": 0.20560924767860528
+			"timesDropped": 4566,
+			"dropRate": 0.20485441249046615
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 3622,
-			"dropRate": 0.17159370854652264
+			"timesDropped": 3814,
+			"dropRate": 0.17111579702992508
 		},
 		{
 			"itemName": "Pair of Hellflayer Horns",
-			"timesDropped": 3011,
-			"dropRate": 0.14264733750236877
+			"timesDropped": 3166,
+			"dropRate": 0.14204316030328862
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 2949,
-			"dropRate": 0.13971006253553156
+			"timesDropped": 3105,
+			"dropRate": 0.13930638431513304
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2909,
-			"dropRate": 0.13781504642789463
+			"timesDropped": 3095,
+			"dropRate": 0.13885773251379604
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 2587,
-			"dropRate": 0.12256016676141747
+			"timesDropped": 2723,
+			"dropRate": 0.1221678855040603
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 1515,
-			"dropRate": 0.07177373507674815
-		},
-		{
-			"itemName": "Small Amethyst",
-			"timesDropped": 1475,
-			"dropRate": 0.06987871896911124
+			"timesDropped": 1602,
+			"dropRate": 0.07187401857418457
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 1471,
-			"dropRate": 0.06968921735834754
+			"timesDropped": 1560,
+			"dropRate": 0.06998968100856925
+		},
+		{
+			"itemName": "Small Amethyst",
+			"timesDropped": 1551,
+			"dropRate": 0.06958589438736597
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 1459,
-			"dropRate": 0.06912071252605648
+			"timesDropped": 1541,
+			"dropRate": 0.06913724258602898
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 1446,
-			"dropRate": 0.06850483229107447
+			"timesDropped": 1540,
+			"dropRate": 0.06909237740589529
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 1206,
-			"dropRate": 0.05713473564525298
+			"timesDropped": 1271,
+			"dropRate": 0.05702364394993046
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 753,
-			"dropRate": 0.035673678226264924
+			"timesDropped": 789,
+			"dropRate": 0.03539862712548791
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 437,
-			"dropRate": 0.020703050975933297
+			"timesDropped": 454,
+			"dropRate": 0.020368791780699
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 224,
-			"dropRate": 0.010612090202766723
+			"timesDropped": 230,
+			"dropRate": 0.010318991430750594
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 184,
-			"dropRate": 0.008717074095129809
+			"timesDropped": 199,
+			"dropRate": 0.00892817084660595
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 170,
-			"dropRate": 0.008053818457456889
-		},
-		{
-			"itemName": "Titan Axe",
-			"timesDropped": 157,
-			"dropRate": 0.007437938222474891
+			"timesDropped": 180,
+			"dropRate": 0.008075732424065682
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 156,
-			"dropRate": 0.007390562819783968
+			"timesDropped": 171,
+			"dropRate": 0.007671945802862398
+		},
+		{
+			"itemName": "Titan Axe",
+			"timesDropped": 165,
+			"dropRate": 0.0074027547220602095
 		},
 		{
 			"itemName": "Rift Lance",
-			"timesDropped": 148,
-			"dropRate": 0.0070115595982565854
+			"timesDropped": 158,
+			"dropRate": 0.007088698461124321
 		},
 		{
 			"itemName": "Rift Shield",
-			"timesDropped": 103,
-			"dropRate": 0.004879666477165056
+			"timesDropped": 109,
+			"dropRate": 0.0048903046345731074
 		},
 		{
 			"itemName": "Mastermind Shield",
-			"timesDropped": 92,
-			"dropRate": 0.004358537047564904
+			"timesDropped": 95,
+			"dropRate": 0.004262192112701332
 		},
 		{
 			"itemName": "Rift Bow",
-			"timesDropped": 88,
-			"dropRate": 0.004169035436801213
+			"timesDropped": 92,
+			"dropRate": 0.0041275965723002375
 		},
 		{
 			"itemName": "Rift Crossbow",
-			"timesDropped": 87,
-			"dropRate": 0.00412166003411029
+			"timesDropped": 89,
+			"dropRate": 0.003993001031899143
 		},
 		{
 			"itemName": "Golden Armor",
-			"timesDropped": 80,
-			"dropRate": 0.0037900322152738296
+			"timesDropped": 86,
+			"dropRate": 0.0038584054914980485
 		},
 		{
 			"itemName": "Skull Helmet",
-			"timesDropped": 64,
-			"dropRate": 0.0030320257722190637
+			"timesDropped": 67,
+			"dropRate": 0.0030059670689577818
 		},
 		{
 			"itemName": "Demonbone Amulet",
-			"timesDropped": 40,
-			"dropRate": 0.0018950161076369148
+			"timesDropped": 42,
+			"dropRate": 0.0018843375656153259
 		},
 		{
 			"itemName": "Magic Plate Armor",
-			"timesDropped": 34,
-			"dropRate": 0.0016107636914913777
+			"timesDropped": 35,
+			"dropRate": 0.0015702813046794383
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
 			"timesDropped": 17,
-			"dropRate": 0.0008053818457456888
+			"dropRate": 0.00076270806227287
 		},
 		{
 			"itemName": "Heavy Mace",
 			"timesDropped": 12,
-			"dropRate": 0.0005685048322910744
+			"dropRate": 0.0005383821616043789
 		}
 	]
 }

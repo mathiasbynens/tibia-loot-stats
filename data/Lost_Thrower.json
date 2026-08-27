@@ -1,86 +1,86 @@
 {
 	"monsterName": "Lost Thrower",
-	"timesKilled": 14926,
+	"timesKilled": 15013,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 14926,
+			"timesDropped": 15013,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10472,
-			"dropRate": 0.7015945330296127
+			"timesDropped": 10533,
+			"dropRate": 0.7015919536401786
 		},
 		{
 			"itemName": "Broken Throwing Axe",
-			"timesDropped": 2250,
-			"dropRate": 0.15074366876591183
+			"timesDropped": 2263,
+			"dropRate": 0.15073602877506162
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 2227,
-			"dropRate": 0.1492027334851936
+			"timesDropped": 2243,
+			"dropRate": 0.14940384999666956
 		},
 		{
 			"itemName": "Mad Froth",
-			"timesDropped": 2155,
-			"dropRate": 0.14437893608468444
+			"timesDropped": 2172,
+			"dropRate": 0.14467461533337775
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 2085,
-			"dropRate": 0.13968913305641162
+			"timesDropped": 2093,
+			"dropRate": 0.1394125091587291
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 2036,
-			"dropRate": 0.13640627093662067
+			"timesDropped": 2047,
+			"dropRate": 0.13634849796842735
 		},
 		{
 			"itemName": "Red Hair Dye",
-			"timesDropped": 1840,
-			"dropRate": 0.12327482245745679
+			"timesDropped": 1849,
+			"dropRate": 0.12315992806234596
 		},
 		{
 			"itemName": "Lost Bracers",
-			"timesDropped": 1827,
-			"dropRate": 0.1224038590379204
-		},
-		{
-			"itemName": "Coal",
-			"timesDropped": 1765,
-			"dropRate": 0.11825003349859306
+			"timesDropped": 1841,
+			"dropRate": 0.12262705655098914
 		},
 		{
 			"itemName": "Bloody Dwarven Beard",
-			"timesDropped": 1762,
-			"dropRate": 0.1180490419402385
+			"timesDropped": 1775,
+			"dropRate": 0.11823086658229534
+		},
+		{
+			"itemName": "Coal",
+			"timesDropped": 1772,
+			"dropRate": 0.11803103976553654
 		},
 		{
 			"itemName": "Basalt Figurine",
-			"timesDropped": 1320,
-			"dropRate": 0.0884362856760016
+			"timesDropped": 1325,
+			"dropRate": 0.08825684406847399
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 1295,
-			"dropRate": 0.08676135602304703
+			"timesDropped": 1299,
+			"dropRate": 0.08652501165656432
 		},
 		{
 			"itemName": "Basalt Fetish",
-			"timesDropped": 1062,
-			"dropRate": 0.07115101165751038
+			"timesDropped": 1071,
+			"dropRate": 0.07133817358289482
 		},
 		{
 			"itemName": "Helmet of the Lost",
-			"timesDropped": 239,
-			"dropRate": 0.016012327482245747
+			"timesDropped": 240,
+			"dropRate": 0.01598614534070472
 		},
 		{
 			"itemName": "Buckle",
-			"timesDropped": 114,
-			"dropRate": 0.007637679217472866
+			"timesDropped": 115,
+			"dropRate": 0.007660027975754346
 		}
 	]
 }

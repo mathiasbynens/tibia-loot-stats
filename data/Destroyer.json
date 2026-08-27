@@ -1,111 +1,111 @@
 {
 	"monsterName": "Destroyer",
-	"timesKilled": 3709,
+	"timesKilled": 3922,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3497,
-			"dropRate": 0.9428417363170666
+			"timesDropped": 3700,
+			"dropRate": 0.9433962264150944
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 1481,
-			"dropRate": 0.39929900242653005
+			"timesDropped": 1560,
+			"dropRate": 0.3977562468128506
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 518,
-			"dropRate": 0.13966028579131842
+			"timesDropped": 546,
+			"dropRate": 0.13921468638449772
 		},
 		{
 			"itemName": "Crowbar",
-			"timesDropped": 409,
-			"dropRate": 0.11027231059584794
+			"timesDropped": 433,
+			"dropRate": 0.11040285568587456
 		},
 		{
 			"itemName": "Burst Arrow",
-			"timesDropped": 311,
-			"dropRate": 0.08385009436505797
+			"timesDropped": 328,
+			"dropRate": 0.08363080061193269
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 260,
-			"dropRate": 0.0700997573469938
+			"timesDropped": 273,
+			"dropRate": 0.06960734319224886
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 222,
-			"dropRate": 0.059854408196279324
+			"timesDropped": 234,
+			"dropRate": 0.05966343702192759
 		},
 		{
 			"itemName": "Metal Spike",
-			"timesDropped": 199,
-			"dropRate": 0.05365327581558371
+			"timesDropped": 207,
+			"dropRate": 0.05277919428862825
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 188,
-			"dropRate": 0.05068751685090321
+			"timesDropped": 200,
+			"dropRate": 0.05099439061703213
 		},
 		{
 			"itemName": "Pick",
-			"timesDropped": 170,
-			"dropRate": 0.04583445672688056
+			"timesDropped": 174,
+			"dropRate": 0.04436511983681795
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 142,
-			"dropRate": 0.038285252089512
+			"timesDropped": 152,
+			"dropRate": 0.038755736868944415
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 88,
-			"dropRate": 0.023726071717444053
+			"timesDropped": 94,
+			"dropRate": 0.0239673635900051
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 33,
-			"dropRate": 0.00889727689404152
+			"timesDropped": 36,
+			"dropRate": 0.009178990311065782
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 30,
-			"dropRate": 0.008088433540037746
+			"timesDropped": 31,
+			"dropRate": 0.00790413054563998
 		},
 		{
 			"itemName": "Chaos Mace",
-			"timesDropped": 22,
-			"dropRate": 0.005931517929361013
+			"timesDropped": 23,
+			"dropRate": 0.005864354920958694
+		},
+		{
+			"itemName": "Crystal Necklace",
+			"timesDropped": 20,
+			"dropRate": 0.005099439061703213
+		},
+		{
+			"itemName": "Dreaded Cleaver",
+			"timesDropped": 20,
+			"dropRate": 0.005099439061703213
 		},
 		{
 			"itemName": "Steel Boots",
 			"timesDropped": 20,
-			"dropRate": 0.005392289026691831
-		},
-		{
-			"itemName": "Dreaded Cleaver",
-			"timesDropped": 19,
-			"dropRate": 0.005122674575357239
-		},
-		{
-			"itemName": "Crystal Necklace",
-			"timesDropped": 17,
-			"dropRate": 0.004583445672688056
+			"dropRate": 0.005099439061703213
 		},
 		{
 			"itemName": "Mind Stone",
 			"timesDropped": 11,
-			"dropRate": 0.0029657589646805067
+			"dropRate": 0.0028046914839367667
 		},
 		{
 			"itemName": "Death Ring",
 			"timesDropped": 4,
-			"dropRate": 0.0010784578053383662
+			"dropRate": 0.0010198878123406426
 		},
 		{
 			"itemName": "Skull Helmet",
 			"timesDropped": 2,
-			"dropRate": 0.0005392289026691831
+			"dropRate": 0.0005099439061703213
 		}
 	]
 }
