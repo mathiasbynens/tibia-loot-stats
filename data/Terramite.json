@@ -1,26 +1,26 @@
 {
 	"monsterName": "Terramite",
-	"timesKilled": 228042,
+	"timesKilled": 228043,
 	"items": [
 		{
 			"itemName": "Gold Coin",
 			"timesDropped": 222341,
-			"dropRate": 0.975000219257856
+			"dropRate": 0.9749959437474511
 		},
 		{
 			"itemName": "Terramite Legs",
 			"timesDropped": 34139,
-			"dropRate": 0.1497048789258119
+			"dropRate": 0.14970422244927492
 		},
 		{
 			"itemName": "Terramite Shell",
 			"timesDropped": 17005,
-			"dropRate": 0.07456959682865437
+			"dropRate": 0.07456926983068983
 		},
 		{
 			"itemName": "Terramite Eggs",
 			"timesDropped": 11365,
-			"dropRate": 0.04983731067084134
+			"dropRate": 0.04983709212736195
 		}
 	]
 }
