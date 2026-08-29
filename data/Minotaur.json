@@ -1,71 +1,71 @@
 {
 	"monsterName": "Minotaur",
-	"timesKilled": 214407,
+	"timesKilled": 214929,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 142241,
-			"dropRate": 0.6634158399679115
+			"timesDropped": 142585,
+			"dropRate": 0.6634051244829688
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 42893,
-			"dropRate": 0.2000541027111988
+			"timesDropped": 43008,
+			"dropRate": 0.2001032899236492
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 27881,
-			"dropRate": 0.13003773197703433
+			"timesDropped": 27945,
+			"dropRate": 0.13001968091788452
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 21523,
-			"dropRate": 0.10038384940790179
+			"timesDropped": 21578,
+			"dropRate": 0.10039594470732195
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 17167,
-			"dropRate": 0.08006734854738884
+			"timesDropped": 17211,
+			"dropRate": 0.0800776070237148
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 10685,
-			"dropRate": 0.0498351266516485
+			"timesDropped": 10709,
+			"dropRate": 0.04982575641258276
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 10643,
-			"dropRate": 0.04963923752489424
+			"timesDropped": 10669,
+			"dropRate": 0.04963964844204365
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 8509,
-			"dropRate": 0.03968620427504699
+			"timesDropped": 8530,
+			"dropRate": 0.03968752471746484
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 4364,
-			"dropRate": 0.020353813075132808
+			"timesDropped": 4373,
+			"dropRate": 0.020346253879188012
 		},
 		{
 			"itemName": "Minotaur Leather",
-			"timesDropped": 2140,
-			"dropRate": 0.009981017410812146
+			"timesDropped": 2147,
+			"dropRate": 0.009989345318686636
 		},
 		{
 			"itemName": "Shovel",
-			"timesDropped": 660,
-			"dropRate": 0.003078257706138326
+			"timesDropped": 664,
+			"dropRate": 0.003089392310949197
 		},
 		{
 			"itemName": "Bronze Amulet",
 			"timesDropped": 234,
-			"dropRate": 0.001091382277630861
+			"dropRate": 0.0010887316276537834
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.000004664026827482311
+			"dropRate": 0.000004652699263477707
 		}
 	]
 }

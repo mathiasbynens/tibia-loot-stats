@@ -1,31 +1,31 @@
 {
 	"monsterName": "Toad",
-	"timesKilled": 24684,
+	"timesKilled": 24731,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 20224,
-			"dropRate": 0.8193161562145519
+			"timesDropped": 20262,
+			"dropRate": 0.8192956208806761
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 4844,
-			"dropRate": 0.19624047966293956
+			"timesDropped": 4856,
+			"dropRate": 0.19635275565080262
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 1214,
-			"dropRate": 0.04918165613352779
+			"timesDropped": 1220,
+			"dropRate": 0.04933079940156079
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 734,
-			"dropRate": 0.029735861286663424
+			"timesDropped": 735,
+			"dropRate": 0.029719784885366543
 		},
 		{
 			"itemName": "War Hammer",
 			"timesDropped": 29,
-			"dropRate": 0.0011748501053313886
+			"dropRate": 0.001172617362823986
 		}
 	]
 }

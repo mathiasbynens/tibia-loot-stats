@@ -1,66 +1,66 @@
 {
 	"monsterName": "Dworc Fleshhunter",
-	"timesKilled": 105536,
+	"timesKilled": 105759,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 79041,
-			"dropRate": 0.7489482261976955
+			"timesDropped": 79213,
+			"dropRate": 0.7489953573691128
 		},
 		{
 			"itemName": "Leather Armor",
-			"timesDropped": 11395,
-			"dropRate": 0.10797263493026077
+			"timesDropped": 11428,
+			"dropRate": 0.108056997513214
 		},
 		{
 			"itemName": "Cleaver",
-			"timesDropped": 9498,
-			"dropRate": 0.0899977258944815
+			"timesDropped": 9518,
+			"dropRate": 0.08999706880738283
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 5809,
-			"dropRate": 0.05504282898726501
+			"timesDropped": 5825,
+			"dropRate": 0.0550780548227574
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 3199,
-			"dropRate": 0.030311931473620376
+			"timesDropped": 3205,
+			"dropRate": 0.03030474947758583
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 2174,
-			"dropRate": 0.020599605821710127
+			"timesDropped": 2178,
+			"dropRate": 0.020593992000680794
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 2067,
-			"dropRate": 0.0195857337780473
+			"timesDropped": 2069,
+			"dropRate": 0.019563346854641214
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 1095,
-			"dropRate": 0.010375606428138265
+			"timesDropped": 1097,
+			"dropRate": 0.010372639680783668
 		},
 		{
 			"itemName": "Tribal Mask",
-			"timesDropped": 508,
-			"dropRate": 0.0048135233474833235
+			"timesDropped": 510,
+			"dropRate": 0.004822284628258588
 		},
 		{
 			"itemName": "Ripper Lance",
 			"timesDropped": 97,
-			"dropRate": 0.0009191176470588235
+			"dropRate": 0.0009171796253746726
 		},
 		{
 			"itemName": "Gold Coins (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 4,
-			"dropRate": 0.00003790175864160097
+			"dropRate": 0.00003782184022163598
 		},
 		{
 			"itemName": "Poison Dagger (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 2,
-			"dropRate": 0.000018950879320800486
+			"dropRate": 0.00001891092011081799
 		}
 	]
 }

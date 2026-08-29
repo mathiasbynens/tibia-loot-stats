@@ -1,61 +1,61 @@
 {
 	"monsterName": "Shell Drake",
-	"timesKilled": 3033,
+	"timesKilled": 3070,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2226,
-			"dropRate": 0.7339268051434223
+			"timesDropped": 2256,
+			"dropRate": 0.7348534201954398
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1331,
-			"dropRate": 0.4388394329047148
+			"timesDropped": 1345,
+			"dropRate": 0.4381107491856677
 		},
 		{
 			"itemName": "Paper Plane",
-			"timesDropped": 228,
-			"dropRate": 0.0751730959446093
+			"timesDropped": 231,
+			"dropRate": 0.0752442996742671
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 147,
-			"dropRate": 0.04846686449060336
+			"timesDropped": 148,
+			"dropRate": 0.04820846905537459
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 105,
-			"dropRate": 0.03461918892185954
+			"timesDropped": 106,
+			"dropRate": 0.03452768729641694
 		},
 		{
 			"itemName": "Cave Turnip",
 			"timesDropped": 88,
-			"dropRate": 0.029014177382129903
+			"dropRate": 0.028664495114006514
+		},
+		{
+			"itemName": "Violet Crystal Shard",
+			"timesDropped": 67,
+			"dropRate": 0.021824104234527686
 		},
 		{
 			"itemName": "Prismatic Quartz",
 			"timesDropped": 66,
-			"dropRate": 0.021760633036597428
-		},
-		{
-			"itemName": "Violet Crystal Shard",
-			"timesDropped": 66,
-			"dropRate": 0.021760633036597428
+			"dropRate": 0.021498371335504887
 		},
 		{
 			"itemName": "Spiked Squelcher",
 			"timesDropped": 30,
-			"dropRate": 0.009891196834817012
+			"dropRate": 0.009771986970684038
 		},
 		{
 			"itemName": "Blank Imbuement Scroll",
-			"timesDropped": 13,
-			"dropRate": 0.004286185295087373
+			"timesDropped": 14,
+			"dropRate": 0.004560260586319218
 		},
 		{
 			"itemName": "Warrior's Shield",
 			"timesDropped": 2,
-			"dropRate": 0.0006594131223211342
+			"dropRate": 0.0006514657980456026
 		}
 	]
 }

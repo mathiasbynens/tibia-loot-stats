@@ -1,66 +1,66 @@
 {
 	"monsterName": "Zombie",
-	"timesKilled": 5405,
+	"timesKilled": 5569,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4428,
-			"dropRate": 0.8192414431082331
+			"timesDropped": 4568,
+			"dropRate": 0.8202549829412821
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 555,
-			"dropRate": 0.1026827012025902
+			"timesDropped": 567,
+			"dropRate": 0.10181361106123182
 		},
 		{
 			"itemName": "Half-Eaten Brain",
-			"timesDropped": 535,
-			"dropRate": 0.09898242368177614
+			"timesDropped": 550,
+			"dropRate": 0.09876099838391093
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 417,
-			"dropRate": 0.07715078630897318
+			"timesDropped": 425,
+			"dropRate": 0.07631531693302208
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 355,
-			"dropRate": 0.06567992599444958
+			"timesDropped": 369,
+			"dropRate": 0.06625965164302389
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
-			"timesDropped": 326,
-			"dropRate": 0.0603145235892692
+			"timesDropped": 332,
+			"dropRate": 0.059615729933560783
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 269,
-			"dropRate": 0.04976873265494912
+			"timesDropped": 276,
+			"dropRate": 0.04956006464356258
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 216,
-			"dropRate": 0.03996299722479186
+			"timesDropped": 220,
+			"dropRate": 0.039504399353564375
 		},
 		{
 			"itemName": "Life Ring",
 			"timesDropped": 53,
-			"dropRate": 0.009805735430157262
+			"dropRate": 0.009516968935176872
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 42,
-			"dropRate": 0.0077705827937095285
+			"dropRate": 0.007541748967498653
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 37,
-			"dropRate": 0.0068455134135060125
+			"timesDropped": 39,
+			"dropRate": 0.007003052612677321
 		},
 		{
 			"itemName": "Simple Dress",
 			"timesDropped": 26,
-			"dropRate": 0.004810360777058279
+			"dropRate": 0.004668701741784881
 		}
 	]
 }

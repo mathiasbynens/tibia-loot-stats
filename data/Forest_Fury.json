@@ -1,51 +1,51 @@
 {
 	"monsterName": "Forest Fury",
-	"timesKilled": 45592,
+	"timesKilled": 45606,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 40027,
-			"dropRate": 0.8779391121249343
+			"timesDropped": 40041,
+			"dropRate": 0.8779765820286805
 		},
 		{
 			"itemName": "Bolt",
-			"timesDropped": 23038,
-			"dropRate": 0.5053079487629408
+			"timesDropped": 23046,
+			"dropRate": 0.5053282462833838
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 11387,
-			"dropRate": 0.2497587296016845
+			"timesDropped": 11392,
+			"dropRate": 0.24979169407534096
 		},
 		{
 			"itemName": "Piercing Bolt",
-			"timesDropped": 6773,
-			"dropRate": 0.14855676434462187
+			"timesDropped": 6775,
+			"dropRate": 0.14855501469104943
 		},
 		{
 			"itemName": "Venison",
-			"timesDropped": 5494,
-			"dropRate": 0.12050359712230216
+			"timesDropped": 5496,
+			"dropRate": 0.12051045915011183
 		},
 		{
 			"itemName": "Elven Hoof",
-			"timesDropped": 3390,
-			"dropRate": 0.07435515002632041
+			"timesDropped": 3391,
+			"dropRate": 0.074354251633557
 		},
 		{
 			"itemName": "Crossbow",
 			"timesDropped": 1180,
-			"dropRate": 0.02588173363748026
+			"dropRate": 0.02587378853659606
 		},
 		{
 			"itemName": "Small Topaz",
 			"timesDropped": 224,
-			"dropRate": 0.0049131426566064226
+			"dropRate": 0.004911634434065693
 		},
 		{
 			"itemName": "Elvish Bow",
 			"timesDropped": 39,
-			"dropRate": 0.0008554132303912967
+			"dropRate": 0.0008551506380739376
 		}
 	]
 }

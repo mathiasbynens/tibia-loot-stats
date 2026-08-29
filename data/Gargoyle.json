@@ -1,71 +1,71 @@
 {
 	"monsterName": "Gargoyle",
-	"timesKilled": 34793,
+	"timesKilled": 34851,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 30531,
-			"dropRate": 0.8775040956514242
+			"timesDropped": 30584,
+			"dropRate": 0.8775644888238501
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 5229,
-			"dropRate": 0.1502888512057023
+			"timesDropped": 5239,
+			"dropRate": 0.15032567214714068
 		},
 		{
 			"itemName": "Stone Wing",
-			"timesDropped": 4218,
-			"dropRate": 0.12123128215445636
+			"timesDropped": 4228,
+			"dropRate": 0.12131646150756076
 		},
 		{
 			"itemName": "Potato",
-			"timesDropped": 3437,
-			"dropRate": 0.09878423820883511
+			"timesDropped": 3440,
+			"dropRate": 0.09870591948581102
 		},
 		{
 			"itemName": "Strawberry",
-			"timesDropped": 706,
-			"dropRate": 0.02029143793291754
+			"timesDropped": 708,
+			"dropRate": 0.02031505552207971
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 515,
-			"dropRate": 0.014801827953898773
+			"timesDropped": 516,
+			"dropRate": 0.014805887922871654
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 486,
-			"dropRate": 0.013968326962320006
+			"timesDropped": 487,
+			"dropRate": 0.01397377406674127
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
 			"timesDropped": 375,
-			"dropRate": 0.010778030063518523
+			"dropRate": 0.010760092967203237
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 269,
-			"dropRate": 0.007731440232230621
+			"dropRate": 0.0077185733551404555
 		},
 		{
 			"itemName": "Piece of Marble Rock",
 			"timesDropped": 170,
-			"dropRate": 0.004886040295461731
+			"dropRate": 0.0048779088117988
 		},
 		{
 			"itemName": "Dark Armor",
 			"timesDropped": 90,
-			"dropRate": 0.0025867272152444456
+			"dropRate": 0.002582422312128777
 		},
 		{
 			"itemName": "Club Ring",
 			"timesDropped": 74,
-			"dropRate": 0.0021268645992009888
+			"dropRate": 0.0021233250121947722
 		},
 		{
 			"itemName": "Shiny Stone",
 			"timesDropped": 72,
-			"dropRate": 0.0020693817721955565
+			"dropRate": 0.0020659378497030214
 		}
 	]
 }

@@ -1,61 +1,61 @@
 {
 	"monsterName": "Dworc Voodoomaster",
-	"timesKilled": 42130,
+	"timesKilled": 42254,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 31531,
-			"dropRate": 0.7484215523380015
+			"timesDropped": 31622,
+			"dropRate": 0.7483788517063473
 		},
 		{
 			"itemName": "Leather Armor",
-			"timesDropped": 4227,
-			"dropRate": 0.10033230477094707
+			"timesDropped": 4237,
+			"dropRate": 0.10027453022199082
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 2438,
-			"dropRate": 0.05786850225492523
+			"timesDropped": 2449,
+			"dropRate": 0.057959009797888955
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 2327,
-			"dropRate": 0.05523380014241633
+			"timesDropped": 2336,
+			"dropRate": 0.055284706773323235
 		},
 		{
 			"itemName": "Big Bone",
-			"timesDropped": 1292,
-			"dropRate": 0.030666983147400902
+			"timesDropped": 1294,
+			"dropRate": 0.030624319591044634
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 839,
-			"dropRate": 0.01991455020175647
+			"timesDropped": 841,
+			"dropRate": 0.019903441094334264
 		},
 		{
 			"itemName": "Poison Dagger",
-			"timesDropped": 423,
-			"dropRate": 0.010040351293615002
+			"timesDropped": 424,
+			"dropRate": 0.010034552941733327
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 248,
-			"dropRate": 0.005886541656776644
+			"dropRate": 0.005869266814976097
 		},
 		{
 			"itemName": "Strange Symbol",
-			"timesDropped": 215,
-			"dropRate": 0.005103251839544268
+			"timesDropped": 216,
+			"dropRate": 0.005111942064656601
 		},
 		{
 			"itemName": "Tribal Mask",
-			"timesDropped": 208,
-			"dropRate": 0.004937099454070734
+			"timesDropped": 209,
+			"dropRate": 0.004946277275524211
 		},
 		{
 			"itemName": "Voodoo Doll",
 			"timesDropped": 49,
-			"dropRate": 0.0011630666983147402
+			"dropRate": 0.001159653523926729
 		}
 	]
 }

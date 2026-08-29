@@ -1,126 +1,126 @@
 {
 	"monsterName": "Behemoth",
-	"timesKilled": 53687,
+	"timesKilled": 53989,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 53687,
+			"timesDropped": 53989,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 32326,
-			"dropRate": 0.6021196937806172
+			"timesDropped": 32496,
+			"dropRate": 0.601900387115894
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 15864,
-			"dropRate": 0.2954905284333265
+			"timesDropped": 15952,
+			"dropRate": 0.29546759525088445
 		},
 		{
 			"itemName": "Battle Stone",
-			"timesDropped": 8104,
-			"dropRate": 0.150949019315663
+			"timesDropped": 8143,
+			"dropRate": 0.15082702031895387
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 5394,
-			"dropRate": 0.10047125002328311
+			"timesDropped": 5421,
+			"dropRate": 0.1004093426438719
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 5318,
-			"dropRate": 0.09905563730512042
+			"timesDropped": 5339,
+			"dropRate": 0.09889051473448295
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 3240,
-			"dropRate": 0.060349805353251254
+			"timesDropped": 3261,
+			"dropRate": 0.06040119283557762
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 3231,
-			"dropRate": 0.060182167005047776
+			"timesDropped": 3244,
+			"dropRate": 0.06008631387875308
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 2724,
-			"dropRate": 0.05073854005625198
+			"timesDropped": 2736,
+			"dropRate": 0.05067698975717276
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 2213,
-			"dropRate": 0.0412204071749213
+			"timesDropped": 2227,
+			"dropRate": 0.04124914334401452
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 2184,
-			"dropRate": 0.04068023916404344
+			"timesDropped": 2206,
+			"dropRate": 0.04086017522087833
 		},
 		{
 			"itemName": "Crystal Necklace",
-			"timesDropped": 1376,
-			"dropRate": 0.025630040791998064
+			"timesDropped": 1384,
+			"dropRate": 0.025634851543833003
 		},
 		{
 			"itemName": "Perfect Behemoth Fang",
-			"timesDropped": 534,
-			"dropRate": 0.009946541993406225
+			"timesDropped": 536,
+			"dropRate": 0.009927948285761915
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 504,
-			"dropRate": 0.009387747499394639
+			"timesDropped": 508,
+			"dropRate": 0.009409324121580322
 		},
 		{
 			"itemName": "Strange Symbol",
 			"timesDropped": 457,
-			"dropRate": 0.008512302792109822
+			"dropRate": 0.008464687251106707
 		},
 		{
 			"itemName": "Big Bone",
-			"timesDropped": 383,
-			"dropRate": 0.007133943040214577
+			"timesDropped": 388,
+			"dropRate": 0.0071866491322306394
 		},
 		{
 			"itemName": "Pick",
-			"timesDropped": 319,
-			"dropRate": 0.005941848119656527
+			"timesDropped": 321,
+			"dropRate": 0.0059456555965104
 		},
 		{
 			"itemName": "Behemoth Claw",
-			"timesDropped": 247,
-			"dropRate": 0.004600741334028722
+			"timesDropped": 249,
+			"dropRate": 0.004612050602900591
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 246,
-			"dropRate": 0.004582114850895003
+			"timesDropped": 247,
+			"dropRate": 0.004575006019744763
 		},
 		{
 			"itemName": "Crowbar",
 			"timesDropped": 69,
-			"dropRate": 0.0012852273362266471
+			"dropRate": 0.0012780381188760674
 		},
 		{
 			"itemName": "Behemoth Trophy",
-			"timesDropped": 60,
-			"dropRate": 0.0011175889880231714
+			"timesDropped": 62,
+			"dropRate": 0.0011483820778306693
 		},
 		{
 			"itemName": "Amphora",
 			"timesDropped": 53,
-			"dropRate": 0.0009872036060871348
+			"dropRate": 0.0009816814536294431
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 37,
-			"dropRate": 0.0006891798759476223
+			"timesDropped": 38,
+			"dropRate": 0.0007038470799607328
 		},
 		{
 			"itemName": "War Axe",
 			"timesDropped": 37,
-			"dropRate": 0.0006891798759476223
+			"dropRate": 0.0006853247883828187
 		}
 	]
 }
