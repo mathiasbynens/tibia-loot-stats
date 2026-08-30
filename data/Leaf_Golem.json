@@ -1,36 +1,36 @@
 {
 	"monsterName": "Leaf Golem",
-	"timesKilled": 69737,
+	"timesKilled": 69748,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 61023,
-			"dropRate": 0.8750448112192953
+			"timesDropped": 61034,
+			"dropRate": 0.8750645179790102
 		},
 		{
 			"itemName": "Fir Cone",
-			"timesDropped": 10364,
-			"dropRate": 0.1486155125686508
+			"timesDropped": 10367,
+			"dropRate": 0.1486350863107186
 		},
 		{
 			"itemName": "Dowser",
-			"timesDropped": 8474,
-			"dropRate": 0.12151368713882157
+			"timesDropped": 8475,
+			"dropRate": 0.1215088604691174
 		},
 		{
 			"itemName": "Swampling Club",
 			"timesDropped": 3571,
-			"dropRate": 0.05120667651318525
+			"dropRate": 0.05119860067672191
 		},
 		{
 			"itemName": "White Mushroom",
 			"timesDropped": 3461,
-			"dropRate": 0.04962932159398884
+			"dropRate": 0.04962149452314045
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 681,
-			"dropRate": 0.009765260908843226
+			"dropRate": 0.00976372082353616
 		}
 	]
 }

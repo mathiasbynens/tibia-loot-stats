@@ -1,71 +1,71 @@
 {
 	"monsterName": "Ice Golem",
-	"timesKilled": 65970,
+	"timesKilled": 65997,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 65970,
+			"timesDropped": 65997,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Frosty Heart",
-			"timesDropped": 9435,
-			"dropRate": 0.14301955434288313
+			"timesDropped": 9438,
+			"dropRate": 0.14300650029546796
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 3348,
-			"dropRate": 0.050750341064120054
+			"timesDropped": 3351,
+			"dropRate": 0.05077503522887404
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1980,
-			"dropRate": 0.030013642564802184
+			"timesDropped": 1981,
+			"dropRate": 0.03001651590223798
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 1631,
-			"dropRate": 0.024723359102622404
+			"dropRate": 0.024713244541418548
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 977,
-			"dropRate": 0.014809762013036229
+			"timesDropped": 978,
+			"dropRate": 0.014818855402518297
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 486,
-			"dropRate": 0.007366984993178717
+			"timesDropped": 487,
+			"dropRate": 0.007379123293483037
 		},
 		{
 			"itemName": "Crystal Sword",
 			"timesDropped": 375,
-			"dropRate": 0.005684402000909504
+			"dropRate": 0.0056820764580208195
 		},
 		{
 			"itemName": "Small Sapphire",
 			"timesDropped": 370,
-			"dropRate": 0.0056086099742307105
+			"dropRate": 0.005606315438580541
 		},
 		{
 			"itemName": "Strange Helmet",
 			"timesDropped": 232,
-			"dropRate": 0.0035167500378960135
+			"dropRate": 0.00351531130202888
 		},
 		{
 			"itemName": "Ice Rapier",
 			"timesDropped": 217,
-			"dropRate": 0.003289373957859633
+			"dropRate": 0.0032880282437080474
 		},
 		{
 			"itemName": "Shard",
 			"timesDropped": 123,
-			"dropRate": 0.0018644838562983175
+			"dropRate": 0.0018637210782308288
 		},
 		{
 			"itemName": "Glacier Mask",
 			"timesDropped": 121,
-			"dropRate": 0.0018341670456268001
+			"dropRate": 0.0018334166704547176
 		}
 	]
 }

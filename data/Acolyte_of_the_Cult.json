@@ -1,71 +1,71 @@
 {
 	"monsterName": "Acolyte of the Cult",
-	"timesKilled": 42985,
+	"timesKilled": 43052,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 28206,
-			"dropRate": 0.6561823892055368
+			"timesDropped": 28249,
+			"dropRate": 0.6561599925671281
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 4338,
-			"dropRate": 0.10091892520646738
+			"timesDropped": 4344,
+			"dropRate": 0.10090123571494937
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 3500,
-			"dropRate": 0.08142375247179248
+			"timesDropped": 3506,
+			"dropRate": 0.08143640249001208
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 2178,
-			"dropRate": 0.050668837966732584
+			"timesDropped": 2180,
+			"dropRate": 0.05063643965437146
 		},
 		{
 			"itemName": "Dragon Necklace",
 			"timesDropped": 451,
-			"dropRate": 0.010492032104222403
+			"dropRate": 0.010475703800055747
 		},
 		{
 			"itemName": "Pirate Voodoo Doll",
-			"timesDropped": 444,
-			"dropRate": 0.010329184599278817
+			"timesDropped": 445,
+			"dropRate": 0.010336337452383165
 		},
 		{
 			"itemName": "Book (Orange)",
-			"timesDropped": 313,
-			"dropRate": 0.007281609863906014
+			"timesDropped": 315,
+			"dropRate": 0.007316733252810554
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 217,
-			"dropRate": 0.005048272653251134
+			"dropRate": 0.005040416240825049
 		},
 		{
 			"itemName": "Music Sheet (Second Verse)",
 			"timesDropped": 213,
-			"dropRate": 0.004955216936140514
+			"dropRate": 0.0049475053423766605
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 209,
-			"dropRate": 0.004862161219029894
+			"timesDropped": 210,
+			"dropRate": 0.00487782216854037
 		},
 		{
 			"itemName": "Terra Rod",
 			"timesDropped": 93,
-			"dropRate": 0.0021635454228219144
+			"dropRate": 0.002160178388925021
 		},
 		{
 			"itemName": "Cultish Symbol",
 			"timesDropped": 32,
-			"dropRate": 0.0007444457368849599
+			"dropRate": 0.000743287187587104
 		},
 		{
 			"itemName": "Broken Key Ring",
 			"timesDropped": 20,
-			"dropRate": 0.00046527858555309994
+			"dropRate": 0.00046455449224193997
 		}
 	]
 }
