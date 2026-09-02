@@ -1,21 +1,21 @@
 {
 	"monsterName": "Starving Wolf",
-	"timesKilled": 3146,
+	"timesKilled": 3151,
 	"items": [
 		{
 			"itemName": "Dirty Fur",
-			"timesDropped": 2041,
-			"dropRate": 0.6487603305785123
+			"timesDropped": 2045,
+			"dropRate": 0.6490003173595684
 		},
 		{
 			"itemName": "Meat",
 			"timesDropped": 165,
-			"dropRate": 0.05244755244755245
+			"dropRate": 0.05236432878451285
 		},
 		{
 			"itemName": "Wolf Paw",
 			"timesDropped": 46,
-			"dropRate": 0.014621741894469168
+			"dropRate": 0.014598540145985401
 		}
 	]
 }

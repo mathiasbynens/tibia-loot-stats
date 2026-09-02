@@ -1,36 +1,36 @@
 {
 	"monsterName": "Biting Book",
-	"timesKilled": 116,
+	"timesKilled": 125,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 92,
-			"dropRate": 0.7931034482758621
+			"timesDropped": 100,
+			"dropRate": 0.8
 		},
 		{
 			"itemName": "Book Page",
-			"timesDropped": 75,
-			"dropRate": 0.646551724137931
+			"timesDropped": 83,
+			"dropRate": 0.664
 		},
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 48,
-			"dropRate": 0.41379310344827586
+			"timesDropped": 51,
+			"dropRate": 0.408
 		},
 		{
 			"itemName": "Silken Bookmark",
-			"timesDropped": 31,
-			"dropRate": 0.2672413793103448
+			"timesDropped": 32,
+			"dropRate": 0.256
 		},
 		{
 			"itemName": "Big Bone",
 			"timesDropped": 7,
-			"dropRate": 0.0603448275862069
+			"dropRate": 0.056
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 4,
-			"dropRate": 0.034482758620689655
+			"timesDropped": 5,
+			"dropRate": 0.04
 		}
 	]
 }

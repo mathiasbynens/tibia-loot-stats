@@ -1,76 +1,76 @@
 {
 	"monsterName": "Energetic Book",
-	"timesKilled": 192,
+	"timesKilled": 195,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 151,
-			"dropRate": 0.7864583333333334
+			"timesDropped": 154,
+			"dropRate": 0.7897435897435897
 		},
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 129,
-			"dropRate": 0.671875
+			"timesDropped": 131,
+			"dropRate": 0.6717948717948717
 		},
 		{
 			"itemName": "Book Page",
-			"timesDropped": 94,
-			"dropRate": 0.4895833333333333
+			"timesDropped": 97,
+			"dropRate": 0.49743589743589745
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 30,
-			"dropRate": 0.15625
+			"timesDropped": 31,
+			"dropRate": 0.15897435897435896
 		},
 		{
 			"itemName": "Silken Bookmark",
-			"timesDropped": 26,
-			"dropRate": 0.13541666666666666
+			"timesDropped": 27,
+			"dropRate": 0.13846153846153847
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 22,
-			"dropRate": 0.11458333333333333
+			"timesDropped": 23,
+			"dropRate": 0.11794871794871795
 		},
 		{
 			"itemName": "Energy Ball",
-			"timesDropped": 20,
-			"dropRate": 0.10416666666666667
+			"timesDropped": 21,
+			"dropRate": 0.1076923076923077
 		},
 		{
 			"itemName": "Lightning Pendant",
 			"timesDropped": 7,
-			"dropRate": 0.036458333333333336
+			"dropRate": 0.035897435897435895
 		},
 		{
 			"itemName": "Wand of Defiance",
 			"timesDropped": 5,
-			"dropRate": 0.026041666666666668
+			"dropRate": 0.02564102564102564
 		},
 		{
 			"itemName": "Lightning Boots",
 			"timesDropped": 3,
-			"dropRate": 0.015625
+			"dropRate": 0.015384615384615385
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 3,
-			"dropRate": 0.015625
+			"dropRate": 0.015384615384615385
 		},
 		{
 			"itemName": "Lightning Legs",
 			"timesDropped": 2,
-			"dropRate": 0.010416666666666666
+			"dropRate": 0.010256410256410256
 		},
 		{
 			"itemName": "Spellweaver's Robe",
 			"timesDropped": 2,
-			"dropRate": 0.010416666666666666
+			"dropRate": 0.010256410256410256
 		},
 		{
 			"itemName": "Haunted Blade",
 			"timesDropped": 1,
-			"dropRate": 0.005208333333333333
+			"dropRate": 0.005128205128205128
 		}
 	]
 }

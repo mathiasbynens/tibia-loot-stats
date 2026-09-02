@@ -1,21 +1,21 @@
 {
 	"monsterName": "Lion",
-	"timesKilled": 8065,
+	"timesKilled": 8082,
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 3662,
-			"dropRate": 0.45406075635461873
+			"timesDropped": 3668,
+			"dropRate": 0.4538480574115318
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 1611,
-			"dropRate": 0.19975201487910726
+			"timesDropped": 1614,
+			"dropRate": 0.19970304380103934
 		},
 		{
 			"itemName": "Lion's Mane",
 			"timesDropped": 88,
-			"dropRate": 0.010911345319280842
+			"dropRate": 0.01088839396189062
 		}
 	]
 }

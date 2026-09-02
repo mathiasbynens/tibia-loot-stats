@@ -1,116 +1,116 @@
 {
 	"monsterName": "Elder Wyrm",
-	"timesKilled": 6517,
+	"timesKilled": 6528,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6517,
+			"timesDropped": 6528,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 2223,
-			"dropRate": 0.34110787172011664
+			"timesDropped": 2227,
+			"dropRate": 0.3411458333333333
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1659,
-			"dropRate": 0.2545649838882922
+			"timesDropped": 1661,
+			"dropRate": 0.2544424019607843
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1273,
-			"dropRate": 0.19533527696793002
+			"timesDropped": 1275,
+			"dropRate": 0.1953125
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 1268,
-			"dropRate": 0.1945680527850238
+			"dropRate": 0.19424019607843138
 		},
 		{
 			"itemName": "Wyrm Scale",
-			"timesDropped": 1145,
-			"dropRate": 0.17569433788553016
+			"timesDropped": 1149,
+			"dropRate": 0.17601102941176472
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 553,
-			"dropRate": 0.08485499462943072
+			"timesDropped": 554,
+			"dropRate": 0.08486519607843138
 		},
 		{
 			"itemName": "Soul Orb",
 			"timesDropped": 364,
-			"dropRate": 0.055853920515574654
+			"dropRate": 0.05575980392156863
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 319,
-			"dropRate": 0.04894890286941844
+			"dropRate": 0.04886642156862745
 		},
 		{
 			"itemName": "Wand of Draconia",
 			"timesDropped": 88,
-			"dropRate": 0.013503145619149915
+			"dropRate": 0.013480392156862746
 		},
 		{
 			"itemName": "Power Bolt",
-			"timesDropped": 70,
-			"dropRate": 0.010741138560687433
+			"timesDropped": 71,
+			"dropRate": 0.010876225490196078
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 59,
-			"dropRate": 0.009053245358293693
+			"timesDropped": 60,
+			"dropRate": 0.009191176470588236
 		},
 		{
 			"itemName": "Lightning Legs",
 			"timesDropped": 52,
-			"dropRate": 0.00797913150222495
+			"dropRate": 0.007965686274509803
 		},
 		{
 			"itemName": "Lightning Pendant",
 			"timesDropped": 47,
-			"dropRate": 0.007211907319318705
+			"dropRate": 0.007199754901960784
 		},
 		{
 			"itemName": "Legs of Wisdom",
 			"timesDropped": 42,
-			"dropRate": 0.00644468313641246
+			"dropRate": 0.006433823529411764
 		},
 		{
 			"itemName": "Composite Hornbow",
 			"timesDropped": 22,
-			"dropRate": 0.0033757864047874787
+			"dropRate": 0.0033700980392156864
 		},
 		{
 			"itemName": "Lightning Robe",
 			"timesDropped": 16,
-			"dropRate": 0.0024551173852999848
+			"dropRate": 0.0024509803921568627
 		},
 		{
 			"itemName": "Dragonbone Staff",
 			"timesDropped": 14,
-			"dropRate": 0.0021482277121374865
+			"dropRate": 0.002144607843137255
 		},
 		{
 			"itemName": "Lightning Boots",
 			"timesDropped": 12,
-			"dropRate": 0.0018413380389749885
+			"dropRate": 0.001838235294117647
 		},
 		{
 			"itemName": "Shadow Sceptre",
 			"timesDropped": 9,
-			"dropRate": 0.0013810035292312413
+			"dropRate": 0.0013786764705882354
 		},
 		{
 			"itemName": "Shockwave Amulet",
 			"timesDropped": 7,
-			"dropRate": 0.0010741138560687433
+			"dropRate": 0.0010723039215686275
 		},
 		{
 			"itemName": "Lesser Spiritualist Gem",
 			"timesDropped": 1,
-			"dropRate": 0.00015344483658124905
+			"dropRate": 0.00015318627450980392
 		}
 	]
 }

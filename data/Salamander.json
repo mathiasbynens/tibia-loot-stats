@@ -1,56 +1,56 @@
 {
 	"monsterName": "Salamander",
-	"timesKilled": 222645,
+	"timesKilled": 222651,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 160183,
-			"dropRate": 0.7194547373621685
+			"timesDropped": 160185,
+			"dropRate": 0.7194443321610952
 		},
 		{
 			"itemName": "Insectoid Eggs",
-			"timesDropped": 76967,
-			"dropRate": 0.3456938175121831
+			"timesDropped": 76968,
+			"dropRate": 0.345688993087837
 		},
 		{
 			"itemName": "Arrow",
 			"timesDropped": 17775,
-			"dropRate": 0.07983561274674932
+			"dropRate": 0.07983346133635151
 		},
 		{
 			"itemName": "Rope",
 			"timesDropped": 11298,
-			"dropRate": 0.0507444586673853
+			"dropRate": 0.05074309120551895
 		},
 		{
 			"itemName": "Mace",
 			"timesDropped": 8866,
-			"dropRate": 0.03982124009072739
+			"dropRate": 0.03982016698779704
 		},
 		{
 			"itemName": "Brass Helmet",
 			"timesDropped": 4395,
-			"dropRate": 0.019739944755103416
+			"dropRate": 0.01973941280299662
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 3288,
-			"dropRate": 0.014767904062521054
+			"dropRate": 0.014767506096985865
 		},
 		{
 			"itemName": "Bow",
 			"timesDropped": 1651,
-			"dropRate": 0.0074153922163084736
+			"dropRate": 0.007415192386290652
 		},
 		{
 			"itemName": "Scimitar",
 			"timesDropped": 1087,
-			"dropRate": 0.004882211592445372
+			"dropRate": 0.004882080026588697
 		},
 		{
 			"itemName": "Insectoid Egg",
 			"timesDropped": 819,
-			"dropRate": 0.0036785016506097152
+			"dropRate": 0.0036784025223331584
 		}
 	]
 }

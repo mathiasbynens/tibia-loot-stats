@@ -1,61 +1,61 @@
 {
 	"monsterName": "Dwarf",
-	"timesKilled": 46370,
+	"timesKilled": 46372,
 	"items": [
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 23241,
-			"dropRate": 0.5012076773776148
+			"timesDropped": 23242,
+			"dropRate": 0.501207625291124
 		},
 		{
 			"itemName": "Gold Coin",
 			"timesDropped": 16303,
-			"dropRate": 0.3515850765581195
+			"dropRate": 0.3515699128784611
 		},
 		{
 			"itemName": "Hatchet",
-			"timesDropped": 11409,
-			"dropRate": 0.24604270002156567
+			"timesDropped": 11410,
+			"dropRate": 0.24605365306650565
 		},
 		{
 			"itemName": "Axe",
 			"timesDropped": 6766,
-			"dropRate": 0.14591330601682123
+			"dropRate": 0.14590701285258345
 		},
 		{
 			"itemName": "Copper Shield",
-			"timesDropped": 4706,
-			"dropRate": 0.10148803105456114
+			"timesDropped": 4707,
+			"dropRate": 0.10150521866643664
 		},
 		{
 			"itemName": "Pick",
 			"timesDropped": 4693,
-			"dropRate": 0.10120767737761484
+			"dropRate": 0.10120331234365565
 		},
 		{
 			"itemName": "Leather Legs",
 			"timesDropped": 4508,
-			"dropRate": 0.0972180288979944
+			"dropRate": 0.0972138359354783
 		},
 		{
 			"itemName": "Studded Armor",
 			"timesDropped": 3726,
-			"dropRate": 0.0803536769463015
+			"dropRate": 0.08035021133442595
 		},
 		{
 			"itemName": "Letter",
 			"timesDropped": 3690,
-			"dropRate": 0.0795773129178348
+			"dropRate": 0.07957388079013197
 		},
 		{
 			"itemName": "Dwarven Ring",
 			"timesDropped": 49,
-			"dropRate": 0.0010567177054129826
+			"dropRate": 0.00105667212973346
 		},
 		{
 			"itemName": "Iron Ore",
 			"timesDropped": 39,
-			"dropRate": 0.0008410610308389045
+			"dropRate": 0.000841024756318468
 		}
 	]
 }

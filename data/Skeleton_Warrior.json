@@ -1,41 +1,41 @@
 {
 	"monsterName": "Skeleton Warrior",
-	"timesKilled": 783,
+	"timesKilled": 792,
 	"items": [
 		{
 			"itemName": "Bone",
-			"timesDropped": 393,
-			"dropRate": 0.5019157088122606
+			"timesDropped": 400,
+			"dropRate": 0.5050505050505051
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 336,
-			"dropRate": 0.42911877394636017
+			"timesDropped": 338,
+			"dropRate": 0.42676767676767674
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 224,
-			"dropRate": 0.28607918263090676
+			"timesDropped": 227,
+			"dropRate": 0.2866161616161616
 		},
 		{
 			"itemName": "Pelvis Bone",
-			"timesDropped": 70,
-			"dropRate": 0.08939974457215837
+			"timesDropped": 72,
+			"dropRate": 0.09090909090909091
 		},
 		{
 			"itemName": "Sword",
 			"timesDropped": 17,
-			"dropRate": 0.021711366538952746
+			"dropRate": 0.021464646464646464
 		},
 		{
 			"itemName": "Mace",
 			"timesDropped": 15,
-			"dropRate": 0.019157088122605363
+			"dropRate": 0.01893939393939394
 		},
 		{
 			"itemName": "Brown Mushroom",
 			"timesDropped": 14,
-			"dropRate": 0.017879948914431672
+			"dropRate": 0.017676767676767676
 		}
 	]
 }

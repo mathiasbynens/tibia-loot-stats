@@ -1,71 +1,71 @@
 {
 	"monsterName": "Braindeath",
-	"timesKilled": 1246,
+	"timesKilled": 1256,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1236,
-			"dropRate": 0.9919743178170144
+			"timesDropped": 1245,
+			"dropRate": 0.9912420382165605
 		},
 		{
 			"itemName": "Bone Sword",
-			"timesDropped": 184,
-			"dropRate": 0.1476725521669342
+			"timesDropped": 185,
+			"dropRate": 0.14729299363057324
 		},
 		{
 			"itemName": "Sniper Arrow",
 			"timesDropped": 120,
-			"dropRate": 0.09630818619582665
+			"dropRate": 0.09554140127388536
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 87,
-			"dropRate": 0.06982343499197431
+			"timesDropped": 88,
+			"dropRate": 0.07006369426751592
 		},
 		{
 			"itemName": "Piece of Dead Brain",
 			"timesDropped": 62,
-			"dropRate": 0.04975922953451043
+			"dropRate": 0.04936305732484077
 		},
 		{
 			"itemName": "Bonelord Eye",
-			"timesDropped": 44,
-			"dropRate": 0.03531300160513644
+			"timesDropped": 45,
+			"dropRate": 0.035828025477707005
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 34,
-			"dropRate": 0.027287319422150885
+			"timesDropped": 35,
+			"dropRate": 0.02786624203821656
 		},
 		{
 			"itemName": "Haunted Blade",
 			"timesDropped": 18,
-			"dropRate": 0.014446227929373997
+			"dropRate": 0.014331210191082803
 		},
 		{
 			"itemName": "Spellbook",
 			"timesDropped": 13,
-			"dropRate": 0.01043338683788122
+			"dropRate": 0.010350318471337579
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 9,
-			"dropRate": 0.0072231139646869984
+			"dropRate": 0.007165605095541401
 		},
 		{
 			"itemName": "Bonelord Helmet",
 			"timesDropped": 2,
-			"dropRate": 0.0016051364365971107
+			"dropRate": 0.0015923566878980893
 		},
 		{
 			"itemName": "Bonelord Shield",
 			"timesDropped": 1,
-			"dropRate": 0.0008025682182985554
+			"dropRate": 0.0007961783439490446
 		},
 		{
 			"itemName": "Spiked Squelcher",
 			"timesDropped": 1,
-			"dropRate": 0.0008025682182985554
+			"dropRate": 0.0007961783439490446
 		}
 	]
 }

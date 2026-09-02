@@ -1,66 +1,66 @@
 {
 	"monsterName": "Necromancer",
-	"timesKilled": 72256,
+	"timesKilled": 72257,
 	"items": [
 		{
 			"itemName": "Gold Coin",
 			"timesDropped": 21735,
-			"dropRate": 0.30080546944198405
+			"dropRate": 0.3008013064478182
 		},
 		{
 			"itemName": "Poison Arrow",
 			"timesDropped": 10812,
-			"dropRate": 0.1496346324180691
+			"dropRate": 0.14963256155113
 		},
 		{
 			"itemName": "Book of Necromantic Rituals",
 			"timesDropped": 7240,
-			"dropRate": 0.10019929140832595
+			"dropRate": 0.10019790470127461
 		},
 		{
 			"itemName": "Green Mushroom",
 			"timesDropped": 1079,
-			"dropRate": 0.014933015943312667
+			"dropRate": 0.014932809277993828
 		},
 		{
 			"itemName": "Necromantic Robe",
 			"timesDropped": 740,
-			"dropRate": 0.010241364038972542
+			"dropRate": 0.010241222303721438
 		},
 		{
 			"itemName": "Mystic Turban",
 			"timesDropped": 357,
-			"dropRate": 0.004940766164747565
+			"dropRate": 0.004940697787065613
 		},
 		{
 			"itemName": "Clerical Mace",
 			"timesDropped": 274,
-			"dropRate": 0.0037920726306465897
+			"dropRate": 0.003792020150296857
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 251,
-			"dropRate": 0.0034737599645704165
+			"dropRate": 0.0034737118895055152
 		},
 		{
 			"itemName": "Boots of Haste",
 			"timesDropped": 151,
-			"dropRate": 0.0020897918511957486
+			"dropRate": 0.0020897629295431584
 		},
 		{
 			"itemName": "Spellbook of Warding",
 			"timesDropped": 77,
-			"dropRate": 0.0010656554472984942
+			"dropRate": 0.0010656406991710146
 		},
 		{
 			"itemName": "Skull Staff",
 			"timesDropped": 75,
-			"dropRate": 0.0010379760850310008
+			"dropRate": 0.0010379617199717675
 		},
 		{
 			"itemName": "Noble Axe",
 			"timesDropped": 5,
-			"dropRate": 0.0000691984056687334
+			"dropRate": 0.00006919744799811783
 		}
 	]
 }

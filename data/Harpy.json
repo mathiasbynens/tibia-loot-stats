@@ -1,66 +1,71 @@
 {
 	"monsterName": "Harpy",
-	"timesKilled": 379,
+	"timesKilled": 436,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 292,
-			"dropRate": 0.7704485488126649
-		},
-		{
-			"itemName": "Blue Crystal Shard",
-			"timesDropped": 22,
-			"dropRate": 0.05804749340369393
-		},
-		{
-			"itemName": "Violet Crystal Shard",
-			"timesDropped": 22,
-			"dropRate": 0.05804749340369393
+			"timesDropped": 336,
+			"dropRate": 0.7706422018348624
 		},
 		{
 			"itemName": "Harpy Feathers",
-			"timesDropped": 20,
-			"dropRate": 0.052770448548812667
+			"timesDropped": 24,
+			"dropRate": 0.05504587155963303
+		},
+		{
+			"itemName": "Violet Crystal Shard",
+			"timesDropped": 24,
+			"dropRate": 0.05504587155963303
+		},
+		{
+			"itemName": "Blue Crystal Shard",
+			"timesDropped": 23,
+			"dropRate": 0.052752293577981654
 		},
 		{
 			"itemName": "Great Spirit Potion",
 			"timesDropped": 8,
-			"dropRate": 0.021108179419525065
+			"dropRate": 0.01834862385321101
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 7,
-			"dropRate": 0.018469656992084433
+			"timesDropped": 8,
+			"dropRate": 0.01834862385321101
 		},
 		{
 			"itemName": "Wand of Defiance",
+			"timesDropped": 7,
+			"dropRate": 0.016055045871559634
+		},
+		{
+			"itemName": "Focus Cape",
 			"timesDropped": 6,
-			"dropRate": 0.0158311345646438
+			"dropRate": 0.013761467889908258
+		},
+		{
+			"itemName": "Gold Ring",
+			"timesDropped": 6,
+			"dropRate": 0.013761467889908258
 		},
 		{
 			"itemName": "Ornate Crossbow",
 			"timesDropped": 5,
-			"dropRate": 0.013192612137203167
-		},
-		{
-			"itemName": "Focus Cape",
-			"timesDropped": 4,
-			"dropRate": 0.010554089709762533
-		},
-		{
-			"itemName": "Gold Ring",
-			"timesDropped": 4,
-			"dropRate": 0.010554089709762533
+			"dropRate": 0.011467889908256881
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 3,
-			"dropRate": 0.0079155672823219
+			"timesDropped": 4,
+			"dropRate": 0.009174311926605505
+		},
+		{
+			"itemName": "Crystalline Sword",
+			"timesDropped": 2,
+			"dropRate": 0.0045871559633027525
 		},
 		{
 			"itemName": "Magic Plate Armor",
 			"timesDropped": 2,
-			"dropRate": 0.005277044854881266
+			"dropRate": 0.0045871559633027525
 		}
 	]
 }

@@ -1,61 +1,61 @@
 {
 	"monsterName": "Broodrider Inferniarch",
-	"timesKilled": 43480,
+	"timesKilled": 43500,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 43480,
+			"timesDropped": 43500,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
 			"timesDropped": 2273,
-			"dropRate": 0.052276908923643055
+			"dropRate": 0.052252873563218394
 		},
 		{
 			"itemName": "Onyx Chip",
 			"timesDropped": 2194,
-			"dropRate": 0.05045998160073597
+			"dropRate": 0.0504367816091954
 		},
 		{
 			"itemName": "Power Bolt",
 			"timesDropped": 1277,
-			"dropRate": 0.02936982520699172
+			"dropRate": 0.02935632183908046
 		},
 		{
 			"itemName": "Drill Bolt",
 			"timesDropped": 1262,
-			"dropRate": 0.02902483900643974
+			"dropRate": 0.029011494252873565
 		},
 		{
 			"itemName": "Demonic Core Essence",
 			"timesDropped": 1160,
-			"dropRate": 0.02667893284268629
+			"dropRate": 0.02666666666666667
 		},
 		{
 			"itemName": "Broodrider Saddle",
 			"timesDropped": 813,
-			"dropRate": 0.018698252069917203
+			"dropRate": 0.018689655172413795
 		},
 		{
 			"itemName": "Mummified Demon Finger",
-			"timesDropped": 441,
-			"dropRate": 0.010142594296228151
+			"timesDropped": 442,
+			"dropRate": 0.010160919540229884
 		},
 		{
 			"itemName": "Magma Legs",
 			"timesDropped": 355,
-			"dropRate": 0.008164673413063478
+			"dropRate": 0.008160919540229884
 		},
 		{
 			"itemName": "Demonic Matter",
 			"timesDropped": 199,
-			"dropRate": 0.004576816927322907
+			"dropRate": 0.004574712643678161
 		},
 		{
 			"itemName": "Arbalest",
 			"timesDropped": 20,
-			"dropRate": 0.00045998160073597056
+			"dropRate": 0.0004597701149425287
 		}
 	]
 }

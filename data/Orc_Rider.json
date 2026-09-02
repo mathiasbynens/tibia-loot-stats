@@ -1,71 +1,71 @@
 {
 	"monsterName": "Orc Rider",
-	"timesKilled": 22038,
+	"timesKilled": 22099,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10738,
-			"dropRate": 0.4872492966693892
+			"timesDropped": 10769,
+			"dropRate": 0.4873071179691389
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 5345,
-			"dropRate": 0.24253562029222253
+			"timesDropped": 5364,
+			"dropRate": 0.2427259151997828
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 2239,
-			"dropRate": 0.10159724112895907
+			"timesDropped": 2247,
+			"dropRate": 0.10167880899588216
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 2231,
-			"dropRate": 0.10123423178146837
+			"timesDropped": 2238,
+			"dropRate": 0.10127155074890266
 		},
 		{
 			"itemName": "Warwolf Fur",
-			"timesDropped": 2178,
-			"dropRate": 0.0988292948543425
+			"timesDropped": 2183,
+			"dropRate": 0.0987827503506946
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 1528,
-			"dropRate": 0.0693347853707233
+			"timesDropped": 1531,
+			"dropRate": 0.06927915290284628
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 447,
-			"dropRate": 0.020283147291042743
+			"timesDropped": 449,
+			"dropRate": 0.02031766143264401
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 241,
-			"dropRate": 0.010935656593157273
+			"timesDropped": 242,
+			"dropRate": 0.010950721752115481
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 225,
-			"dropRate": 0.010209637898175878
+			"dropRate": 0.010181456174487534
 		},
 		{
 			"itemName": "Obsidian Lance",
 			"timesDropped": 221,
-			"dropRate": 0.01002813322443053
+			"dropRate": 0.01000045250916331
 		},
 		{
 			"itemName": "Scale Armor",
 			"timesDropped": 125,
-			"dropRate": 0.005672021054542155
+			"dropRate": 0.005656364541381963
 		},
 		{
 			"itemName": "Meat (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.00004537616843633724
+			"dropRate": 0.00004525091633105571
 		},
 		{
 			"itemName": "Orc Tooth (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.00004537616843633724
+			"dropRate": 0.00004525091633105571
 		}
 	]
 }

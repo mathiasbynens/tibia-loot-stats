@@ -1,71 +1,71 @@
 {
 	"monsterName": "Usurper Knight",
-	"timesKilled": 1421,
+	"timesKilled": 1552,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1275,
-			"dropRate": 0.8972554539057002
+			"timesDropped": 1395,
+			"dropRate": 0.898840206185567
 		},
 		{
 			"itemName": "Leather Legs",
-			"timesDropped": 377,
-			"dropRate": 0.2653061224489796
+			"timesDropped": 404,
+			"dropRate": 0.2603092783505155
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 214,
-			"dropRate": 0.1505981703026038
+			"timesDropped": 233,
+			"dropRate": 0.15012886597938144
 		},
 		{
 			"itemName": "Lion Cloak Patch",
-			"timesDropped": 145,
-			"dropRate": 0.10204081632653061
-		},
-		{
-			"itemName": "Violet Gem",
-			"timesDropped": 82,
-			"dropRate": 0.057705840957072485
+			"timesDropped": 159,
+			"dropRate": 0.10244845360824742
 		},
 		{
 			"itemName": "Lion Crest",
-			"timesDropped": 80,
-			"dropRate": 0.05629838142153413
+			"timesDropped": 87,
+			"dropRate": 0.05605670103092784
+		},
+		{
+			"itemName": "Violet Gem",
+			"timesDropped": 85,
+			"dropRate": 0.0547680412371134
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 75,
-			"dropRate": 0.05277973258268825
+			"timesDropped": 83,
+			"dropRate": 0.053479381443298966
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 70,
-			"dropRate": 0.04926108374384237
-		},
-		{
-			"itemName": "Great Mana Potion",
-			"timesDropped": 55,
-			"dropRate": 0.03870513722730472
+			"timesDropped": 71,
+			"dropRate": 0.04574742268041237
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 53,
-			"dropRate": 0.03729767769176636
+			"timesDropped": 63,
+			"dropRate": 0.04059278350515464
+		},
+		{
+			"itemName": "Great Mana Potion",
+			"timesDropped": 58,
+			"dropRate": 0.037371134020618556
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 27,
-			"dropRate": 0.019000703729767768
+			"timesDropped": 28,
+			"dropRate": 0.01804123711340206
 		},
 		{
 			"itemName": "Collar of Orange Plasma",
-			"timesDropped": 14,
-			"dropRate": 0.009852216748768473
+			"timesDropped": 16,
+			"dropRate": 0.010309278350515464
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 14,
-			"dropRate": 0.009852216748768473
+			"timesDropped": 16,
+			"dropRate": 0.010309278350515464
 		}
 	]
 }

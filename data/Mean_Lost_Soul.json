@@ -1,71 +1,71 @@
 {
 	"monsterName": "Mean Lost Soul",
-	"timesKilled": 2888,
+	"timesKilled": 2902,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2094,
-			"dropRate": 0.7250692520775623
+			"timesDropped": 2104,
+			"dropRate": 0.7250172294968987
 		},
 		{
 			"itemName": "Lost Soul (Item)",
-			"timesDropped": 987,
-			"dropRate": 0.3417590027700831
+			"timesDropped": 993,
+			"dropRate": 0.3421778084079945
 		},
 		{
 			"itemName": "Death Toll",
 			"timesDropped": 155,
-			"dropRate": 0.053670360110803325
+			"dropRate": 0.05341144038594073
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 149,
-			"dropRate": 0.05159279778393352
+			"timesDropped": 151,
+			"dropRate": 0.052033080634045485
 		},
 		{
 			"itemName": "Machete",
-			"timesDropped": 142,
-			"dropRate": 0.04916897506925208
+			"timesDropped": 143,
+			"dropRate": 0.049276361130255
 		},
 		{
 			"itemName": "Ensouled Essence",
-			"timesDropped": 103,
-			"dropRate": 0.03566481994459834
+			"timesDropped": 104,
+			"dropRate": 0.03583735354927636
 		},
 		{
 			"itemName": "Ivory Comb",
 			"timesDropped": 48,
-			"dropRate": 0.01662049861495845
+			"dropRate": 0.016540317022742935
 		},
 		{
 			"itemName": "Fire Axe",
 			"timesDropped": 43,
-			"dropRate": 0.014889196675900277
+			"dropRate": 0.014817367332873881
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 40,
-			"dropRate": 0.013850415512465374
+			"timesDropped": 41,
+			"dropRate": 0.014128187456926258
 		},
 		{
 			"itemName": "Warrior's Axe",
 			"timesDropped": 38,
-			"dropRate": 0.013157894736842105
+			"dropRate": 0.013094417643004824
 		},
 		{
 			"itemName": "Haunted Blade",
 			"timesDropped": 31,
-			"dropRate": 0.010734072022160665
+			"dropRate": 0.010682288077188146
 		},
 		{
 			"itemName": "Twiceslicer",
 			"timesDropped": 20,
-			"dropRate": 0.006925207756232687
+			"dropRate": 0.006891798759476223
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 2,
-			"dropRate": 0.0006925207756232687
+			"dropRate": 0.0006891798759476223
 		}
 	]
 }

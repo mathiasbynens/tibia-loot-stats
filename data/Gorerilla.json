@@ -1,36 +1,36 @@
 {
 	"monsterName": "Gorerilla",
-	"timesKilled": 168,
+	"timesKilled": 170,
 	"items": [
 		{
 			"itemName": "Gorerilla Tail",
 			"timesDropped": 33,
-			"dropRate": 0.19642857142857142
+			"dropRate": 0.19411764705882353
+		},
+		{
+			"itemName": "Crystal Coin",
+			"timesDropped": 26,
+			"dropRate": 0.15294117647058825
 		},
 		{
 			"itemName": "Gorerilla Mane",
 			"timesDropped": 26,
-			"dropRate": 0.15476190476190477
-		},
-		{
-			"itemName": "Crystal Coin",
-			"timesDropped": 24,
-			"dropRate": 0.14285714285714285
+			"dropRate": 0.15294117647058825
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 14,
-			"dropRate": 0.08333333333333333
+			"timesDropped": 16,
+			"dropRate": 0.09411764705882353
 		},
 		{
 			"itemName": "Doublet",
 			"timesDropped": 12,
-			"dropRate": 0.07142857142857142
+			"dropRate": 0.07058823529411765
 		},
 		{
 			"itemName": "Magma Coat",
 			"timesDropped": 4,
-			"dropRate": 0.023809523809523808
+			"dropRate": 0.023529411764705882
 		}
 	]
 }

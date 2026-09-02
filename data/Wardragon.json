@@ -1,66 +1,66 @@
 {
 	"monsterName": "Wardragon",
-	"timesKilled": 2113,
+	"timesKilled": 2115,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1127,
-			"dropRate": 0.5333648840511122
+			"timesDropped": 1128,
+			"dropRate": 0.5333333333333333
 		},
 		{
 			"itemName": "Wardragon Claw",
 			"timesDropped": 275,
-			"dropRate": 0.13014671083767157
+			"dropRate": 0.13002364066193853
 		},
 		{
 			"itemName": "Nimmersatt's Seal",
-			"timesDropped": 250,
-			"dropRate": 0.11831519167061051
+			"timesDropped": 251,
+			"dropRate": 0.11867612293144209
 		},
 		{
 			"itemName": "Dragon Tongue",
 			"timesDropped": 151,
-			"dropRate": 0.07146237576904875
+			"dropRate": 0.07139479905437353
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 124,
-			"dropRate": 0.05868433506862281
+			"dropRate": 0.05862884160756501
 		},
 		{
 			"itemName": "Wardragon Tooth",
 			"timesDropped": 123,
-			"dropRate": 0.05821107430194037
+			"dropRate": 0.05815602836879433
 		},
 		{
 			"itemName": "Black Pearl",
 			"timesDropped": 106,
-			"dropRate": 0.050165641268338855
+			"dropRate": 0.050118203309692674
 		},
 		{
 			"itemName": "Ultimate Health Potion",
 			"timesDropped": 100,
-			"dropRate": 0.047326076668244205
+			"dropRate": 0.04728132387706856
 		},
 		{
 			"itemName": "Onyx Chip",
 			"timesDropped": 84,
-			"dropRate": 0.03975390440132513
+			"dropRate": 0.03971631205673759
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
 			"timesDropped": 37,
-			"dropRate": 0.017510648367250355
+			"dropRate": 0.017494089834515367
 		},
 		{
 			"itemName": "Dragonbone Staff",
 			"timesDropped": 18,
-			"dropRate": 0.008518693800283956
+			"dropRate": 0.00851063829787234
 		},
 		{
 			"itemName": "White Gem",
 			"timesDropped": 13,
-			"dropRate": 0.006152389966871746
+			"dropRate": 0.006146572104018913
 		}
 	]
 }

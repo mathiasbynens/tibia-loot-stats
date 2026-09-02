@@ -1,51 +1,51 @@
 {
 	"monsterName": "Pirate Skeleton",
-	"timesKilled": 1303,
+	"timesKilled": 1309,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 632,
-			"dropRate": 0.48503453568687643
+			"timesDropped": 636,
+			"dropRate": 0.48586707410236823
 		},
 		{
 			"itemName": "Spooky Blue Eye",
-			"timesDropped": 70,
-			"dropRate": 0.05372217958557176
+			"timesDropped": 71,
+			"dropRate": 0.054239877769289534
 		},
 		{
 			"itemName": "Skull",
 			"timesDropped": 63,
-			"dropRate": 0.04834996162701458
+			"dropRate": 0.0481283422459893
 		},
 		{
 			"itemName": "Big Bone",
 			"timesDropped": 61,
-			"dropRate": 0.04681504221028396
+			"dropRate": 0.04660045836516425
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 60,
-			"dropRate": 0.04604758250191865
+			"timesDropped": 61,
+			"dropRate": 0.04660045836516425
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 40,
-			"dropRate": 0.03069838833461243
+			"timesDropped": 41,
+			"dropRate": 0.03132161955691368
 		},
 		{
 			"itemName": "Bone Club",
 			"timesDropped": 16,
-			"dropRate": 0.012279355333844973
+			"dropRate": 0.012223071046600458
 		},
 		{
 			"itemName": "Sword",
 			"timesDropped": 12,
-			"dropRate": 0.00920951650038373
+			"dropRate": 0.009167303284950344
 		},
 		{
 			"itemName": "Short Sword",
 			"timesDropped": 9,
-			"dropRate": 0.006907137375287797
+			"dropRate": 0.006875477463712758
 		}
 	]
 }

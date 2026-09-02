@@ -1,81 +1,81 @@
 {
 	"monsterName": "Defiler",
-	"timesKilled": 6340,
+	"timesKilled": 6341,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6340,
+			"timesDropped": 6341,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6125,
-			"dropRate": 0.9660883280757098
+			"timesDropped": 6126,
+			"dropRate": 0.9660936760763287
 		},
 		{
 			"itemName": "Soul Orb",
 			"timesDropped": 1265,
-			"dropRate": 0.1995268138801262
+			"dropRate": 0.19949534773695002
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 1193,
-			"dropRate": 0.18817034700315458
+			"timesDropped": 1194,
+			"dropRate": 0.18829837565052832
 		},
 		{
 			"itemName": "Glob of Acid Slime",
 			"timesDropped": 728,
-			"dropRate": 0.11482649842271293
+			"dropRate": 0.1148083898438732
 		},
 		{
 			"itemName": "Glob of Tar",
 			"timesDropped": 718,
-			"dropRate": 0.11324921135646687
+			"dropRate": 0.11323135152184198
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 367,
-			"dropRate": 0.057886435331230286
+			"dropRate": 0.05787730641854597
 		},
 		{
 			"itemName": "Talon",
 			"timesDropped": 292,
-			"dropRate": 0.04605678233438486
+			"dropRate": 0.04604951900331178
 		},
 		{
 			"itemName": "Small Ruby",
 			"timesDropped": 232,
-			"dropRate": 0.03659305993690852
+			"dropRate": 0.03658728907112443
 		},
 		{
 			"itemName": "Death Ring",
 			"timesDropped": 171,
-			"dropRate": 0.02697160883280757
+			"dropRate": 0.026967355306733953
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 154,
-			"dropRate": 0.024290220820189275
+			"dropRate": 0.02428639015928087
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 102,
-			"dropRate": 0.016088328075709778
+			"dropRate": 0.0160857908847185
 		},
 		{
 			"itemName": "Red Gem",
 			"timesDropped": 67,
-			"dropRate": 0.01056782334384858
+			"dropRate": 0.01056615675760921
 		},
 		{
 			"itemName": "Blue Gem",
 			"timesDropped": 53,
-			"dropRate": 0.008359621451104101
+			"dropRate": 0.008358303106765495
 		},
 		{
 			"itemName": "Green Gem",
 			"timesDropped": 51,
-			"dropRate": 0.008044164037854889
+			"dropRate": 0.00804289544235925
 		}
 	]
 }

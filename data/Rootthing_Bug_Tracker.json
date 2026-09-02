@@ -1,21 +1,21 @@
 {
 	"monsterName": "Rootthing Bug Tracker",
-	"timesKilled": 8,
+	"timesKilled": 11,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7,
-			"dropRate": 0.875
+			"timesDropped": 10,
+			"dropRate": 0.9090909090909091
 		},
 		{
 			"itemName": "Resin Parasite",
 			"timesDropped": 1,
-			"dropRate": 0.125
+			"dropRate": 0.09090909090909091
 		},
 		{
 			"itemName": "Springsprout Rod",
 			"timesDropped": 1,
-			"dropRate": 0.125
+			"dropRate": 0.09090909090909091
 		}
 	]
 }

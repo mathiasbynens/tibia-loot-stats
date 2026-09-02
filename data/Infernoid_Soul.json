@@ -1,46 +1,46 @@
 {
 	"monsterName": "Infernoid Soul",
-	"timesKilled": 4955,
+	"timesKilled": 5013,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3220,
-			"dropRate": 0.649848637739657
+			"timesDropped": 3259,
+			"dropRate": 0.6501097147416717
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 1019,
-			"dropRate": 0.20565085771947528
+			"timesDropped": 1033,
+			"dropRate": 0.20606423299421503
 		},
 		{
 			"itemName": "Burst Arrow",
-			"timesDropped": 956,
-			"dropRate": 0.1929364278506559
+			"timesDropped": 966,
+			"dropRate": 0.19269898264512267
 		},
 		{
 			"itemName": "Infernoid Ember",
-			"timesDropped": 396,
-			"dropRate": 0.07991927346115035
+			"timesDropped": 399,
+			"dropRate": 0.07959305804907241
 		},
 		{
 			"itemName": "Fire Mushroom",
-			"timesDropped": 145,
-			"dropRate": 0.029263370332996974
+			"timesDropped": 146,
+			"dropRate": 0.02912427688011171
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 100,
-			"dropRate": 0.020181634712411706
+			"timesDropped": 101,
+			"dropRate": 0.020147616197885496
 		},
 		{
 			"itemName": "Coal",
 			"timesDropped": 25,
-			"dropRate": 0.005045408678102927
+			"dropRate": 0.004987033712347895
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 5,
-			"dropRate": 0.0010090817356205853
+			"dropRate": 0.000997406742469579
 		}
 	]
 }

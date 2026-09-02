@@ -1,76 +1,76 @@
 {
 	"monsterName": "Massive Earth Elemental",
-	"timesKilled": 1149,
+	"timesKilled": 1152,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1077,
-			"dropRate": 0.9373368146214099
+			"timesDropped": 1080,
+			"dropRate": 0.9375
 		},
 		{
 			"itemName": "Lump of Earth",
-			"timesDropped": 427,
-			"dropRate": 0.37162750217580504
+			"timesDropped": 429,
+			"dropRate": 0.3723958333333333
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 271,
-			"dropRate": 0.23585726718885988
+			"timesDropped": 272,
+			"dropRate": 0.2361111111111111
 		},
 		{
 			"itemName": "Small Topaz",
 			"timesDropped": 63,
-			"dropRate": 0.05483028720626632
+			"dropRate": 0.0546875
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 53,
-			"dropRate": 0.04612706701479547
+			"dropRate": 0.04600694444444445
 		},
 		{
 			"itemName": "Rusted Armor",
 			"timesDropped": 46,
-			"dropRate": 0.04003481288076589
+			"dropRate": 0.03993055555555555
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 41,
-			"dropRate": 0.03568320278503046
+			"timesDropped": 42,
+			"dropRate": 0.036458333333333336
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 35,
-			"dropRate": 0.030461270670147953
+			"dropRate": 0.030381944444444444
 		},
 		{
 			"itemName": "Protection Amulet",
 			"timesDropped": 32,
-			"dropRate": 0.0278503046127067
+			"dropRate": 0.027777777777777776
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 10,
-			"dropRate": 0.008703220191470844
+			"dropRate": 0.008680555555555556
 		},
 		{
 			"itemName": "Clay Lump",
 			"timesDropped": 8,
-			"dropRate": 0.006962576153176675
+			"dropRate": 0.006944444444444444
 		},
 		{
 			"itemName": "Coal",
 			"timesDropped": 6,
-			"dropRate": 0.005221932114882507
+			"dropRate": 0.005208333333333333
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 5,
-			"dropRate": 0.004351610095735422
+			"timesDropped": 6,
+			"dropRate": 0.005208333333333333
 		},
 		{
 			"itemName": "Diamond Sceptre",
 			"timesDropped": 1,
-			"dropRate": 0.0008703220191470844
+			"dropRate": 0.0008680555555555555
 		}
 	]
 }

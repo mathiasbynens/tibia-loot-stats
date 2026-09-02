@@ -1,56 +1,56 @@
 {
 	"monsterName": "Lizard Henchman",
-	"timesKilled": 4248,
+	"timesKilled": 4271,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3021,
-			"dropRate": 0.7111581920903954
+			"timesDropped": 3039,
+			"dropRate": 0.7115429641770077
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 836,
-			"dropRate": 0.1967984934086629
+			"timesDropped": 839,
+			"dropRate": 0.19644111449309296
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 662,
-			"dropRate": 0.15583804143126176
+			"timesDropped": 665,
+			"dropRate": 0.15570124092718332
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 454,
-			"dropRate": 0.1068738229755179
+			"timesDropped": 456,
+			"dropRate": 0.10676656520721142
 		},
 		{
 			"itemName": "Sail Pass",
-			"timesDropped": 437,
-			"dropRate": 0.10287193973634652
+			"timesDropped": 438,
+			"dropRate": 0.10255209552797939
 		},
 		{
 			"itemName": "Lizard Tail",
-			"timesDropped": 164,
-			"dropRate": 0.038606403013182675
+			"timesDropped": 165,
+			"dropRate": 0.038632638726293606
 		},
 		{
 			"itemName": "Shovel",
 			"timesDropped": 73,
-			"dropRate": 0.017184557438794726
+			"dropRate": 0.0170920159213299
 		},
 		{
 			"itemName": "Lizard Scale",
 			"timesDropped": 44,
-			"dropRate": 0.010357815442561206
+			"dropRate": 0.010302036993678295
 		},
 		{
 			"itemName": "Lizard Leather",
 			"timesDropped": 36,
-			"dropRate": 0.00847457627118644
+			"dropRate": 0.00842893935846406
 		},
 		{
 			"itemName": "Sentinel Shield",
 			"timesDropped": 31,
-			"dropRate": 0.007297551789077213
+			"dropRate": 0.0072582533364551624
 		}
 	]
 }

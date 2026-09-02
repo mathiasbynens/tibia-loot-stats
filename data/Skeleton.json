@@ -1,56 +1,56 @@
 {
 	"monsterName": "Skeleton",
-	"timesKilled": 8494,
+	"timesKilled": 8501,
 	"items": [
 		{
 			"itemName": "Bone",
-			"timesDropped": 4244,
-			"dropRate": 0.4996468095125971
+			"timesDropped": 4248,
+			"dropRate": 0.49970591695094696
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3868,
-			"dropRate": 0.4553802684247704
+			"timesDropped": 3871,
+			"dropRate": 0.4553581931537466
 		},
 		{
 			"itemName": "Pelvis Bone",
 			"timesDropped": 889,
-			"dropRate": 0.10466211443371792
+			"dropRate": 0.1045759322432655
 		},
 		{
 			"itemName": "Torch",
 			"timesDropped": 849,
-			"dropRate": 0.09995290793501295
+			"dropRate": 0.09987060345841665
 		},
 		{
 			"itemName": "Viking Helmet",
 			"timesDropped": 699,
-			"dropRate": 0.08229338356486932
+			"dropRate": 0.08222562051523351
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 436,
-			"dropRate": 0.05133035083588415
+			"timesDropped": 437,
+			"dropRate": 0.05140571697447359
 		},
 		{
 			"itemName": "Hatchet",
 			"timesDropped": 423,
-			"dropRate": 0.04979985872380504
+			"dropRate": 0.049758851899776496
 		},
 		{
 			"itemName": "Heavy Old Tome",
 			"timesDropped": 163,
-			"dropRate": 0.019190016482222745
+			"dropRate": 0.019174214798259027
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 159,
-			"dropRate": 0.018719095832352248
+			"timesDropped": 160,
+			"dropRate": 0.018821315139395365
 		},
 		{
 			"itemName": "Brass Shield",
 			"timesDropped": 86,
-			"dropRate": 0.010124793972215681
+			"dropRate": 0.01011645688742501
 		}
 	]
 }

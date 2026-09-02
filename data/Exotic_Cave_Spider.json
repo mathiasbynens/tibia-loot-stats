@@ -1,41 +1,41 @@
 {
 	"monsterName": "Exotic Cave Spider",
-	"timesKilled": 7259,
+	"timesKilled": 7263,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7259,
+			"timesDropped": 7263,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 1075,
-			"dropRate": 0.1480920236947238
+			"timesDropped": 1078,
+			"dropRate": 0.14842351645325624
 		},
 		{
 			"itemName": "Great Health Potion",
 			"timesDropped": 729,
-			"dropRate": 0.10042705606832897
+			"dropRate": 0.10037174721189591
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 348,
-			"dropRate": 0.047940487670478024
+			"timesDropped": 350,
+			"dropRate": 0.04818945339391436
 		},
 		{
 			"itemName": "Silver Amulet",
 			"timesDropped": 314,
-			"dropRate": 0.043256646921063506
+			"dropRate": 0.043232823901968885
 		},
 		{
 			"itemName": "Spider Silk",
 			"timesDropped": 213,
-			"dropRate": 0.02934288469486155
+			"dropRate": 0.02932672449401074
 		},
 		{
 			"itemName": "Terra Mantle",
 			"timesDropped": 61,
-			"dropRate": 0.008403361344537815
+			"dropRate": 0.008398733305796503
 		}
 	]
 }

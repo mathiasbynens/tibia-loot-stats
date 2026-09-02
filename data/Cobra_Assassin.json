@@ -1,86 +1,86 @@
 {
 	"monsterName": "Cobra Assassin",
-	"timesKilled": 43896,
+	"timesKilled": 43910,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 31563,
-			"dropRate": 0.7190404592673593
+			"timesDropped": 31574,
+			"dropRate": 0.7190617171487133
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 14150,
-			"dropRate": 0.3223528339712047
+			"timesDropped": 14156,
+			"dropRate": 0.32238670006832154
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 12077,
-			"dropRate": 0.27512757426644796
+			"timesDropped": 12081,
+			"dropRate": 0.2751309496697791
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 9994,
-			"dropRate": 0.2276745033716056
+			"timesDropped": 9997,
+			"dropRate": 0.2276702345707128
 		},
 		{
 			"itemName": "Scimitar",
-			"timesDropped": 7366,
-			"dropRate": 0.16780572261709495
+			"timesDropped": 7367,
+			"dropRate": 0.16777499430653608
 		},
 		{
 			"itemName": "Cobra Crest",
-			"timesDropped": 6492,
-			"dropRate": 0.14789502460360854
+			"timesDropped": 6496,
+			"dropRate": 0.14793896606695514
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 6057,
-			"dropRate": 0.13798523783488245
+			"timesDropped": 6059,
+			"dropRate": 0.13798679116374402
 		},
 		{
 			"itemName": "Bone Sword",
-			"timesDropped": 3915,
-			"dropRate": 0.08918808091853472
+			"timesDropped": 3918,
+			"dropRate": 0.08922796629469369
 		},
 		{
 			"itemName": "Heavy Machete",
 			"timesDropped": 3432,
-			"dropRate": 0.07818480043739748
+			"dropRate": 0.07815987246640857
 		},
 		{
 			"itemName": "Green Crystal Shard",
 			"timesDropped": 2906,
-			"dropRate": 0.06620193183889192
+			"dropRate": 0.06618082441357322
 		},
 		{
 			"itemName": "Machete",
-			"timesDropped": 2327,
-			"dropRate": 0.053011663932932385
+			"timesDropped": 2328,
+			"dropRate": 0.053017535868822595
+		},
+		{
+			"itemName": "Carlin Sword",
+			"timesDropped": 1981,
+			"dropRate": 0.04511500797084946
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 1981,
-			"dropRate": 0.04512939675596865
-		},
-		{
-			"itemName": "Carlin Sword",
-			"timesDropped": 1980,
-			"dropRate": 0.045106615636960085
+			"dropRate": 0.04511500797084946
 		},
 		{
 			"itemName": "Green Crystal Fragment",
 			"timesDropped": 1449,
-			"dropRate": 0.0330098414434117
+			"dropRate": 0.03299931678433159
 		},
 		{
 			"itemName": "Soul Orb",
 			"timesDropped": 864,
-			"dropRate": 0.019682886823400764
+			"dropRate": 0.01967661125028467
 		},
 		{
 			"itemName": "Red Crystal Fragment",
 			"timesDropped": 382,
-			"dropRate": 0.008702387461272098
+			"dropRate": 0.008699612844454566
 		}
 	]
 }

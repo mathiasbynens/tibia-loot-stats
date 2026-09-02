@@ -1,21 +1,21 @@
 {
 	"monsterName": "Squirrel",
-	"timesKilled": 8742,
+	"timesKilled": 8745,
 	"items": [
 		{
 			"itemName": "Acorn",
 			"timesDropped": 3519,
-			"dropRate": 0.4025394646533974
+			"dropRate": 0.40240137221269295
 		},
 		{
 			"itemName": "Peanut",
-			"timesDropped": 66,
-			"dropRate": 0.0075497597803706245
+			"timesDropped": 67,
+			"dropRate": 0.007661520869068039
 		},
 		{
 			"itemName": "Walnut",
 			"timesDropped": 63,
-			"dropRate": 0.007206588881262869
+			"dropRate": 0.007204116638078902
 		}
 	]
 }

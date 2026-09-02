@@ -1,66 +1,66 @@
 {
 	"monsterName": "Makara",
-	"timesKilled": 4480,
+	"timesKilled": 4485,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4480,
+			"timesDropped": 4485,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Makara Tongue",
 			"timesDropped": 454,
-			"dropRate": 0.10133928571428572
+			"dropRate": 0.10122630992196209
 		},
 		{
 			"itemName": "Makara Fin",
-			"timesDropped": 450,
-			"dropRate": 0.10044642857142858
+			"timesDropped": 451,
+			"dropRate": 0.10055741360089186
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 368,
-			"dropRate": 0.08214285714285714
+			"timesDropped": 369,
+			"dropRate": 0.0822742474916388
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 138,
-			"dropRate": 0.03080357142857143
+			"dropRate": 0.03076923076923077
 		},
 		{
 			"itemName": "Green Crystal Fragment",
 			"timesDropped": 136,
-			"dropRate": 0.030357142857142857
+			"dropRate": 0.03032329988851728
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 121,
-			"dropRate": 0.027008928571428573
+			"timesDropped": 122,
+			"dropRate": 0.027201783723522853
 		},
 		{
 			"itemName": "Rainbow Quartz",
 			"timesDropped": 115,
-			"dropRate": 0.025669642857142856
+			"dropRate": 0.02564102564102564
 		},
 		{
 			"itemName": "Green Crystal Shard",
 			"timesDropped": 114,
-			"dropRate": 0.02544642857142857
+			"dropRate": 0.025418060200668897
 		},
 		{
 			"itemName": "Blue Gem",
 			"timesDropped": 92,
-			"dropRate": 0.020535714285714286
+			"dropRate": 0.020512820512820513
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 87,
-			"dropRate": 0.019419642857142858
+			"timesDropped": 88,
+			"dropRate": 0.019620958751393535
 		},
 		{
 			"itemName": "Sea Horse Figurine",
 			"timesDropped": 15,
-			"dropRate": 0.0033482142857142855
+			"dropRate": 0.0033444816053511705
 		}
 	]
 }
