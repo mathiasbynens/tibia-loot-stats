@@ -1,21 +1,21 @@
 {
 	"monsterName": "Wolf",
-	"timesKilled": 138551,
+	"timesKilled": 138559,
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 97253,
-			"dropRate": 0.7019292534878854
+			"timesDropped": 97259,
+			"dropRate": 0.7019320289551744
 		},
 		{
 			"itemName": "Wolf Paw",
 			"timesDropped": 1430,
-			"dropRate": 0.010321109194448255
+			"dropRate": 0.010320513283150139
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.000007217558877236541
+			"dropRate": 0.000007217142156049047
 		}
 	]
 }
