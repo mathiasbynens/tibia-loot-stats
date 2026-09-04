@@ -1,126 +1,126 @@
 {
 	"monsterName": "Blightwalker",
-	"timesKilled": 15920,
+	"timesKilled": 16751,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15920,
+			"timesDropped": 16751,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 15920,
+			"timesDropped": 16751,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Bunch of Wheat",
-			"timesDropped": 7969,
-			"dropRate": 0.5005653266331658
+			"timesDropped": 8363,
+			"dropRate": 0.49925377589397646
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 4797,
-			"dropRate": 0.30131909547738694
+			"timesDropped": 5049,
+			"dropRate": 0.3014148409050206
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 4716,
-			"dropRate": 0.2962311557788945
+			"timesDropped": 4967,
+			"dropRate": 0.2965196107695063
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 4110,
-			"dropRate": 0.25816582914572866
+			"timesDropped": 4316,
+			"dropRate": 0.25765625932780134
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 3968,
-			"dropRate": 0.2492462311557789
+			"timesDropped": 4176,
+			"dropRate": 0.24929854934033788
 		},
 		{
 			"itemName": "Bundle of Cursed Straw",
-			"timesDropped": 2459,
-			"dropRate": 0.15445979899497486
+			"timesDropped": 2583,
+			"dropRate": 0.15419974926870036
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 2402,
-			"dropRate": 0.1508793969849246
+			"timesDropped": 2530,
+			"dropRate": 0.15103575905916064
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 1595,
-			"dropRate": 0.10018844221105527
+			"timesDropped": 1681,
+			"dropRate": 0.1003522177780431
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 1210,
-			"dropRate": 0.07600502512562814
+			"timesDropped": 1270,
+			"dropRate": 0.07581636917198974
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 805,
-			"dropRate": 0.050565326633165826
+			"timesDropped": 840,
+			"dropRate": 0.05014625992478061
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 787,
-			"dropRate": 0.04943467336683417
+			"timesDropped": 821,
+			"dropRate": 0.04901199928362486
 		},
 		{
 			"itemName": "Seeds",
-			"timesDropped": 631,
-			"dropRate": 0.0396356783919598
+			"timesDropped": 668,
+			"dropRate": 0.03987821622589696
 		},
 		{
 			"itemName": "Scythe",
-			"timesDropped": 449,
-			"dropRate": 0.028203517587939698
+			"timesDropped": 470,
+			"dropRate": 0.02805802638648439
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 399,
-			"dropRate": 0.02506281407035176
+			"timesDropped": 418,
+			"dropRate": 0.02495373410542654
 		},
 		{
 			"itemName": "Garlic Necklace",
-			"timesDropped": 342,
-			"dropRate": 0.021482412060301506
+			"timesDropped": 360,
+			"dropRate": 0.021491254253477404
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 314,
-			"dropRate": 0.019723618090452262
+			"timesDropped": 331,
+			"dropRate": 0.019760014327502837
 		},
 		{
 			"itemName": "Gold Ring",
-			"timesDropped": 243,
-			"dropRate": 0.015263819095477388
+			"timesDropped": 259,
+			"dropRate": 0.015461763476807356
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 232,
-			"dropRate": 0.01457286432160804
+			"timesDropped": 244,
+			"dropRate": 0.01456629454957913
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 152,
-			"dropRate": 0.009547738693467337
+			"timesDropped": 158,
+			"dropRate": 0.009432272700137306
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 47,
-			"dropRate": 0.0029522613065326633
+			"timesDropped": 48,
+			"dropRate": 0.0028655005671303206
 		},
 		{
 			"itemName": "Amulet of Loss",
-			"timesDropped": 37,
-			"dropRate": 0.002324120603015075
+			"timesDropped": 40,
+			"dropRate": 0.0023879171392752674
 		},
 		{
 			"itemName": "Golden Sickle",
-			"timesDropped": 22,
-			"dropRate": 0.0013819095477386936
+			"timesDropped": 23,
+			"dropRate": 0.0013730523550832786
 		}
 	]
 }

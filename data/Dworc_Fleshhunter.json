@@ -1,66 +1,66 @@
 {
 	"monsterName": "Dworc Fleshhunter",
-	"timesKilled": 105810,
+	"timesKilled": 105890,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 79253,
-			"dropRate": 0.7490123806823552
+			"timesDropped": 79316,
+			"dropRate": 0.7490414581169138
 		},
 		{
 			"itemName": "Leather Armor",
-			"timesDropped": 11435,
-			"dropRate": 0.10807107078726018
+			"timesDropped": 11438,
+			"dropRate": 0.10801775427330249
 		},
 		{
 			"itemName": "Cleaver",
-			"timesDropped": 9526,
-			"dropRate": 0.09002929779793971
+			"timesDropped": 9535,
+			"dropRate": 0.0900462744357352
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 5827,
-			"dropRate": 0.0550704092240809
+			"timesDropped": 5834,
+			"dropRate": 0.05509490981206913
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 3206,
-			"dropRate": 0.03029959361118987
+			"timesDropped": 3209,
+			"dropRate": 0.030305033525356503
 		},
 		{
 			"itemName": "Poison Dagger",
 			"timesDropped": 2178,
-			"dropRate": 0.020584065778281826
+			"dropRate": 0.020568514496175277
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 2072,
-			"dropRate": 0.0195822701067952
+			"timesDropped": 2074,
+			"dropRate": 0.01958636320710171
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 1097,
-			"dropRate": 0.01036764010963047
+			"timesDropped": 1099,
+			"dropRate": 0.01037869487203702
 		},
 		{
 			"itemName": "Tribal Mask",
 			"timesDropped": 511,
-			"dropRate": 0.004829411208770437
+			"dropRate": 0.004825762583813392
 		},
 		{
 			"itemName": "Ripper Lance",
 			"timesDropped": 97,
-			"dropRate": 0.0009167375484358756
+			"dropRate": 0.0009160449523089999
 		},
 		{
 			"itemName": "Gold Coins (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 4,
-			"dropRate": 0.00003780361024477838
+			"dropRate": 0.00003777504957975257
 		},
 		{
 			"itemName": "Poison Dagger (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 2,
-			"dropRate": 0.00001890180512238919
+			"dropRate": 0.000018887524789876286
 		}
 	]
 }
