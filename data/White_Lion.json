@@ -1,71 +1,71 @@
 {
 	"monsterName": "White Lion",
-	"timesKilled": 9435,
+	"timesKilled": 9441,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9435,
+			"timesDropped": 9441,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2305,
-			"dropRate": 0.24430312665606782
+			"timesDropped": 2306,
+			"dropRate": 0.24425378667514033
 		},
 		{
 			"itemName": "Lion's Mane",
-			"timesDropped": 1806,
-			"dropRate": 0.19141494435612083
+			"timesDropped": 1807,
+			"dropRate": 0.1913992161847262
 		},
 		{
 			"itemName": "Axe",
 			"timesDropped": 1439,
-			"dropRate": 0.1525172231054584
+			"dropRate": 0.1524202944603326
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 1413,
-			"dropRate": 0.14976152623211447
+			"timesDropped": 1414,
+			"dropRate": 0.14977226988666456
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 1383,
-			"dropRate": 0.1465818759936407
+			"timesDropped": 1384,
+			"dropRate": 0.1465946403982629
 		},
 		{
 			"itemName": "Twin Hooks",
 			"timesDropped": 1218,
-			"dropRate": 0.12909379968203497
+			"dropRate": 0.1290117572291071
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 541,
-			"dropRate": 0.05733969263381028
+			"timesDropped": 542,
+			"dropRate": 0.057409172757123185
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 421,
-			"dropRate": 0.04462109167991521
+			"timesDropped": 422,
+			"dropRate": 0.04469865480351658
 		},
 		{
 			"itemName": "War Hammer",
 			"timesDropped": 320,
-			"dropRate": 0.03391626921038686
+			"dropRate": 0.03389471454295096
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 248,
-			"dropRate": 0.026285108638049816
+			"dropRate": 0.026268403770786992
 		},
 		{
 			"itemName": "Green Crystal Fragment",
 			"timesDropped": 185,
-			"dropRate": 0.0196078431372549
+			"dropRate": 0.019595381845143523
 		},
 		{
 			"itemName": "Combat Knife",
 			"timesDropped": 182,
-			"dropRate": 0.019289878113407526
+			"dropRate": 0.019277618896303358
 		}
 	]
 }

@@ -1,76 +1,76 @@
 {
 	"monsterName": "Ancient Scarab",
-	"timesKilled": 35569,
+	"timesKilled": 35586,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 35569,
+			"timesDropped": 35586,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 3688,
-			"dropRate": 0.10368579380921589
+			"timesDropped": 3689,
+			"dropRate": 0.10366436238970382
 		},
 		{
 			"itemName": "Scarab Coin",
 			"timesDropped": 2871,
-			"dropRate": 0.08071635412859512
+			"dropRate": 0.08067779463834092
 		},
 		{
 			"itemName": "Scarab Pincers",
-			"timesDropped": 2526,
-			"dropRate": 0.07101689673592174
+			"timesDropped": 2529,
+			"dropRate": 0.07106727364693981
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 2145,
-			"dropRate": 0.06030532205009981
+			"dropRate": 0.06027651323554207
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 2115,
-			"dropRate": 0.059461890972476034
+			"dropRate": 0.05943348507840162
 		},
 		{
 			"itemName": "Plate Armor",
 			"timesDropped": 1769,
-			"dropRate": 0.04973431921054851
+			"dropRate": 0.04971056033271511
 		},
 		{
 			"itemName": "Scarab Amulet",
 			"timesDropped": 1270,
-			"dropRate": 0.03570524895273974
+			"dropRate": 0.03568819198561232
 		},
 		{
 			"itemName": "Ancient Amulet",
 			"timesDropped": 892,
-			"dropRate": 0.025078017374680198
+			"dropRate": 0.02506603720564267
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 559,
-			"dropRate": 0.015715932413056313
+			"dropRate": 0.01570842466138369
 		},
 		{
 			"itemName": "Springsprout Rod",
 			"timesDropped": 346,
-			"dropRate": 0.009727571761927522
+			"dropRate": 0.009722924745686506
 		},
 		{
 			"itemName": "Scarab Shield",
 			"timesDropped": 185,
-			"dropRate": 0.00520115831201327
+			"dropRate": 0.005198673635699432
 		},
 		{
 			"itemName": "Terra Hood",
 			"timesDropped": 155,
-			"dropRate": 0.004357727234389496
+			"dropRate": 0.004355645478558984
 		},
 		{
 			"itemName": "Daramian Waraxe",
 			"timesDropped": 95,
-			"dropRate": 0.0026708650791419496
+			"dropRate": 0.002669589164278087
 		}
 	]
 }

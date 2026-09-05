@@ -1,71 +1,71 @@
 {
 	"monsterName": "Elder Mummy",
-	"timesKilled": 221,
+	"timesKilled": 222,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 195,
-			"dropRate": 0.8823529411764706
+			"timesDropped": 196,
+			"dropRate": 0.8828828828828829
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 50,
-			"dropRate": 0.22624434389140272
+			"timesDropped": 51,
+			"dropRate": 0.22972972972972974
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 26,
-			"dropRate": 0.11764705882352941
+			"timesDropped": 27,
+			"dropRate": 0.12162162162162163
 		},
 		{
 			"itemName": "Flask of Embalming Fluid",
 			"timesDropped": 25,
-			"dropRate": 0.11312217194570136
+			"dropRate": 0.11261261261261261
 		},
 		{
 			"itemName": "Gauze Bandage",
 			"timesDropped": 20,
-			"dropRate": 0.09049773755656108
+			"dropRate": 0.09009009009009009
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 19,
-			"dropRate": 0.08597285067873303
+			"timesDropped": 20,
+			"dropRate": 0.09009009009009009
 		},
 		{
 			"itemName": "Strange Talisman",
 			"timesDropped": 13,
-			"dropRate": 0.058823529411764705
+			"dropRate": 0.05855855855855856
 		},
 		{
 			"itemName": "Pharaoh Banner",
 			"timesDropped": 9,
-			"dropRate": 0.04072398190045249
+			"dropRate": 0.04054054054054054
 		},
 		{
 			"itemName": "Silver Brooch",
 			"timesDropped": 5,
-			"dropRate": 0.02262443438914027
+			"dropRate": 0.02252252252252252
 		},
 		{
 			"itemName": "Crystal Ring",
 			"timesDropped": 4,
-			"dropRate": 0.01809954751131222
+			"dropRate": 0.018018018018018018
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 3,
-			"dropRate": 0.013574660633484163
+			"dropRate": 0.013513513513513514
 		},
 		{
 			"itemName": "Black Pearl",
 			"timesDropped": 2,
-			"dropRate": 0.00904977375565611
+			"dropRate": 0.009009009009009009
 		},
 		{
 			"itemName": "Poison Dagger",
 			"timesDropped": 2,
-			"dropRate": 0.00904977375565611
+			"dropRate": 0.009009009009009009
 		}
 	]
 }

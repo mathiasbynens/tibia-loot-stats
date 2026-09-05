@@ -1,66 +1,66 @@
 {
 	"monsterName": "Barbarian Brutetamer",
-	"timesKilled": 16807,
+	"timesKilled": 16857,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15125,
-			"dropRate": 0.8999226512762539
+			"timesDropped": 15170,
+			"dropRate": 0.8999228807023788
 		},
 		{
 			"itemName": "Corncob",
-			"timesDropped": 1850,
-			"dropRate": 0.11007318379246743
+			"timesDropped": 1856,
+			"dropRate": 0.11010262798837278
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 1531,
-			"dropRate": 0.09109299696555007
+			"timesDropped": 1536,
+			"dropRate": 0.09111941626623954
 		},
 		{
 			"itemName": "Fur Bag",
-			"timesDropped": 1333,
-			"dropRate": 0.07931219134884275
+			"timesDropped": 1337,
+			"dropRate": 0.07931423147653793
 		},
 		{
 			"itemName": "Staff",
-			"timesDropped": 1118,
-			"dropRate": 0.06651990242161004
+			"timesDropped": 1123,
+			"dropRate": 0.06661920863736133
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 876,
-			"dropRate": 0.05212114000118998
+			"timesDropped": 879,
+			"dropRate": 0.05214450969923474
 		},
 		{
 			"itemName": "Book (Grey)",
 			"timesDropped": 788,
-			"dropRate": 0.0468852263937645
+			"dropRate": 0.0467461588657531
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 100,
-			"dropRate": 0.005949901826619861
+			"timesDropped": 101,
+			"dropRate": 0.005991576199798303
 		},
 		{
 			"itemName": "Brutetamer's Staff",
 			"timesDropped": 52,
-			"dropRate": 0.0030939489498423276
+			"dropRate": 0.003084771904846651
 		},
 		{
 			"itemName": "Fur Boots",
-			"timesDropped": 25,
-			"dropRate": 0.0014874754566549652
+			"timesDropped": 26,
+			"dropRate": 0.0015423859524233256
 		},
 		{
 			"itemName": "Mammoth Fur Cape",
 			"timesDropped": 24,
-			"dropRate": 0.0014279764383887665
+			"dropRate": 0.0014237408791599928
 		},
 		{
 			"itemName": "Mammoth Fur Shorts",
 			"timesDropped": 13,
-			"dropRate": 0.0007734872374605819
+			"dropRate": 0.0007711929762116628
 		}
 	]
 }

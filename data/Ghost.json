@@ -1,56 +1,56 @@
 {
 	"monsterName": "Ghost",
-	"timesKilled": 3628,
+	"timesKilled": 3635,
 	"items": [
 		{
 			"itemName": "Shadow Herb",
-			"timesDropped": 528,
-			"dropRate": 0.14553472987872107
+			"timesDropped": 529,
+			"dropRate": 0.14552957359009627
 		},
 		{
 			"itemName": "Morning Star",
 			"timesDropped": 390,
-			"dropRate": 0.10749724366041896
+			"dropRate": 0.10729023383768914
 		},
 		{
 			"itemName": "Cape",
 			"timesDropped": 368,
-			"dropRate": 0.10143329658213891
+			"dropRate": 0.10123796423658872
 		},
 		{
 			"itemName": "Combat Knife",
 			"timesDropped": 269,
-			"dropRate": 0.07414553472987873
+			"dropRate": 0.07400275103163687
 		},
 		{
 			"itemName": "Ghostly Tissue",
 			"timesDropped": 73,
-			"dropRate": 0.0201212789415656
+			"dropRate": 0.020082530949105913
 		},
 		{
 			"itemName": "White Piece of Cloth",
 			"timesDropped": 59,
-			"dropRate": 0.016262403528114665
+			"dropRate": 0.016231086657496563
 		},
 		{
 			"itemName": "Book (Orange)",
 			"timesDropped": 46,
-			"dropRate": 0.012679162072767364
+			"dropRate": 0.01265474552957359
 		},
 		{
 			"itemName": "Ancient Shield",
 			"timesDropped": 33,
-			"dropRate": 0.009095920617420067
+			"dropRate": 0.009078404401650619
 		},
 		{
 			"itemName": "Stealth Ring",
 			"timesDropped": 9,
-			"dropRate": 0.0024807056229327455
+			"dropRate": 0.0024759284731774417
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 2,
-			"dropRate": 0.0005512679162072767
+			"dropRate": 0.0005502063273727648
 		}
 	]
 }
