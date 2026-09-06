@@ -1,71 +1,71 @@
 {
 	"monsterName": "Giant Spider",
-	"timesKilled": 104387,
+	"timesKilled": 104392,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 104372,
-			"dropRate": 0.9998563039458936
+			"timesDropped": 104377,
+			"dropRate": 0.999856310828416
 		},
 		{
 			"itemName": "Poison Arrow",
 			"timesDropped": 12451,
-			"dropRate": 0.11927730464521444
+			"dropRate": 0.11927159169285002
 		},
 		{
 			"itemName": "Plate Armor",
 			"timesDropped": 10478,
-			"dropRate": 0.10037648366175865
+			"dropRate": 0.10037167599049736
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 8237,
-			"dropRate": 0.07890829317826932
+			"timesDropped": 8238,
+			"dropRate": 0.07891409303394896
 		},
 		{
 			"itemName": "Two Handed Sword",
 			"timesDropped": 5308,
-			"dropRate": 0.050849243679768556
+			"dropRate": 0.050846808184535214
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 5120,
-			"dropRate": 0.04904825313496891
+			"timesDropped": 5121,
+			"dropRate": 0.04905548317878765
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 3699,
-			"dropRate": 0.03543544694262696
+			"timesDropped": 3700,
+			"dropRate": 0.03544332899072726
 		},
 		{
 			"itemName": "Spider Silk",
 			"timesDropped": 2069,
-			"dropRate": 0.019820475729736463
+			"dropRate": 0.01981952640049046
 		},
 		{
 			"itemName": "Knight Legs",
 			"timesDropped": 852,
-			"dropRate": 0.008161935873240921
+			"dropRate": 0.008161544945972871
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 749,
-			"dropRate": 0.007175222968377288
+			"dropRate": 0.007174879301095869
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 515,
-			"dropRate": 0.004933564524318162
+			"dropRate": 0.00493332822438501
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 284,
-			"dropRate": 0.002720645291080307
+			"dropRate": 0.002720514981990957
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 284,
-			"dropRate": 0.002720645291080307
+			"dropRate": 0.002720514981990957
 		}
 	]
 }

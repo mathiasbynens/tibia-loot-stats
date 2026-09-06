@@ -1,76 +1,76 @@
 {
 	"monsterName": "Twisted Pooka",
-	"timesKilled": 3420,
+	"timesKilled": 3465,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3420,
+			"timesDropped": 3465,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Carrot",
-			"timesDropped": 698,
-			"dropRate": 0.204093567251462
+			"timesDropped": 709,
+			"dropRate": 0.20461760461760461
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 411,
-			"dropRate": 0.12017543859649123
+			"timesDropped": 415,
+			"dropRate": 0.11976911976911978
 		},
 		{
 			"itemName": "Fairy Wings",
-			"timesDropped": 350,
-			"dropRate": 0.1023391812865497
+			"timesDropped": 354,
+			"dropRate": 0.10216450216450217
 		},
 		{
 			"itemName": "Shimmering Beetles",
-			"timesDropped": 323,
-			"dropRate": 0.09444444444444444
+			"timesDropped": 326,
+			"dropRate": 0.09408369408369409
 		},
 		{
 			"itemName": "Stone Herb",
-			"timesDropped": 240,
-			"dropRate": 0.07017543859649122
+			"timesDropped": 242,
+			"dropRate": 0.06984126984126984
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 158,
-			"dropRate": 0.046198830409356725
+			"timesDropped": 160,
+			"dropRate": 0.046176046176046176
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 135,
-			"dropRate": 0.039473684210526314
+			"timesDropped": 136,
+			"dropRate": 0.03924963924963925
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 110,
-			"dropRate": 0.03216374269005848
+			"timesDropped": 112,
+			"dropRate": 0.03232323232323232
 		},
 		{
 			"itemName": "Orange Mushroom",
 			"timesDropped": 100,
-			"dropRate": 0.029239766081871343
+			"dropRate": 0.02886002886002886
 		},
 		{
 			"itemName": "Prismatic Quartz",
-			"timesDropped": 95,
-			"dropRate": 0.027777777777777776
+			"timesDropped": 99,
+			"dropRate": 0.02857142857142857
 		},
 		{
 			"itemName": "Stealth Ring",
 			"timesDropped": 24,
-			"dropRate": 0.007017543859649123
+			"dropRate": 0.006926406926406926
 		},
 		{
 			"itemName": "Carrot on a Stick",
 			"timesDropped": 4,
-			"dropRate": 0.0011695906432748538
+			"dropRate": 0.0011544011544011544
 		},
 		{
 			"itemName": "Crystal of Focus",
 			"timesDropped": 2,
-			"dropRate": 0.0005847953216374269
+			"dropRate": 0.0005772005772005772
 		}
 	]
 }

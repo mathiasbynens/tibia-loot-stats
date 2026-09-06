@@ -1,46 +1,46 @@
 {
 	"monsterName": "Tarantula",
-	"timesKilled": 15167,
+	"timesKilled": 15177,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12056,
-			"dropRate": 0.7948836289312323
+			"timesDropped": 12063,
+			"dropRate": 0.7948211108914806
 		},
 		{
 			"itemName": "Tarantula Egg",
 			"timesDropped": 1491,
-			"dropRate": 0.09830553174655503
+			"dropRate": 0.09824075904328919
 		},
 		{
 			"itemName": "Spider Fangs",
 			"timesDropped": 737,
-			"dropRate": 0.04859233862992022
+			"dropRate": 0.048560321539171114
 		},
 		{
 			"itemName": "Brass Legs",
 			"timesDropped": 454,
-			"dropRate": 0.02993340805696578
+			"dropRate": 0.029913685181524676
 		},
 		{
 			"itemName": "Plate Shield",
 			"timesDropped": 269,
-			"dropRate": 0.017735873936836552
+			"dropRate": 0.017724187915925414
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 156,
-			"dropRate": 0.01028548823102789
+			"dropRate": 0.010278711207748568
 		},
 		{
 			"itemName": "Monk Robe",
 			"timesDropped": 50,
-			"dropRate": 0.0032966308432781696
+			"dropRate": 0.003294458720432233
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 22,
-			"dropRate": 0.0014505175710423947
+			"dropRate": 0.0014495618369901825
 		}
 	]
 }
