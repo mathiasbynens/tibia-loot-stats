@@ -1,61 +1,61 @@
 {
 	"monsterName": "Swamp Troll",
-	"timesKilled": 60227,
+	"timesKilled": 60285,
 	"items": [
 		{
 			"itemName": "Fish",
-			"timesDropped": 36084,
-			"dropRate": 0.599133279094094
+			"timesDropped": 36124,
+			"dropRate": 0.599220369909596
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 30140,
-			"dropRate": 0.5004400019924619
+			"timesDropped": 30167,
+			"dropRate": 0.5004064029194659
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 9207,
-			"dropRate": 0.15287163564514256
+			"timesDropped": 9213,
+			"dropRate": 0.1528240855934312
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 7846,
-			"dropRate": 0.13027379746625267
+			"timesDropped": 7859,
+			"dropRate": 0.1303641038400929
 		},
 		{
 			"itemName": "Mouldy Cheese",
-			"timesDropped": 6073,
-			"dropRate": 0.10083517359323892
+			"timesDropped": 6079,
+			"dropRate": 0.1008376876503276
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 5983,
-			"dropRate": 0.09934082720374583
+			"timesDropped": 5990,
+			"dropRate": 0.09936136684083935
 		},
 		{
 			"itemName": "Swamp Grass",
-			"timesDropped": 1858,
-			"dropRate": 0.030849951018646123
+			"timesDropped": 1859,
+			"dropRate": 0.030836858256614415
 		},
 		{
 			"itemName": "Medicine Pouch",
-			"timesDropped": 1440,
-			"dropRate": 0.02390954223188935
+			"timesDropped": 1444,
+			"dropRate": 0.023952890437090486
 		},
 		{
 			"itemName": "Wood",
-			"timesDropped": 1230,
-			"dropRate": 0.02042273398973882
+			"timesDropped": 1231,
+			"dropRate": 0.020419673218877003
 		},
 		{
 			"itemName": "Troll Green",
-			"timesDropped": 639,
-			"dropRate": 0.0106098593654009
+			"timesDropped": 640,
+			"dropRate": 0.010616239528904371
 		},
 		{
 			"itemName": "Fishing Rod",
 			"timesDropped": 48,
-			"dropRate": 0.0007969847410629784
+			"dropRate": 0.0007962179646678278
 		}
 	]
 }

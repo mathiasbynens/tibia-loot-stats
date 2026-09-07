@@ -1,136 +1,136 @@
 {
 	"monsterName": "Dread Intruder",
-	"timesKilled": 12466,
+	"timesKilled": 13295,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12466,
+			"timesDropped": 13295,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 12466,
+			"timesDropped": 13295,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 2542,
-			"dropRate": 0.2039146478421306
+			"timesDropped": 2703,
+			"dropRate": 0.20330951485520873
 		},
 		{
 			"itemName": "Energy Drink",
-			"timesDropped": 2503,
-			"dropRate": 0.20078613829616557
+			"timesDropped": 2673,
+			"dropRate": 0.20105302745393006
 		},
 		{
 			"itemName": "Frozen Lightning",
-			"timesDropped": 2003,
-			"dropRate": 0.16067704155302423
+			"timesDropped": 2109,
+			"dropRate": 0.15863106430989093
 		},
 		{
 			"itemName": "Instable Proto Matter",
-			"timesDropped": 1831,
-			"dropRate": 0.1468795122733836
+			"timesDropped": 1964,
+			"dropRate": 0.147724708537044
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1613,
-			"dropRate": 0.12939194609337398
+			"timesDropped": 1718,
+			"dropRate": 0.12922151184655886
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 1601,
-			"dropRate": 0.1284293277715386
+			"timesDropped": 1699,
+			"dropRate": 0.12779240315908236
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1561,
-			"dropRate": 0.12522060003208726
+			"timesDropped": 1664,
+			"dropRate": 0.12515983452425725
 		},
 		{
 			"itemName": "Energy Ball",
-			"timesDropped": 1482,
-			"dropRate": 0.11888336274667094
+			"timesDropped": 1582,
+			"dropRate": 0.11899210229409553
 		},
 		{
 			"itemName": "Odd Organ",
-			"timesDropped": 1289,
-			"dropRate": 0.10340125140381838
+			"timesDropped": 1355,
+			"dropRate": 0.10191801429108688
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 1080,
-			"dropRate": 0.0866356489651853
+			"timesDropped": 1160,
+			"dropRate": 0.08725084618277548
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 724,
-			"dropRate": 0.05807797208406867
+			"timesDropped": 767,
+			"dropRate": 0.05769086122602482
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 623,
-			"dropRate": 0.04997593454195411
+			"timesDropped": 665,
+			"dropRate": 0.05001880406167732
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 575,
-			"dropRate": 0.046125461254612546
+			"timesDropped": 609,
+			"dropRate": 0.045806694245957125
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 553,
-			"dropRate": 0.044360660997914324
+			"timesDropped": 588,
+			"dropRate": 0.04422715306506205
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 549,
-			"dropRate": 0.044039788223969194
+			"timesDropped": 587,
+			"dropRate": 0.04415193681835276
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 122,
-			"dropRate": 0.009786619605326488
+			"timesDropped": 129,
+			"dropRate": 0.009702895825498308
 		},
 		{
 			"itemName": "Ring of Orange Plasma",
+			"timesDropped": 38,
+			"dropRate": 0.00285821737495299
+		},
+		{
+			"itemName": "Ring of Green Plasma",
 			"timesDropped": 36,
-			"dropRate": 0.0028878549655061768
+			"dropRate": 0.0027077848815344114
 		},
 		{
 			"itemName": "Ring of Red Plasma",
 			"timesDropped": 35,
-			"dropRate": 0.0028076367720198943
-		},
-		{
-			"itemName": "Ring of Green Plasma",
-			"timesDropped": 34,
-			"dropRate": 0.0027274185785336113
-		},
-		{
-			"itemName": "Collar of Red Plasma",
-			"timesDropped": 24,
-			"dropRate": 0.0019252366436707845
+			"dropRate": 0.0026325686348251222
 		},
 		{
 			"itemName": "Collar of Green Plasma",
-			"timesDropped": 22,
-			"dropRate": 0.001764800256698219
+			"timesDropped": 25,
+			"dropRate": 0.00188040616773223
+		},
+		{
+			"itemName": "Collar of Red Plasma",
+			"timesDropped": 25,
+			"dropRate": 0.00188040616773223
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 22,
-			"dropRate": 0.001764800256698219
+			"timesDropped": 24,
+			"dropRate": 0.0018051899210229409
 		},
 		{
 			"itemName": "Collar of Orange Plasma",
-			"timesDropped": 21,
-			"dropRate": 0.0016845820632119366
+			"timesDropped": 23,
+			"dropRate": 0.0017299736743136517
 		},
 		{
 			"itemName": "Collar of Blue Plasma",
 			"timesDropped": 19,
-			"dropRate": 0.0015241456762393711
+			"dropRate": 0.001429108687476495
 		}
 	]
 }

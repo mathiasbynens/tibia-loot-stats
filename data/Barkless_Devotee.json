@@ -1,26 +1,26 @@
 {
 	"monsterName": "Barkless Devotee",
-	"timesKilled": 12492,
+	"timesKilled": 12607,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6231,
-			"dropRate": 0.49879923150816524
+			"timesDropped": 6278,
+			"dropRate": 0.4979773141905291
 		},
 		{
 			"itemName": "Fig Leaf",
-			"timesDropped": 607,
-			"dropRate": 0.04859109830291387
+			"timesDropped": 612,
+			"dropRate": 0.04854445942730229
+		},
+		{
+			"itemName": "Torn Shirt",
+			"timesDropped": 127,
+			"dropRate": 0.010073768541286587
 		},
 		{
 			"itemName": "Bed of Nails",
 			"timesDropped": 125,
-			"dropRate": 0.010006404098623118
-		},
-		{
-			"itemName": "Torn Shirt",
-			"timesDropped": 125,
-			"dropRate": 0.010006404098623118
+			"dropRate": 0.009915126517014356
 		}
 	]
 }

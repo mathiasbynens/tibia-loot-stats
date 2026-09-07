@@ -1,71 +1,71 @@
 {
 	"monsterName": "Golden Servant Replica",
-	"timesKilled": 6672,
+	"timesKilled": 6705,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5844,
-			"dropRate": 0.8758992805755396
+			"timesDropped": 5876,
+			"dropRate": 0.8763609246830724
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 614,
-			"dropRate": 0.09202637889688249
+			"timesDropped": 622,
+			"dropRate": 0.09276659209545116
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 349,
-			"dropRate": 0.052308153477218226
+			"timesDropped": 350,
+			"dropRate": 0.05219985085756898
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 306,
-			"dropRate": 0.045863309352517985
+			"timesDropped": 308,
+			"dropRate": 0.0459358687546607
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 173,
-			"dropRate": 0.02592925659472422
+			"timesDropped": 174,
+			"dropRate": 0.025950782997762864
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 99,
-			"dropRate": 0.014838129496402877
+			"timesDropped": 100,
+			"dropRate": 0.014914243102162566
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 67,
-			"dropRate": 0.010041966426858513
+			"timesDropped": 69,
+			"dropRate": 0.01029082774049217
 		},
 		{
 			"itemName": "Stealth Ring",
 			"timesDropped": 28,
-			"dropRate": 0.004196642685851319
+			"dropRate": 0.004175988068605518
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
 			"timesDropped": 27,
-			"dropRate": 0.0040467625899280575
+			"dropRate": 0.004026845637583893
 		},
 		{
 			"itemName": "Slime Mould",
 			"timesDropped": 23,
-			"dropRate": 0.003447242206235012
+			"dropRate": 0.00343027591349739
 		},
 		{
 			"itemName": "Golden Can of Oil",
 			"timesDropped": 2,
-			"dropRate": 0.00029976019184652276
+			"dropRate": 0.0002982848620432513
 		},
 		{
 			"itemName": "Gold Ring",
 			"timesDropped": 1,
-			"dropRate": 0.00014988009592326138
+			"dropRate": 0.00014914243102162565
 		},
 		{
 			"itemName": "Golden Armor",
 			"timesDropped": 1,
-			"dropRate": 0.00014988009592326138
+			"dropRate": 0.00014914243102162565
 		}
 	]
 }

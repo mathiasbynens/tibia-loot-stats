@@ -1,61 +1,61 @@
 {
 	"monsterName": "Moonspawn Oozecrown",
-	"timesKilled": 398,
+	"timesKilled": 568,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 316,
-			"dropRate": 0.7939698492462312
+			"timesDropped": 445,
+			"dropRate": 0.7834507042253521
 		},
 		{
 			"itemName": "Mushroom Pie",
-			"timesDropped": 38,
-			"dropRate": 0.09547738693467336
+			"timesDropped": 50,
+			"dropRate": 0.0880281690140845
 		},
 		{
 			"itemName": "Moonspawn Tentacle",
-			"timesDropped": 29,
-			"dropRate": 0.0728643216080402
+			"timesDropped": 38,
+			"dropRate": 0.06690140845070422
 		},
 		{
 			"itemName": "Dark Mushroom",
-			"timesDropped": 18,
-			"dropRate": 0.04522613065326633
+			"timesDropped": 23,
+			"dropRate": 0.040492957746478875
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 12,
-			"dropRate": 0.03015075376884422
+			"timesDropped": 16,
+			"dropRate": 0.028169014084507043
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 7,
-			"dropRate": 0.017587939698492462
+			"timesDropped": 10,
+			"dropRate": 0.017605633802816902
+		},
+		{
+			"itemName": "Magic Sulphur",
+			"timesDropped": 3,
+			"dropRate": 0.00528169014084507
 		},
 		{
 			"itemName": "Lunar Staff",
 			"timesDropped": 2,
-			"dropRate": 0.005025125628140704
-		},
-		{
-			"itemName": "Magic Sulphur",
-			"timesDropped": 1,
-			"dropRate": 0.002512562814070352
+			"dropRate": 0.0035211267605633804
 		},
 		{
 			"itemName": "Moonstone",
 			"timesDropped": 1,
-			"dropRate": 0.002512562814070352
+			"dropRate": 0.0017605633802816902
 		},
 		{
 			"itemName": "Mushroom Backpack",
 			"timesDropped": 1,
-			"dropRate": 0.002512562814070352
+			"dropRate": 0.0017605633802816902
 		},
 		{
 			"itemName": "Mycological Bow",
 			"timesDropped": 1,
-			"dropRate": 0.002512562814070352
+			"dropRate": 0.0017605633802816902
 		}
 	]
 }

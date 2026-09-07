@@ -1,46 +1,46 @@
 {
 	"monsterName": "Terror Bird",
-	"timesKilled": 10560,
+	"timesKilled": 10576,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8678,
-			"dropRate": 0.821780303030303
+			"timesDropped": 8691,
+			"dropRate": 0.8217662632375189
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 5178,
-			"dropRate": 0.4903409090909091
+			"timesDropped": 5185,
+			"dropRate": 0.49026096822995463
 		},
 		{
 			"itemName": "Terrorbird Beak",
 			"timesDropped": 1065,
-			"dropRate": 0.10085227272727272
+			"dropRate": 0.10069969742813918
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 1027,
-			"dropRate": 0.09725378787878788
+			"timesDropped": 1029,
+			"dropRate": 0.09729576399394857
 		},
 		{
 			"itemName": "Colourful Feather",
-			"timesDropped": 307,
-			"dropRate": 0.029071969696969697
+			"timesDropped": 308,
+			"dropRate": 0.029122541603630862
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 83,
-			"dropRate": 0.007859848484848485
+			"dropRate": 0.007847957639939486
 		},
 		{
 			"itemName": "Seeds",
 			"timesDropped": 29,
-			"dropRate": 0.002746212121212121
+			"dropRate": 0.002742057488653555
 		},
 		{
 			"itemName": "Feather Headdress",
 			"timesDropped": 13,
-			"dropRate": 0.001231060606060606
+			"dropRate": 0.0012291981845688352
 		}
 	]
 }
