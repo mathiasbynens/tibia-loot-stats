@@ -1,56 +1,56 @@
 {
 	"monsterName": "Orc Cultist",
-	"timesKilled": 4610,
+	"timesKilled": 4614,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4610,
+			"timesDropped": 4614,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 794,
-			"dropRate": 0.172234273318872
+			"dropRate": 0.17208495882097963
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 396,
-			"dropRate": 0.0859002169197397
+			"timesDropped": 399,
+			"dropRate": 0.08647594278283485
 		},
 		{
 			"itemName": "Orcish Axe",
 			"timesDropped": 374,
-			"dropRate": 0.08112798264642082
+			"dropRate": 0.0810576506285219
 		},
 		{
 			"itemName": "Green Piece of Cloth",
 			"timesDropped": 263,
-			"dropRate": 0.057049891540130154
+			"dropRate": 0.057000433463372344
 		},
 		{
 			"itemName": "Small Topaz",
 			"timesDropped": 194,
-			"dropRate": 0.0420824295010846
+			"dropRate": 0.04204594711746858
 		},
 		{
 			"itemName": "Cultish Robe",
 			"timesDropped": 151,
-			"dropRate": 0.03275488069414317
+			"dropRate": 0.03272648461205028
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
 			"timesDropped": 102,
-			"dropRate": 0.02212581344902386
+			"dropRate": 0.022106631989596878
 		},
 		{
 			"itemName": "Berserk Potion",
 			"timesDropped": 37,
-			"dropRate": 0.008026030368763558
+			"dropRate": 0.008019072388383182
 		},
 		{
 			"itemName": "Orc Tusk",
 			"timesDropped": 20,
-			"dropRate": 0.004338394793926247
+			"dropRate": 0.004334633723450368
 		}
 	]
 }

@@ -1,61 +1,61 @@
 {
 	"monsterName": "Misguided Thief",
-	"timesKilled": 3892,
+	"timesKilled": 3915,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2897,
-			"dropRate": 0.7443473792394656
+			"timesDropped": 2914,
+			"dropRate": 0.7443167305236271
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 2128,
-			"dropRate": 0.5467625899280576
+			"timesDropped": 2140,
+			"dropRate": 0.5466155810983397
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 1722,
-			"dropRate": 0.44244604316546765
+			"timesDropped": 1732,
+			"dropRate": 0.4424010217113665
 		},
 		{
 			"itemName": "Rubbish Amulet",
-			"timesDropped": 352,
-			"dropRate": 0.09044193216855087
+			"timesDropped": 354,
+			"dropRate": 0.09042145593869731
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 243,
-			"dropRate": 0.06243576567317575
+			"dropRate": 0.06206896551724138
 		},
 		{
 			"itemName": "Red Gem",
 			"timesDropped": 242,
-			"dropRate": 0.06217882836587873
+			"dropRate": 0.06181353767560664
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 235,
-			"dropRate": 0.06038026721479959
+			"timesDropped": 236,
+			"dropRate": 0.060280970625798215
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 232,
-			"dropRate": 0.05960945529290853
+			"timesDropped": 233,
+			"dropRate": 0.059514687100894
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
 			"timesDropped": 34,
-			"dropRate": 0.008735868448098663
+			"dropRate": 0.008684546615581098
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 33,
-			"dropRate": 0.008478931140801645
+			"dropRate": 0.00842911877394636
 		},
 		{
 			"itemName": "Gold Ring",
 			"timesDropped": 18,
-			"dropRate": 0.0046248715313463515
+			"dropRate": 0.004597701149425287
 		}
 	]
 }

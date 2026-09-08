@@ -1,51 +1,51 @@
 {
 	"monsterName": "Chakoya Tribewarden",
-	"timesKilled": 17330,
+	"timesKilled": 17491,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 13808,
-			"dropRate": 0.7967686093479516
+			"timesDropped": 13937,
+			"dropRate": 0.7968097878909153
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 3448,
-			"dropRate": 0.19896133871898442
+			"timesDropped": 3470,
+			"dropRate": 0.19838774226745184
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 823,
-			"dropRate": 0.04748990190421235
+			"timesDropped": 834,
+			"dropRate": 0.04768166485621177
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 175,
-			"dropRate": 0.010098095787651471
+			"timesDropped": 179,
+			"dropRate": 0.010233834543479503
 		},
 		{
 			"itemName": "Fireproof Horn",
 			"timesDropped": 88,
-			"dropRate": 0.005077899596076169
+			"dropRate": 0.005031158881710594
 		},
 		{
 			"itemName": "Mammoth Whopper",
 			"timesDropped": 26,
-			"dropRate": 0.0015002885170225042
+			"dropRate": 0.0014864787605054029
 		},
 		{
 			"itemName": "Rainbow Trout",
 			"timesDropped": 17,
-			"dropRate": 0.0009809578765147143
+			"dropRate": 0.0009719284203304557
+		},
+		{
+			"itemName": "Northern Pike",
+			"timesDropped": 14,
+			"dropRate": 0.00080041164027214
 		},
 		{
 			"itemName": "Green Perch",
 			"timesDropped": 13,
-			"dropRate": 0.0007501442585112521
-		},
-		{
-			"itemName": "Northern Pike",
-			"timesDropped": 13,
-			"dropRate": 0.0007501442585112521
+			"dropRate": 0.0007432393802527014
 		}
 	]
 }

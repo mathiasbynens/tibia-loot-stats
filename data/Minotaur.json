@@ -1,71 +1,71 @@
 {
 	"monsterName": "Minotaur",
-	"timesKilled": 215061,
+	"timesKilled": 215074,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 142667,
-			"dropRate": 0.6633792272890017
+			"timesDropped": 142675,
+			"dropRate": 0.6633763262876964
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 43031,
-			"dropRate": 0.20008741705841598
+			"timesDropped": 43034,
+			"dropRate": 0.20008927159954248
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 27961,
-			"dropRate": 0.13001427501964558
+			"timesDropped": 27963,
+			"dropRate": 0.13001571552116944
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 21589,
-			"dropRate": 0.10038547202886623
+			"timesDropped": 21592,
+			"dropRate": 0.10039335298548406
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 17220,
-			"dropRate": 0.08007030563421541
+			"timesDropped": 17222,
+			"dropRate": 0.08007476496461682
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 10717,
-			"dropRate": 0.049832373140643815
+			"timesDropped": 10718,
+			"dropRate": 0.049834010619600695
 		},
 		{
 			"itemName": "Sword",
 			"timesDropped": 10681,
-			"dropRate": 0.04966497877346427
+			"dropRate": 0.04966197680798237
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 8536,
-			"dropRate": 0.03969106439568309
+			"timesDropped": 8537,
+			"dropRate": 0.03969331485907176
 		},
 		{
 			"itemName": "Minotaur Horn",
 			"timesDropped": 4377,
-			"dropRate": 0.020352365142912943
+			"dropRate": 0.020351134958200432
 		},
 		{
 			"itemName": "Minotaur Leather",
 			"timesDropped": 2147,
-			"dropRate": 0.009983214064846717
+			"dropRate": 0.00998261063633912
 		},
 		{
 			"itemName": "Shovel",
 			"timesDropped": 665,
-			"dropRate": 0.0030921459492888066
+			"dropRate": 0.00309195904665371
 		},
 		{
 			"itemName": "Bronze Amulet",
 			"timesDropped": 234,
-			"dropRate": 0.0010880633866670387
+			"dropRate": 0.0010879976194240121
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.000004649843532765122
+			"dropRate": 0.000004649562476170992
 		}
 	]
 }

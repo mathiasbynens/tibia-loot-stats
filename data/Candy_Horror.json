@@ -1,71 +1,71 @@
 {
 	"monsterName": "Candy Horror",
-	"timesKilled": 13677,
+	"timesKilled": 13683,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 13677,
+			"timesDropped": 13683,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 11079,
-			"dropRate": 0.8100460627330555
+			"timesDropped": 11085,
+			"dropRate": 0.8101293575970182
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 898,
-			"dropRate": 0.06565767346640346
+			"timesDropped": 899,
+			"dropRate": 0.06570196594314112
 		},
 		{
 			"itemName": "Energy Bar",
 			"timesDropped": 791,
-			"dropRate": 0.05783432039189881
+			"dropRate": 0.05780896002338668
 		},
 		{
 			"itemName": "Red Gem",
 			"timesDropped": 702,
-			"dropRate": 0.05132704540469401
+			"dropRate": 0.05130453847840386
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 387,
-			"dropRate": 0.0282956788769467
+			"timesDropped": 388,
+			"dropRate": 0.028356354600599282
 		},
 		{
 			"itemName": "Gummy Rotworm",
 			"timesDropped": 306,
-			"dropRate": 0.02237332748409739
+			"dropRate": 0.02236351677263758
 		},
 		{
 			"itemName": "Wand of Decay",
 			"timesDropped": 305,
-			"dropRate": 0.022300212034802955
+			"dropRate": 0.022290433384491704
 		},
 		{
 			"itemName": "Brigadeiro",
 			"timesDropped": 205,
-			"dropRate": 0.014988667105359363
+			"dropRate": 0.01498209456990426
 		},
 		{
 			"itemName": "Strawberry",
 			"timesDropped": 176,
-			"dropRate": 0.01286831907582072
+			"dropRate": 0.012862676313673901
 		},
 		{
 			"itemName": "Violet Gem",
 			"timesDropped": 159,
-			"dropRate": 0.01162535643781531
+			"dropRate": 0.011620258715194036
 		},
 		{
 			"itemName": "Dark Chocolate Coin",
 			"timesDropped": 68,
-			"dropRate": 0.004971850552021642
+			"dropRate": 0.004969670393919462
 		},
 		{
 			"itemName": "Dreaded Cleaver",
 			"timesDropped": 8,
-			"dropRate": 0.0005849235943554873
+			"dropRate": 0.0005846671051669955
 		}
 	]
 }

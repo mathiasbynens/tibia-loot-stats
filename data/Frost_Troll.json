@@ -1,46 +1,46 @@
 {
 	"monsterName": "Frost Troll",
-	"timesKilled": 20498,
+	"timesKilled": 20506,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10348,
-			"dropRate": 0.5048297394867792
+			"timesDropped": 10349,
+			"dropRate": 0.5046815566175753
 		},
 		{
 			"itemName": "Spear",
 			"timesDropped": 4128,
-			"dropRate": 0.20138550102449018
+			"dropRate": 0.20130693455573978
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 3729,
-			"dropRate": 0.1819201873353498
+			"timesDropped": 3733,
+			"dropRate": 0.1820442797230079
 		},
 		{
 			"itemName": "Rapier",
 			"timesDropped": 3188,
-			"dropRate": 0.15552736852375842
+			"dropRate": 0.15546669267531454
 		},
 		{
 			"itemName": "Wooden Shield",
 			"timesDropped": 3170,
-			"dropRate": 0.15464923407161674
+			"dropRate": 0.15458890080951918
 		},
 		{
 			"itemName": "Twigs",
-			"timesDropped": 1681,
-			"dropRate": 0.08200800078056396
+			"timesDropped": 1682,
+			"dropRate": 0.08202477323710133
 		},
 		{
 			"itemName": "Frosty Ear of a Troll",
 			"timesDropped": 412,
-			"dropRate": 0.020099521904576055
+			"dropRate": 0.02009168048376085
 		},
 		{
 			"itemName": "Coat",
 			"timesDropped": 234,
-			"dropRate": 0.01141574787784174
+			"dropRate": 0.011411294255339901
 		}
 	]
 }

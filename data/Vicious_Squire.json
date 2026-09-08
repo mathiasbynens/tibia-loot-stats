@@ -1,86 +1,86 @@
 {
 	"monsterName": "Vicious Squire",
-	"timesKilled": 39579,
+	"timesKilled": 39592,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 39579,
+			"timesDropped": 39592,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Bolt",
-			"timesDropped": 7924,
-			"dropRate": 0.20020718057555775
+			"timesDropped": 7925,
+			"dropRate": 0.20016670034350373
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 5123,
-			"dropRate": 0.1294373278758938
+			"timesDropped": 5126,
+			"dropRate": 0.12947060012123662
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 4244,
-			"dropRate": 0.10722858081305743
+			"timesDropped": 4245,
+			"dropRate": 0.10721863002626793
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 2320,
-			"dropRate": 0.05861694332853281
+			"timesDropped": 2323,
+			"dropRate": 0.058673469387755105
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 1020,
-			"dropRate": 0.025771242325475632
+			"dropRate": 0.02576278035966862
 		},
 		{
 			"itemName": "Halberd",
 			"timesDropped": 979,
-			"dropRate": 0.024735339447686903
+			"dropRate": 0.024727217619721156
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 956,
-			"dropRate": 0.02415422319917128
+			"dropRate": 0.02414629218023843
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 946,
-			"dropRate": 0.023901563960686222
+			"dropRate": 0.023893715902202465
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 286,
-			"dropRate": 0.007226054220672579
+			"timesDropped": 287,
+			"dropRate": 0.0072489391796322486
 		},
 		{
 			"itemName": "Scarf",
 			"timesDropped": 234,
-			"dropRate": 0.005912226180550292
+			"dropRate": 0.0059102849060416246
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 176,
-			"dropRate": 0.004446802597336971
+			"dropRate": 0.004445342493433016
 		},
 		{
 			"itemName": "Knight Legs",
 			"timesDropped": 132,
-			"dropRate": 0.003335101948002729
+			"dropRate": 0.0033340068700747627
 		},
 		{
 			"itemName": "Guardian Shield",
 			"timesDropped": 127,
-			"dropRate": 0.0032087723287602013
+			"dropRate": 0.003207718731056779
 		},
 		{
 			"itemName": "Warrior Helmet",
 			"timesDropped": 86,
-			"dropRate": 0.0021728694509714746
+			"dropRate": 0.002172155991109315
 		},
 		{
 			"itemName": "Piggy Bank",
 			"timesDropped": 18,
-			"dropRate": 0.0004547866292730994
+			"dropRate": 0.00045463730046474036
 		}
 	]
 }

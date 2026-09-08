@@ -1,56 +1,56 @@
 {
 	"monsterName": "Cult Believer",
-	"timesKilled": 19409,
+	"timesKilled": 19442,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19409,
+			"timesDropped": 19442,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 2515,
-			"dropRate": 0.1295790612602401
+			"timesDropped": 2518,
+			"dropRate": 0.12951342454479992
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 1161,
-			"dropRate": 0.059817610386933895
+			"timesDropped": 1162,
+			"dropRate": 0.05976751363028495
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 828,
-			"dropRate": 0.04266062136122417
+			"timesDropped": 829,
+			"dropRate": 0.042639646126941676
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 491,
-			"dropRate": 0.02529754237724767
+			"timesDropped": 492,
+			"dropRate": 0.025306038473408086
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 488,
-			"dropRate": 0.02514297490854758
+			"timesDropped": 489,
+			"dropRate": 0.025151733360765354
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 475,
-			"dropRate": 0.024473182544180534
+			"dropRate": 0.02443164283509927
 		},
 		{
 			"itemName": "Scarf",
-			"timesDropped": 197,
-			"dropRate": 0.010149930444639086
+			"timesDropped": 198,
+			"dropRate": 0.010184137434420327
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 40,
-			"dropRate": 0.0020608995826678347
+			"dropRate": 0.0020574015019030963
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 11,
-			"dropRate": 0.0005667473852336545
+			"timesDropped": 12,
+			"dropRate": 0.0006172204505709289
 		}
 	]
 }

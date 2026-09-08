@@ -1,66 +1,66 @@
 {
 	"monsterName": "Roaring Lion",
-	"timesKilled": 29826,
+	"timesKilled": 29853,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 29826,
+			"timesDropped": 29853,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 7533,
-			"dropRate": 0.2525648762824381
+			"timesDropped": 7543,
+			"dropRate": 0.2526714233075403
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 7431,
-			"dropRate": 0.2491450412391873
+			"timesDropped": 7437,
+			"dropRate": 0.2491206913878002
 		},
 		{
 			"itemName": "Lion's Mane",
-			"timesDropped": 6022,
-			"dropRate": 0.20190437872996714
+			"timesDropped": 6026,
+			"dropRate": 0.2018557598901283
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2974,
-			"dropRate": 0.09971166096694159
+			"timesDropped": 2978,
+			"dropRate": 0.09975546846213111
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 2127,
-			"dropRate": 0.07131361899014282
+			"timesDropped": 2129,
+			"dropRate": 0.07131611563326969
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 2084,
-			"dropRate": 0.0698719238248508
+			"timesDropped": 2085,
+			"dropRate": 0.06984222691186816
 		},
 		{
 			"itemName": "Small Ruby",
 			"timesDropped": 2046,
-			"dropRate": 0.06859786763226715
+			"dropRate": 0.06853582554517133
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 2009,
-			"dropRate": 0.06735733923422517
+			"dropRate": 0.06729641912035642
 		},
 		{
 			"itemName": "Ankh",
 			"timesDropped": 866,
-			"dropRate": 0.029035070073090592
+			"dropRate": 0.029008809834857468
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 215,
-			"dropRate": 0.007208475826460135
+			"dropRate": 0.007201956252302951
 		},
 		{
 			"itemName": "Crown Helmet",
 			"timesDropped": 172,
-			"dropRate": 0.005766780661168108
+			"dropRate": 0.005761565001842361
 		}
 	]
 }

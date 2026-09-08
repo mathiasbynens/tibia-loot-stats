@@ -1,91 +1,91 @@
 {
 	"monsterName": "Nymph",
-	"timesKilled": 17643,
+	"timesKilled": 17732,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 11449,
-			"dropRate": 0.6489259196281811
+			"timesDropped": 11507,
+			"dropRate": 0.6489397699075118
 		},
 		{
 			"itemName": "Wild Flowers",
-			"timesDropped": 3813,
-			"dropRate": 0.21611970753273252
+			"timesDropped": 3833,
+			"dropRate": 0.21616286938867585
 		},
 		{
 			"itemName": "Fresh Fruit",
-			"timesDropped": 2638,
-			"dropRate": 0.14952105650966388
-		},
-		{
-			"itemName": "Dandelion Seeds",
-			"timesDropped": 2153,
-			"dropRate": 0.12203140055546109
+			"timesDropped": 2656,
+			"dropRate": 0.14978569817279494
 		},
 		{
 			"itemName": "Colourful Snail Shell",
-			"timesDropped": 2152,
-			"dropRate": 0.12197472085246273
+			"timesDropped": 2168,
+			"dropRate": 0.1222648319422513
+		},
+		{
+			"itemName": "Dandelion Seeds",
+			"timesDropped": 2159,
+			"dropRate": 0.12175727498308143
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 602,
-			"dropRate": 0.03412118120501049
+			"timesDropped": 604,
+			"dropRate": 0.03406271148206632
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 434,
-			"dropRate": 0.02459899110128663
+			"timesDropped": 435,
+			"dropRate": 0.024531919693210016
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 339,
-			"dropRate": 0.01921441931644278
+			"timesDropped": 341,
+			"dropRate": 0.019230769230769232
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 304,
-			"dropRate": 0.01723062971150031
+			"timesDropped": 305,
+			"dropRate": 0.01720054139408978
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 192,
-			"dropRate": 0.010882502975684407
+			"timesDropped": 193,
+			"dropRate": 0.010884277013309272
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 156,
-			"dropRate": 0.008842033667743582
+			"timesDropped": 157,
+			"dropRate": 0.008854049176629821
 		},
 		{
 			"itemName": "Butterfly Ring",
 			"timesDropped": 139,
-			"dropRate": 0.007878478716771524
+			"dropRate": 0.007838935258290098
 		},
 		{
 			"itemName": "Dream Blossom Staff",
 			"timesDropped": 113,
-			"dropRate": 0.006404806438814261
+			"dropRate": 0.00637265959846605
 		},
 		{
 			"itemName": "Hibiscus Dress",
-			"timesDropped": 103,
-			"dropRate": 0.0058380094088306975
+			"timesDropped": 104,
+			"dropRate": 0.005865102639296188
 		},
 		{
 			"itemName": "Blue Rose",
-			"timesDropped": 99,
-			"dropRate": 0.005611290596837273
+			"timesDropped": 101,
+			"dropRate": 0.005695916986239567
 		},
 		{
 			"itemName": "Flower Wreath",
-			"timesDropped": 91,
-			"dropRate": 0.005157852972850422
+			"timesDropped": 92,
+			"dropRate": 0.0051883600270697045
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 64,
-			"dropRate": 0.0036275009918948025
+			"timesDropped": 65,
+			"dropRate": 0.0036656891495601175
 		}
 	]
 }
