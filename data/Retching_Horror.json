@@ -1,106 +1,101 @@
 {
 	"monsterName": "Retching Horror",
-	"timesKilled": 10522,
+	"timesKilled": 1294,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 8986,
-			"dropRate": 0.8540201482607869
-		},
-		{
-			"itemName": "Gold Coin",
-			"timesDropped": 8528,
-			"dropRate": 0.810492301843756
+			"timesDropped": 1202,
+			"dropRate": 0.9289026275115919
 		},
 		{
 			"itemName": "Pool of Chitinous Glue",
-			"timesDropped": 1272,
-			"dropRate": 0.12088956472153584
-		},
-		{
-			"itemName": "Goosebump Leather",
-			"timesDropped": 1252,
-			"dropRate": 0.11898878540201482
+			"timesDropped": 150,
+			"dropRate": 0.11591962905718702
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 1234,
-			"dropRate": 0.11727808401444592
+			"timesDropped": 149,
+			"dropRate": 0.1151468315301391
+		},
+		{
+			"itemName": "Goosebump Leather",
+			"timesDropped": 148,
+			"dropRate": 0.1143740340030912
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 1173,
-			"dropRate": 0.11148070708990686
+			"timesDropped": 145,
+			"dropRate": 0.11205564142194745
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1135,
-			"dropRate": 0.10786922638281696
-		},
-		{
-			"itemName": "Broken Dream",
-			"timesDropped": 421,
-			"dropRate": 0.04001140467591713
+			"timesDropped": 129,
+			"dropRate": 0.09969088098918083
 		},
 		{
 			"itemName": "Beastslayer Axe",
-			"timesDropped": 370,
-			"dropRate": 0.035164417411138564
+			"timesDropped": 48,
+			"dropRate": 0.03709428129829984
+		},
+		{
+			"itemName": "Broken Dream",
+			"timesDropped": 46,
+			"dropRate": 0.03554868624420402
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 223,
-			"dropRate": 0.02119368941265919
-		},
-		{
-			"itemName": "Fire Sword",
-			"timesDropped": 156,
-			"dropRate": 0.014826078692263827
-		},
-		{
-			"itemName": "Underworld Rod",
-			"timesDropped": 146,
-			"dropRate": 0.013875689032503326
-		},
-		{
-			"itemName": "Spiked Squelcher",
-			"timesDropped": 135,
-			"dropRate": 0.012830260406766774
-		},
-		{
-			"itemName": "Wand of Starstorm",
-			"timesDropped": 133,
-			"dropRate": 0.012640182474814673
+			"timesDropped": 29,
+			"dropRate": 0.02241112828438949
 		},
 		{
 			"itemName": "Crown Shield",
-			"timesDropped": 115,
-			"dropRate": 0.010929481087245771
+			"timesDropped": 22,
+			"dropRate": 0.017001545595054096
 		},
 		{
-			"itemName": "Tower Shield",
-			"timesDropped": 89,
-			"dropRate": 0.008458467971868467
+			"itemName": "Underworld Rod",
+			"timesDropped": 19,
+			"dropRate": 0.014683153013910355
 		},
 		{
-			"itemName": "Onyx Flail",
-			"timesDropped": 58,
-			"dropRate": 0.00551226002661091
+			"itemName": "Fire Sword",
+			"timesDropped": 18,
+			"dropRate": 0.013910355486862442
+		},
+		{
+			"itemName": "Wand of Starstorm",
+			"timesDropped": 17,
+			"dropRate": 0.01313755795981453
 		},
 		{
 			"itemName": "Butcher's Axe",
-			"timesDropped": 47,
-			"dropRate": 0.004466831400874358
+			"timesDropped": 10,
+			"dropRate": 0.0077279752704791345
+		},
+		{
+			"itemName": "Tower Shield",
+			"timesDropped": 10,
+			"dropRate": 0.0077279752704791345
+		},
+		{
+			"itemName": "Spiked Squelcher",
+			"timesDropped": 8,
+			"dropRate": 0.0061823802163833074
+		},
+		{
+			"itemName": "Onyx Flail",
+			"timesDropped": 7,
+			"dropRate": 0.005409582689335394
 		},
 		{
 			"itemName": "Cluster of Solace",
-			"timesDropped": 36,
-			"dropRate": 0.0034214027751378064
+			"timesDropped": 6,
+			"dropRate": 0.00463678516228748
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 19,
-			"dropRate": 0.0018057403535449534
+			"timesDropped": 3,
+			"dropRate": 0.00231839258114374
 		}
 	]
 }

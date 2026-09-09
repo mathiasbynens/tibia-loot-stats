@@ -1,61 +1,61 @@
 {
 	"monsterName": "Crawler",
-	"timesKilled": 52965,
+	"timesKilled": 52971,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 52965,
+			"timesDropped": 52971,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 26615,
-			"dropRate": 0.5025016520343624
+			"timesDropped": 26618,
+			"dropRate": 0.5025013686734251
 		},
 		{
 			"itemName": "Crawler Head Plating",
-			"timesDropped": 9523,
-			"dropRate": 0.1797979797979798
+			"timesDropped": 9524,
+			"dropRate": 0.17979649242038095
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 7766,
-			"dropRate": 0.1466251298026999
+			"timesDropped": 7768,
+			"dropRate": 0.1466462781521965
 		},
 		{
 			"itemName": "Small Topaz",
 			"timesDropped": 5314,
-			"dropRate": 0.10033040687246295
+			"dropRate": 0.10031904249495006
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 4718,
-			"dropRate": 0.08907769281601058
+			"timesDropped": 4719,
+			"dropRate": 0.08908648128221103
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 3273,
-			"dropRate": 0.06179552534692721
+			"timesDropped": 3274,
+			"dropRate": 0.061807404051273336
 		},
 		{
 			"itemName": "War Hammer",
 			"timesDropped": 997,
-			"dropRate": 0.01882375153403191
+			"dropRate": 0.018821619376640047
 		},
 		{
 			"itemName": "Springsprout Rod",
 			"timesDropped": 322,
-			"dropRate": 0.006079486453318229
+			"dropRate": 0.006078797832776425
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 241,
-			"dropRate": 0.004550174643632588
+			"dropRate": 0.00454965924751279
 		},
 		{
 			"itemName": "Grasshopper Legs",
 			"timesDropped": 45,
-			"dropRate": 0.0008496176720475786
+			"dropRate": 0.0008495214362575749
 		}
 	]
 }

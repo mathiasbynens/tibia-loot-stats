@@ -1,71 +1,71 @@
 {
 	"monsterName": "Blood Beast",
-	"timesKilled": 9060,
+	"timesKilled": 9062,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9060,
+			"timesDropped": 9062,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Slime Heart",
-			"timesDropped": 1823,
-			"dropRate": 0.2012141280353201
+			"timesDropped": 1824,
+			"dropRate": 0.2012800706245862
 		},
 		{
 			"itemName": "Poisoned Fang",
-			"timesDropped": 1433,
-			"dropRate": 0.15816777041942603
+			"timesDropped": 1434,
+			"dropRate": 0.15824321341867137
 		},
 		{
 			"itemName": "Viper Star",
 			"timesDropped": 713,
-			"dropRate": 0.07869757174392936
+			"dropRate": 0.07868020304568528
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 654,
-			"dropRate": 0.07218543046357616
+			"dropRate": 0.07216949900684176
 		},
 		{
 			"itemName": "Poisonous Slime",
 			"timesDropped": 426,
-			"dropRate": 0.04701986754966887
+			"dropRate": 0.04700949017876849
 		},
 		{
 			"itemName": "Glooth Steak",
 			"timesDropped": 316,
-			"dropRate": 0.03487858719646799
+			"dropRate": 0.034870889428382255
 		},
 		{
 			"itemName": "Glooth Spear",
 			"timesDropped": 92,
-			"dropRate": 0.010154525386313467
+			"dropRate": 0.01015228426395939
 		},
 		{
 			"itemName": "Glooth Blade",
 			"timesDropped": 65,
-			"dropRate": 0.00717439293598234
+			"dropRate": 0.0071728095343191346
 		},
 		{
 			"itemName": "Glooth Club",
 			"timesDropped": 64,
-			"dropRate": 0.00706401766004415
+			"dropRate": 0.007062458618406533
 		},
 		{
 			"itemName": "Glooth Amulet",
 			"timesDropped": 62,
-			"dropRate": 0.006843267108167771
+			"dropRate": 0.006841756786581329
 		},
 		{
 			"itemName": "Glooth Axe",
 			"timesDropped": 61,
-			"dropRate": 0.006732891832229581
+			"dropRate": 0.0067314058706687266
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 9,
-			"dropRate": 0.0009933774834437086
+			"dropRate": 0.0009931582432134187
 		}
 	]
 }
