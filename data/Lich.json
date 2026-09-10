@@ -1,106 +1,106 @@
 {
 	"monsterName": "Lich",
-	"timesKilled": 1682,
+	"timesKilled": 1698,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1682,
+			"timesDropped": 1698,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 333,
-			"dropRate": 0.19797859690844233
+			"timesDropped": 334,
+			"dropRate": 0.1967020023557126
 		},
 		{
 			"itemName": "Spellbook",
 			"timesDropped": 170,
-			"dropRate": 0.10107015457788347
+			"dropRate": 0.10011778563015312
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 144,
-			"dropRate": 0.08561236623067776
+			"dropRate": 0.08480565371024736
 		},
 		{
 			"itemName": "White Pearl",
 			"timesDropped": 108,
-			"dropRate": 0.06420927467300833
+			"dropRate": 0.0636042402826855
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 96,
-			"dropRate": 0.057074910820451845
+			"timesDropped": 97,
+			"dropRate": 0.05712603062426384
 		},
 		{
 			"itemName": "Small Topaz",
 			"timesDropped": 46,
-			"dropRate": 0.027348394768133173
+			"dropRate": 0.027090694935217905
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 34,
-			"dropRate": 0.020214030915576695
+			"dropRate": 0.020023557126030624
 		},
 		{
 			"itemName": "Ring of Healing",
 			"timesDropped": 31,
-			"dropRate": 0.018430439952437573
+			"dropRate": 0.018256772673733806
 		},
 		{
 			"itemName": "Ancient Shield",
 			"timesDropped": 30,
-			"dropRate": 0.0178359096313912
+			"dropRate": 0.0176678445229682
 		},
 		{
 			"itemName": "Mind Stone",
 			"timesDropped": 13,
-			"dropRate": 0.0077288941736028535
+			"dropRate": 0.0076560659599528855
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 12,
-			"dropRate": 0.007134363852556481
+			"dropRate": 0.007067137809187279
+		},
+		{
+			"itemName": "Castle Shield",
+			"timesDropped": 11,
+			"dropRate": 0.006478209658421673
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 11,
-			"dropRate": 0.006539833531510107
-		},
-		{
-			"itemName": "Castle Shield",
-			"timesDropped": 10,
-			"dropRate": 0.005945303210463734
+			"dropRate": 0.006478209658421673
 		},
 		{
 			"itemName": "Strange Helmet",
 			"timesDropped": 6,
-			"dropRate": 0.0035671819262782403
+			"dropRate": 0.0035335689045936395
 		},
 		{
 			"itemName": "Blue Robe",
 			"timesDropped": 4,
-			"dropRate": 0.0023781212841854932
+			"dropRate": 0.002355712603062426
 		},
 		{
 			"itemName": "Skull Staff",
 			"timesDropped": 4,
-			"dropRate": 0.0023781212841854932
+			"dropRate": 0.002355712603062426
 		},
 		{
 			"itemName": "Lightning Boots",
 			"timesDropped": 3,
-			"dropRate": 0.0017835909631391202
+			"dropRate": 0.0017667844522968198
 		},
 		{
 			"itemName": "Maxilla Maximus",
 			"timesDropped": 1,
-			"dropRate": 0.0005945303210463733
+			"dropRate": 0.0005889281507656066
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 1,
-			"dropRate": 0.0005945303210463733
+			"dropRate": 0.0005889281507656066
 		}
 	]
 }

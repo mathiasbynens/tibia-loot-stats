@@ -1,71 +1,71 @@
 {
 	"monsterName": "White Lion",
-	"timesKilled": 9459,
+	"timesKilled": 9465,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9459,
+			"timesDropped": 9465,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2309,
-			"dropRate": 0.2441061422983402
+			"timesDropped": 2310,
+			"dropRate": 0.24405705229793978
 		},
 		{
 			"itemName": "Lion's Mane",
-			"timesDropped": 1813,
-			"dropRate": 0.1916693096521831
+			"timesDropped": 1815,
+			"dropRate": 0.19175911251980982
 		},
 		{
 			"itemName": "Axe",
 			"timesDropped": 1443,
-			"dropRate": 0.15255312400888044
+			"dropRate": 0.15245641838351823
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 1418,
-			"dropRate": 0.14991013849244106
+			"timesDropped": 1420,
+			"dropRate": 0.15002641310089804
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 1388,
-			"dropRate": 0.1467385558727138
+			"timesDropped": 1389,
+			"dropRate": 0.14675118858954042
 		},
 		{
 			"itemName": "Twin Hooks",
 			"timesDropped": 1220,
-			"dropRate": 0.12897769320224126
+			"dropRate": 0.1288959323824617
 		},
 		{
 			"itemName": "Green Crystal Shard",
 			"timesDropped": 543,
-			"dropRate": 0.05740564541706311
+			"dropRate": 0.057369255150554674
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 424,
-			"dropRate": 0.044825034358811716
+			"timesDropped": 425,
+			"dropRate": 0.04490227152667723
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 321,
-			"dropRate": 0.033935934031081506
+			"timesDropped": 322,
+			"dropRate": 0.034020073956682516
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 249,
-			"dropRate": 0.026324135743736123
+			"dropRate": 0.02630744849445325
 		},
 		{
 			"itemName": "Green Crystal Fragment",
 			"timesDropped": 185,
-			"dropRate": 0.019558092821651336
+			"dropRate": 0.01954569466455362
 		},
 		{
 			"itemName": "Combat Knife",
 			"timesDropped": 183,
-			"dropRate": 0.01934665398033619
+			"dropRate": 0.019334389857369256
 		}
 	]
 }

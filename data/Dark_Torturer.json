@@ -1,101 +1,86 @@
 {
 	"monsterName": "Dark Torturer",
-	"timesKilled": 5493,
+	"timesKilled": 108,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5493,
+			"timesDropped": 108,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 3585,
-			"dropRate": 0.6526488257782632
-		},
-		{
-			"itemName": "Platinum Coin",
-			"timesDropped": 3160,
-			"dropRate": 0.575277626069543
+			"timesDropped": 68,
+			"dropRate": 0.6296296296296297
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 1890,
-			"dropRate": 0.3440742763517204
+			"timesDropped": 39,
+			"dropRate": 0.3611111111111111
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 1357,
-			"dropRate": 0.2470416894229019
+			"timesDropped": 26,
+			"dropRate": 0.24074074074074073
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 835,
-			"dropRate": 0.1520116511924267
+			"timesDropped": 18,
+			"dropRate": 0.16666666666666666
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 562,
-			"dropRate": 0.10231203349717823
+			"timesDropped": 17,
+			"dropRate": 0.1574074074074074
+		},
+		{
+			"itemName": "Platinum Coin",
+			"timesDropped": 11,
+			"dropRate": 0.10185185185185185
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 513,
-			"dropRate": 0.09339158929546695
+			"timesDropped": 10,
+			"dropRate": 0.09259259259259259
 		},
 		{
 			"itemName": "Saw",
-			"timesDropped": 273,
-			"dropRate": 0.0496996176952485
-		},
-		{
-			"itemName": "Steel Boots",
-			"timesDropped": 215,
-			"dropRate": 0.03914072455852904
-		},
-		{
-			"itemName": "Gold Ingot",
-			"timesDropped": 173,
-			"dropRate": 0.03149462952849081
-		},
-		{
-			"itemName": "Orichalcum Pearl",
-			"timesDropped": 149,
-			"dropRate": 0.02712543236846896
+			"timesDropped": 4,
+			"dropRate": 0.037037037037037035
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 111,
-			"dropRate": 0.020207536865101038
-		},
-		{
-			"itemName": "Cat's Paw",
-			"timesDropped": 109,
-			"dropRate": 0.019843437101765882
+			"timesDropped": 3,
+			"dropRate": 0.027777777777777776
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 97,
-			"dropRate": 0.017658838521754962
+			"timesDropped": 3,
+			"dropRate": 0.027777777777777776
+		},
+		{
+			"itemName": "Cat's Paw",
+			"timesDropped": 2,
+			"dropRate": 0.018518518518518517
+		},
+		{
+			"itemName": "Gold Ingot",
+			"timesDropped": 2,
+			"dropRate": 0.018518518518518517
+		},
+		{
+			"itemName": "Orichalcum Pearl",
+			"timesDropped": 2,
+			"dropRate": 0.018518518518518517
+		},
+		{
+			"itemName": "Steel Boots",
+			"timesDropped": 2,
+			"dropRate": 0.018518518518518517
 		},
 		{
 			"itemName": "Jewelled Backpack",
-			"timesDropped": 50,
-			"dropRate": 0.009102494083378846
-		},
-		{
-			"itemName": "Butcher's Axe",
-			"timesDropped": 44,
-			"dropRate": 0.008010194793373384
-		},
-		{
-			"itemName": "Vile Axe",
-			"timesDropped": 22,
-			"dropRate": 0.004005097396686692
-		},
-		{
-			"itemName": "Golden Legs",
-			"timesDropped": 3,
-			"dropRate": 0.0005461496450027307
+			"timesDropped": 1,
+			"dropRate": 0.009259259259259259
 		}
 	]
 }

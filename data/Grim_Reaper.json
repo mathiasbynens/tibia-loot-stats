@@ -1,96 +1,96 @@
 {
 	"monsterName": "Grim Reaper",
-	"timesKilled": 9060,
+	"timesKilled": 9165,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8958,
-			"dropRate": 0.9887417218543046
+			"timesDropped": 9062,
+			"dropRate": 0.9887615930169121
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 3174,
-			"dropRate": 0.35033112582781456
+			"timesDropped": 3212,
+			"dropRate": 0.3504637206764866
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 955,
-			"dropRate": 0.1054083885209713
-		},
-		{
-			"itemName": "Scythe",
-			"timesDropped": 927,
-			"dropRate": 0.10231788079470198
+			"timesDropped": 966,
+			"dropRate": 0.10540098199672668
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 925,
-			"dropRate": 0.1020971302428256
+			"timesDropped": 938,
+			"dropRate": 0.10234588106928533
+		},
+		{
+			"itemName": "Scythe",
+			"timesDropped": 937,
+			"dropRate": 0.10223677032187671
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 917,
-			"dropRate": 0.1012141280353201
+			"timesDropped": 924,
+			"dropRate": 0.10081833060556465
 		},
 		{
 			"itemName": "Mystical Hourglass",
-			"timesDropped": 454,
-			"dropRate": 0.05011037527593819
+			"timesDropped": 459,
+			"dropRate": 0.05008183306055646
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 452,
-			"dropRate": 0.04988962472406181
+			"timesDropped": 458,
+			"dropRate": 0.049972722313147845
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 438,
-			"dropRate": 0.048344370860927154
+			"timesDropped": 443,
+			"dropRate": 0.048336061102018546
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
-			"timesDropped": 288,
-			"dropRate": 0.031788079470198675
+			"timesDropped": 295,
+			"dropRate": 0.03218767048554282
 		},
 		{
 			"itemName": "Dark Shield",
-			"timesDropped": 268,
-			"dropRate": 0.029580573951434878
+			"timesDropped": 271,
+			"dropRate": 0.029569012547735953
 		},
 		{
 			"itemName": "Orichalcum Pearl",
 			"timesDropped": 138,
-			"dropRate": 0.015231788079470199
+			"dropRate": 0.015057283142389525
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 88,
-			"dropRate": 0.009713024282560706
+			"timesDropped": 92,
+			"dropRate": 0.010038188761593016
 		},
 		{
 			"itemName": "Nightmare Blade",
-			"timesDropped": 46,
-			"dropRate": 0.005077262693156733
+			"timesDropped": 47,
+			"dropRate": 0.005128205128205128
 		},
 		{
 			"itemName": "Glacier Kilt",
 			"timesDropped": 20,
-			"dropRate": 0.002207505518763797
+			"dropRate": 0.002182214948172395
 		},
 		{
 			"itemName": "Death Ring",
 			"timesDropped": 16,
-			"dropRate": 0.0017660044150110375
+			"dropRate": 0.001745771958537916
 		},
 		{
 			"itemName": "Skullcracker Armor",
 			"timesDropped": 10,
-			"dropRate": 0.0011037527593818985
+			"dropRate": 0.0010911074740861974
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 4,
-			"dropRate": 0.0004415011037527594
+			"dropRate": 0.000436442989634479
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Ice Golem",
-	"timesKilled": 66071,
+	"timesKilled": 66079,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 66071,
+			"timesDropped": 66079,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Frosty Heart",
-			"timesDropped": 9452,
-			"dropRate": 0.1430582252425421
+			"timesDropped": 9453,
+			"dropRate": 0.1430560389836408
 		},
 		{
 			"itemName": "Ice Cube",
 			"timesDropped": 3354,
-			"dropRate": 0.0507635725204704
+			"dropRate": 0.050757426716506
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1982,
-			"dropRate": 0.029998032419669748
+			"timesDropped": 1983,
+			"dropRate": 0.03000953404258539
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1632,
-			"dropRate": 0.024700700761302236
+			"timesDropped": 1633,
+			"dropRate": 0.024712843717368604
 		},
 		{
 			"itemName": "Black Pearl",
 			"timesDropped": 979,
-			"dropRate": 0.014817393410119417
+			"dropRate": 0.014815599509677809
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 487,
-			"dropRate": 0.007370858621785655
+			"dropRate": 0.007369966252515928
 		},
 		{
 			"itemName": "Crystal Sword",
 			"timesDropped": 376,
-			"dropRate": 0.005690847724417672
+			"dropRate": 0.005690158749375747
 		},
 		{
 			"itemName": "Small Sapphire",
 			"timesDropped": 370,
-			"dropRate": 0.005600036324559943
+			"dropRate": 0.005599358343800602
 		},
 		{
 			"itemName": "Strange Helmet",
 			"timesDropped": 233,
-			"dropRate": 0.003526509361141802
+			"dropRate": 0.0035260824165014603
 		},
 		{
 			"itemName": "Ice Rapier",
 			"timesDropped": 217,
-			"dropRate": 0.0032843456281878586
+			"dropRate": 0.003283948001634407
 		},
 		{
 			"itemName": "Shard",
 			"timesDropped": 123,
-			"dropRate": 0.0018616336970834406
+			"dropRate": 0.0018614083142904705
 		},
 		{
 			"itemName": "Glacier Mask",
 			"timesDropped": 121,
-			"dropRate": 0.0018313632304641976
+			"dropRate": 0.0018311415124320888
 		}
 	]
 }

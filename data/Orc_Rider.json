@@ -1,71 +1,71 @@
 {
 	"monsterName": "Orc Rider",
-	"timesKilled": 22099,
+	"timesKilled": 22120,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10769,
-			"dropRate": 0.4873071179691389
+			"timesDropped": 10779,
+			"dropRate": 0.4872965641952984
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 5364,
-			"dropRate": 0.2427259151997828
+			"timesDropped": 5368,
+			"dropRate": 0.24267631103074142
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 2247,
-			"dropRate": 0.10167880899588216
+			"timesDropped": 2249,
+			"dropRate": 0.10167269439421338
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 2238,
-			"dropRate": 0.10127155074890266
+			"timesDropped": 2239,
+			"dropRate": 0.10122061482820977
 		},
 		{
 			"itemName": "Warwolf Fur",
-			"timesDropped": 2183,
-			"dropRate": 0.0987827503506946
+			"timesDropped": 2184,
+			"dropRate": 0.09873417721518987
 		},
 		{
 			"itemName": "Orcish Axe",
 			"timesDropped": 1531,
-			"dropRate": 0.06927915290284628
+			"dropRate": 0.0692133815551537
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 449,
-			"dropRate": 0.02031766143264401
+			"timesDropped": 450,
+			"dropRate": 0.02034358047016275
 		},
 		{
 			"itemName": "Torch",
 			"timesDropped": 242,
-			"dropRate": 0.010950721752115481
+			"dropRate": 0.010940325497287523
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 225,
-			"dropRate": 0.010181456174487534
+			"dropRate": 0.010171790235081375
 		},
 		{
 			"itemName": "Obsidian Lance",
 			"timesDropped": 221,
-			"dropRate": 0.01000045250916331
+			"dropRate": 0.009990958408679928
 		},
 		{
 			"itemName": "Scale Armor",
 			"timesDropped": 125,
-			"dropRate": 0.005656364541381963
+			"dropRate": 0.005650994575045208
 		},
 		{
 			"itemName": "Meat (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.00004525091633105571
+			"dropRate": 0.000045207956600361664
 		},
 		{
 			"itemName": "Orc Tooth (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.00004525091633105571
+			"dropRate": 0.000045207956600361664
 		}
 	]
 }
