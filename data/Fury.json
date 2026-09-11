@@ -1,101 +1,101 @@
 {
 	"monsterName": "Fury",
-	"timesKilled": 11775,
+	"timesKilled": 12400,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 11641,
-			"dropRate": 0.988619957537155
+			"timesDropped": 12261,
+			"dropRate": 0.9887903225806451
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 4096,
-			"dropRate": 0.34785562632696393
+			"timesDropped": 4322,
+			"dropRate": 0.3485483870967742
 		},
 		{
 			"itemName": "Jalapeno Pepper",
-			"timesDropped": 3476,
-			"dropRate": 0.2952016985138004
+			"timesDropped": 3702,
+			"dropRate": 0.29854838709677417
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 2597,
-			"dropRate": 0.22055201698513802
+			"timesDropped": 2724,
+			"dropRate": 0.2196774193548387
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 2450,
-			"dropRate": 0.208067940552017
+			"timesDropped": 2569,
+			"dropRate": 0.20717741935483872
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 2330,
-			"dropRate": 0.19787685774946923
+			"timesDropped": 2469,
+			"dropRate": 0.19911290322580646
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 1234,
-			"dropRate": 0.10479830148619958
+			"timesDropped": 1298,
+			"dropRate": 0.10467741935483871
 		},
 		{
 			"itemName": "Slightly Rusted Legs",
-			"timesDropped": 1189,
-			"dropRate": 0.10097664543524416
+			"timesDropped": 1245,
+			"dropRate": 0.10040322580645161
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 912,
-			"dropRate": 0.07745222929936306
+			"timesDropped": 963,
+			"dropRate": 0.07766129032258065
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 483,
-			"dropRate": 0.041019108280254776
+			"timesDropped": 509,
+			"dropRate": 0.04104838709677419
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 298,
-			"dropRate": 0.025307855626326963
+			"timesDropped": 315,
+			"dropRate": 0.025403225806451612
 		},
 		{
 			"itemName": "Noble Axe",
-			"timesDropped": 240,
-			"dropRate": 0.02038216560509554
+			"timesDropped": 254,
+			"dropRate": 0.020483870967741936
 		},
 		{
 			"itemName": "Orichalcum Pearl",
-			"timesDropped": 161,
-			"dropRate": 0.013673036093418259
+			"timesDropped": 171,
+			"dropRate": 0.013790322580645161
 		},
 		{
 			"itemName": "Assassin Dagger",
-			"timesDropped": 94,
-			"dropRate": 0.007983014861995754
+			"timesDropped": 95,
+			"dropRate": 0.007661290322580645
 		},
 		{
 			"itemName": "Steel Boots",
-			"timesDropped": 79,
-			"dropRate": 0.0067091295116772824
+			"timesDropped": 84,
+			"dropRate": 0.0067741935483870966
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 56,
-			"dropRate": 0.00475583864118896
+			"timesDropped": 60,
+			"dropRate": 0.004838709677419355
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 16,
-			"dropRate": 0.0013588110403397028
-		},
-		{
-			"itemName": "Golden Legs",
-			"timesDropped": 10,
-			"dropRate": 0.0008492569002123143
+			"timesDropped": 17,
+			"dropRate": 0.0013709677419354838
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 9,
-			"dropRate": 0.0007643312101910828
+			"timesDropped": 11,
+			"dropRate": 0.0008870967741935484
+		},
+		{
+			"itemName": "Golden Legs",
+			"timesDropped": 11,
+			"dropRate": 0.0008870967741935484
 		}
 	]
 }
