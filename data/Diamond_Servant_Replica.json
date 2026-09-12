@@ -1,96 +1,96 @@
 {
 	"monsterName": "Diamond Servant Replica",
-	"timesKilled": 7319,
+	"timesKilled": 7366,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6935,
-			"dropRate": 0.9475338160950949
+			"timesDropped": 6982,
+			"dropRate": 0.9478685853923432
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 3275,
-			"dropRate": 0.4474655007514688
+			"timesDropped": 3295,
+			"dropRate": 0.4473255498235134
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1632,
-			"dropRate": 0.22298128159584643
+			"timesDropped": 1673,
+			"dropRate": 0.22712462666304642
 		},
 		{
 			"itemName": "Life Crystal",
-			"timesDropped": 738,
-			"dropRate": 0.10083344719223938
+			"timesDropped": 742,
+			"dropRate": 0.10073309801792017
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 454,
-			"dropRate": 0.06203033201257002
+			"timesDropped": 461,
+			"dropRate": 0.06258484930762966
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 416,
-			"dropRate": 0.056838365896980464
+			"timesDropped": 418,
+			"dropRate": 0.05674721694270975
 		},
 		{
 			"itemName": "Gear Crystal",
-			"timesDropped": 373,
-			"dropRate": 0.050963246345129116
+			"timesDropped": 374,
+			"dropRate": 0.050773825685582405
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 371,
-			"dropRate": 0.0506899849706244
+			"timesDropped": 373,
+			"dropRate": 0.050638066793374965
 		},
 		{
 			"itemName": "Crystal Pedestal (Cyan)",
-			"timesDropped": 352,
-			"dropRate": 0.04809400191282962
+			"timesDropped": 355,
+			"dropRate": 0.04819440673364105
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 78,
-			"dropRate": 0.010657193605683837
+			"timesDropped": 79,
+			"dropRate": 0.010724952484387727
 		},
 		{
 			"itemName": "Lightning Pendant",
 			"timesDropped": 53,
-			"dropRate": 0.007241426424374915
+			"dropRate": 0.007195221286994298
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 45,
-			"dropRate": 0.00614838092635606
+			"timesDropped": 46,
+			"dropRate": 0.006244909041542221
+		},
+		{
+			"itemName": "Mastermind Potion",
+			"timesDropped": 32,
+			"dropRate": 0.004344284550638067
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
 			"timesDropped": 32,
-			"dropRate": 0.00437218199207542
-		},
-		{
-			"itemName": "Mastermind Potion",
-			"timesDropped": 31,
-			"dropRate": 0.004235551304823063
+			"dropRate": 0.004344284550638067
 		},
 		{
 			"itemName": "Slime Mould",
 			"timesDropped": 31,
-			"dropRate": 0.004235551304823063
+			"dropRate": 0.004208525658430627
 		},
 		{
 			"itemName": "Shockwave Amulet",
 			"timesDropped": 10,
-			"dropRate": 0.0013663068725235689
+			"dropRate": 0.0013575889220743959
 		},
 		{
 			"itemName": "Bonebreaker",
 			"timesDropped": 2,
-			"dropRate": 0.00027326137450471376
+			"dropRate": 0.00027151778441487917
 		},
 		{
 			"itemName": "Crystalline Armor",
 			"timesDropped": 1,
-			"dropRate": 0.00013663068725235688
+			"dropRate": 0.00013575889220743959
 		}
 	]
 }

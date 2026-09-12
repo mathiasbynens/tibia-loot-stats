@@ -1,136 +1,136 @@
 {
 	"monsterName": "Lost Berserker",
-	"timesKilled": 14468,
+	"timesKilled": 14891,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 14468,
+			"timesDropped": 14891,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 14465,
-			"dropRate": 0.9997926458390932
+			"timesDropped": 14888,
+			"dropRate": 0.9997985360284736
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 2176,
-			"dropRate": 0.15040088471108654
+			"timesDropped": 2233,
+			"dropRate": 0.14995634947283595
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 2028,
-			"dropRate": 0.1401714127730163
+			"timesDropped": 2093,
+			"dropRate": 0.14055469746826943
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 1980,
-			"dropRate": 0.13685374619850704
+			"timesDropped": 2036,
+			"dropRate": 0.13672688200926733
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 1265,
-			"dropRate": 0.08743433784904617
+			"timesDropped": 1307,
+			"dropRate": 0.08777113692834598
 		},
 		{
 			"itemName": "Drill Bolt",
-			"timesDropped": 1154,
-			"dropRate": 0.0797622338954935
+			"timesDropped": 1188,
+			"dropRate": 0.07977973272446444
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 1151,
-			"dropRate": 0.07955487973458668
+			"timesDropped": 1176,
+			"dropRate": 0.07897387683835874
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 1118,
-			"dropRate": 0.07727398396461156
+			"timesDropped": 1156,
+			"dropRate": 0.07763078369484924
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 954,
-			"dropRate": 0.06593862316837158
+			"timesDropped": 972,
+			"dropRate": 0.06527432677456181
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 667,
-			"dropRate": 0.04610174177495162
+			"timesDropped": 690,
+			"dropRate": 0.04633671345107783
 		},
 		{
 			"itemName": "Piggy Bank",
-			"timesDropped": 584,
-			"dropRate": 0.04036494332319602
+			"timesDropped": 600,
+			"dropRate": 0.040292794305285075
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 549,
-			"dropRate": 0.03794581144594968
+			"timesDropped": 562,
+			"dropRate": 0.037740917332617016
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 363,
-			"dropRate": 0.02508985346972629
+			"timesDropped": 367,
+			"dropRate": 0.02464575918339937
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 345,
-			"dropRate": 0.02384572850428532
+			"timesDropped": 353,
+			"dropRate": 0.023705593982942717
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 286,
-			"dropRate": 0.01976776333978435
+			"timesDropped": 293,
+			"dropRate": 0.01967631455241421
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 194,
-			"dropRate": 0.013408902405308266
+			"timesDropped": 201,
+			"dropRate": 0.0134980860922705
 		},
 		{
 			"itemName": "Clay Lump",
-			"timesDropped": 154,
-			"dropRate": 0.010644180259883881
+			"timesDropped": 161,
+			"dropRate": 0.010811899805251494
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 125,
-			"dropRate": 0.008639756704451202
+			"timesDropped": 129,
+			"dropRate": 0.00866295077563629
 		},
 		{
 			"itemName": "Tower Shield",
-			"timesDropped": 124,
-			"dropRate": 0.008570638650815593
+			"timesDropped": 128,
+			"dropRate": 0.008595796118460815
 		},
 		{
 			"itemName": "Magic Sulphur",
-			"timesDropped": 107,
-			"dropRate": 0.0073956317390102295
+			"timesDropped": 111,
+			"dropRate": 0.007454166946477738
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 99,
-			"dropRate": 0.006842687309925353
+			"timesDropped": 101,
+			"dropRate": 0.006782620374722987
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 87,
-			"dropRate": 0.006013270666298037
-		},
-		{
-			"itemName": "Chaos Mace",
-			"timesDropped": 75,
-			"dropRate": 0.005183854022670722
+			"timesDropped": 88,
+			"dropRate": 0.00590960983144181
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 73,
-			"dropRate": 0.005045617915399502
+			"timesDropped": 78,
+			"dropRate": 0.0052380632596870595
+		},
+		{
+			"itemName": "Chaos Mace",
+			"timesDropped": 76,
+			"dropRate": 0.005103753945336109
 		},
 		{
 			"itemName": "Royal Helmet",
 			"timesDropped": 33,
-			"dropRate": 0.0022808957699751173
+			"dropRate": 0.002216103686790679
 		}
 	]
 }

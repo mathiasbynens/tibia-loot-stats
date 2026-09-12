@@ -1,101 +1,101 @@
 {
 	"monsterName": "Weeper",
-	"timesKilled": 10254,
+	"timesKilled": 10557,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10254,
+			"timesDropped": 10557,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10254,
+			"timesDropped": 10557,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Eye of a Weeper",
-			"timesDropped": 1577,
-			"dropRate": 0.15379364150575386
+			"timesDropped": 1628,
+			"dropRate": 0.15421047646111585
 		},
 		{
 			"itemName": "Blazing Bone",
-			"timesDropped": 1565,
-			"dropRate": 0.1526233664911254
+			"timesDropped": 1617,
+			"dropRate": 0.15316851378232452
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 1549,
-			"dropRate": 0.15106299980495416
+			"timesDropped": 1594,
+			"dropRate": 0.15098986454485175
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1535,
-			"dropRate": 0.14969767895455433
+			"timesDropped": 1590,
+			"dropRate": 0.15061096902529128
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1511,
-			"dropRate": 0.14735712892529745
+			"timesDropped": 1554,
+			"dropRate": 0.14720090934924696
 		},
 		{
 			"itemName": "Fiery Heart",
-			"timesDropped": 1363,
-			"dropRate": 0.13292373707821337
+			"timesDropped": 1400,
+			"dropRate": 0.13261343184616842
 		},
 		{
 			"itemName": "Magma Clump",
-			"timesDropped": 1291,
-			"dropRate": 0.12590208699044275
+			"timesDropped": 1329,
+			"dropRate": 0.1258880363739699
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 1281,
-			"dropRate": 0.12492685781158572
+			"timesDropped": 1315,
+			"dropRate": 0.1245619020555082
 		},
 		{
 			"itemName": "Prismatic Bolt",
-			"timesDropped": 1190,
-			"dropRate": 0.11605227228398673
+			"timesDropped": 1234,
+			"dropRate": 0.11688926778440845
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 927,
-			"dropRate": 0.09040374488004681
+			"timesDropped": 956,
+			"dropRate": 0.090556029174955
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 560,
-			"dropRate": 0.05461283401599376
+			"timesDropped": 580,
+			"dropRate": 0.054939850336269774
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 324,
-			"dropRate": 0.03159742539496782
+			"timesDropped": 336,
+			"dropRate": 0.031827223643080424
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 218,
-			"dropRate": 0.021259996099083283
+			"timesDropped": 225,
+			"dropRate": 0.021312872975277068
 		},
 		{
 			"itemName": "Wand of Everblazing",
-			"timesDropped": 143,
-			"dropRate": 0.01394577725765555
+			"timesDropped": 149,
+			"dropRate": 0.014113858103627924
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 134,
-			"dropRate": 0.01306807099668422
+			"timesDropped": 139,
+			"dropRate": 0.013166619304726722
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 83,
-			"dropRate": 0.00809440218451336
+			"timesDropped": 84,
+			"dropRate": 0.007956805910770106
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 74,
-			"dropRate": 0.007216695923542032
+			"timesDropped": 77,
+			"dropRate": 0.007293738751539263
 		}
 	]
 }
