@@ -1,21 +1,21 @@
 {
 	"monsterName": "Boar",
-	"timesKilled": 6729,
+	"timesKilled": 6748,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1679,
-			"dropRate": 0.24951701590132264
+			"timesDropped": 1687,
+			"dropRate": 0.25
 		},
 		{
 			"itemName": "Haunch of Boar",
-			"timesDropped": 1366,
-			"dropRate": 0.2030019319363947
+			"timesDropped": 1370,
+			"dropRate": 0.2030231179608773
 		},
 		{
 			"itemName": "Lesser Spiritualist Gem",
 			"timesDropped": 1,
-			"dropRate": 0.0001486104919007282
+			"dropRate": 0.00014819205690574984
 		}
 	]
 }

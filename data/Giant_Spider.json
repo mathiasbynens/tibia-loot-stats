@@ -1,71 +1,71 @@
 {
 	"monsterName": "Giant Spider",
-	"timesKilled": 104392,
+	"timesKilled": 104396,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 104377,
-			"dropRate": 0.999856310828416
+			"timesDropped": 104381,
+			"dropRate": 0.9998563163339591
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 12451,
-			"dropRate": 0.11927159169285002
+			"timesDropped": 12452,
+			"dropRate": 0.11927660063603969
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 10478,
-			"dropRate": 0.10037167599049736
+			"timesDropped": 10479,
+			"dropRate": 0.10037740909613395
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 8238,
-			"dropRate": 0.07891409303394896
+			"timesDropped": 8239,
+			"dropRate": 0.07892064830070118
 		},
 		{
 			"itemName": "Two Handed Sword",
 			"timesDropped": 5308,
-			"dropRate": 0.050846808184535214
+			"dropRate": 0.05084485995632017
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 5121,
-			"dropRate": 0.04905548317878765
+			"dropRate": 0.04905360358634431
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 3700,
-			"dropRate": 0.03544332899072726
+			"dropRate": 0.03544197095674164
 		},
 		{
 			"itemName": "Spider Silk",
 			"timesDropped": 2069,
-			"dropRate": 0.01981952640049046
+			"dropRate": 0.01981876700256715
 		},
 		{
 			"itemName": "Knight Legs",
 			"timesDropped": 852,
-			"dropRate": 0.008161544945972871
+			"dropRate": 0.008161232231119966
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 749,
-			"dropRate": 0.007174879301095869
+			"dropRate": 0.007174604390972834
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 515,
-			"dropRate": 0.00493332822438501
+			"dropRate": 0.00493313920073566
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 284,
-			"dropRate": 0.002720514981990957
+			"dropRate": 0.002720410743706655
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 284,
-			"dropRate": 0.002720514981990957
+			"dropRate": 0.002720410743706655
 		}
 	]
 }

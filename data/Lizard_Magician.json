@@ -1,41 +1,41 @@
 {
 	"monsterName": "Lizard Magician",
-	"timesKilled": 3071,
+	"timesKilled": 3073,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2000,
-			"dropRate": 0.6512536633018561
+			"timesDropped": 2001,
+			"dropRate": 0.6511552229092092
 		},
 		{
 			"itemName": "Mana Potion",
 			"timesDropped": 971,
-			"dropRate": 0.3161836535330511
+			"dropRate": 0.3159778717865278
 		},
 		{
 			"itemName": "Cape",
 			"timesDropped": 263,
-			"dropRate": 0.08563985672419408
+			"dropRate": 0.08558411975268468
 		},
 		{
 			"itemName": "Lizard Tail",
 			"timesDropped": 133,
-			"dropRate": 0.043308368609573426
+			"dropRate": 0.04328018223234624
 		},
 		{
 			"itemName": "Lizard Scale",
 			"timesDropped": 39,
-			"dropRate": 0.012699446434386193
+			"dropRate": 0.01269118125610153
 		},
 		{
 			"itemName": "Lizard Leather",
 			"timesDropped": 37,
-			"dropRate": 0.012048192771084338
+			"dropRate": 0.012040351448096323
 		},
 		{
 			"itemName": "Charmer's Tiara",
 			"timesDropped": 32,
-			"dropRate": 0.010420058612829698
+			"dropRate": 0.010413276928083305
 		}
 	]
 }

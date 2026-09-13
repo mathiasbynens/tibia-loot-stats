@@ -1,71 +1,71 @@
 {
 	"monsterName": "Golden Servant Replica",
-	"timesKilled": 6801,
+	"timesKilled": 6912,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5963,
-			"dropRate": 0.8767828260549919
+			"timesDropped": 6067,
+			"dropRate": 0.8777488425925926
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 653,
-			"dropRate": 0.09601529186884282
+			"timesDropped": 685,
+			"dropRate": 0.09910300925925926
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 355,
-			"dropRate": 0.052198206146154974
+			"timesDropped": 361,
+			"dropRate": 0.05222800925925926
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 318,
-			"dropRate": 0.04675782973092192
+			"timesDropped": 323,
+			"dropRate": 0.04673032407407408
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 176,
-			"dropRate": 0.02587854727245993
+			"timesDropped": 178,
+			"dropRate": 0.025752314814814815
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 101,
-			"dropRate": 0.01485075724158212
+			"timesDropped": 104,
+			"dropRate": 0.015046296296296295
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 70,
-			"dropRate": 0.010292604028819291
+			"timesDropped": 72,
+			"dropRate": 0.010416666666666666
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 29,
-			"dropRate": 0.00426407881193942
+			"timesDropped": 30,
+			"dropRate": 0.004340277777777778
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
 			"timesDropped": 28,
-			"dropRate": 0.004117041611527717
+			"dropRate": 0.004050925925925926
 		},
 		{
 			"itemName": "Slime Mould",
 			"timesDropped": 23,
-			"dropRate": 0.0033818556094691956
+			"dropRate": 0.0033275462962962963
 		},
 		{
 			"itemName": "Golden Can of Oil",
 			"timesDropped": 2,
-			"dropRate": 0.00029407440082340834
+			"dropRate": 0.00028935185185185184
 		},
 		{
 			"itemName": "Gold Ring",
 			"timesDropped": 1,
-			"dropRate": 0.00014703720041170417
+			"dropRate": 0.00014467592592592592
 		},
 		{
 			"itemName": "Golden Armor",
 			"timesDropped": 1,
-			"dropRate": 0.00014703720041170417
+			"dropRate": 0.00014467592592592592
 		}
 	]
 }
