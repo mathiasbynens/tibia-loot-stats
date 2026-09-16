@@ -1,76 +1,76 @@
 {
 	"monsterName": "Spidris",
-	"timesKilled": 25696,
+	"timesKilled": 25773,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 25696,
+			"timesDropped": 25773,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 11583,
-			"dropRate": 0.4507705479452055
+			"timesDropped": 11617,
+			"dropRate": 0.4507430256469949
 		},
 		{
 			"itemName": "Spidris Mandible",
-			"timesDropped": 3814,
-			"dropRate": 0.14842777085927772
+			"timesDropped": 3826,
+			"dropRate": 0.14844992821945446
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 3149,
-			"dropRate": 0.12254825653798257
+			"timesDropped": 3155,
+			"dropRate": 0.12241493035347069
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 3137,
-			"dropRate": 0.12208125778331258
+			"timesDropped": 3145,
+			"dropRate": 0.12202692740464828
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 2956,
-			"dropRate": 0.1150373599003736
+			"timesDropped": 2965,
+			"dropRate": 0.11504287432584488
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1591,
-			"dropRate": 0.06191625155666251
+			"timesDropped": 1598,
+			"dropRate": 0.062002871221821285
 		},
 		{
 			"itemName": "Death Ring",
-			"timesDropped": 656,
-			"dropRate": 0.025529265255292654
+			"timesDropped": 658,
+			"dropRate": 0.025530594032514647
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 418,
-			"dropRate": 0.016267123287671232
+			"timesDropped": 419,
+			"dropRate": 0.016257323555659023
 		},
 		{
 			"itemName": "Titan Axe",
 			"timesDropped": 221,
-			"dropRate": 0.008600560398505604
+			"dropRate": 0.008574865168975284
 		},
 		{
 			"itemName": "Violet Gem",
 			"timesDropped": 199,
-			"dropRate": 0.00774439601494396
+			"dropRate": 0.00772125868156598
 		},
 		{
 			"itemName": "Hive Scythe",
 			"timesDropped": 187,
-			"dropRate": 0.007277397260273972
+			"dropRate": 0.007255655142979087
 		},
 		{
 			"itemName": "Carapace Shield",
 			"timesDropped": 162,
-			"dropRate": 0.006304483188044832
+			"dropRate": 0.006285647770923059
 		},
 		{
 			"itemName": "Calopteryx Cape",
-			"timesDropped": 90,
-			"dropRate": 0.0035024906600249067
+			"timesDropped": 91,
+			"dropRate": 0.0035308268342839405
 		}
 	]
 }

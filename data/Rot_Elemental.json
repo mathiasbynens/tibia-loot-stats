@@ -1,76 +1,76 @@
 {
 	"monsterName": "Rot Elemental",
-	"timesKilled": 6809,
+	"timesKilled": 6842,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6809,
+			"timesDropped": 6842,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Glob of Glooth",
-			"timesDropped": 969,
-			"dropRate": 0.14231164635041857
+			"timesDropped": 974,
+			"dropRate": 0.14235603624671148
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 695,
-			"dropRate": 0.10207078866206491
+			"timesDropped": 697,
+			"dropRate": 0.10187079801227711
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 687,
-			"dropRate": 0.10089587310912028
+			"timesDropped": 690,
+			"dropRate": 0.10084770534931306
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 654,
-			"dropRate": 0.09604934645322367
+			"dropRate": 0.09558608593978368
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 370,
-			"dropRate": 0.05433984432368923
+			"timesDropped": 371,
+			"dropRate": 0.05422391113709442
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 363,
-			"dropRate": 0.05331179321486268
+			"timesDropped": 364,
+			"dropRate": 0.05320081847413037
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 338,
-			"dropRate": 0.04964018211191071
+			"timesDropped": 341,
+			"dropRate": 0.04983922829581994
 		},
 		{
 			"itemName": "Glooth Spear",
-			"timesDropped": 317,
-			"dropRate": 0.046556028785431046
+			"timesDropped": 319,
+			"dropRate": 0.04662379421221865
 		},
 		{
 			"itemName": "Life Ring",
 			"timesDropped": 92,
-			"dropRate": 0.013511528858863269
+			"dropRate": 0.013446360713241743
 		},
 		{
 			"itemName": "Glooth Axe",
 			"timesDropped": 9,
-			"dropRate": 0.0013217799970627112
+			"dropRate": 0.0013154048523823444
 		},
 		{
 			"itemName": "Green Gem",
 			"timesDropped": 6,
-			"dropRate": 0.0008811866647084741
+			"dropRate": 0.0008769365682548962
 		},
 		{
 			"itemName": "Glooth Amulet",
 			"timesDropped": 4,
-			"dropRate": 0.000587457776472316
+			"dropRate": 0.0005846243788365975
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 4,
-			"dropRate": 0.000587457776472316
+			"dropRate": 0.0005846243788365975
 		}
 	]
 }

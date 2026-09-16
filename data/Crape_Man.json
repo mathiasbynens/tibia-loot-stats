@@ -1,26 +1,46 @@
 {
 	"monsterName": "Crape Man",
-	"timesKilled": 22,
+	"timesKilled": 65,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9,
-			"dropRate": 0.4090909090909091
+			"timesDropped": 31,
+			"dropRate": 0.47692307692307695
 		},
 		{
 			"itemName": "Crab Man Claws",
-			"timesDropped": 2,
-			"dropRate": 0.09090909090909091
+			"timesDropped": 6,
+			"dropRate": 0.09230769230769231
 		},
 		{
 			"itemName": "Great Health Potion",
+			"timesDropped": 3,
+			"dropRate": 0.046153846153846156
+		},
+		{
+			"itemName": "Glacier Kilt",
 			"timesDropped": 1,
-			"dropRate": 0.045454545454545456
+			"dropRate": 0.015384615384615385
 		},
 		{
 			"itemName": "Green Gem",
 			"timesDropped": 1,
-			"dropRate": 0.045454545454545456
+			"dropRate": 0.015384615384615385
+		},
+		{
+			"itemName": "Guardian Halberd",
+			"timesDropped": 1,
+			"dropRate": 0.015384615384615385
+		},
+		{
+			"itemName": "Lightning Legs",
+			"timesDropped": 1,
+			"dropRate": 0.015384615384615385
+		},
+		{
+			"itemName": "Magma Coat",
+			"timesDropped": 1,
+			"dropRate": 0.015384615384615385
 		}
 	]
 }

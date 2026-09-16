@@ -1,91 +1,91 @@
 {
 	"monsterName": "Boogy",
-	"timesKilled": 6126,
+	"timesKilled": 6144,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6126,
+			"timesDropped": 6144,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Shimmering Beetles",
-			"timesDropped": 1120,
-			"dropRate": 0.18282729350310153
+			"timesDropped": 1121,
+			"dropRate": 0.18245442708333334
 		},
 		{
 			"itemName": "Fairy Wings",
 			"timesDropped": 908,
-			"dropRate": 0.14822069866144302
+			"dropRate": 0.14778645833333334
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 891,
-			"dropRate": 0.1454456415279138
+			"timesDropped": 895,
+			"dropRate": 0.14567057291666666
 		},
 		{
 			"itemName": "Leaf Star",
-			"timesDropped": 482,
-			"dropRate": 0.07868103166829905
+			"timesDropped": 485,
+			"dropRate": 0.07893880208333333
 		},
 		{
 			"itemName": "Wood Mushroom",
-			"timesDropped": 332,
-			"dropRate": 0.054195233431276524
+			"timesDropped": 333,
+			"dropRate": 0.05419921875
 		},
 		{
 			"itemName": "Red Crystal Fragment",
 			"timesDropped": 219,
-			"dropRate": 0.03574926542605289
+			"dropRate": 0.03564453125
 		},
 		{
 			"itemName": "Prismatic Quartz",
 			"timesDropped": 194,
-			"dropRate": 0.031668299053215804
+			"dropRate": 0.031575520833333336
 		},
 		{
 			"itemName": "Ancient Coin",
 			"timesDropped": 192,
-			"dropRate": 0.031341821743388835
+			"dropRate": 0.03125
 		},
 		{
 			"itemName": "Sling Herb",
-			"timesDropped": 188,
-			"dropRate": 0.0306888671237349
+			"timesDropped": 189,
+			"dropRate": 0.03076171875
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 180,
-			"dropRate": 0.029382957884427033
+			"timesDropped": 181,
+			"dropRate": 0.029459635416666668
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
 			"timesDropped": 129,
-			"dropRate": 0.021057786483839373
+			"dropRate": 0.02099609375
 		},
 		{
 			"itemName": "Berserk Potion",
 			"timesDropped": 70,
-			"dropRate": 0.011426705843943846
+			"dropRate": 0.011393229166666666
 		},
 		{
 			"itemName": "Golden Sickle",
-			"timesDropped": 62,
-			"dropRate": 0.010120796604635978
+			"timesDropped": 63,
+			"dropRate": 0.01025390625
 		},
 		{
 			"itemName": "Wooden Spellbook",
 			"timesDropped": 37,
-			"dropRate": 0.00603983023179889
+			"dropRate": 0.006022135416666667
 		},
 		{
 			"itemName": "Crystal of Power",
 			"timesDropped": 2,
-			"dropRate": 0.000326477309826967
+			"dropRate": 0.0003255208333333333
 		},
 		{
 			"itemName": "Mandrake",
 			"timesDropped": 2,
-			"dropRate": 0.000326477309826967
+			"dropRate": 0.0003255208333333333
 		}
 	]
 }

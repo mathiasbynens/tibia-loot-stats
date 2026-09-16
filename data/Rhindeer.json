@@ -1,66 +1,51 @@
 {
 	"monsterName": "Rhindeer",
-	"timesKilled": 482,
+	"timesKilled": 48,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 346,
-			"dropRate": 0.7178423236514523
+			"timesDropped": 40,
+			"dropRate": 0.8333333333333334
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 42,
-			"dropRate": 0.08713692946058091
-		},
-		{
-			"itemName": "Rhindeer Antlers",
-			"timesDropped": 32,
-			"dropRate": 0.06639004149377593
-		},
-		{
-			"itemName": "Violet Gem",
-			"timesDropped": 24,
-			"dropRate": 0.04979253112033195
+			"timesDropped": 7,
+			"dropRate": 0.14583333333333334
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 21,
-			"dropRate": 0.043568464730290454
+			"timesDropped": 5,
+			"dropRate": 0.10416666666666667
 		},
 		{
-			"itemName": "Great Mana Potion",
-			"timesDropped": 13,
-			"dropRate": 0.026970954356846474
-		},
-		{
-			"itemName": "Yellow Gem",
-			"timesDropped": 9,
-			"dropRate": 0.01867219917012448
-		},
-		{
-			"itemName": "Titan Axe",
-			"timesDropped": 7,
-			"dropRate": 0.014522821576763486
+			"itemName": "Violet Gem",
+			"timesDropped": 5,
+			"dropRate": 0.10416666666666667
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 5,
-			"dropRate": 0.01037344398340249
-		},
-		{
-			"itemName": "Time Ring",
-			"timesDropped": 4,
-			"dropRate": 0.008298755186721992
-		},
-		{
-			"itemName": "Mastermind Shield",
 			"timesDropped": 2,
-			"dropRate": 0.004149377593360996
+			"dropRate": 0.041666666666666664
 		},
 		{
-			"itemName": "Collar of Green Plasma",
+			"itemName": "Rhindeer Antlers",
+			"timesDropped": 2,
+			"dropRate": 0.041666666666666664
+		},
+		{
+			"itemName": "Great Mana Potion",
 			"timesDropped": 1,
-			"dropRate": 0.002074688796680498
+			"dropRate": 0.020833333333333332
+		},
+		{
+			"itemName": "Titan Axe",
+			"timesDropped": 1,
+			"dropRate": 0.020833333333333332
+		},
+		{
+			"itemName": "Yellow Gem",
+			"timesDropped": 1,
+			"dropRate": 0.020833333333333332
 		}
 	]
 }

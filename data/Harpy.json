@@ -1,36 +1,41 @@
 {
 	"monsterName": "Harpy",
-	"timesKilled": 19,
+	"timesKilled": 40,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 17,
-			"dropRate": 0.8947368421052632
+			"timesDropped": 33,
+			"dropRate": 0.825
 		},
 		{
 			"itemName": "Blue Crystal Shard",
 			"timesDropped": 3,
-			"dropRate": 0.15789473684210525
+			"dropRate": 0.075
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2,
-			"dropRate": 0.10526315789473684
-		},
-		{
-			"itemName": "Violet Crystal Shard",
-			"timesDropped": 2,
-			"dropRate": 0.10526315789473684
+			"timesDropped": 3,
+			"dropRate": 0.075
 		},
 		{
 			"itemName": "Harpy Feathers",
-			"timesDropped": 1,
-			"dropRate": 0.05263157894736842
+			"timesDropped": 3,
+			"dropRate": 0.075
+		},
+		{
+			"itemName": "Violet Crystal Shard",
+			"timesDropped": 3,
+			"dropRate": 0.075
+		},
+		{
+			"itemName": "Violet Gem",
+			"timesDropped": 2,
+			"dropRate": 0.05
 		},
 		{
 			"itemName": "Wand of Defiance",
 			"timesDropped": 1,
-			"dropRate": 0.05263157894736842
+			"dropRate": 0.025
 		}
 	]
 }

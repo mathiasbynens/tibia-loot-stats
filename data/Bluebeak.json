@@ -1,71 +1,71 @@
 {
 	"monsterName": "Bluebeak",
-	"timesKilled": 5166,
+	"timesKilled": 5285,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4224,
-			"dropRate": 0.8176538908246226
+			"timesDropped": 4324,
+			"dropRate": 0.8181646168401135
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3232,
-			"dropRate": 0.6256291134339915
+			"timesDropped": 3295,
+			"dropRate": 0.6234626300851467
 		},
 		{
 			"itemName": "Star Ink",
-			"timesDropped": 420,
-			"dropRate": 0.08130081300813008
+			"timesDropped": 428,
+			"dropRate": 0.08098391674550615
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 408,
-			"dropRate": 0.07897793263646923
+			"timesDropped": 420,
+			"dropRate": 0.07947019867549669
 		},
 		{
 			"itemName": "Paper Boat",
-			"timesDropped": 281,
-			"dropRate": 0.054394115369725125
+			"timesDropped": 290,
+			"dropRate": 0.05487228003784295
 		},
 		{
 			"itemName": "Grapes",
-			"timesDropped": 105,
-			"dropRate": 0.02032520325203252
+			"timesDropped": 106,
+			"dropRate": 0.020056764427625356
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 84,
-			"dropRate": 0.016260162601626018
+			"timesDropped": 86,
+			"dropRate": 0.016272469252601705
 		},
 		{
 			"itemName": "Hailstorm Rod",
 			"timesDropped": 76,
-			"dropRate": 0.014711575687185443
+			"dropRate": 0.014380321665089877
 		},
 		{
 			"itemName": "Glacier Shoes",
-			"timesDropped": 35,
-			"dropRate": 0.006775067750677507
+			"timesDropped": 36,
+			"dropRate": 0.006811731315042573
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 29,
-			"dropRate": 0.0056136275648470775
+			"timesDropped": 31,
+			"dropRate": 0.00586565752128666
+		},
+		{
+			"itemName": "Etcher",
+			"timesDropped": 23,
+			"dropRate": 0.0043519394512772
+		},
+		{
+			"itemName": "Glacier Amulet",
+			"timesDropped": 23,
+			"dropRate": 0.0043519394512772
 		},
 		{
 			"itemName": "Blue Gem",
 			"timesDropped": 22,
-			"dropRate": 0.004258614014711576
-		},
-		{
-			"itemName": "Etcher",
-			"timesDropped": 22,
-			"dropRate": 0.004258614014711576
-		},
-		{
-			"itemName": "Glacier Amulet",
-			"timesDropped": 22,
-			"dropRate": 0.004258614014711576
+			"dropRate": 0.004162724692526017
 		}
 	]
 }
