@@ -1,46 +1,46 @@
 {
 	"monsterName": "Iceplume Strider",
-	"timesKilled": 838,
+	"timesKilled": 920,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 752,
-			"dropRate": 0.8973747016706444
+			"timesDropped": 824,
+			"dropRate": 0.8956521739130435
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 127,
-			"dropRate": 0.1515513126491647
+			"timesDropped": 142,
+			"dropRate": 0.15434782608695652
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 57,
-			"dropRate": 0.06801909307875895
+			"timesDropped": 64,
+			"dropRate": 0.06956521739130435
 		},
 		{
 			"itemName": "Ice Shard",
-			"timesDropped": 37,
-			"dropRate": 0.0441527446300716
+			"timesDropped": 40,
+			"dropRate": 0.043478260869565216
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 24,
-			"dropRate": 0.028639618138424822
+			"timesDropped": 25,
+			"dropRate": 0.02717391304347826
 		},
 		{
 			"itemName": "Northwind Rod",
-			"timesDropped": 16,
-			"dropRate": 0.01909307875894988
+			"timesDropped": 17,
+			"dropRate": 0.01847826086956522
+		},
+		{
+			"itemName": "Crystal Ring",
+			"timesDropped": 8,
+			"dropRate": 0.008695652173913044
 		},
 		{
 			"itemName": "Blue Robe",
 			"timesDropped": 7,
-			"dropRate": 0.008353221957040573
-		},
-		{
-			"itemName": "Crystal Ring",
-			"timesDropped": 7,
-			"dropRate": 0.008353221957040573
+			"dropRate": 0.007608695652173913
 		}
 	]
 }

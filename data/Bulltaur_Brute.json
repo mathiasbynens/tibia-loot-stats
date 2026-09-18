@@ -1,71 +1,71 @@
 {
 	"monsterName": "Bulltaur Brute",
-	"timesKilled": 1411,
+	"timesKilled": 1697,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 784,
-			"dropRate": 0.5556343019135365
+			"timesDropped": 935,
+			"dropRate": 0.5509723040659988
 		},
 		{
 			"itemName": "Bulltaur Horn",
-			"timesDropped": 248,
-			"dropRate": 0.17576187101346563
+			"timesDropped": 292,
+			"dropRate": 0.17206835592221567
 		},
 		{
 			"itemName": "Bulltaur Armor Scrap",
-			"timesDropped": 158,
-			"dropRate": 0.11197732104890148
+			"timesDropped": 201,
+			"dropRate": 0.11844431349440189
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 141,
-			"dropRate": 0.09992912827781715
+			"timesDropped": 174,
+			"dropRate": 0.10253388332351208
 		},
 		{
 			"itemName": "Bulltaur Hoof",
-			"timesDropped": 120,
-			"dropRate": 0.08504606661941885
+			"timesDropped": 154,
+			"dropRate": 0.09074837949322334
 		},
 		{
 			"itemName": "Mino Shield",
-			"timesDropped": 55,
-			"dropRate": 0.03897944720056697
+			"timesDropped": 65,
+			"dropRate": 0.03830288744843842
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 35,
-			"dropRate": 0.024805102763997167
+			"timesDropped": 44,
+			"dropRate": 0.02592810842663524
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 21,
-			"dropRate": 0.014883061658398299
-		},
-		{
-			"itemName": "Blue Gem",
-			"timesDropped": 17,
-			"dropRate": 0.012048192771084338
+			"timesDropped": 26,
+			"dropRate": 0.015321154979375369
 		},
 		{
 			"itemName": "Dragon Hammer",
-			"timesDropped": 17,
-			"dropRate": 0.012048192771084338
+			"timesDropped": 19,
+			"dropRate": 0.011196228638774307
+		},
+		{
+			"itemName": "Blue Gem",
+			"timesDropped": 18,
+			"dropRate": 0.01060695344725987
 		},
 		{
 			"itemName": "Gold Nugget",
-			"timesDropped": 11,
-			"dropRate": 0.007795889440113395
+			"timesDropped": 14,
+			"dropRate": 0.008249852681202121
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 11,
-			"dropRate": 0.007795889440113395
+			"timesDropped": 13,
+			"dropRate": 0.0076605774896876845
 		},
 		{
 			"itemName": "White Gem",
 			"timesDropped": 2,
-			"dropRate": 0.001417434443656981
+			"dropRate": 0.0011785503830288745
 		}
 	]
 }

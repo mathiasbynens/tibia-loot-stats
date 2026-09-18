@@ -1,131 +1,131 @@
 {
 	"monsterName": "Choking Fear",
-	"timesKilled": 2085,
+	"timesKilled": 2815,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1835,
-			"dropRate": 0.8800959232613909
+			"timesDropped": 2451,
+			"dropRate": 0.8706927175843695
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 830,
-			"dropRate": 0.3980815347721823
+			"timesDropped": 1124,
+			"dropRate": 0.39928952042628774
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 367,
-			"dropRate": 0.17601918465227817
+			"timesDropped": 463,
+			"dropRate": 0.1644760213143872
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 332,
-			"dropRate": 0.1592326139088729
+			"timesDropped": 443,
+			"dropRate": 0.15737122557726466
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 317,
-			"dropRate": 0.15203836930455636
-		},
-		{
-			"itemName": "Hemp Rope",
-			"timesDropped": 247,
-			"dropRate": 0.11846522781774581
+			"timesDropped": 441,
+			"dropRate": 0.1566607460035524
 		},
 		{
 			"itemName": "Dead Weight",
-			"timesDropped": 245,
-			"dropRate": 0.11750599520383694
+			"timesDropped": 341,
+			"dropRate": 0.12113676731793961
+		},
+		{
+			"itemName": "Hemp Rope",
+			"timesDropped": 330,
+			"dropRate": 0.1172291296625222
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 185,
-			"dropRate": 0.08872901678657075
+			"timesDropped": 251,
+			"dropRate": 0.0891651865008881
 		},
 		{
 			"itemName": "Brown Piece of Cloth",
-			"timesDropped": 80,
-			"dropRate": 0.03836930455635491
+			"timesDropped": 117,
+			"dropRate": 0.04156305506216696
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 76,
-			"dropRate": 0.03645083932853717
+			"timesDropped": 110,
+			"dropRate": 0.03907637655417407
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 58,
-			"dropRate": 0.027817745803357313
+			"timesDropped": 78,
+			"dropRate": 0.027708703374777974
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 57,
-			"dropRate": 0.027338129496402876
+			"timesDropped": 78,
+			"dropRate": 0.027708703374777974
 		},
 		{
 			"itemName": "Beastslayer Axe",
-			"timesDropped": 49,
-			"dropRate": 0.023501199040767386
+			"timesDropped": 76,
+			"dropRate": 0.02699822380106572
 		},
 		{
 			"itemName": "Yellow Piece of Cloth",
-			"timesDropped": 49,
-			"dropRate": 0.023501199040767386
+			"timesDropped": 68,
+			"dropRate": 0.024156305506216696
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 34,
-			"dropRate": 0.01630695443645084
+			"timesDropped": 46,
+			"dropRate": 0.016341030195381884
 		},
 		{
 			"itemName": "Traditional Sai",
-			"timesDropped": 23,
-			"dropRate": 0.011031175059952039
+			"timesDropped": 33,
+			"dropRate": 0.01172291296625222
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 21,
-			"dropRate": 0.010071942446043165
+			"timesDropped": 26,
+			"dropRate": 0.009236234458259326
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 19,
-			"dropRate": 0.009112709832134292
+			"timesDropped": 26,
+			"dropRate": 0.009236234458259326
 		},
 		{
 			"itemName": "Shadow Sceptre",
-			"timesDropped": 14,
-			"dropRate": 0.00671462829736211
+			"timesDropped": 18,
+			"dropRate": 0.006394316163410302
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 12,
-			"dropRate": 0.0057553956834532375
+			"timesDropped": 17,
+			"dropRate": 0.006039076376554174
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 11,
-			"dropRate": 0.005275779376498801
+			"timesDropped": 16,
+			"dropRate": 0.005683836589698046
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 9,
-			"dropRate": 0.004316546762589928
+			"timesDropped": 12,
+			"dropRate": 0.004262877442273535
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 7,
-			"dropRate": 0.003357314148681055
-		},
-		{
-			"itemName": "Terra Boots",
-			"timesDropped": 6,
-			"dropRate": 0.0028776978417266188
+			"timesDropped": 10,
+			"dropRate": 0.003552397868561279
 		},
 		{
 			"itemName": "Cluster of Solace",
-			"timesDropped": 5,
-			"dropRate": 0.002398081534772182
+			"timesDropped": 8,
+			"dropRate": 0.002841918294849023
+		},
+		{
+			"itemName": "Terra Boots",
+			"timesDropped": 8,
+			"dropRate": 0.002841918294849023
 		}
 	]
 }

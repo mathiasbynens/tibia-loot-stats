@@ -1,81 +1,81 @@
 {
 	"monsterName": "Bulltaur Alchemist",
-	"timesKilled": 3369,
+	"timesKilled": 3608,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1739,
-			"dropRate": 0.5161769070940933
+			"timesDropped": 1865,
+			"dropRate": 0.5169068736141907
 		},
 		{
 			"itemName": "Bulltaur Horn",
-			"timesDropped": 505,
-			"dropRate": 0.14989611160581776
+			"timesDropped": 543,
+			"dropRate": 0.1504988913525499
 		},
 		{
 			"itemName": "Encrypted Notes",
-			"timesDropped": 293,
-			"dropRate": 0.08696942712971208
+			"timesDropped": 314,
+			"dropRate": 0.08702882483370289
 		},
 		{
 			"itemName": "Strange Substance",
-			"timesDropped": 202,
-			"dropRate": 0.0599584446423271
+			"timesDropped": 219,
+			"dropRate": 0.060698447893569846
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 199,
-			"dropRate": 0.05906797269219353
+			"timesDropped": 217,
+			"dropRate": 0.06014412416851441
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 116,
-			"dropRate": 0.034431582071831404
+			"timesDropped": 128,
+			"dropRate": 0.03547671840354767
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 90,
-			"dropRate": 0.026714158504007122
-		},
-		{
-			"itemName": "Violet Gem",
-			"timesDropped": 62,
-			"dropRate": 0.01840308696942713
+			"timesDropped": 97,
+			"dropRate": 0.02688470066518847
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 60,
-			"dropRate": 0.017809439002671415
+			"timesDropped": 68,
+			"dropRate": 0.018847006651884702
+		},
+		{
+			"itemName": "Violet Gem",
+			"timesDropped": 64,
+			"dropRate": 0.017738359201773836
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 40,
-			"dropRate": 0.011872959335114277
+			"timesDropped": 42,
+			"dropRate": 0.01164079822616408
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 36,
-			"dropRate": 0.01068566340160285
+			"timesDropped": 39,
+			"dropRate": 0.010809312638580931
 		},
 		{
 			"itemName": "Gold Ring",
-			"timesDropped": 31,
-			"dropRate": 0.009201543484713566
+			"timesDropped": 37,
+			"dropRate": 0.0102549889135255
 		},
 		{
 			"itemName": "Alloy Legs",
 			"timesDropped": 29,
-			"dropRate": 0.008607895517957851
+			"dropRate": 0.00803769401330377
 		},
 		{
 			"itemName": "Spellweaver's Robe",
-			"timesDropped": 27,
-			"dropRate": 0.008014247551202136
+			"timesDropped": 29,
+			"dropRate": 0.00803769401330377
 		},
 		{
 			"itemName": "White Gem",
 			"timesDropped": 21,
-			"dropRate": 0.006233303650934996
+			"dropRate": 0.00582039911308204
 		}
 	]
 }

@@ -1,51 +1,51 @@
 {
 	"monsterName": "Silverfrost Sentinel",
-	"timesKilled": 778,
+	"timesKilled": 871,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 684,
-			"dropRate": 0.8791773778920309
+			"timesDropped": 763,
+			"dropRate": 0.8760045924225028
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 166,
-			"dropRate": 0.2133676092544987
+			"timesDropped": 190,
+			"dropRate": 0.21814006888633755
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 67,
-			"dropRate": 0.08611825192802057
+			"timesDropped": 71,
+			"dropRate": 0.08151549942594719
 		},
 		{
 			"itemName": "Ice Shard",
-			"timesDropped": 32,
-			"dropRate": 0.04113110539845758
+			"timesDropped": 35,
+			"dropRate": 0.040183696900114814
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 27,
-			"dropRate": 0.03470437017994859
+			"timesDropped": 31,
+			"dropRate": 0.03559127439724455
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 21,
-			"dropRate": 0.02699228791773779
+			"timesDropped": 25,
+			"dropRate": 0.02870264064293915
 		},
 		{
 			"itemName": "Blue Gem",
 			"timesDropped": 17,
-			"dropRate": 0.021850899742930592
-		},
-		{
-			"itemName": "Glacier Mask",
-			"timesDropped": 8,
-			"dropRate": 0.010282776349614395
+			"dropRate": 0.01951779563719862
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 7,
-			"dropRate": 0.008997429305912597
+			"timesDropped": 10,
+			"dropRate": 0.011481056257175661
+		},
+		{
+			"itemName": "Glacier Mask",
+			"timesDropped": 9,
+			"dropRate": 0.010332950631458095
 		}
 	]
 }
