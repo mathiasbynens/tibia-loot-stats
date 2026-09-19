@@ -1,21 +1,21 @@
 {
 	"monsterName": "Deer",
-	"timesKilled": 23855,
+	"timesKilled": 23860,
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 19059,
-			"dropRate": 0.7989520016767974
+			"timesDropped": 19062,
+			"dropRate": 0.7989103101424979
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 11990,
-			"dropRate": 0.5026199958080068
+			"timesDropped": 11992,
+			"dropRate": 0.5025984911986588
 		},
 		{
 			"itemName": "Antlers",
 			"timesDropped": 277,
-			"dropRate": 0.011611821421085727
+			"dropRate": 0.011609388097233865
 		}
 	]
 }

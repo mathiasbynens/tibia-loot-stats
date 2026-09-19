@@ -1,71 +1,71 @@
 {
 	"monsterName": "White Lion",
-	"timesKilled": 9641,
+	"timesKilled": 9658,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9641,
+			"timesDropped": 9658,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2346,
-			"dropRate": 0.24333575355253603
+			"timesDropped": 2352,
+			"dropRate": 0.24352868088631185
 		},
 		{
 			"itemName": "Lion's Mane",
-			"timesDropped": 1845,
-			"dropRate": 0.19137018981433462
+			"timesDropped": 1846,
+			"dropRate": 0.19113688134189274
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 1465,
-			"dropRate": 0.1519551913701898
+			"timesDropped": 1467,
+			"dropRate": 0.15189480223648788
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 1443,
-			"dropRate": 0.14967327040763406
+			"timesDropped": 1445,
+			"dropRate": 0.14961689790846966
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 1413,
-			"dropRate": 0.14656156000414894
+			"timesDropped": 1415,
+			"dropRate": 0.14651066473389937
 		},
 		{
 			"itemName": "Twin Hooks",
-			"timesDropped": 1238,
-			"dropRate": 0.1284099159838191
+			"timesDropped": 1241,
+			"dropRate": 0.12849451232139159
 		},
 		{
 			"itemName": "Green Crystal Shard",
 			"timesDropped": 553,
-			"dropRate": 0.0573591951042423
+			"dropRate": 0.05725823151791261
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
 			"timesDropped": 435,
-			"dropRate": 0.04511980085053418
+			"dropRate": 0.045040381031269415
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 329,
-			"dropRate": 0.0341250907582201
+			"timesDropped": 330,
+			"dropRate": 0.03416856492027335
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 253,
-			"dropRate": 0.02624209106939114
+			"timesDropped": 254,
+			"dropRate": 0.026299440878028577
+		},
+		{
+			"itemName": "Combat Knife",
+			"timesDropped": 189,
+			"dropRate": 0.01956926899979292
 		},
 		{
 			"itemName": "Green Crystal Fragment",
 			"timesDropped": 189,
-			"dropRate": 0.01960377554195623
-		},
-		{
-			"itemName": "Combat Knife",
-			"timesDropped": 188,
-			"dropRate": 0.01950005186184006
+			"dropRate": 0.01956926899979292
 		}
 	]
 }

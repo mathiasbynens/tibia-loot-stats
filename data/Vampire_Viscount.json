@@ -1,76 +1,76 @@
 {
 	"monsterName": "Vampire Viscount",
-	"timesKilled": 2493,
+	"timesKilled": 2526,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2146,
-			"dropRate": 0.860810268752507
+			"timesDropped": 2173,
+			"dropRate": 0.8602533650039589
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 203,
-			"dropRate": 0.08142799839550742
+			"timesDropped": 205,
+			"dropRate": 0.08115597783056215
 		},
 		{
 			"itemName": "Vampire Teeth",
-			"timesDropped": 202,
-			"dropRate": 0.08102687525070197
+			"timesDropped": 204,
+			"dropRate": 0.08076009501187649
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 165,
-			"dropRate": 0.06618531889290012
+			"timesDropped": 168,
+			"dropRate": 0.0665083135391924
 		},
 		{
 			"itemName": "Tooth File",
-			"timesDropped": 128,
-			"dropRate": 0.05134376253509827
+			"timesDropped": 129,
+			"dropRate": 0.0510688836104513
 		},
 		{
 			"itemName": "Vampire's Cape Chain",
-			"timesDropped": 104,
-			"dropRate": 0.041716807059767345
+			"timesDropped": 106,
+			"dropRate": 0.04196357878068092
 		},
 		{
 			"itemName": "Small Ruby",
 			"timesDropped": 78,
-			"dropRate": 0.031287605294825514
+			"dropRate": 0.030878859857482184
 		},
 		{
 			"itemName": "Black Pearl",
 			"timesDropped": 56,
-			"dropRate": 0.022462896109105495
+			"dropRate": 0.022169437846397466
 		},
 		{
 			"itemName": "Blood Preservation",
-			"timesDropped": 49,
-			"dropRate": 0.01965503409546731
+			"timesDropped": 51,
+			"dropRate": 0.020190023752969122
 		},
 		{
 			"itemName": "Ice Rapier",
 			"timesDropped": 17,
-			"dropRate": 0.00681909346169274
+			"dropRate": 0.006730007917656373
 		},
 		{
 			"itemName": "Red Gem",
 			"timesDropped": 11,
-			"dropRate": 0.004412354592860008
+			"dropRate": 0.00435471100554236
 		},
 		{
 			"itemName": "Vampire Shield",
 			"timesDropped": 9,
-			"dropRate": 0.0036101083032490976
+			"dropRate": 0.0035629453681710215
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 7,
-			"dropRate": 0.002807862013638187
+			"dropRate": 0.0027711797307996833
 		},
 		{
 			"itemName": "Red Piece of Cloth",
 			"timesDropped": 2,
-			"dropRate": 0.0008022462896109105
+			"dropRate": 0.000791765637371338
 		}
 	]
 }

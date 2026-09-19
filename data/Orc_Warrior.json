@@ -1,61 +1,61 @@
 {
 	"monsterName": "Orc Warrior",
-	"timesKilled": 14889,
+	"timesKilled": 14896,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9772,
-			"dropRate": 0.6563234602726845
+			"timesDropped": 9776,
+			"dropRate": 0.6562835660580022
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 2232,
-			"dropRate": 0.14990932903485796
+			"timesDropped": 2234,
+			"dropRate": 0.14997314715359827
 		},
 		{
 			"itemName": "Broken Helmet",
 			"timesDropped": 1508,
-			"dropRate": 0.10128282624756532
+			"dropRate": 0.10123523093447906
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 1086,
-			"dropRate": 0.07293975418093895
+			"timesDropped": 1087,
+			"dropRate": 0.07297261009667025
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 607,
-			"dropRate": 0.04076835247498153
+			"timesDropped": 610,
+			"dropRate": 0.040950590762620837
 		},
 		{
 			"itemName": "Heavy Old Tome",
 			"timesDropped": 260,
-			"dropRate": 0.01746255624958023
+			"dropRate": 0.01745435016111708
 		},
 		{
 			"itemName": "Skull Belt",
 			"timesDropped": 131,
-			"dropRate": 0.008798441802673114
+			"dropRate": 0.008794307196562835
 		},
 		{
 			"itemName": "Orc Tooth",
 			"timesDropped": 125,
-			"dropRate": 0.008395459735375109
+			"dropRate": 0.008391514500537057
 		},
 		{
 			"itemName": "Copper Shield",
 			"timesDropped": 76,
-			"dropRate": 0.005104439519108066
+			"dropRate": 0.00510204081632653
 		},
 		{
 			"itemName": "Light Bandana",
 			"timesDropped": 72,
-			"dropRate": 0.0048357848075760625
+			"dropRate": 0.004833512352309345
 		},
 		{
 			"itemName": "Poison Dagger",
 			"timesDropped": 14,
-			"dropRate": 0.0009402914903620122
+			"dropRate": 0.0009398496240601503
 		}
 	]
 }
