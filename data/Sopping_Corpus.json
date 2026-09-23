@@ -1,76 +1,76 @@
 {
 	"monsterName": "Sopping Corpus",
-	"timesKilled": 2621,
+	"timesKilled": 381,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1609,
-			"dropRate": 0.613887829072873
+			"timesDropped": 181,
+			"dropRate": 0.47506561679790027
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 678,
-			"dropRate": 0.25867989317054557
+			"timesDropped": 96,
+			"dropRate": 0.25196850393700787
 		},
 		{
 			"itemName": "Organic Acid",
-			"timesDropped": 536,
-			"dropRate": 0.20450209843571157
+			"timesDropped": 69,
+			"dropRate": 0.18110236220472442
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 321,
-			"dropRate": 0.12247233880198398
+			"timesDropped": 41,
+			"dropRate": 0.10761154855643044
 		},
 		{
 			"itemName": "Crimson Sword",
-			"timesDropped": 179,
-			"dropRate": 0.06829454406714994
+			"timesDropped": 35,
+			"dropRate": 0.09186351706036745
 		},
 		{
 			"itemName": "Rotten Roots",
-			"timesDropped": 137,
-			"dropRate": 0.052270125906142696
+			"timesDropped": 18,
+			"dropRate": 0.047244094488188976
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 114,
-			"dropRate": 0.04349484929416254
+			"timesDropped": 17,
+			"dropRate": 0.04461942257217848
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 96,
-			"dropRate": 0.03662724151087371
-		},
-		{
-			"itemName": "Blue Gem",
-			"timesDropped": 25,
-			"dropRate": 0.009538344143456695
+			"timesDropped": 10,
+			"dropRate": 0.026246719160104987
 		},
 		{
 			"itemName": "Ring of Green Plasma",
-			"timesDropped": 22,
-			"dropRate": 0.008393742846241892
+			"timesDropped": 6,
+			"dropRate": 0.015748031496062992
+		},
+		{
+			"itemName": "Blue Gem",
+			"timesDropped": 4,
+			"dropRate": 0.010498687664041995
 		},
 		{
 			"itemName": "Skullcracker Armor",
-			"timesDropped": 15,
-			"dropRate": 0.005723006486074018
+			"timesDropped": 4,
+			"dropRate": 0.010498687664041995
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 13,
-			"dropRate": 0.0049599389545974815
-		},
-		{
-			"itemName": "Violet Gem",
-			"timesDropped": 10,
-			"dropRate": 0.0038153376573826785
+			"timesDropped": 3,
+			"dropRate": 0.007874015748031496
 		},
 		{
 			"itemName": "Relic Sword",
-			"timesDropped": 4,
-			"dropRate": 0.0015261350629530714
+			"timesDropped": 2,
+			"dropRate": 0.005249343832020997
+		},
+		{
+			"itemName": "Violet Gem",
+			"timesDropped": 2,
+			"dropRate": 0.005249343832020997
 		}
 	]
 }

@@ -1,61 +1,61 @@
 {
 	"monsterName": "Bloated Man-Maggot",
-	"timesKilled": 3337,
+	"timesKilled": 553,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 2024,
-			"dropRate": 0.6065328139047048
+			"timesDropped": 305,
+			"dropRate": 0.5515370705244123
 		},
 		{
 			"itemName": "Organic Acid",
-			"timesDropped": 828,
-			"dropRate": 0.2481270602337429
+			"timesDropped": 143,
+			"dropRate": 0.2585895117540687
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 247,
-			"dropRate": 0.07401857956248127
-		},
-		{
-			"itemName": "Life Ring",
-			"timesDropped": 221,
-			"dropRate": 0.06622715013485167
-		},
-		{
-			"itemName": "Small Topaz",
-			"timesDropped": 202,
-			"dropRate": 0.060533413245430025
+			"timesDropped": 39,
+			"dropRate": 0.0705244122965642
 		},
 		{
 			"itemName": "Devil Helmet",
-			"timesDropped": 153,
-			"dropRate": 0.04584956547797423
+			"timesDropped": 35,
+			"dropRate": 0.06329113924050633
 		},
 		{
-			"itemName": "Bloated Maggot",
-			"timesDropped": 147,
-			"dropRate": 0.044051543302367394
+			"itemName": "Small Topaz",
+			"timesDropped": 32,
+			"dropRate": 0.05786618444846293
+		},
+		{
+			"itemName": "Life Ring",
+			"timesDropped": 30,
+			"dropRate": 0.054249547920433995
 		},
 		{
 			"itemName": "Rotten Roots",
-			"timesDropped": 147,
-			"dropRate": 0.044051543302367394
+			"timesDropped": 22,
+			"dropRate": 0.039783001808318265
 		},
 		{
-			"itemName": "Blue Gem",
-			"timesDropped": 37,
-			"dropRate": 0.011087803416242133
+			"itemName": "Bloated Maggot",
+			"timesDropped": 21,
+			"dropRate": 0.0379746835443038
 		},
 		{
 			"itemName": "Butcher's Axe",
-			"timesDropped": 25,
-			"dropRate": 0.0074917590650284685
+			"timesDropped": 7,
+			"dropRate": 0.012658227848101266
+		},
+		{
+			"itemName": "Blue Gem",
+			"timesDropped": 6,
+			"dropRate": 0.0108499095840868
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 18,
-			"dropRate": 0.005394066526820497
+			"timesDropped": 3,
+			"dropRate": 0.0054249547920434
 		}
 	]
 }

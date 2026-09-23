@@ -1,61 +1,61 @@
 {
 	"monsterName": "Oozing Corpus",
-	"timesKilled": 4863,
+	"timesKilled": 796,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 2942,
-			"dropRate": 0.6049763520460621
+			"timesDropped": 394,
+			"dropRate": 0.4949748743718593
 		},
 		{
 			"itemName": "Organic Acid",
-			"timesDropped": 762,
-			"dropRate": 0.1566933991363356
+			"timesDropped": 110,
+			"dropRate": 0.13819095477386933
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 246,
-			"dropRate": 0.05058605798889575
-		},
-		{
-			"itemName": "Dragonbone Staff",
-			"timesDropped": 243,
-			"dropRate": 0.0499691548426897
+			"timesDropped": 53,
+			"dropRate": 0.06658291457286432
 		},
 		{
 			"itemName": "Rotten Roots",
-			"timesDropped": 202,
-			"dropRate": 0.04153814517787374
+			"timesDropped": 47,
+			"dropRate": 0.059045226130653265
 		},
 		{
-			"itemName": "Worm Sponge",
-			"timesDropped": 132,
-			"dropRate": 0.027143738433066007
+			"itemName": "Dragonbone Staff",
+			"timesDropped": 28,
+			"dropRate": 0.035175879396984924
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 112,
-			"dropRate": 0.023031050791692372
+			"timesDropped": 25,
+			"dropRate": 0.031407035175879394
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 80,
-			"dropRate": 0.01645075056549455
+			"timesDropped": 16,
+			"dropRate": 0.020100502512562814
 		},
 		{
-			"itemName": "Violet Gem",
-			"timesDropped": 27,
-			"dropRate": 0.005552128315854411
-		},
-		{
-			"itemName": "Jade Hammer",
-			"timesDropped": 25,
-			"dropRate": 0.005140859551717047
+			"itemName": "Worm Sponge",
+			"timesDropped": 14,
+			"dropRate": 0.017587939698492462
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 15,
-			"dropRate": 0.0030845157310302285
+			"timesDropped": 5,
+			"dropRate": 0.00628140703517588
+		},
+		{
+			"itemName": "Violet Gem",
+			"timesDropped": 5,
+			"dropRate": 0.00628140703517588
+		},
+		{
+			"itemName": "Jade Hammer",
+			"timesDropped": 2,
+			"dropRate": 0.002512562814070352
 		}
 	]
 }
