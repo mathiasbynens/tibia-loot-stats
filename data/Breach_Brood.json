@@ -1,136 +1,136 @@
 {
 	"monsterName": "Breach Brood",
-	"timesKilled": 21186,
+	"timesKilled": 21196,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21186,
+			"timesDropped": 21196,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 21186,
+			"timesDropped": 21196,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Energy Drink",
-			"timesDropped": 3809,
-			"dropRate": 0.17978853960162372
+			"timesDropped": 3811,
+			"dropRate": 0.17979807510851104
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 3671,
-			"dropRate": 0.1732748041159256
+			"timesDropped": 3673,
+			"dropRate": 0.17328741271938103
 		},
 		{
 			"itemName": "Spark Sphere",
-			"timesDropped": 3165,
-			"dropRate": 0.14939110733503258
+			"timesDropped": 3167,
+			"dropRate": 0.14941498395923758
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 2602,
-			"dropRate": 0.12281695459265553
+			"timesDropped": 2604,
+			"dropRate": 0.12285336856010567
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 2535,
-			"dropRate": 0.11965448881336732
+			"timesDropped": 2538,
+			"dropRate": 0.1197395735044348
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2525,
-			"dropRate": 0.11918247899556311
+			"timesDropped": 2526,
+			"dropRate": 0.11917342894885828
 		},
 		{
 			"itemName": "Plasma Pearls",
-			"timesDropped": 2166,
-			"dropRate": 0.10223732653639196
+			"timesDropped": 2168,
+			"dropRate": 0.10228344970749198
 		},
 		{
 			"itemName": "Crystallized Anger",
 			"timesDropped": 2159,
-			"dropRate": 0.10190691966392901
+			"dropRate": 0.10185884129080959
 		},
 		{
 			"itemName": "Volatile Proto Matter",
 			"timesDropped": 2116,
-			"dropRate": 0.0998772774473709
+			"dropRate": 0.09983015663332705
 		},
 		{
 			"itemName": "Curious Matter",
 			"timesDropped": 2103,
-			"dropRate": 0.09926366468422543
+			"dropRate": 0.0992168333647858
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 1653,
-			"dropRate": 0.07802322288303597
+			"timesDropped": 1654,
+			"dropRate": 0.07803359124363088
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
 			"timesDropped": 1249,
-			"dropRate": 0.05895402624374587
+			"dropRate": 0.058926212492923194
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 844,
-			"dropRate": 0.03983762862267535
+			"timesDropped": 845,
+			"dropRate": 0.039866012455180226
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 810,
-			"dropRate": 0.038232795242141036
+			"timesDropped": 811,
+			"dropRate": 0.03826193621438007
 		},
 		{
 			"itemName": "Blue Gem",
 			"timesDropped": 69,
-			"dropRate": 0.0032568677428490515
+			"dropRate": 0.0032553311945650123
 		},
 		{
 			"itemName": "Ring of Green Plasma",
 			"timesDropped": 68,
-			"dropRate": 0.0032096667610686303
+			"dropRate": 0.003208152481600302
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
 			"timesDropped": 54,
-			"dropRate": 0.002548853016142736
+			"dropRate": 0.0025476505000943572
 		},
 		{
 			"itemName": "Ring of Red Plasma",
 			"timesDropped": 48,
-			"dropRate": 0.0022656471254602095
+			"dropRate": 0.0022645782223060956
 		},
 		{
 			"itemName": "Ring of Orange Plasma",
 			"timesDropped": 44,
-			"dropRate": 0.0020768431983385254
+			"dropRate": 0.0020758633704472543
 		},
 		{
 			"itemName": "Collar of Green Plasma",
 			"timesDropped": 32,
-			"dropRate": 0.0015104314169734731
+			"dropRate": 0.0015097188148707303
 		},
 		{
 			"itemName": "Collar of Red Plasma",
 			"timesDropped": 30,
-			"dropRate": 0.001416029453412631
+			"dropRate": 0.0014153613889413097
 		},
 		{
 			"itemName": "Collar of Blue Plasma",
 			"timesDropped": 28,
-			"dropRate": 0.0013216274898517888
+			"dropRate": 0.001321003963011889
 		},
 		{
 			"itemName": "Collar of Orange Plasma",
 			"timesDropped": 23,
-			"dropRate": 0.0010856225809496838
+			"dropRate": 0.0010851103981883374
 		},
 		{
 			"itemName": "Lightning Legs",
 			"timesDropped": 19,
-			"dropRate": 0.0008968186538279996
+			"dropRate": 0.0008963955463294961
 		}
 	]
 }

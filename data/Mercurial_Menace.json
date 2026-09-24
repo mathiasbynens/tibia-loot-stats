@@ -1,66 +1,66 @@
 {
 	"monsterName": "Mercurial Menace",
-	"timesKilled": 693,
+	"timesKilled": 817,
 	"items": [
 		{
-			"itemName": "Mercurial Wing",
-			"timesDropped": 158,
-			"dropRate": 0.227994227994228
+			"itemName": "Crystal Coin",
+			"timesDropped": 180,
+			"dropRate": 0.22031823745410037
 		},
 		{
-			"itemName": "Crystal Coin",
-			"timesDropped": 151,
-			"dropRate": 0.2178932178932179
+			"itemName": "Mercurial Wing",
+			"timesDropped": 179,
+			"dropRate": 0.21909424724602203
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 25,
-			"dropRate": 0.03607503607503607
+			"timesDropped": 30,
+			"dropRate": 0.03671970624235006
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 17,
-			"dropRate": 0.024531024531024532
+			"timesDropped": 22,
+			"dropRate": 0.02692778457772338
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 15,
-			"dropRate": 0.021645021645021644
+			"timesDropped": 18,
+			"dropRate": 0.022031823745410038
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
 			"timesDropped": 12,
-			"dropRate": 0.017316017316017316
+			"dropRate": 0.014687882496940025
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 9,
-			"dropRate": 0.012987012987012988
+			"timesDropped": 11,
+			"dropRate": 0.01346389228886169
 		},
 		{
 			"itemName": "Coral Brooch",
-			"timesDropped": 8,
-			"dropRate": 0.011544011544011544
+			"timesDropped": 10,
+			"dropRate": 0.012239902080783354
 		},
 		{
 			"itemName": "Gemmed Figurine",
-			"timesDropped": 6,
-			"dropRate": 0.008658008658008658
+			"timesDropped": 7,
+			"dropRate": 0.008567931456548347
 		},
 		{
 			"itemName": "Butterfly Ring",
-			"timesDropped": 5,
-			"dropRate": 0.007215007215007215
+			"timesDropped": 6,
+			"dropRate": 0.0073439412484700125
+		},
+		{
+			"itemName": "Lightning Boots",
+			"timesDropped": 6,
+			"dropRate": 0.0073439412484700125
 		},
 		{
 			"itemName": "Dream Blossom Staff",
 			"timesDropped": 5,
-			"dropRate": 0.007215007215007215
-		},
-		{
-			"itemName": "Lightning Boots",
-			"timesDropped": 5,
-			"dropRate": 0.007215007215007215
+			"dropRate": 0.006119951040391677
 		}
 	]
 }
