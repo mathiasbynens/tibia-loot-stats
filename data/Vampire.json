@@ -1,81 +1,81 @@
 {
 	"monsterName": "Vampire",
-	"timesKilled": 12066,
+	"timesKilled": 12074,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10827,
-			"dropRate": 0.8973147687717553
+			"timesDropped": 10835,
+			"dropRate": 0.8973828060294848
 		},
 		{
 			"itemName": "Vampire Teeth",
 			"timesDropped": 979,
-			"dropRate": 0.08113707939665175
+			"dropRate": 0.08108331952956767
 		},
 		{
 			"itemName": "Blood Preservation",
 			"timesDropped": 567,
-			"dropRate": 0.04699154649428145
+			"dropRate": 0.04696041080006626
 		},
 		{
 			"itemName": "Grave Flower",
 			"timesDropped": 225,
-			"dropRate": 0.018647439085032323
+			"dropRate": 0.018635083650819943
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 221,
-			"dropRate": 0.01831592905685397
+			"timesDropped": 222,
+			"dropRate": 0.018386615868809013
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 173,
-			"dropRate": 0.014337808718713742
+			"dropRate": 0.014328308762630446
 		},
 		{
 			"itemName": "Katana",
-			"timesDropped": 162,
-			"dropRate": 0.013426156141223273
+			"timesDropped": 163,
+			"dropRate": 0.013500082822594003
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 123,
-			"dropRate": 0.010193933366484336
+			"timesDropped": 124,
+			"dropRate": 0.01027000165645188
 		},
 		{
 			"itemName": "Spike Sword",
 			"timesDropped": 117,
-			"dropRate": 0.009696668324216808
+			"dropRate": 0.00969024349842637
 		},
 		{
 			"itemName": "Ice Rapier",
 			"timesDropped": 66,
-			"dropRate": 0.005469915464942815
+			"dropRate": 0.005466291204240517
 		},
 		{
 			"itemName": "Strange Helmet",
 			"timesDropped": 49,
-			"dropRate": 0.0040609978451848164
+			"dropRate": 0.004058307106178566
 		},
 		{
 			"itemName": "Emerald Bangle",
 			"timesDropped": 26,
-			"dropRate": 0.0021548151831592907
+			"dropRate": 0.002153387444094749
 		},
 		{
 			"itemName": "Bronze Amulet",
 			"timesDropped": 22,
-			"dropRate": 0.0018233051549809381
+			"dropRate": 0.0018220970680801723
 		},
 		{
 			"itemName": "Vampire Shield",
 			"timesDropped": 14,
-			"dropRate": 0.0011602850986242334
+			"dropRate": 0.0011595163160510187
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 7,
-			"dropRate": 0.0005801425493121167
+			"dropRate": 0.0005797581580255093
 		}
 	]
 }

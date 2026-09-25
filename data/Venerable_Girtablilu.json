@@ -1,131 +1,131 @@
 {
 	"monsterName": "Venerable Girtablilu",
-	"timesKilled": 252,
+	"timesKilled": 490,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 199,
-			"dropRate": 0.7896825396825397
+			"timesDropped": 376,
+			"dropRate": 0.7673469387755102
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 37,
-			"dropRate": 0.14682539682539683
-		},
-		{
-			"itemName": "Small Diamond",
-			"timesDropped": 16,
-			"dropRate": 0.06349206349206349
-		},
-		{
-			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 12,
-			"dropRate": 0.047619047619047616
-		},
-		{
-			"itemName": "Northwind Rod",
-			"timesDropped": 11,
-			"dropRate": 0.04365079365079365
+			"timesDropped": 74,
+			"dropRate": 0.1510204081632653
 		},
 		{
 			"itemName": "Old Girtablilu Carapace",
-			"timesDropped": 11,
-			"dropRate": 0.04365079365079365
+			"timesDropped": 32,
+			"dropRate": 0.0653061224489796
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 11,
-			"dropRate": 0.04365079365079365
+			"timesDropped": 29,
+			"dropRate": 0.05918367346938776
 		},
 		{
-			"itemName": "Red Crystal Fragment",
-			"timesDropped": 10,
-			"dropRate": 0.03968253968253968
+			"itemName": "Small Diamond",
+			"timesDropped": 25,
+			"dropRate": 0.05102040816326531
+		},
+		{
+			"itemName": "Northwind Rod",
+			"timesDropped": 22,
+			"dropRate": 0.044897959183673466
+		},
+		{
+			"itemName": "Cyan Crystal Fragment",
+			"timesDropped": 19,
+			"dropRate": 0.03877551020408163
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 9,
-			"dropRate": 0.03571428571428571
+			"timesDropped": 18,
+			"dropRate": 0.036734693877551024
 		},
 		{
-			"itemName": "Green Crystal Shard",
-			"timesDropped": 7,
-			"dropRate": 0.027777777777777776
+			"itemName": "Red Crystal Fragment",
+			"timesDropped": 16,
+			"dropRate": 0.0326530612244898
 		},
 		{
 			"itemName": "Scorpion Charm",
-			"timesDropped": 7,
-			"dropRate": 0.027777777777777776
+			"timesDropped": 14,
+			"dropRate": 0.02857142857142857
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 7,
-			"dropRate": 0.027777777777777776
+			"timesDropped": 14,
+			"dropRate": 0.02857142857142857
 		},
 		{
-			"itemName": "Blue Crystal Shard",
-			"timesDropped": 6,
-			"dropRate": 0.023809523809523808
+			"itemName": "Green Crystal Shard",
+			"timesDropped": 12,
+			"dropRate": 0.024489795918367346
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 6,
-			"dropRate": 0.023809523809523808
-		},
-		{
-			"itemName": "Blue Gem",
-			"timesDropped": 5,
-			"dropRate": 0.01984126984126984
-		},
-		{
-			"itemName": "Springsprout Rod",
-			"timesDropped": 4,
-			"dropRate": 0.015873015873015872
-		},
-		{
-			"itemName": "Violet Crystal Shard",
-			"timesDropped": 4,
-			"dropRate": 0.015873015873015872
-		},
-		{
-			"itemName": "Wood Cape",
-			"timesDropped": 3,
-			"dropRate": 0.011904761904761904
+			"timesDropped": 12,
+			"dropRate": 0.024489795918367346
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 3,
-			"dropRate": 0.011904761904761904
+			"timesDropped": 12,
+			"dropRate": 0.024489795918367346
+		},
+		{
+			"itemName": "Blue Gem",
+			"timesDropped": 10,
+			"dropRate": 0.02040816326530612
+		},
+		{
+			"itemName": "Blue Crystal Shard",
+			"timesDropped": 7,
+			"dropRate": 0.014285714285714285
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 2,
-			"dropRate": 0.007936507936507936
+			"timesDropped": 7,
+			"dropRate": 0.014285714285714285
 		},
 		{
-			"itemName": "Necrotic Rod",
-			"timesDropped": 2,
-			"dropRate": 0.007936507936507936
-		},
-		{
-			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 2,
-			"dropRate": 0.007936507936507936
-		},
-		{
-			"itemName": "Wand of Decay",
-			"timesDropped": 2,
-			"dropRate": 0.007936507936507936
-		},
-		{
-			"itemName": "Wand of Defiance",
-			"timesDropped": 1,
-			"dropRate": 0.003968253968253968
+			"itemName": "Springsprout Rod",
+			"timesDropped": 7,
+			"dropRate": 0.014285714285714285
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 1,
-			"dropRate": 0.003968253968253968
+			"timesDropped": 7,
+			"dropRate": 0.014285714285714285
+		},
+		{
+			"itemName": "Violet Crystal Shard",
+			"timesDropped": 6,
+			"dropRate": 0.012244897959183673
+		},
+		{
+			"itemName": "Necrotic Rod",
+			"timesDropped": 5,
+			"dropRate": 0.01020408163265306
+		},
+		{
+			"itemName": "Ring of Blue Plasma",
+			"timesDropped": 5,
+			"dropRate": 0.01020408163265306
+		},
+		{
+			"itemName": "Wand of Decay",
+			"timesDropped": 5,
+			"dropRate": 0.01020408163265306
+		},
+		{
+			"itemName": "Wood Cape",
+			"timesDropped": 5,
+			"dropRate": 0.01020408163265306
+		},
+		{
+			"itemName": "Wand of Defiance",
+			"timesDropped": 3,
+			"dropRate": 0.006122448979591836
 		}
 	]
 }
