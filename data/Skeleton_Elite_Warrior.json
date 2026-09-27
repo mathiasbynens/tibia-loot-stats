@@ -1,81 +1,81 @@
 {
 	"monsterName": "Skeleton Elite Warrior",
-	"timesKilled": 590,
+	"timesKilled": 947,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 590,
+			"timesDropped": 947,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 295,
-			"dropRate": 0.5
+			"timesDropped": 479,
+			"dropRate": 0.5058078141499472
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 143,
-			"dropRate": 0.2423728813559322
+			"timesDropped": 251,
+			"dropRate": 0.26504751847940866
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 135,
-			"dropRate": 0.2288135593220339
+			"timesDropped": 225,
+			"dropRate": 0.2375923970432946
 		},
 		{
 			"itemName": "Pelvis Bone",
-			"timesDropped": 94,
-			"dropRate": 0.15932203389830507
+			"timesDropped": 162,
+			"dropRate": 0.17106652587117213
 		},
 		{
 			"itemName": "Unholy Bone",
-			"timesDropped": 65,
-			"dropRate": 0.11016949152542373
+			"timesDropped": 88,
+			"dropRate": 0.09292502639915523
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 36,
-			"dropRate": 0.061016949152542375
+			"timesDropped": 51,
+			"dropRate": 0.05385427666314678
 		},
 		{
 			"itemName": "Bone Toothpick",
-			"timesDropped": 30,
-			"dropRate": 0.05084745762711865
+			"timesDropped": 49,
+			"dropRate": 0.05174234424498416
 		},
 		{
 			"itemName": "Mammoth Whopper",
-			"timesDropped": 27,
-			"dropRate": 0.04576271186440678
+			"timesDropped": 44,
+			"dropRate": 0.046462513199577615
 		},
 		{
 			"itemName": "Skull Helmet",
-			"timesDropped": 27,
-			"dropRate": 0.04576271186440678
+			"timesDropped": 36,
+			"dropRate": 0.03801478352692714
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 13,
-			"dropRate": 0.022033898305084745
+			"timesDropped": 19,
+			"dropRate": 0.02006335797254488
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 11,
-			"dropRate": 0.01864406779661017
+			"timesDropped": 18,
+			"dropRate": 0.01900739176346357
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 9,
-			"dropRate": 0.015254237288135594
+			"timesDropped": 16,
+			"dropRate": 0.01689545934530095
 		},
 		{
 			"itemName": "Ruthless Axe",
-			"timesDropped": 3,
-			"dropRate": 0.005084745762711864
+			"timesDropped": 4,
+			"dropRate": 0.004223864836325237
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 2,
-			"dropRate": 0.003389830508474576
+			"timesDropped": 3,
+			"dropRate": 0.0031678986272439284
 		}
 	]
 }
