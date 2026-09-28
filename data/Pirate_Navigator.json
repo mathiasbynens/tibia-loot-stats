@@ -1,66 +1,66 @@
 {
 	"monsterName": "Pirate Navigator",
-	"timesKilled": 4629,
+	"timesKilled": 4640,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3244,
-			"dropRate": 0.7007993087059841
+			"timesDropped": 3250,
+			"dropRate": 0.7004310344827587
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 1146,
-			"dropRate": 0.2475696694750486
+			"timesDropped": 1149,
+			"dropRate": 0.24762931034482757
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 924,
-			"dropRate": 0.19961114711600778
+			"timesDropped": 926,
+			"dropRate": 0.19956896551724138
 		},
 		{
 			"itemName": "Sail Pass",
 			"timesDropped": 437,
-			"dropRate": 0.09440483905811191
+			"dropRate": 0.09418103448275862
 		},
 		{
 			"itemName": "Spear",
 			"timesDropped": 257,
-			"dropRate": 0.05551955065888961
+			"dropRate": 0.05538793103448276
 		},
 		{
 			"itemName": "Gold Tooth",
-			"timesDropped": 222,
-			"dropRate": 0.04795852235904083
+			"timesDropped": 223,
+			"dropRate": 0.048060344827586206
 		},
 		{
 			"itemName": "Rope",
 			"timesDropped": 124,
-			"dropRate": 0.026787643119464247
+			"dropRate": 0.026724137931034484
 		},
 		{
 			"itemName": "Bandana",
 			"timesDropped": 48,
-			"dropRate": 0.010369410239792612
+			"dropRate": 0.010344827586206896
 		},
 		{
 			"itemName": "Empty Goldfish Bowl",
-			"timesDropped": 44,
-			"dropRate": 0.009505292719809894
+			"timesDropped": 45,
+			"dropRate": 0.009698275862068966
 		},
 		{
 			"itemName": "Peg Leg",
 			"timesDropped": 6,
-			"dropRate": 0.0012961762799740765
+			"dropRate": 0.001293103448275862
 		},
 		{
 			"itemName": "Eye Patch",
 			"timesDropped": 5,
-			"dropRate": 0.001080146899978397
+			"dropRate": 0.0010775862068965517
 		},
 		{
 			"itemName": "Hook",
 			"timesDropped": 5,
-			"dropRate": 0.001080146899978397
+			"dropRate": 0.0010775862068965517
 		}
 	]
 }

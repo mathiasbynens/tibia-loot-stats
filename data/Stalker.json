@@ -1,46 +1,46 @@
 {
 	"monsterName": "Stalker",
-	"timesKilled": 46475,
+	"timesKilled": 46539,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6118,
-			"dropRate": 0.1316406670252824
+			"timesDropped": 6124,
+			"dropRate": 0.13158856013236211
 		},
 		{
 			"itemName": "Throwing Knife",
-			"timesDropped": 5125,
-			"dropRate": 0.11027434104357181
+			"timesDropped": 5128,
+			"dropRate": 0.11018715485936527
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 4102,
-			"dropRate": 0.08826250672404519
+			"timesDropped": 4105,
+			"dropRate": 0.0882055910096908
 		},
 		{
 			"itemName": "Brass Shield",
-			"timesDropped": 2605,
-			"dropRate": 0.05605164066702528
+			"timesDropped": 2611,
+			"dropRate": 0.056103483100195535
 		},
 		{
 			"itemName": "Brass Legs",
-			"timesDropped": 1661,
-			"dropRate": 0.0357396449704142
+			"timesDropped": 1666,
+			"dropRate": 0.035797932916478654
 		},
 		{
 			"itemName": "Miraculum",
-			"timesDropped": 718,
-			"dropRate": 0.015449166218396988
+			"timesDropped": 719,
+			"dropRate": 0.015449408023378242
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 541,
-			"dropRate": 0.01164066702528241
+			"timesDropped": 543,
+			"dropRate": 0.011667633597627796
 		},
 		{
 			"itemName": "Katana",
 			"timesDropped": 241,
-			"dropRate": 0.005185583647122109
+			"dropRate": 0.005178452480715099
 		}
 	]
 }

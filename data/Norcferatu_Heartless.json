@@ -1,71 +1,71 @@
 {
 	"monsterName": "Norcferatu Heartless",
-	"timesKilled": 1941,
+	"timesKilled": 2174,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1230,
-			"dropRate": 0.633693972179289
+			"timesDropped": 1369,
+			"dropRate": 0.6297148114075437
 		},
 		{
 			"itemName": "Heart Amphora",
-			"timesDropped": 120,
-			"dropRate": 0.061823802163833076
-		},
-		{
-			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 92,
-			"dropRate": 0.04739824832560536
+			"timesDropped": 138,
+			"dropRate": 0.06347746090156393
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 90,
-			"dropRate": 0.04636785162287481
+			"timesDropped": 102,
+			"dropRate": 0.046918123275068994
+		},
+		{
+			"itemName": "Blue Crystal Splinter",
+			"timesDropped": 100,
+			"dropRate": 0.045998160073597055
 		},
 		{
 			"itemName": "Pot of Orcish Warpaint",
-			"timesDropped": 88,
-			"dropRate": 0.04533745492014426
+			"timesDropped": 98,
+			"dropRate": 0.045078196872125116
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 69,
-			"dropRate": 0.03554868624420402
+			"timesDropped": 83,
+			"dropRate": 0.038178472861085555
 		},
 		{
 			"itemName": "Vampire Teeth",
-			"timesDropped": 49,
-			"dropRate": 0.025244719216898505
+			"timesDropped": 54,
+			"dropRate": 0.02483900643974241
 		},
 		{
 			"itemName": "Spiked Gorget",
-			"timesDropped": 33,
-			"dropRate": 0.017001545595054096
+			"timesDropped": 40,
+			"dropRate": 0.01839926402943882
 		},
 		{
 			"itemName": "War Axe",
-			"timesDropped": 22,
-			"dropRate": 0.011334363730036065
+			"timesDropped": 24,
+			"dropRate": 0.011039558417663294
+		},
+		{
+			"itemName": "Chaos Mace",
+			"timesDropped": 14,
+			"dropRate": 0.006439742410303588
 		},
 		{
 			"itemName": "Norcferatu Talisman",
 			"timesDropped": 14,
-			"dropRate": 0.0072127769191138585
+			"dropRate": 0.006439742410303588
 		},
 		{
 			"itemName": "Greater Garlic Necklace",
-			"timesDropped": 12,
-			"dropRate": 0.0061823802163833074
-		},
-		{
-			"itemName": "Chaos Mace",
-			"timesDropped": 11,
-			"dropRate": 0.005667181865018032
+			"timesDropped": 13,
+			"dropRate": 0.005979760809567618
 		},
 		{
 			"itemName": "Vampire Shield",
-			"timesDropped": 4,
-			"dropRate": 0.0020607934054611026
+			"timesDropped": 5,
+			"dropRate": 0.0022999080036798527
 		}
 	]
 }

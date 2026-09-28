@@ -1,51 +1,51 @@
 {
 	"monsterName": "Varg",
-	"timesKilled": 1307,
+	"timesKilled": 1529,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 908,
-			"dropRate": 0.6947207345065034
+			"timesDropped": 1057,
+			"dropRate": 0.6913015042511446
 		},
 		{
 			"itemName": "Onyx Arrow",
-			"timesDropped": 106,
-			"dropRate": 0.0811017597551645
+			"timesDropped": 118,
+			"dropRate": 0.07717462393721386
 		},
 		{
 			"itemName": "Ritual Bone Knife",
-			"timesDropped": 87,
-			"dropRate": 0.0665646518745218
+			"timesDropped": 96,
+			"dropRate": 0.06278613472858077
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 64,
-			"dropRate": 0.04896710022953328
+			"timesDropped": 69,
+			"dropRate": 0.04512753433616743
 		},
 		{
 			"itemName": "Vampire Teeth",
-			"timesDropped": 27,
-			"dropRate": 0.020657995409334353
-		},
-		{
-			"itemName": "Onyx Chip",
-			"timesDropped": 26,
-			"dropRate": 0.019892884468247895
+			"timesDropped": 33,
+			"dropRate": 0.02158273381294964
 		},
 		{
 			"itemName": "Bat Wing",
-			"timesDropped": 25,
-			"dropRate": 0.019127773527161437
+			"timesDropped": 32,
+			"dropRate": 0.020928711576193592
+		},
+		{
+			"itemName": "Onyx Chip",
+			"timesDropped": 31,
+			"dropRate": 0.020274689339437543
 		},
 		{
 			"itemName": "Norcferatu Talisman",
-			"timesDropped": 10,
-			"dropRate": 0.0076511094108645756
+			"timesDropped": 12,
+			"dropRate": 0.007848266841072597
 		},
 		{
 			"itemName": "Batwing Hat",
 			"timesDropped": 3,
-			"dropRate": 0.0022953328232593728
+			"dropRate": 0.001962066710268149
 		}
 	]
 }

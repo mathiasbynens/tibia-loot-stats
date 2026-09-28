@@ -1,71 +1,71 @@
 {
 	"monsterName": "Dwarf Geomancer",
-	"timesKilled": 4869,
+	"timesKilled": 4876,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3671,
-			"dropRate": 0.753953583898131
+			"timesDropped": 3677,
+			"dropRate": 0.7541017227235439
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 2887,
-			"dropRate": 0.5929348942287944
+			"timesDropped": 2893,
+			"dropRate": 0.5933141919606235
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 1636,
-			"dropRate": 0.33600328609570757
+			"timesDropped": 1643,
+			"dropRate": 0.33695652173913043
 		},
 		{
 			"itemName": "Pear",
-			"timesDropped": 1216,
-			"dropRate": 0.24974327377284863
+			"timesDropped": 1218,
+			"dropRate": 0.2497949138638228
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 669,
-			"dropRate": 0.13739987677141097
+			"timesDropped": 670,
+			"dropRate": 0.13740771123872025
 		},
 		{
 			"itemName": "Geomancer's Robe",
-			"timesDropped": 389,
-			"dropRate": 0.07989320188950504
+			"timesDropped": 390,
+			"dropRate": 0.07998359310910583
 		},
 		{
 			"itemName": "Geomancer's Staff",
-			"timesDropped": 318,
-			"dropRate": 0.06531115218730746
+			"timesDropped": 320,
+			"dropRate": 0.06562756357670221
 		},
 		{
 			"itemName": "Clerical Mace",
 			"timesDropped": 51,
-			"dropRate": 0.010474430067775724
+			"dropRate": 0.010459392945036915
 		},
 		{
 			"itemName": "Dwarven Ring",
 			"timesDropped": 34,
-			"dropRate": 0.006982953378517149
+			"dropRate": 0.00697292863002461
 		},
 		{
 			"itemName": "Small Sapphire",
 			"timesDropped": 29,
-			"dropRate": 0.005956048469911686
+			"dropRate": 0.005947497949138638
 		},
 		{
 			"itemName": "Spellbook",
 			"timesDropped": 24,
-			"dropRate": 0.004929143561306223
+			"dropRate": 0.004922067268252666
 		},
 		{
 			"itemName": "Terra Boots",
 			"timesDropped": 20,
-			"dropRate": 0.004107619634421853
+			"dropRate": 0.004101722723543888
 		},
 		{
 			"itemName": "Iron Ore",
 			"timesDropped": 15,
-			"dropRate": 0.0030807147258163892
+			"dropRate": 0.0030762920426579163
 		}
 	]
 }

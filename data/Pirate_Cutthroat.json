@@ -1,71 +1,71 @@
 {
 	"monsterName": "Pirate Cutthroat",
-	"timesKilled": 50724,
+	"timesKilled": 50767,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 39359,
-			"dropRate": 0.7759443261572431
+			"timesDropped": 39395,
+			"dropRate": 0.7759962180156401
 		},
 		{
 			"itemName": "Compass",
-			"timesDropped": 5088,
-			"dropRate": 0.10030754672344452
+			"timesDropped": 5095,
+			"dropRate": 0.10036047038430476
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 1534,
-			"dropRate": 0.030242094472044793
+			"timesDropped": 1536,
+			"dropRate": 0.03025587487935076
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 1470,
-			"dropRate": 0.02898036432458008
+			"timesDropped": 1472,
+			"dropRate": 0.028995213426044476
 		},
 		{
 			"itemName": "Light Shovel",
-			"timesDropped": 982,
-			"dropRate": 0.01935967195016166
+			"timesDropped": 984,
+			"dropRate": 0.01938266984458408
 		},
 		{
 			"itemName": "Treasure Map (Pirate)",
 			"timesDropped": 555,
-			"dropRate": 0.010941566122545541
+			"dropRate": 0.010932298540390411
 		},
 		{
 			"itemName": "Pirate Knee Breeches",
 			"timesDropped": 526,
-			"dropRate": 0.010369844649475593
+			"dropRate": 0.010361061319361002
 		},
 		{
 			"itemName": "Pirate Bag",
 			"timesDropped": 496,
-			"dropRate": 0.00977840864285151
+			"dropRate": 0.009770126263123683
 		},
 		{
 			"itemName": "Hook",
 			"timesDropped": 268,
-			"dropRate": 0.005283494992508477
+			"dropRate": 0.005279019835720054
 		},
 		{
 			"itemName": "Peg Leg",
 			"timesDropped": 264,
-			"dropRate": 0.005204636858291933
+			"dropRate": 0.005200228494888412
 		},
 		{
 			"itemName": "Eye Patch",
-			"timesDropped": 234,
-			"dropRate": 0.0046132008516678496
+			"timesDropped": 235,
+			"dropRate": 0.004628991273859003
 		},
 		{
 			"itemName": "Die",
 			"timesDropped": 49,
-			"dropRate": 0.0009660121441526693
+			"dropRate": 0.0009651939251876219
 		},
 		{
 			"itemName": "Rum Flask",
 			"timesDropped": 46,
-			"dropRate": 0.0009068685434902611
+			"dropRate": 0.0009061004195638899
 		}
 	]
 }

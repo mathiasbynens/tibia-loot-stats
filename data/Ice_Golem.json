@@ -1,71 +1,71 @@
 {
 	"monsterName": "Ice Golem",
-	"timesKilled": 66082,
+	"timesKilled": 66108,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 66082,
+			"timesDropped": 66108,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Frosty Heart",
-			"timesDropped": 9453,
-			"dropRate": 0.14304954450531157
+			"timesDropped": 9458,
+			"dropRate": 0.14306891752889211
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 3354,
-			"dropRate": 0.05075512242365546
+			"timesDropped": 3356,
+			"dropRate": 0.050765414170750894
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1983,
-			"dropRate": 0.03000817166550649
+			"timesDropped": 1984,
+			"dropRate": 0.03001149633932353
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1633,
-			"dropRate": 0.024711721800187644
+			"timesDropped": 1634,
+			"dropRate": 0.024717129545592062
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 979,
-			"dropRate": 0.014814926908991858
+			"timesDropped": 980,
+			"dropRate": 0.014824227022448115
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 487,
-			"dropRate": 0.007369631669743652
+			"dropRate": 0.007366733224420645
 		},
 		{
 			"itemName": "Crystal Sword",
 			"timesDropped": 376,
-			"dropRate": 0.005689900426742532
+			"dropRate": 0.005687662612694379
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 370,
-			"dropRate": 0.005599104143337066
+			"timesDropped": 371,
+			"dropRate": 0.005612028801355358
 		},
 		{
 			"itemName": "Strange Helmet",
 			"timesDropped": 233,
-			"dropRate": 0.0035259223389122606
+			"dropRate": 0.003524535608398378
 		},
 		{
 			"itemName": "Ice Rapier",
 			"timesDropped": 217,
-			"dropRate": 0.0032837989164976847
+			"dropRate": 0.0032825074121135113
 		},
 		{
 			"itemName": "Shard",
 			"timesDropped": 123,
-			"dropRate": 0.0018613238098120516
+			"dropRate": 0.0018605917589399165
 		},
 		{
 			"itemName": "Glacier Mask",
 			"timesDropped": 121,
-			"dropRate": 0.0018310583820102296
+			"dropRate": 0.0018303382344043082
 		}
 	]
 }

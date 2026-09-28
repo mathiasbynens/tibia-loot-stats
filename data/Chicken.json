@@ -1,26 +1,26 @@
 {
 	"monsterName": "Chicken",
-	"timesKilled": 22232,
+	"timesKilled": 22237,
 	"items": [
 		{
 			"itemName": "Chicken Feather",
 			"timesDropped": 3968,
-			"dropRate": 0.17848146815401222
+			"dropRate": 0.17844133651122004
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 1962,
-			"dropRate": 0.08825116948542641
+			"timesDropped": 1963,
+			"dropRate": 0.08827629626298511
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 391,
-			"dropRate": 0.017587261604893847
+			"timesDropped": 392,
+			"dropRate": 0.01762827719566488
 		},
 		{
 			"itemName": "Egg",
 			"timesDropped": 189,
-			"dropRate": 0.00850125944584383
+			"dropRate": 0.00849934793362414
 		}
 	]
 }

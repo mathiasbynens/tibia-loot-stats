@@ -1,131 +1,131 @@
 {
 	"monsterName": "Sparkion",
-	"timesKilled": 21246,
+	"timesKilled": 21270,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21246,
+			"timesDropped": 21270,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 19120,
-			"dropRate": 0.8999341052433399
+			"timesDropped": 19142,
+			"dropRate": 0.8999529854254819
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 3253,
-			"dropRate": 0.15311117386802223
+			"timesDropped": 3258,
+			"dropRate": 0.15317348377997178
 		},
 		{
 			"itemName": "Sparkion Claw",
-			"timesDropped": 3194,
-			"dropRate": 0.15033418055163325
+			"timesDropped": 3196,
+			"dropRate": 0.15025858015984955
 		},
 		{
 			"itemName": "Energy Drink",
-			"timesDropped": 3189,
-			"dropRate": 0.1500988421349901
+			"timesDropped": 3192,
+			"dropRate": 0.15007052186177716
 		},
 		{
 			"itemName": "Sparkion Stings",
-			"timesDropped": 2943,
-			"dropRate": 0.138520192036148
+			"timesDropped": 2948,
+			"dropRate": 0.13859896567936061
 		},
 		{
 			"itemName": "Sparkion Legs",
-			"timesDropped": 2345,
-			"dropRate": 0.11037371740562929
+			"timesDropped": 2350,
+			"dropRate": 0.11048425011753643
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2158,
-			"dropRate": 0.10157206062317613
+			"timesDropped": 2160,
+			"dropRate": 0.10155148095909731
 		},
 		{
 			"itemName": "Great Health Potion",
 			"timesDropped": 2126,
-			"dropRate": 0.10006589475666007
+			"dropRate": 0.0999529854254819
 		},
 		{
 			"itemName": "Sparkion Tail",
-			"timesDropped": 2077,
-			"dropRate": 0.09775957827355737
+			"timesDropped": 2078,
+			"dropRate": 0.09769628584861308
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 2049,
-			"dropRate": 0.09644168314035584
+			"timesDropped": 2051,
+			"dropRate": 0.09642689233662435
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
 			"timesDropped": 1775,
-			"dropRate": 0.08354513790831215
+			"dropRate": 0.08345086976962858
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 1219,
-			"dropRate": 0.05737550597759578
+			"timesDropped": 1220,
+			"dropRate": 0.05735778091208275
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 1045,
-			"dropRate": 0.04918572907841476
+			"timesDropped": 1047,
+			"dropRate": 0.04922425952045134
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 946,
-			"dropRate": 0.04452602842888073
+			"timesDropped": 948,
+			"dropRate": 0.04456981664315938
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 195,
-			"dropRate": 0.00917819824908218
+			"timesDropped": 196,
+			"dropRate": 0.00921485660554772
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
 			"timesDropped": 166,
-			"dropRate": 0.00781323543255201
+			"dropRate": 0.007804419370004701
 		},
 		{
 			"itemName": "Ring of Orange Plasma",
 			"timesDropped": 61,
-			"dropRate": 0.0028711286830462204
+			"dropRate": 0.0028678890456041374
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
 			"timesDropped": 51,
-			"dropRate": 0.0024004518497599547
+			"dropRate": 0.002397743300423131
 		},
 		{
 			"itemName": "Ring of Red Plasma",
 			"timesDropped": 50,
-			"dropRate": 0.0023533841664313284
+			"dropRate": 0.0023507287259050304
 		},
 		{
 			"itemName": "Ring of Green Plasma",
 			"timesDropped": 49,
-			"dropRate": 0.0023063164831027016
+			"dropRate": 0.00230371415138693
 		},
 		{
 			"itemName": "Collar of Blue Plasma",
 			"timesDropped": 41,
-			"dropRate": 0.001929775016473689
+			"dropRate": 0.0019275975552421251
 		},
 		{
 			"itemName": "Collar of Red Plasma",
-			"timesDropped": 33,
-			"dropRate": 0.0015532335498446767
+			"timesDropped": 35,
+			"dropRate": 0.0016455101081335214
 		},
 		{
 			"itemName": "Collar of Orange Plasma",
 			"timesDropped": 31,
-			"dropRate": 0.0014590981831874236
+			"dropRate": 0.001457451810061119
 		},
 		{
 			"itemName": "Collar of Green Plasma",
 			"timesDropped": 30,
-			"dropRate": 0.001412030499858797
+			"dropRate": 0.0014104372355430183
 		}
 	]
 }

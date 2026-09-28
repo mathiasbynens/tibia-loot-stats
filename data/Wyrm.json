@@ -1,86 +1,86 @@
 {
 	"monsterName": "Wyrm",
-	"timesKilled": 78734,
+	"timesKilled": 78855,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 76282,
-			"dropRate": 0.968857164630274
+			"timesDropped": 76402,
+			"dropRate": 0.968892270623296
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 27469,
-			"dropRate": 0.3488835826961668
+			"timesDropped": 27506,
+			"dropRate": 0.3488174497495403
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 16002,
-			"dropRate": 0.2032412934691493
+			"timesDropped": 16025,
+			"dropRate": 0.20322110202269988
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 11988,
-			"dropRate": 0.15225950669342342
+			"timesDropped": 12008,
+			"dropRate": 0.15227950034874135
 		},
 		{
 			"itemName": "Wyrm Scale",
-			"timesDropped": 11763,
-			"dropRate": 0.14940178321944775
+			"timesDropped": 11781,
+			"dropRate": 0.14940079893475366
 		},
 		{
 			"itemName": "Burst Arrow",
-			"timesDropped": 6279,
-			"dropRate": 0.07974953641374756
+			"timesDropped": 6284,
+			"dropRate": 0.07969057130175639
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 4722,
-			"dropRate": 0.05997408997383595
+			"timesDropped": 4728,
+			"dropRate": 0.05995815103671295
 		},
 		{
 			"itemName": "Focus Cape",
-			"timesDropped": 969,
-			"dropRate": 0.012307262427921864
+			"timesDropped": 970,
+			"dropRate": 0.012301058905586203
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 803,
-			"dropRate": 0.010198897553788706
+			"timesDropped": 806,
+			"dropRate": 0.010221292245260288
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 720,
-			"dropRate": 0.009144715116722128
+			"dropRate": 0.00913068289899182
 		},
 		{
 			"itemName": "Lightning Pendant",
 			"timesDropped": 579,
-			"dropRate": 0.007353875073030711
+			"dropRate": 0.007342590831272589
 		},
 		{
 			"itemName": "Wand of Starstorm",
 			"timesDropped": 352,
-			"dropRate": 0.004470749612619707
+			"dropRate": 0.00446388941728489
 		},
 		{
 			"itemName": "Hibiscus Dress",
 			"timesDropped": 246,
-			"dropRate": 0.003124444331546727
+			"dropRate": 0.003119649990488872
 		},
 		{
 			"itemName": "Composite Hornbow",
 			"timesDropped": 81,
-			"dropRate": 0.0010287804506312393
+			"dropRate": 0.0010272018261365799
 		},
 		{
 			"itemName": "Dragonbone Staff",
 			"timesDropped": 76,
-			"dropRate": 0.0009652754845428913
+			"dropRate": 0.0009637943060046922
 		},
 		{
 			"itemName": "Shockwave Amulet",
 			"timesDropped": 68,
-			"dropRate": 0.0008636675388015342
+			"dropRate": 0.000862342273793672
 		}
 	]
 }

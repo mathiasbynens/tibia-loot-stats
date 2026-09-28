@@ -1,66 +1,66 @@
 {
 	"monsterName": "Lizard Templar",
-	"timesKilled": 576,
+	"timesKilled": 579,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 467,
-			"dropRate": 0.8107638888888888
+			"timesDropped": 469,
+			"dropRate": 0.8100172711571675
 		},
 		{
 			"itemName": "Short Sword",
 			"timesDropped": 50,
-			"dropRate": 0.08680555555555555
+			"dropRate": 0.08635578583765112
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 31,
-			"dropRate": 0.05381944444444445
+			"timesDropped": 32,
+			"dropRate": 0.055267702936096716
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 14,
-			"dropRate": 0.024305555555555556
+			"dropRate": 0.024179620034542316
 		},
 		{
 			"itemName": "Morning Star",
 			"timesDropped": 10,
-			"dropRate": 0.017361111111111112
+			"dropRate": 0.017271157167530225
 		},
 		{
 			"itemName": "Lizard Leather",
 			"timesDropped": 7,
-			"dropRate": 0.012152777777777778
+			"dropRate": 0.012089810017271158
 		},
 		{
 			"itemName": "Plate Armor",
 			"timesDropped": 7,
-			"dropRate": 0.012152777777777778
+			"dropRate": 0.012089810017271158
 		},
 		{
 			"itemName": "Lizard Scale",
 			"timesDropped": 6,
-			"dropRate": 0.010416666666666666
+			"dropRate": 0.010362694300518135
 		},
 		{
 			"itemName": "Salamander Shield",
 			"timesDropped": 2,
-			"dropRate": 0.003472222222222222
+			"dropRate": 0.0034542314335060447
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 2,
-			"dropRate": 0.003472222222222222
+			"dropRate": 0.0034542314335060447
 		},
 		{
 			"itemName": "Templar Scytheblade",
 			"timesDropped": 2,
-			"dropRate": 0.003472222222222222
+			"dropRate": 0.0034542314335060447
 		},
 		{
 			"itemName": "Zaoan Monk Robe",
 			"timesDropped": 1,
-			"dropRate": 0.001736111111111111
+			"dropRate": 0.0017271157167530224
 		}
 	]
 }

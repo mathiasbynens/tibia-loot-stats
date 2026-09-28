@@ -1,131 +1,131 @@
 {
 	"monsterName": "Enslaved Dwarf",
-	"timesKilled": 4046,
+	"timesKilled": 4088,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4046,
+			"timesDropped": 4088,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4046,
+			"timesDropped": 4088,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 581,
-			"dropRate": 0.14359861591695502
+			"timesDropped": 588,
+			"dropRate": 0.14383561643835616
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 424,
-			"dropRate": 0.10479485912011864
+			"timesDropped": 428,
+			"dropRate": 0.10469667318982387
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 422,
-			"dropRate": 0.10430054374691053
+			"timesDropped": 427,
+			"dropRate": 0.10445205479452055
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 389,
-			"dropRate": 0.09614434008897677
+			"timesDropped": 395,
+			"dropRate": 0.09662426614481409
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 242,
-			"dropRate": 0.05981216015818092
+			"timesDropped": 245,
+			"dropRate": 0.059931506849315065
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 239,
-			"dropRate": 0.05907068709836876
+			"timesDropped": 241,
+			"dropRate": 0.05895303326810176
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 217,
-			"dropRate": 0.05363321799307959
+			"timesDropped": 218,
+			"dropRate": 0.05332681017612524
 		},
 		{
 			"itemName": "Drill Bolt",
 			"timesDropped": 207,
-			"dropRate": 0.051161641127039054
+			"dropRate": 0.05063600782778865
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 186,
-			"dropRate": 0.04597132970835393
+			"timesDropped": 189,
+			"dropRate": 0.046232876712328765
 		},
 		{
 			"itemName": "War Hammer",
 			"timesDropped": 155,
-			"dropRate": 0.03830944142362828
+			"dropRate": 0.037915851272015653
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 150,
-			"dropRate": 0.03707365299060801
+			"timesDropped": 151,
+			"dropRate": 0.036937377690802346
+		},
+		{
+			"itemName": "Ancient Shield",
+			"timesDropped": 133,
+			"dropRate": 0.032534246575342464
 		},
 		{
 			"itemName": "Green Crystal Splinter",
 			"timesDropped": 131,
-			"dropRate": 0.03237765694513099
-		},
-		{
-			"itemName": "Ancient Shield",
-			"timesDropped": 129,
-			"dropRate": 0.03188334157192289
+			"dropRate": 0.03204500978473581
 		},
 		{
 			"itemName": "Guardian Shield",
 			"timesDropped": 103,
-			"dropRate": 0.0254572417202175
+			"dropRate": 0.02519569471624266
 		},
 		{
 			"itemName": "Green Crystal Shard",
 			"timesDropped": 80,
-			"dropRate": 0.019772614928324272
+			"dropRate": 0.019569471624266144
 		},
 		{
 			"itemName": "Axe Ring",
 			"timesDropped": 78,
-			"dropRate": 0.019278299555116164
+			"dropRate": 0.01908023483365949
 		},
 		{
 			"itemName": "Glorious Axe",
 			"timesDropped": 68,
-			"dropRate": 0.01680672268907563
+			"dropRate": 0.016634050880626222
 		},
 		{
 			"itemName": "Coal",
 			"timesDropped": 50,
-			"dropRate": 0.012357884330202669
+			"dropRate": 0.01223091976516634
 		},
 		{
 			"itemName": "Titan Axe",
 			"timesDropped": 42,
-			"dropRate": 0.010380622837370242
+			"dropRate": 0.010273972602739725
 		},
 		{
 			"itemName": "Tower Shield",
 			"timesDropped": 20,
-			"dropRate": 0.004943153732081068
+			"dropRate": 0.004892367906066536
 		},
 		{
 			"itemName": "Sapphire Hammer",
 			"timesDropped": 15,
-			"dropRate": 0.0037073652990608007
+			"dropRate": 0.003669275929549902
 		},
 		{
 			"itemName": "Warrior Helmet",
 			"timesDropped": 14,
-			"dropRate": 0.0034602076124567475
+			"dropRate": 0.003424657534246575
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.00024715768660405336
+			"dropRate": 0.0002446183953033268
 		}
 	]
 }

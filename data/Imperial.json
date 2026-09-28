@@ -1,26 +1,26 @@
 {
 	"monsterName": "Imperial",
-	"timesKilled": 41,
+	"timesKilled": 42,
 	"items": [
 		{
 			"itemName": "Tender Venison",
-			"timesDropped": 41,
+			"timesDropped": 42,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 35,
-			"dropRate": 0.8536585365853658
+			"timesDropped": 36,
+			"dropRate": 0.8571428571428571
 		},
 		{
 			"itemName": "Ham",
 			"timesDropped": 16,
-			"dropRate": 0.3902439024390244
+			"dropRate": 0.38095238095238093
 		},
 		{
 			"itemName": "Antlers",
 			"timesDropped": 3,
-			"dropRate": 0.07317073170731707
+			"dropRate": 0.07142857142857142
 		}
 	]
 }

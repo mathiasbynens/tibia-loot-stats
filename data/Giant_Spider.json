@@ -1,71 +1,71 @@
 {
 	"monsterName": "Giant Spider",
-	"timesKilled": 104396,
+	"timesKilled": 104404,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 104381,
-			"dropRate": 0.9998563163339591
+			"timesDropped": 104389,
+			"dropRate": 0.9998563273437799
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 12452,
-			"dropRate": 0.11927660063603969
+			"timesDropped": 12454,
+			"dropRate": 0.11928661737098195
 		},
 		{
 			"itemName": "Plate Armor",
 			"timesDropped": 10479,
-			"dropRate": 0.10037740909613395
+			"dropRate": 0.10036971763533964
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 8239,
-			"dropRate": 0.07892064830070118
+			"timesDropped": 8242,
+			"dropRate": 0.0789433355043868
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 5308,
-			"dropRate": 0.05084485995632017
+			"timesDropped": 5309,
+			"dropRate": 0.0508505421248228
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 5121,
-			"dropRate": 0.04905360358634431
+			"dropRate": 0.04904984483353128
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 3700,
-			"dropRate": 0.03544197095674164
+			"dropRate": 0.035439255200950155
 		},
 		{
 			"itemName": "Spider Silk",
 			"timesDropped": 2069,
-			"dropRate": 0.01981876700256715
+			"dropRate": 0.019817248381288073
 		},
 		{
 			"itemName": "Knight Legs",
 			"timesDropped": 852,
-			"dropRate": 0.008161232231119966
+			"dropRate": 0.008160606873299874
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 749,
-			"dropRate": 0.007174604390972834
+			"dropRate": 0.007174054633922072
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 515,
-			"dropRate": 0.00493313920073566
+			"dropRate": 0.0049327611968890085
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 284,
-			"dropRate": 0.002720410743706655
+			"dropRate": 0.002720202291099958
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 284,
-			"dropRate": 0.002720410743706655
+			"dropRate": 0.002720202291099958
 		}
 	]
 }

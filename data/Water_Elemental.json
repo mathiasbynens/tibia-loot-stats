@@ -1,66 +1,66 @@
 {
 	"monsterName": "Water Elemental",
-	"timesKilled": 1211,
+	"timesKilled": 1214,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1211,
+			"timesDropped": 1214,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 300,
-			"dropRate": 0.2477291494632535
+			"timesDropped": 301,
+			"dropRate": 0.24794069192751236
 		},
 		{
 			"itemName": "Fish",
 			"timesDropped": 225,
-			"dropRate": 0.18579686209744012
+			"dropRate": 0.18533772652388797
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 144,
-			"dropRate": 0.11890999174236168
+			"dropRate": 0.1186161449752883
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 113,
-			"dropRate": 0.09331131296449216
+			"dropRate": 0.09308072487644152
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 35,
-			"dropRate": 0.028901734104046242
+			"dropRate": 0.028830313014827018
+		},
+		{
+			"itemName": "Rainbow Trout",
+			"timesDropped": 18,
+			"dropRate": 0.014827018121911038
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 18,
-			"dropRate": 0.01486374896779521
-		},
-		{
-			"itemName": "Rainbow Trout",
-			"timesDropped": 17,
-			"dropRate": 0.014037985136251032
+			"dropRate": 0.014827018121911038
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 14,
-			"dropRate": 0.011560693641618497
+			"dropRate": 0.011532125205930808
 		},
 		{
 			"itemName": "Energy Ring",
 			"timesDropped": 12,
-			"dropRate": 0.00990916597853014
+			"dropRate": 0.009884678747940691
 		},
 		{
 			"itemName": "Green Perch",
 			"timesDropped": 11,
-			"dropRate": 0.009083402146985962
+			"dropRate": 0.009060955518945634
 		},
 		{
 			"itemName": "Life Ring",
 			"timesDropped": 10,
-			"dropRate": 0.008257638315441783
+			"dropRate": 0.008237232289950576
 		}
 	]
 }

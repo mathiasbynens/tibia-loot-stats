@@ -1,46 +1,46 @@
 {
 	"monsterName": "Mammoth",
-	"timesKilled": 31703,
+	"timesKilled": 31711,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 28539,
-			"dropRate": 0.900198719364098
+			"timesDropped": 28546,
+			"dropRate": 0.9001923622717669
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 12720,
-			"dropRate": 0.40122385894079426
+			"timesDropped": 12723,
+			"dropRate": 0.401217243227902
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 9418,
-			"dropRate": 0.2970696779484591
+			"timesDropped": 9419,
+			"dropRate": 0.2970262684872757
 		},
 		{
 			"itemName": "Mammoth Tusk",
 			"timesDropped": 2407,
-			"dropRate": 0.07592341418793175
+			"dropRate": 0.07590426035129766
 		},
 		{
 			"itemName": "Thick Fur",
 			"timesDropped": 2402,
-			"dropRate": 0.07576570040690156
+			"dropRate": 0.0757465863580461
 		},
 		{
 			"itemName": "Mammoth Whopper",
 			"timesDropped": 760,
-			"dropRate": 0.023972494716588334
+			"dropRate": 0.02396644697423607
 		},
 		{
 			"itemName": "Furry Club",
 			"timesDropped": 173,
-			"dropRate": 0.00545689682364445
+			"dropRate": 0.005455520166503737
 		},
 		{
 			"itemName": "Tusk Shield",
 			"timesDropped": 160,
-			"dropRate": 0.005046840992965965
+			"dropRate": 0.005045567784049699
 		}
 	]
 }

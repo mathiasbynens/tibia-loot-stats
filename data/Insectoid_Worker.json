@@ -1,36 +1,36 @@
 {
 	"monsterName": "Insectoid Worker",
-	"timesKilled": 59113,
+	"timesKilled": 59122,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 59113,
+			"timesDropped": 59122,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 8854,
-			"dropRate": 0.14978092805305093
+			"timesDropped": 8859,
+			"dropRate": 0.14984269814958898
 		},
 		{
 			"itemName": "Dung Ball",
-			"timesDropped": 8610,
-			"dropRate": 0.14565324040397207
+			"timesDropped": 8612,
+			"dropRate": 0.14566489631609214
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 2893,
-			"dropRate": 0.04894016544584102
+			"timesDropped": 2894,
+			"dropRate": 0.04894962957951355
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 1688,
-			"dropRate": 0.028555478490348993
+			"dropRate": 0.02855113155847231
 		},
 		{
 			"itemName": "Epee",
 			"timesDropped": 329,
-			"dropRate": 0.005565611625192428
+			"dropRate": 0.005564764385507933
 		}
 	]
 }

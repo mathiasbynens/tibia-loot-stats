@@ -1,56 +1,56 @@
 {
 	"monsterName": "Black Sphinx Acolyte",
-	"timesKilled": 6765,
+	"timesKilled": 6790,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6765,
+			"timesDropped": 6790,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Snakebite Rod",
 			"timesDropped": 492,
-			"dropRate": 0.07272727272727272
+			"dropRate": 0.07245949926362298
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 449,
-			"dropRate": 0.06637102734663711
+			"timesDropped": 450,
+			"dropRate": 0.0662739322533137
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 430,
-			"dropRate": 0.06356245380635625
+			"timesDropped": 431,
+			"dropRate": 0.06347569955817378
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 227,
-			"dropRate": 0.033555062823355505
+			"timesDropped": 228,
+			"dropRate": 0.03357879234167894
 		},
 		{
 			"itemName": "Opal",
 			"timesDropped": 218,
-			"dropRate": 0.03222468588322247
+			"dropRate": 0.0321060382916053
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
 			"timesDropped": 174,
-			"dropRate": 0.025720620842572064
+			"dropRate": 0.025625920471281295
 		},
 		{
 			"itemName": "Empty Honey Glass",
 			"timesDropped": 172,
-			"dropRate": 0.025424981522542498
+			"dropRate": 0.02533136966126657
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 157,
-			"dropRate": 0.02320768662232077
+			"timesDropped": 158,
+			"dropRate": 0.023269513991163476
 		},
 		{
 			"itemName": "Lesser Spiritualist Gem",
 			"timesDropped": 1,
-			"dropRate": 0.00014781966001478197
+			"dropRate": 0.00014727540500736376
 		}
 	]
 }

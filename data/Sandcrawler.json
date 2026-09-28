@@ -1,21 +1,21 @@
 {
 	"monsterName": "Sandcrawler",
-	"timesKilled": 67567,
+	"timesKilled": 67578,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 23494,
-			"dropRate": 0.3477141207986147
+			"timesDropped": 23499,
+			"dropRate": 0.34773151025481663
 		},
 		{
 			"itemName": "Sandcrawler Shell",
 			"timesDropped": 1349,
-			"dropRate": 0.019965367709088758
+			"dropRate": 0.019962117849004115
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.000014800124321044296
+			"dropRate": 0.00001479771523276806
 		}
 	]
 }

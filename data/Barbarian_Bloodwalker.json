@@ -1,66 +1,66 @@
 {
 	"monsterName": "Barbarian Bloodwalker",
-	"timesKilled": 23569,
+	"timesKilled": 23573,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 13018,
-			"dropRate": 0.5523356951928381
+			"timesDropped": 13019,
+			"dropRate": 0.552284393161668
 		},
 		{
 			"itemName": "Chain Helmet",
 			"timesDropped": 2521,
-			"dropRate": 0.1069625355339641
+			"dropRate": 0.10694438552581344
 		},
 		{
 			"itemName": "Chain Armor",
 			"timesDropped": 2381,
-			"dropRate": 0.10102252959395816
+			"dropRate": 0.1010053875196199
 		},
 		{
 			"itemName": "Lamp",
 			"timesDropped": 1907,
-			"dropRate": 0.08091136662565233
+			"dropRate": 0.08089763712722182
 		},
 		{
 			"itemName": "Halberd",
 			"timesDropped": 1639,
-			"dropRate": 0.06954049811192668
+			"dropRate": 0.06952869808679421
 		},
 		{
 			"itemName": "Battle Axe",
 			"timesDropped": 1399,
-			"dropRate": 0.059357630786202216
+			"dropRate": 0.05934755864760531
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 1160,
-			"dropRate": 0.049217192074334934
+			"timesDropped": 1161,
+			"dropRate": 0.04925126203707632
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 218,
-			"dropRate": 0.009249437820866391
+			"dropRate": 0.00924786832392992
 		},
 		{
 			"itemName": "Red Piece of Cloth",
 			"timesDropped": 116,
-			"dropRate": 0.004921719207433493
+			"dropRate": 0.004920884062274636
 		},
 		{
 			"itemName": "Beastslayer Axe",
 			"timesDropped": 79,
-			"dropRate": 0.0033518604947176374
+			"dropRate": 0.003351291732066347
 		},
 		{
 			"itemName": "Shard",
 			"timesDropped": 74,
-			"dropRate": 0.0031397174254317113
+			"dropRate": 0.0031391846604165784
 		},
 		{
 			"itemName": "Fur Boots",
 			"timesDropped": 22,
-			"dropRate": 0.0009334295048580763
+			"dropRate": 0.0009332711152589828
 		}
 	]
 }

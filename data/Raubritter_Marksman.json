@@ -1,71 +1,71 @@
 {
 	"monsterName": "Raubritter Marksman",
-	"timesKilled": 61872,
+	"timesKilled": 65065,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 61872,
+			"timesDropped": 65065,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Cuirass Plate",
-			"timesDropped": 3047,
-			"dropRate": 0.04924683216964055
+			"timesDropped": 3211,
+			"dropRate": 0.04935064935064935
 		},
 		{
 			"itemName": "Stag Parchment",
-			"timesDropped": 1519,
-			"dropRate": 0.024550685285751227
-		},
-		{
-			"itemName": "Violet Crystal Shard",
-			"timesDropped": 1208,
-			"dropRate": 0.01952417895009051
+			"timesDropped": 1594,
+			"dropRate": 0.02449857834473219
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 1202,
-			"dropRate": 0.019427204551331782
+			"timesDropped": 1271,
+			"dropRate": 0.01953431184200415
+		},
+		{
+			"itemName": "Violet Crystal Shard",
+			"timesDropped": 1261,
+			"dropRate": 0.01938061938061938
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 1187,
-			"dropRate": 0.01918476855443496
+			"timesDropped": 1247,
+			"dropRate": 0.019165449934680705
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 523,
-			"dropRate": 0.00845293509180243
+			"timesDropped": 550,
+			"dropRate": 0.0084530853761623
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 473,
-			"dropRate": 0.007644815102146367
+			"timesDropped": 505,
+			"dropRate": 0.007761469299930838
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 448,
-			"dropRate": 0.0072407551073183345
+			"timesDropped": 464,
+			"dropRate": 0.007131330208253285
 		},
 		{
 			"itemName": "Crystalline Arrow",
-			"timesDropped": 330,
-			"dropRate": 0.005333591931730023
+			"timesDropped": 352,
+			"dropRate": 0.005409974640743872
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 296,
-			"dropRate": 0.004784070338763899
+			"timesDropped": 306,
+			"dropRate": 0.004702989318373933
 		},
 		{
 			"itemName": "Composite Hornbow",
-			"timesDropped": 288,
-			"dropRate": 0.004654771140418929
+			"timesDropped": 301,
+			"dropRate": 0.00462614308768155
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 156,
-			"dropRate": 0.00252133436772692
+			"timesDropped": 166,
+			"dropRate": 0.0025512948589871665
 		}
 	]
 }

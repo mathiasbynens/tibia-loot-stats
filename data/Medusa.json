@@ -1,76 +1,76 @@
 {
 	"monsterName": "Medusa",
-	"timesKilled": 48638,
+	"timesKilled": 48644,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 48638,
+			"timesDropped": 48644,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 36478,
-			"dropRate": 0.7499897199720383
+			"timesDropped": 36484,
+			"dropRate": 0.7500205575199408
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 4834,
-			"dropRate": 0.09938731033348411
+			"timesDropped": 4835,
+			"dropRate": 0.09939560891374065
 		},
 		{
 			"itemName": "Strand of Medusa Hair",
 			"timesDropped": 4771,
-			"dropRate": 0.09809202681031293
+			"dropRate": 0.0980799276375298
 		},
 		{
 			"itemName": "Ultimate Health Potion",
 			"timesDropped": 4669,
-			"dropRate": 0.09599490110613101
+			"dropRate": 0.09598306060356879
 		},
 		{
 			"itemName": "Terra Amulet",
 			"timesDropped": 2025,
-			"dropRate": 0.041634113244788024
+			"dropRate": 0.041628977880108546
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 1903,
-			"dropRate": 0.03912578642213907
+			"dropRate": 0.03912096044733163
 		},
 		{
 			"itemName": "Medusa Shield",
 			"timesDropped": 1542,
-			"dropRate": 0.031703606233808954
+			"dropRate": 0.031699695748704876
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 943,
-			"dropRate": 0.019388132735721042
+			"dropRate": 0.019385741304169066
 		},
 		{
 			"itemName": "Titan Axe",
 			"timesDropped": 610,
-			"dropRate": 0.012541634113244788
+			"dropRate": 0.012540087163884548
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
 			"timesDropped": 424,
-			"dropRate": 0.008717463711501295
+			"dropRate": 0.008716388454896801
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 413,
-			"dropRate": 0.008491303096344422
+			"timesDropped": 414,
+			"dropRate": 0.008510813255488858
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 193,
-			"dropRate": 0.003968090793206957
+			"timesDropped": 194,
+			"dropRate": 0.003988158868514102
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
 			"timesDropped": 153,
-			"dropRate": 0.003145688556272873
+			"dropRate": 0.0031453005509415343
 		}
 	]
 }
