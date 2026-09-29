@@ -1,21 +1,21 @@
 {
 	"monsterName": "Panda",
-	"timesKilled": 2230,
+	"timesKilled": 2234,
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 1519,
-			"dropRate": 0.6811659192825112
+			"timesDropped": 1521,
+			"dropRate": 0.6808415398388541
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 863,
-			"dropRate": 0.38699551569506724
+			"timesDropped": 865,
+			"dropRate": 0.38719785138764545
 		},
 		{
 			"itemName": "Bamboo Stick",
 			"timesDropped": 216,
-			"dropRate": 0.0968609865470852
+			"dropRate": 0.09668755595344673
 		}
 	]
 }
