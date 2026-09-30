@@ -1,21 +1,26 @@
 {
 	"monsterName": "Cave Chimera",
-	"timesKilled": 3,
+	"timesKilled": 4,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3,
+			"timesDropped": 4,
 			"dropRate": 1
+		},
+		{
+			"itemName": "Giant Shimmering Pearl (Green)",
+			"timesDropped": 1,
+			"dropRate": 0.25
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 1,
-			"dropRate": 0.3333333333333333
+			"dropRate": 0.25
 		},
 		{
 			"itemName": "Ultimate Health Potion",
 			"timesDropped": 1,
-			"dropRate": 0.3333333333333333
+			"dropRate": 0.25
 		}
 	]
 }

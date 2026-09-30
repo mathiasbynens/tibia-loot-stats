@@ -1,86 +1,36 @@
 {
 	"monsterName": "Streaked Devourer",
-	"timesKilled": 1192,
+	"timesKilled": 17,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1192,
+			"timesDropped": 17,
 			"dropRate": 1
 		},
 		{
-			"itemName": "Gold Ingot",
-			"timesDropped": 163,
-			"dropRate": 0.13674496644295303
-		},
-		{
-			"itemName": "Streaked Devourer Maw",
-			"timesDropped": 150,
-			"dropRate": 0.12583892617449666
-		},
-		{
 			"itemName": "Streaked Devourer Eyes",
-			"timesDropped": 116,
-			"dropRate": 0.09731543624161074
+			"timesDropped": 3,
+			"dropRate": 0.17647058823529413
 		},
 		{
-			"itemName": "Red Gem",
-			"timesDropped": 111,
-			"dropRate": 0.09312080536912752
-		},
-		{
-			"itemName": "Streaked Devourer Legs",
-			"timesDropped": 63,
-			"dropRate": 0.05285234899328859
-		},
-		{
-			"itemName": "Yellow Gem",
-			"timesDropped": 42,
-			"dropRate": 0.03523489932885906
-		},
-		{
-			"itemName": "Relic Sword",
-			"timesDropped": 24,
-			"dropRate": 0.020134228187919462
-		},
-		{
-			"itemName": "Giant Sword",
-			"timesDropped": 23,
-			"dropRate": 0.01929530201342282
-		},
-		{
-			"itemName": "Warrior's Axe",
-			"timesDropped": 23,
-			"dropRate": 0.01929530201342282
-		},
-		{
-			"itemName": "Crystal Mace",
-			"timesDropped": 22,
-			"dropRate": 0.018456375838926176
-		},
-		{
-			"itemName": "Guardian Halberd",
-			"timesDropped": 21,
-			"dropRate": 0.01761744966442953
-		},
-		{
-			"itemName": "Noble Axe",
-			"timesDropped": 21,
-			"dropRate": 0.01761744966442953
+			"itemName": "Gold Ingot",
+			"timesDropped": 2,
+			"dropRate": 0.11764705882352941
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 18,
-			"dropRate": 0.015100671140939598
+			"timesDropped": 1,
+			"dropRate": 0.058823529411764705
 		},
 		{
-			"itemName": "Ornate Crossbow",
-			"timesDropped": 13,
-			"dropRate": 0.010906040268456376
+			"itemName": "Red Gem",
+			"timesDropped": 1,
+			"dropRate": 0.058823529411764705
 		},
 		{
-			"itemName": "War Axe",
-			"timesDropped": 9,
-			"dropRate": 0.007550335570469799
+			"itemName": "Streaked Devourer Maw",
+			"timesDropped": 1,
+			"dropRate": 0.058823529411764705
 		}
 	]
 }

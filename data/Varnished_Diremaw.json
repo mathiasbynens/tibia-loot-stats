@@ -1,31 +1,46 @@
 {
 	"monsterName": "Varnished Diremaw",
-	"timesKilled": 4,
+	"timesKilled": 8,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4,
+			"timesDropped": 8,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 2,
-			"dropRate": 0.5
+			"timesDropped": 3,
+			"dropRate": 0.375
+		},
+		{
+			"itemName": "Brown Crystal Splinter",
+			"timesDropped": 1,
+			"dropRate": 0.125
+		},
+		{
+			"itemName": "Emerald Bangle",
+			"timesDropped": 1,
+			"dropRate": 0.125
 		},
 		{
 			"itemName": "Fur Armor",
 			"timesDropped": 1,
-			"dropRate": 0.25
+			"dropRate": 0.125
+		},
+		{
+			"itemName": "Hailstorm Rod",
+			"timesDropped": 1,
+			"dropRate": 0.125
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 1,
-			"dropRate": 0.25
+			"dropRate": 0.125
 		},
 		{
 			"itemName": "Varnished Diremaw Legs",
 			"timesDropped": 1,
-			"dropRate": 0.25
+			"dropRate": 0.125
 		}
 	]
 }

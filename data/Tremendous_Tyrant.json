@@ -1,21 +1,41 @@
 {
 	"monsterName": "Tremendous Tyrant",
-	"timesKilled": 1,
+	"timesKilled": 3,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1,
+			"timesDropped": 3,
 			"dropRate": 1
+		},
+		{
+			"itemName": "Focus Cape",
+			"timesDropped": 1,
+			"dropRate": 0.3333333333333333
+		},
+		{
+			"itemName": "Green Crystal Shard",
+			"timesDropped": 1,
+			"dropRate": 0.3333333333333333
+		},
+		{
+			"itemName": "Knight Axe",
+			"timesDropped": 1,
+			"dropRate": 0.3333333333333333
+		},
+		{
+			"itemName": "Red Gem",
+			"timesDropped": 1,
+			"dropRate": 0.3333333333333333
 		},
 		{
 			"itemName": "Tremendous Tyrant Shell",
 			"timesDropped": 1,
-			"dropRate": 1
+			"dropRate": 0.3333333333333333
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
 			"timesDropped": 1,
-			"dropRate": 1
+			"dropRate": 0.3333333333333333
 		}
 	]
 }

@@ -1,126 +1,41 @@
 {
 	"monsterName": "Lavafungus",
-	"timesKilled": 1012,
+	"timesKilled": 13,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1012,
+			"timesDropped": 13,
 			"dropRate": 1
 		},
 		{
+			"itemName": "Red Gem",
+			"timesDropped": 4,
+			"dropRate": 0.3076923076923077
+		},
+		{
 			"itemName": "Terra Rod",
-			"timesDropped": 289,
-			"dropRate": 0.2855731225296443
+			"timesDropped": 3,
+			"dropRate": 0.23076923076923078
 		},
 		{
 			"itemName": "Lavafungus Ring",
-			"timesDropped": 160,
-			"dropRate": 0.15810276679841898
-		},
-		{
-			"itemName": "Blue Crystal Shard",
-			"timesDropped": 79,
-			"dropRate": 0.07806324110671936
-		},
-		{
-			"itemName": "Red Gem",
-			"timesDropped": 75,
-			"dropRate": 0.0741106719367589
-		},
-		{
-			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 63,
-			"dropRate": 0.06225296442687747
-		},
-		{
-			"itemName": "Green Gem",
-			"timesDropped": 53,
-			"dropRate": 0.05237154150197629
-		},
-		{
-			"itemName": "Hailstorm Rod",
-			"timesDropped": 53,
-			"dropRate": 0.05237154150197629
-		},
-		{
-			"itemName": "Red Crystal Fragment",
-			"timesDropped": 47,
-			"dropRate": 0.046442687747035576
-		},
-		{
-			"itemName": "Wand of Inferno",
-			"timesDropped": 46,
-			"dropRate": 0.045454545454545456
-		},
-		{
-			"itemName": "Yellow Gem",
-			"timesDropped": 46,
-			"dropRate": 0.045454545454545456
-		},
-		{
-			"itemName": "Violet Gem",
-			"timesDropped": 41,
-			"dropRate": 0.040513833992094864
-		},
-		{
-			"itemName": "Onyx Chip",
-			"timesDropped": 36,
-			"dropRate": 0.03557312252964427
-		},
-		{
-			"itemName": "Lavafungus Head",
-			"timesDropped": 34,
-			"dropRate": 0.03359683794466403
-		},
-		{
-			"itemName": "Green Crystal Fragment",
-			"timesDropped": 33,
-			"dropRate": 0.03260869565217391
+			"timesDropped": 2,
+			"dropRate": 0.15384615384615385
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 33,
-			"dropRate": 0.03260869565217391
+			"timesDropped": 2,
+			"dropRate": 0.15384615384615385
 		},
 		{
-			"itemName": "Spellbook of Warding",
-			"timesDropped": 32,
-			"dropRate": 0.03162055335968379
+			"itemName": "Lavafungus Head",
+			"timesDropped": 1,
+			"dropRate": 0.07692307692307693
 		},
 		{
-			"itemName": "Metal Spats",
-			"timesDropped": 29,
-			"dropRate": 0.02865612648221344
-		},
-		{
-			"itemName": "Dwarven Ring",
-			"timesDropped": 28,
-			"dropRate": 0.02766798418972332
-		},
-		{
-			"itemName": "Magma Amulet",
-			"timesDropped": 27,
-			"dropRate": 0.0266798418972332
-		},
-		{
-			"itemName": "Rainbow Quartz",
-			"timesDropped": 25,
-			"dropRate": 0.024703557312252964
-		},
-		{
-			"itemName": "Focus Cape",
-			"timesDropped": 23,
-			"dropRate": 0.022727272727272728
-		},
-		{
-			"itemName": "Crystal Mace",
-			"timesDropped": 22,
-			"dropRate": 0.021739130434782608
-		},
-		{
-			"itemName": "Wand of Starstorm",
-			"timesDropped": 19,
-			"dropRate": 0.018774703557312252
+			"itemName": "Red Crystal Fragment",
+			"timesDropped": 1,
+			"dropRate": 0.07692307692307693
 		}
 	]
 }
