@@ -1,116 +1,116 @@
 {
 	"monsterName": "Menacing Carnivor",
-	"timesKilled": 3859,
+	"timesKilled": 4026,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2489,
-			"dropRate": 0.644985747603006
+			"timesDropped": 2604,
+			"dropRate": 0.646795827123696
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 658,
-			"dropRate": 0.17051049494687742
+			"timesDropped": 691,
+			"dropRate": 0.17163437655240935
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 371,
-			"dropRate": 0.09613889608706919
+			"timesDropped": 390,
+			"dropRate": 0.09687034277198212
 		},
 		{
 			"itemName": "Violet Glass Plate",
-			"timesDropped": 248,
-			"dropRate": 0.06426535371857994
-		},
-		{
-			"itemName": "Crystal Sword",
-			"timesDropped": 178,
-			"dropRate": 0.04612593936252915
+			"timesDropped": 257,
+			"dropRate": 0.06383507203179334
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 175,
-			"dropRate": 0.045348535890126974
+			"timesDropped": 182,
+			"dropRate": 0.04520615996025832
+		},
+		{
+			"itemName": "Crystal Sword",
+			"timesDropped": 181,
+			"dropRate": 0.044957774465971184
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 143,
-			"dropRate": 0.037056232184503754
+			"timesDropped": 146,
+			"dropRate": 0.03626428216592151
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 116,
-			"dropRate": 0.030059600932884168
+			"timesDropped": 124,
+			"dropRate": 0.030799801291604572
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 113,
-			"dropRate": 0.02928219746048199
+			"timesDropped": 122,
+			"dropRate": 0.030303030303030304
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 83,
-			"dropRate": 0.021508162736460223
+			"timesDropped": 87,
+			"dropRate": 0.021609538002980627
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 81,
-			"dropRate": 0.020989893754858772
+			"timesDropped": 82,
+			"dropRate": 0.02036761053154496
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 65,
-			"dropRate": 0.01684374190204716
+			"timesDropped": 69,
+			"dropRate": 0.01713859910581222
 		},
 		{
 			"itemName": "Wand of Voodoo",
-			"timesDropped": 59,
-			"dropRate": 0.01528893495724281
+			"timesDropped": 61,
+			"dropRate": 0.015151515151515152
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 55,
-			"dropRate": 0.014252396994039906
+			"timesDropped": 58,
+			"dropRate": 0.014406358668653751
 		},
 		{
 			"itemName": "Heavy Machete",
-			"timesDropped": 53,
-			"dropRate": 0.013734128012438455
+			"timesDropped": 57,
+			"dropRate": 0.014157973174366617
 		},
 		{
 			"itemName": "Machete",
-			"timesDropped": 52,
-			"dropRate": 0.01347499352163773
+			"timesDropped": 56,
+			"dropRate": 0.013909587680079483
 		},
 		{
 			"itemName": "Tiger Eye",
 			"timesDropped": 41,
-			"dropRate": 0.010624514122829748
-		},
-		{
-			"itemName": "Serpent Sword",
-			"timesDropped": 33,
-			"dropRate": 0.008551438196423945
+			"dropRate": 0.01018380526577248
 		},
 		{
 			"itemName": "Wand of Dragonbreath",
-			"timesDropped": 30,
-			"dropRate": 0.007774034724021767
+			"timesDropped": 36,
+			"dropRate": 0.00894187779433681
+		},
+		{
+			"itemName": "Serpent Sword",
+			"timesDropped": 34,
+			"dropRate": 0.008445106805762544
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 28,
-			"dropRate": 0.007255765742420316
+			"timesDropped": 29,
+			"dropRate": 0.007203179334326876
 		},
 		{
 			"itemName": "Iron Helmet",
 			"timesDropped": 27,
-			"dropRate": 0.00699663125161959
+			"dropRate": 0.0067064083457526085
 		},
 		{
 			"itemName": "Wand of Decay",
 			"timesDropped": 16,
-			"dropRate": 0.004146151852811609
+			"dropRate": 0.003974167908594138
 		}
 	]
 }
