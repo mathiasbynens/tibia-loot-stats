@@ -1,136 +1,136 @@
 {
 	"monsterName": "Ironblight",
-	"timesKilled": 2372,
+	"timesKilled": 2515,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2372,
+			"timesDropped": 2515,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2372,
+			"timesDropped": 2515,
 			"dropRate": 1
 		},
 		{
 			"itemName": "War Crystal",
-			"timesDropped": 460,
-			"dropRate": 0.19392917369308602
+			"timesDropped": 488,
+			"dropRate": 0.19403578528827037
 		},
 		{
 			"itemName": "Crystalline Spikes",
-			"timesDropped": 447,
-			"dropRate": 0.1884485666104553
-		},
-		{
-			"itemName": "Ultimate Health Potion",
-			"timesDropped": 444,
-			"dropRate": 0.18718381112984822
+			"timesDropped": 473,
+			"dropRate": 0.18807157057654075
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 432,
-			"dropRate": 0.1821247892074199
+			"timesDropped": 466,
+			"dropRate": 0.1852882703777336
+		},
+		{
+			"itemName": "Ultimate Health Potion",
+			"timesDropped": 466,
+			"dropRate": 0.1852882703777336
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 382,
-			"dropRate": 0.16104553119730186
+			"timesDropped": 399,
+			"dropRate": 0.15864811133200796
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 355,
-			"dropRate": 0.14966273187183812
+			"timesDropped": 380,
+			"dropRate": 0.15109343936381708
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 308,
-			"dropRate": 0.12984822934232715
+			"timesDropped": 319,
+			"dropRate": 0.1268389662027833
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 252,
-			"dropRate": 0.10623946037099494
+			"timesDropped": 261,
+			"dropRate": 0.10377733598409543
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 222,
-			"dropRate": 0.09359190556492411
+			"timesDropped": 243,
+			"dropRate": 0.09662027833001988
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 137,
-			"dropRate": 0.05775716694772344
+			"timesDropped": 144,
+			"dropRate": 0.057256461232604375
 		},
 		{
 			"itemName": "Crystal of Balance",
-			"timesDropped": 127,
-			"dropRate": 0.05354131534569983
+			"timesDropped": 138,
+			"dropRate": 0.05487077534791252
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 100,
-			"dropRate": 0.04215851602023609
+			"timesDropped": 106,
+			"dropRate": 0.04214711729622266
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 42,
-			"dropRate": 0.01770657672849916
+			"timesDropped": 45,
+			"dropRate": 0.017892644135188866
 		},
 		{
 			"itemName": "Crystal of Power",
-			"timesDropped": 39,
-			"dropRate": 0.016441821247892074
+			"timesDropped": 43,
+			"dropRate": 0.01709741550695825
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 23,
-			"dropRate": 0.0096964586846543
+			"timesDropped": 26,
+			"dropRate": 0.010337972166998012
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 21,
-			"dropRate": 0.00885328836424958
+			"timesDropped": 23,
+			"dropRate": 0.009145129224652087
 		},
 		{
 			"itemName": "Epee",
+			"timesDropped": 20,
+			"dropRate": 0.007952286282306162
+		},
+		{
+			"itemName": "Magic Sulphur",
 			"timesDropped": 19,
-			"dropRate": 0.008010118043844857
+			"dropRate": 0.0075546719681908545
 		},
 		{
 			"itemName": "Sapphire Hammer",
 			"timesDropped": 18,
-			"dropRate": 0.007588532883642495
+			"dropRate": 0.007157057654075547
 		},
 		{
-			"itemName": "Magic Sulphur",
-			"timesDropped": 17,
-			"dropRate": 0.007166947723440135
+			"itemName": "Might Ring",
+			"timesDropped": 15,
+			"dropRate": 0.005964214711729622
 		},
 		{
 			"itemName": "Crystal Mace",
 			"timesDropped": 14,
-			"dropRate": 0.005902192242833052
+			"dropRate": 0.005566600397614314
 		},
 		{
 			"itemName": "Blue Gem",
 			"timesDropped": 13,
-			"dropRate": 0.0054806070826306915
-		},
-		{
-			"itemName": "Might Ring",
-			"timesDropped": 12,
-			"dropRate": 0.00505902192242833
+			"dropRate": 0.005168986083499006
 		},
 		{
 			"itemName": "Composite Hornbow",
 			"timesDropped": 7,
-			"dropRate": 0.002951096121416526
+			"dropRate": 0.002783300198807157
 		},
 		{
 			"itemName": "Jade Hat",
 			"timesDropped": 7,
-			"dropRate": 0.002951096121416526
+			"dropRate": 0.002783300198807157
 		}
 	]
 }
