@@ -1,71 +1,71 @@
 {
 	"monsterName": "Pirate Cutthroat",
-	"timesKilled": 50767,
+	"timesKilled": 50786,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 39395,
-			"dropRate": 0.7759962180156401
+			"timesDropped": 39411,
+			"dropRate": 0.7760209506556925
 		},
 		{
 			"itemName": "Compass",
-			"timesDropped": 5095,
-			"dropRate": 0.10036047038430476
+			"timesDropped": 5098,
+			"dropRate": 0.1003819950380026
 		},
 		{
 			"itemName": "Scale Armor",
 			"timesDropped": 1536,
-			"dropRate": 0.03025587487935076
+			"dropRate": 0.03024455558618517
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 1472,
-			"dropRate": 0.028995213426044476
+			"timesDropped": 1473,
+			"dropRate": 0.029004056235970542
 		},
 		{
 			"itemName": "Light Shovel",
 			"timesDropped": 984,
-			"dropRate": 0.01938266984458408
+			"dropRate": 0.019375418422399874
 		},
 		{
 			"itemName": "Treasure Map (Pirate)",
 			"timesDropped": 555,
-			"dropRate": 0.010932298540390411
+			"dropRate": 0.010928208561414562
 		},
 		{
 			"itemName": "Pirate Knee Breeches",
-			"timesDropped": 526,
-			"dropRate": 0.010361061319361002
+			"timesDropped": 527,
+			"dropRate": 0.01037687551687473
 		},
 		{
 			"itemName": "Pirate Bag",
-			"timesDropped": 496,
-			"dropRate": 0.009770126263123683
+			"timesDropped": 497,
+			"dropRate": 0.00978616154058205
 		},
 		{
 			"itemName": "Hook",
 			"timesDropped": 268,
-			"dropRate": 0.005279019835720054
+			"dropRate": 0.005277044854881266
 		},
 		{
 			"itemName": "Peg Leg",
 			"timesDropped": 264,
-			"dropRate": 0.005200228494888412
+			"dropRate": 0.005198282991375576
 		},
 		{
 			"itemName": "Eye Patch",
 			"timesDropped": 235,
-			"dropRate": 0.004628991273859003
+			"dropRate": 0.004627259480959319
 		},
 		{
 			"itemName": "Die",
 			"timesDropped": 49,
-			"dropRate": 0.0009651939251876219
+			"dropRate": 0.0009648328279447092
 		},
 		{
 			"itemName": "Rum Flask",
 			"timesDropped": 46,
-			"dropRate": 0.0009061004195638899
+			"dropRate": 0.0009057614303154413
 		}
 	]
 }

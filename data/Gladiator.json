@@ -1,66 +1,66 @@
 {
 	"monsterName": "Gladiator",
-	"timesKilled": 10451,
+	"timesKilled": 10469,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5179,
-			"dropRate": 0.4955506650081332
+			"timesDropped": 5189,
+			"dropRate": 0.49565383513229533
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 2036,
-			"dropRate": 0.19481389340732944
+			"timesDropped": 2041,
+			"dropRate": 0.19495653835132296
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 1284,
-			"dropRate": 0.12285905654961247
+			"timesDropped": 1287,
+			"dropRate": 0.122934377686503
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 1059,
-			"dropRate": 0.10133001626638599
+			"timesDropped": 1061,
+			"dropRate": 0.10134683350845353
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 1054,
-			"dropRate": 0.10085159314898096
+			"timesDropped": 1055,
+			"dropRate": 0.10077371286655841
 		},
 		{
 			"itemName": "Chain Helmet",
-			"timesDropped": 514,
-			"dropRate": 0.049181896469237395
+			"timesDropped": 518,
+			"dropRate": 0.04947941541694527
 		},
 		{
 			"itemName": "Brass Armor",
 			"timesDropped": 267,
-			"dropRate": 0.025547794469428762
+			"dropRate": 0.02550386856433279
 		},
 		{
 			"itemName": "Steel Shield",
 			"timesDropped": 104,
-			"dropRate": 0.009951200842024686
+			"dropRate": 0.009934091126182062
 		},
 		{
 			"itemName": "Iron Helmet",
 			"timesDropped": 60,
-			"dropRate": 0.005741077408860396
+			"dropRate": 0.005731206418951189
 		},
 		{
 			"itemName": "Belted Cape",
-			"timesDropped": 45,
-			"dropRate": 0.004305808056645297
+			"timesDropped": 46,
+			"dropRate": 0.004393924921195912
 		},
 		{
 			"itemName": "Gold Coins (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 2,
-			"dropRate": 0.0001913692469620132
+			"dropRate": 0.00019104021396503963
 		},
 		{
 			"itemName": "Sword (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.0000956846234810066
+			"dropRate": 0.00009552010698251981
 		}
 	]
 }

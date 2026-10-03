@@ -1,31 +1,31 @@
 {
 	"monsterName": "Clomp",
-	"timesKilled": 10042,
+	"timesKilled": 10236,
 	"items": [
 		{
 			"itemName": "Raw Meat",
-			"timesDropped": 1820,
-			"dropRate": 0.18123879705238
+			"timesDropped": 1857,
+			"dropRate": 0.18141852286049237
 		},
 		{
 			"itemName": "Hardened Bone",
-			"timesDropped": 775,
-			"dropRate": 0.07717586138219479
+			"timesDropped": 793,
+			"dropRate": 0.0774716686205549
 		},
 		{
 			"itemName": "Thick Fur",
-			"timesDropped": 718,
-			"dropRate": 0.07149970125473014
+			"timesDropped": 732,
+			"dropRate": 0.07151230949589683
 		},
 		{
 			"itemName": "Tusk Shield",
 			"timesDropped": 55,
-			"dropRate": 0.005476996614220275
+			"dropRate": 0.005373192653380226
 		},
 		{
 			"itemName": "Furry Club",
 			"timesDropped": 42,
-			"dropRate": 0.0041824337781318464
+			"dropRate": 0.004103165298944901
 		}
 	]
 }

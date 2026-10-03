@@ -1,71 +1,71 @@
 {
 	"monsterName": "Lizard Sentinel",
-	"timesKilled": 20681,
+	"timesKilled": 20727,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 17826,
-			"dropRate": 0.8619505826604129
+			"timesDropped": 17863,
+			"dropRate": 0.8618227432817098
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 2108,
-			"dropRate": 0.10192930709346744
+			"timesDropped": 2112,
+			"dropRate": 0.10189607757996816
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 1914,
-			"dropRate": 0.09254871621294908
+			"timesDropped": 1917,
+			"dropRate": 0.0924880590534086
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 1670,
-			"dropRate": 0.08075044727044146
+			"timesDropped": 1673,
+			"dropRate": 0.08071597433299561
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 1025,
-			"dropRate": 0.04956240027077994
+			"timesDropped": 1027,
+			"dropRate": 0.04954889757321368
 		},
 		{
 			"itemName": "Lizard Leather",
 			"timesDropped": 431,
-			"dropRate": 0.020840384894347468
+			"dropRate": 0.020794133256139335
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 429,
-			"dropRate": 0.020743677771867898
+			"timesDropped": 430,
+			"dropRate": 0.020745887007285184
 		},
 		{
 			"itemName": "Halberd",
 			"timesDropped": 314,
-			"dropRate": 0.015183018229292588
+			"dropRate": 0.015149322140203599
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 279,
-			"dropRate": 0.013490643585900101
+			"timesDropped": 280,
+			"dropRate": 0.013508949679162444
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 244,
-			"dropRate": 0.011798268942507616
+			"timesDropped": 245,
+			"dropRate": 0.01182033096926714
 		},
 		{
 			"itemName": "Sentinel Shield",
 			"timesDropped": 70,
-			"dropRate": 0.003384749286784972
+			"dropRate": 0.003377237419790611
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 22,
-			"dropRate": 0.001063778347275277
+			"dropRate": 0.001061417474791335
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.00004835356123978531
+			"dropRate": 0.00004824624885415159
 		}
 	]
 }

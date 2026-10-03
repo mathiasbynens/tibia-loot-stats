@@ -1,46 +1,46 @@
 {
 	"monsterName": "Lizard Swordmaster",
-	"timesKilled": 2221,
+	"timesKilled": 2268,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1442,
-			"dropRate": 0.6492570914002701
+			"timesDropped": 1467,
+			"dropRate": 0.6468253968253969
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 340,
-			"dropRate": 0.15308419630796938
+			"timesDropped": 350,
+			"dropRate": 0.15432098765432098
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 330,
-			"dropRate": 0.14858171994597028
+			"timesDropped": 335,
+			"dropRate": 0.14770723104056438
 		},
 		{
 			"itemName": "Lizard Tail",
-			"timesDropped": 138,
-			"dropRate": 0.062134173795587576
+			"timesDropped": 141,
+			"dropRate": 0.062169312169312166
 		},
 		{
 			"itemName": "Lizard Scale",
 			"timesDropped": 27,
-			"dropRate": 0.012156686177397569
+			"dropRate": 0.011904761904761904
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 23,
-			"dropRate": 0.010355695632597929
+			"timesDropped": 24,
+			"dropRate": 0.010582010582010581
 		},
 		{
 			"itemName": "Templar Scytheblade",
-			"timesDropped": 20,
-			"dropRate": 0.009004952723998198
+			"timesDropped": 21,
+			"dropRate": 0.009259259259259259
 		},
 		{
 			"itemName": "Salamander Shield",
 			"timesDropped": 13,
-			"dropRate": 0.00585321927059883
+			"dropRate": 0.005731922398589065
 		}
 	]
 }

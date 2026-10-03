@@ -1,71 +1,71 @@
 {
 	"monsterName": "Giant Spider",
-	"timesKilled": 104404,
+	"timesKilled": 104411,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 104389,
-			"dropRate": 0.9998563273437799
+			"timesDropped": 104396,
+			"dropRate": 0.9998563369759891
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 12454,
-			"dropRate": 0.11928661737098195
+			"timesDropped": 12455,
+			"dropRate": 0.11928819760370075
 		},
 		{
 			"itemName": "Plate Armor",
 			"timesDropped": 10479,
-			"dropRate": 0.10036971763533964
+			"dropRate": 0.10036298857400082
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 8242,
-			"dropRate": 0.0789433355043868
+			"timesDropped": 8243,
+			"dropRate": 0.07894762046144563
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 5309,
-			"dropRate": 0.0508505421248228
+			"timesDropped": 5311,
+			"dropRate": 0.05086628803478561
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 5121,
-			"dropRate": 0.04904984483353128
+			"dropRate": 0.04904655639731446
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 3700,
-			"dropRate": 0.035439255200950155
+			"dropRate": 0.03543687925601709
 		},
 		{
 			"itemName": "Spider Silk",
 			"timesDropped": 2069,
-			"dropRate": 0.019817248381288073
+			"dropRate": 0.019815919778567392
 		},
 		{
 			"itemName": "Knight Legs",
 			"timesDropped": 852,
-			"dropRate": 0.008160606873299874
+			"dropRate": 0.008160059763817989
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 749,
-			"dropRate": 0.007174054633922072
+			"dropRate": 0.0071735736656099456
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 515,
-			"dropRate": 0.0049327611968890085
+			"dropRate": 0.004932430491040216
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 284,
-			"dropRate": 0.002720202291099958
+			"dropRate": 0.002720019921272663
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 284,
-			"dropRate": 0.002720202291099958
+			"dropRate": 0.002720019921272663
 		}
 	]
 }

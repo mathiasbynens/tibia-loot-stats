@@ -1,56 +1,56 @@
 {
 	"monsterName": "Elf",
-	"timesKilled": 45590,
+	"timesKilled": 45604,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 20384,
-			"dropRate": 0.44711559552533453
+			"timesDropped": 20391,
+			"dropRate": 0.4471318305411806
 		},
 		{
 			"itemName": "Plum",
-			"timesDropped": 9146,
-			"dropRate": 0.20061416977407326
+			"timesDropped": 9147,
+			"dropRate": 0.20057451100780632
 		},
 		{
 			"itemName": "Studded Helmet",
-			"timesDropped": 6883,
-			"dropRate": 0.15097609124808073
+			"timesDropped": 6884,
+			"dropRate": 0.15095167090606088
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 5045,
-			"dropRate": 0.11066023250712875
+			"timesDropped": 5048,
+			"dropRate": 0.11069204455749496
 		},
 		{
 			"itemName": "Longsword",
-			"timesDropped": 5014,
-			"dropRate": 0.1099802588286905
+			"timesDropped": 5015,
+			"dropRate": 0.10996842382247171
 		},
 		{
 			"itemName": "Studded Armor",
-			"timesDropped": 4093,
-			"dropRate": 0.08977846018863786
+			"timesDropped": 4094,
+			"dropRate": 0.08977282694500482
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 4081,
-			"dropRate": 0.08951524457117789
+			"timesDropped": 4082,
+			"dropRate": 0.0895096921322691
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 3182,
-			"dropRate": 0.06979600789646852
+			"timesDropped": 3183,
+			"dropRate": 0.06979650907815103
 		},
 		{
 			"itemName": "Elvish Talisman",
 			"timesDropped": 884,
-			"dropRate": 0.019390217152884404
+			"dropRate": 0.019384264538198404
 		},
 		{
 			"itemName": "Heaven Blossom",
 			"timesDropped": 453,
-			"dropRate": 0.00993638955911384
+			"dropRate": 0.009933339180773616
 		}
 	]
 }

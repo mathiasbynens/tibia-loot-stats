@@ -1,146 +1,146 @@
 {
 	"monsterName": "Orewalker",
-	"timesKilled": 6285,
+	"timesKilled": 6791,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6285,
+			"timesDropped": 6791,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6285,
+			"timesDropped": 6791,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Sulphurous Stone",
-			"timesDropped": 1272,
-			"dropRate": 0.20238663484486874
+			"timesDropped": 1374,
+			"dropRate": 0.20232660874687086
 		},
 		{
 			"itemName": "Pulverized Ore",
-			"timesDropped": 1256,
-			"dropRate": 0.19984089101034208
-		},
-		{
-			"itemName": "Strong Health Potion",
-			"timesDropped": 985,
-			"dropRate": 0.15672235481304694
+			"timesDropped": 1348,
+			"dropRate": 0.19849801207480489
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 980,
-			"dropRate": 0.15592680986475735
+			"timesDropped": 1055,
+			"dropRate": 0.15535267265498454
 		},
 		{
-			"itemName": "Small Topaz",
-			"timesDropped": 971,
-			"dropRate": 0.15449482895783612
+			"itemName": "Strong Health Potion",
+			"timesDropped": 1055,
+			"dropRate": 0.15535267265498454
 		},
 		{
 			"itemName": "Vein of Ore",
-			"timesDropped": 957,
-			"dropRate": 0.1522673031026253
+			"timesDropped": 1041,
+			"dropRate": 0.15329112060079517
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 950,
-			"dropRate": 0.1511535401750199
+			"timesDropped": 1028,
+			"dropRate": 0.15137682226476218
 		},
 		{
-			"itemName": "Prismatic Bolt",
-			"timesDropped": 933,
-			"dropRate": 0.14844868735083533
+			"itemName": "Small Topaz",
+			"timesDropped": 1026,
+			"dropRate": 0.15108231482844942
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 928,
-			"dropRate": 0.14765314240254573
+			"timesDropped": 1008,
+			"dropRate": 0.14843174790163452
+		},
+		{
+			"itemName": "Prismatic Bolt",
+			"timesDropped": 1001,
+			"dropRate": 0.14740097187453982
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 925,
-			"dropRate": 0.147175815433572
+			"timesDropped": 998,
+			"dropRate": 0.14695921072007068
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 915,
-			"dropRate": 0.14558472553699284
+			"timesDropped": 990,
+			"dropRate": 0.14578118097481962
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 829,
-			"dropRate": 0.1319013524264121
+			"timesDropped": 896,
+			"dropRate": 0.13193933146811956
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 745,
-			"dropRate": 0.11853619729514718
+			"timesDropped": 812,
+			"dropRate": 0.11957001914298336
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 595,
-			"dropRate": 0.09466984884645982
+			"timesDropped": 642,
+			"dropRate": 0.09453688705639818
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 487,
-			"dropRate": 0.07748607796340493
+			"timesDropped": 536,
+			"dropRate": 0.07892799293182153
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 278,
-			"dropRate": 0.04423229912490056
+			"timesDropped": 293,
+			"dropRate": 0.04314533941982035
 		},
 		{
 			"itemName": "Glorious Axe",
-			"timesDropped": 181,
-			"dropRate": 0.028798727128082735
+			"timesDropped": 195,
+			"dropRate": 0.028714475040494774
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 180,
-			"dropRate": 0.028639618138424822
+			"timesDropped": 194,
+			"dropRate": 0.02856722132233839
 		},
 		{
 			"itemName": "Magic Sulphur",
-			"timesDropped": 144,
-			"dropRate": 0.022911694510739856
+			"timesDropped": 153,
+			"dropRate": 0.02252981887792667
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 120,
-			"dropRate": 0.01909307875894988
+			"timesDropped": 125,
+			"dropRate": 0.01840671476954793
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 90,
-			"dropRate": 0.014319809069212411
+			"timesDropped": 98,
+			"dropRate": 0.014430864379325578
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 62,
-			"dropRate": 0.009864757358790771
+			"timesDropped": 69,
+			"dropRate": 0.010160506552790457
 		},
 		{
 			"itemName": "Crown Helmet",
-			"timesDropped": 61,
-			"dropRate": 0.009705648369132855
-		},
-		{
-			"itemName": "Crown Armor",
-			"timesDropped": 20,
-			"dropRate": 0.0031821797931583136
+			"timesDropped": 66,
+			"dropRate": 0.009718745398321307
 		},
 		{
 			"itemName": "Crystalline Armor",
-			"timesDropped": 20,
-			"dropRate": 0.0031821797931583136
+			"timesDropped": 22,
+			"dropRate": 0.0032395817994404358
+		},
+		{
+			"itemName": "Crown Armor",
+			"timesDropped": 21,
+			"dropRate": 0.0030923280812840525
 		},
 		{
 			"itemName": "Crystal Crossbow",
 			"timesDropped": 13,
-			"dropRate": 0.0020684168655529037
+			"dropRate": 0.001914298336032985
 		}
 	]
 }

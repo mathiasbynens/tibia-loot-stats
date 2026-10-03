@@ -1,71 +1,71 @@
 {
 	"monsterName": "Bulltaur Brute",
-	"timesKilled": 1858,
+	"timesKilled": 1869,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1007,
-			"dropRate": 0.5419806243272336
+			"timesDropped": 1012,
+			"dropRate": 0.541466024612092
 		},
 		{
 			"itemName": "Bulltaur Horn",
-			"timesDropped": 314,
-			"dropRate": 0.1689989235737352
+			"timesDropped": 318,
+			"dropRate": 0.17014446227929375
 		},
 		{
 			"itemName": "Bulltaur Armor Scrap",
 			"timesDropped": 216,
-			"dropRate": 0.116254036598493
+			"dropRate": 0.11556982343499198
 		},
 		{
 			"itemName": "Small Topaz",
 			"timesDropped": 191,
-			"dropRate": 0.10279870828848224
+			"dropRate": 0.10219368646334938
 		},
 		{
 			"itemName": "Bulltaur Hoof",
 			"timesDropped": 166,
-			"dropRate": 0.08934337997847147
+			"dropRate": 0.0888175494917068
 		},
 		{
 			"itemName": "Mino Shield",
-			"timesDropped": 70,
-			"dropRate": 0.03767491926803014
+			"timesDropped": 71,
+			"dropRate": 0.037988228999464954
 		},
 		{
 			"itemName": "Dwarven Ring",
 			"timesDropped": 49,
-			"dropRate": 0.0263724434876211
+			"dropRate": 0.026217228464419477
 		},
 		{
 			"itemName": "Violet Gem",
 			"timesDropped": 28,
-			"dropRate": 0.015069967707212056
+			"dropRate": 0.0149812734082397
+		},
+		{
+			"itemName": "Dragon Hammer",
+			"timesDropped": 21,
+			"dropRate": 0.011235955056179775
 		},
 		{
 			"itemName": "Blue Gem",
 			"timesDropped": 20,
-			"dropRate": 0.010764262648008612
-		},
-		{
-			"itemName": "Dragon Hammer",
-			"timesDropped": 20,
-			"dropRate": 0.010764262648008612
+			"dropRate": 0.010700909577314071
 		},
 		{
 			"itemName": "Gold Nugget",
 			"timesDropped": 16,
-			"dropRate": 0.008611410118406888
+			"dropRate": 0.008560727661851257
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 14,
-			"dropRate": 0.007534983853606028
+			"dropRate": 0.00749063670411985
 		},
 		{
 			"itemName": "White Gem",
 			"timesDropped": 3,
-			"dropRate": 0.0016146393972012918
+			"dropRate": 0.0016051364365971107
 		}
 	]
 }

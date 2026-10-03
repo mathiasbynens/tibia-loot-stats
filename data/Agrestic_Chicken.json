@@ -1,26 +1,26 @@
 {
 	"monsterName": "Agrestic Chicken",
-	"timesKilled": 3783,
+	"timesKilled": 3850,
 	"items": [
 		{
 			"itemName": "Chicken Feather",
-			"timesDropped": 651,
-			"dropRate": 0.17208564631245044
+			"timesDropped": 662,
+			"dropRate": 0.17194805194805196
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 356,
-			"dropRate": 0.09410520750726936
+			"timesDropped": 360,
+			"dropRate": 0.09350649350649351
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 89,
-			"dropRate": 0.02352630187681734
+			"timesDropped": 91,
+			"dropRate": 0.023636363636363636
 		},
 		{
 			"itemName": "Egg",
 			"timesDropped": 36,
-			"dropRate": 0.00951625693893735
+			"dropRate": 0.00935064935064935
 		}
 	]
 }

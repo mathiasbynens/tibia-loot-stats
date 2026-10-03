@@ -1,56 +1,56 @@
 {
 	"monsterName": "Night Harpy",
-	"timesKilled": 10092,
+	"timesKilled": 11709,
 	"items": [
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1069,
-			"dropRate": 0.10592548553309553
+			"timesDropped": 1232,
+			"dropRate": 0.1052182082159023
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1014,
-			"dropRate": 0.10047562425683709
+			"timesDropped": 1181,
+			"dropRate": 0.10086258433683491
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 1009,
-			"dropRate": 0.09998018232263178
+			"timesDropped": 1167,
+			"dropRate": 0.09966692287983603
 		},
 		{
 			"itemName": "Night Harpy Feathers",
-			"timesDropped": 52,
-			"dropRate": 0.005152596115735236
+			"timesDropped": 62,
+			"dropRate": 0.005295072166709369
+		},
+		{
+			"itemName": "Giant Topaz",
+			"timesDropped": 16,
+			"dropRate": 0.0013664702365701598
 		},
 		{
 			"itemName": "Giant Sapphire",
-			"timesDropped": 14,
-			"dropRate": 0.0013872374157748713
+			"timesDropped": 15,
+			"dropRate": 0.0012810658467845247
 		},
 		{
 			"itemName": "Giant Amethyst",
 			"timesDropped": 13,
-			"dropRate": 0.001288149028933809
-		},
-		{
-			"itemName": "Giant Topaz",
-			"timesDropped": 13,
-			"dropRate": 0.001288149028933809
+			"dropRate": 0.0011102570672132548
 		},
 		{
 			"itemName": "Crystal Coin",
 			"timesDropped": 12,
-			"dropRate": 0.0011890606420927466
+			"dropRate": 0.0010248526774276198
 		},
 		{
 			"itemName": "Giant Ruby",
-			"timesDropped": 11,
-			"dropRate": 0.0010899722552516844
+			"timesDropped": 12,
+			"dropRate": 0.0010248526774276198
 		},
 		{
 			"itemName": "Giant Emerald",
-			"timesDropped": 10,
-			"dropRate": 0.0009908838684106222
+			"timesDropped": 11,
+			"dropRate": 0.0009394482876419848
 		}
 	]
 }
