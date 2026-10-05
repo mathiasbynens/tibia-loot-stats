@@ -1,71 +1,71 @@
 {
 	"monsterName": "White Lion",
-	"timesKilled": 9794,
+	"timesKilled": 9820,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9794,
+			"timesDropped": 9820,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2386,
-			"dropRate": 0.24361854196446805
+			"timesDropped": 2392,
+			"dropRate": 0.24358452138492873
 		},
 		{
 			"itemName": "Lion's Mane",
-			"timesDropped": 1880,
-			"dropRate": 0.1919542577088013
+			"timesDropped": 1886,
+			"dropRate": 0.1920570264765784
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 1488,
-			"dropRate": 0.15192975290994487
+			"timesDropped": 1490,
+			"dropRate": 0.15173116089613034
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 1461,
-			"dropRate": 0.14917296303859506
+			"timesDropped": 1464,
+			"dropRate": 0.14908350305498982
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 1432,
-			"dropRate": 0.14621196651010823
+			"timesDropped": 1436,
+			"dropRate": 0.14623217922606924
 		},
 		{
 			"itemName": "Twin Hooks",
-			"timesDropped": 1260,
-			"dropRate": 0.12865019399632427
+			"timesDropped": 1264,
+			"dropRate": 0.12871690427698573
 		},
 		{
 			"itemName": "Green Crystal Shard",
-			"timesDropped": 566,
-			"dropRate": 0.057790483969777415
+			"timesDropped": 568,
+			"dropRate": 0.05784114052953157
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
 			"timesDropped": 439,
-			"dropRate": 0.04482336124157647
+			"dropRate": 0.04470468431771894
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 334,
-			"dropRate": 0.034102511741882786
+			"timesDropped": 338,
+			"dropRate": 0.03441955193482688
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 258,
-			"dropRate": 0.026342658770675924
+			"timesDropped": 259,
+			"dropRate": 0.026374745417515274
 		},
 		{
 			"itemName": "Green Crystal Fragment",
 			"timesDropped": 193,
-			"dropRate": 0.01970594241372269
+			"dropRate": 0.01965376782077393
 		},
 		{
 			"itemName": "Combat Knife",
 			"timesDropped": 190,
-			"dropRate": 0.019399632428017153
+			"dropRate": 0.019348268839103868
 		}
 	]
 }
