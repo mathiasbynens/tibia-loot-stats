@@ -1,91 +1,91 @@
 {
 	"monsterName": "Raubritter Chastener",
-	"timesKilled": 57246,
+	"timesKilled": 57440,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 57246,
+			"timesDropped": 57440,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 5730,
-			"dropRate": 0.10009432973482864
+			"timesDropped": 5751,
+			"dropRate": 0.10012186629526462
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 4458,
-			"dropRate": 0.07787443664186144
+			"timesDropped": 4467,
+			"dropRate": 0.07776810584958217
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 2958,
-			"dropRate": 0.05167173252279635
+			"timesDropped": 2969,
+			"dropRate": 0.051688718662952646
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 2308,
-			"dropRate": 0.04031722740453481
+			"timesDropped": 2315,
+			"dropRate": 0.04030292479108635
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 1431,
-			"dropRate": 0.024997379729588095
+			"timesDropped": 1437,
+			"dropRate": 0.025017409470752087
 		},
 		{
 			"itemName": "Stag Parchment",
-			"timesDropped": 1187,
-			"dropRate": 0.020735073192886838
+			"timesDropped": 1192,
+			"dropRate": 0.02075208913649025
 		},
 		{
 			"itemName": "Silver Poniard",
-			"timesDropped": 1081,
-			"dropRate": 0.018883415435139574
+			"timesDropped": 1085,
+			"dropRate": 0.018889275766016712
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 824,
-			"dropRate": 0.014394018796073087
+			"timesDropped": 825,
+			"dropRate": 0.014362813370473538
 		},
 		{
 			"itemName": "Wooden Spellbook",
-			"timesDropped": 581,
-			"dropRate": 0.010149180728784544
+			"timesDropped": 584,
+			"dropRate": 0.010167130919220056
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 549,
-			"dropRate": 0.009590189707577822
+			"timesDropped": 551,
+			"dropRate": 0.009592618384401114
 		},
 		{
 			"itemName": "Lightning Robe",
-			"timesDropped": 519,
-			"dropRate": 0.00906613562519652
+			"timesDropped": 521,
+			"dropRate": 0.009070334261838441
 		},
 		{
 			"itemName": "Ring of Green Plasma",
-			"timesDropped": 321,
-			"dropRate": 0.005607378681479929
+			"timesDropped": 322,
+			"dropRate": 0.005605849582172702
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 298,
-			"dropRate": 0.005205603884987598
+			"timesDropped": 301,
+			"dropRate": 0.00524025069637883
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 257,
-			"dropRate": 0.004489396639066485
+			"timesDropped": 258,
+			"dropRate": 0.004491643454038997
 		},
 		{
 			"itemName": "Bottle of Raubritter Lager",
-			"timesDropped": 56,
-			"dropRate": 0.0009782342871117633
+			"timesDropped": 57,
+			"dropRate": 0.0009923398328690808
 		},
 		{
 			"itemName": "Crystal Coin",
 			"timesDropped": 8,
-			"dropRate": 0.00013974775530168045
+			"dropRate": 0.0001392757660167131
 		}
 	]
 }

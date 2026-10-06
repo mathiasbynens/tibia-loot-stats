@@ -1,11 +1,21 @@
 {
 	"monsterName": "Radiant Acolyte",
-	"timesKilled": 107,
+	"timesKilled": 573,
 	"items": [
 		{
+			"itemName": "Book of Faith",
+			"timesDropped": 8,
+			"dropRate": 0.013961605584642234
+		},
+		{
 			"itemName": "Blank Imbuement Scroll",
-			"timesDropped": 1,
-			"dropRate": 0.009345794392523364
+			"timesDropped": 3,
+			"dropRate": 0.005235602094240838
+		},
+		{
+			"itemName": "Gilded Bell",
+			"timesDropped": 2,
+			"dropRate": 0.0034904013961605585
 		}
 	]
 }

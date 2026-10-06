@@ -1,81 +1,81 @@
 {
 	"monsterName": "Feversleep",
-	"timesKilled": 3265,
+	"timesKilled": 3381,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3265,
+			"timesDropped": 3381,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3265,
+			"timesDropped": 3381,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1178,
-			"dropRate": 0.36079632465543643
+			"timesDropped": 1218,
+			"dropRate": 0.36024844720496896
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 680,
-			"dropRate": 0.2082695252679939
+			"timesDropped": 705,
+			"dropRate": 0.2085181898846495
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 583,
-			"dropRate": 0.1785604900459418
+			"timesDropped": 606,
+			"dropRate": 0.17923691215616683
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 511,
-			"dropRate": 0.1565084226646248
-		},
-		{
-			"itemName": "Small Topaz",
-			"timesDropped": 476,
-			"dropRate": 0.1457886676875957
+			"timesDropped": 532,
+			"dropRate": 0.15734989648033126
 		},
 		{
 			"itemName": "Bowl of Terror Sweat",
-			"timesDropped": 473,
-			"dropRate": 0.14486983154670752
+			"timesDropped": 489,
+			"dropRate": 0.14463176574977818
+		},
+		{
+			"itemName": "Small Topaz",
+			"timesDropped": 485,
+			"dropRate": 0.14344868382135462
 		},
 		{
 			"itemName": "Trapped Bad Dream Monster",
-			"timesDropped": 427,
-			"dropRate": 0.13078101071975498
+			"timesDropped": 449,
+			"dropRate": 0.13280094646554275
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 414,
-			"dropRate": 0.12679938744257274
+			"timesDropped": 430,
+			"dropRate": 0.1271813073055309
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 401,
-			"dropRate": 0.1228177641653905
+			"timesDropped": 413,
+			"dropRate": 0.12215320910973085
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 356,
-			"dropRate": 0.10903522205206738
+			"timesDropped": 367,
+			"dropRate": 0.1085477669328601
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 326,
-			"dropRate": 0.09984686064318529
+			"timesDropped": 340,
+			"dropRate": 0.10056196391600118
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 47,
-			"dropRate": 0.01439509954058193
+			"timesDropped": 48,
+			"dropRate": 0.01419698314108252
 		},
 		{
 			"itemName": "Cluster of Solace",
 			"timesDropped": 25,
-			"dropRate": 0.007656967840735069
+			"dropRate": 0.007394262052647146
 		}
 	]
 }
