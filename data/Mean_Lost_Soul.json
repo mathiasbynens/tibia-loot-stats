@@ -1,71 +1,71 @@
 {
 	"monsterName": "Mean Lost Soul",
-	"timesKilled": 2946,
+	"timesKilled": 3118,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2132,
-			"dropRate": 0.723693143245078
+			"timesDropped": 2248,
+			"dropRate": 0.7209749839640796
 		},
 		{
 			"itemName": "Lost Soul (Item)",
-			"timesDropped": 1006,
-			"dropRate": 0.34147997284453496
-		},
-		{
-			"itemName": "Death Toll",
-			"timesDropped": 159,
-			"dropRate": 0.0539714867617108
+			"timesDropped": 1068,
+			"dropRate": 0.3425272610647851
 		},
 		{
 			"itemName": "Skull Staff",
-			"timesDropped": 152,
-			"dropRate": 0.051595383570943655
+			"timesDropped": 165,
+			"dropRate": 0.05291853752405388
+		},
+		{
+			"itemName": "Death Toll",
+			"timesDropped": 163,
+			"dropRate": 0.052277100705580504
 		},
 		{
 			"itemName": "Machete",
-			"timesDropped": 144,
-			"dropRate": 0.048879837067209775
+			"timesDropped": 151,
+			"dropRate": 0.04842847979474022
 		},
 		{
 			"itemName": "Ensouled Essence",
-			"timesDropped": 107,
-			"dropRate": 0.0363204344874406
+			"timesDropped": 113,
+			"dropRate": 0.03624118024374599
 		},
 		{
 			"itemName": "Ivory Comb",
-			"timesDropped": 49,
-			"dropRate": 0.016632722335369995
+			"timesDropped": 55,
+			"dropRate": 0.01763951250801796
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 44,
-			"dropRate": 0.01493550577053632
+			"timesDropped": 45,
+			"dropRate": 0.014432328415651058
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 41,
-			"dropRate": 0.013917175831636116
+			"timesDropped": 44,
+			"dropRate": 0.014111610006414367
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 38,
-			"dropRate": 0.012898845892735914
+			"timesDropped": 40,
+			"dropRate": 0.012828736369467608
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 32,
-			"dropRate": 0.010862186014935505
+			"timesDropped": 37,
+			"dropRate": 0.011866581141757537
 		},
 		{
 			"itemName": "Twiceslicer",
 			"timesDropped": 20,
-			"dropRate": 0.006788866259334691
+			"dropRate": 0.006414368184733804
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 2,
-			"dropRate": 0.0006788866259334691
+			"dropRate": 0.0006414368184733803
 		}
 	]
 }

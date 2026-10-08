@@ -1,71 +1,71 @@
 {
 	"monsterName": "Flimsy Lost Soul",
-	"timesKilled": 5398,
+	"timesKilled": 5471,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5398,
+			"timesDropped": 5471,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Lost Soul (Item)",
-			"timesDropped": 1619,
-			"dropRate": 0.2999258984809189
+			"timesDropped": 1641,
+			"dropRate": 0.29994516541765676
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 387,
-			"dropRate": 0.07169321971100408
+			"timesDropped": 396,
+			"dropRate": 0.07238164869310912
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 278,
-			"dropRate": 0.05150055576139311
+			"timesDropped": 281,
+			"dropRate": 0.0513617254615244
 		},
 		{
 			"itemName": "Death Toll",
-			"timesDropped": 227,
-			"dropRate": 0.04205261207854761
-		},
-		{
-			"itemName": "Terra Rod",
-			"timesDropped": 190,
-			"dropRate": 0.035198221563542055
+			"timesDropped": 232,
+			"dropRate": 0.04240541034545787
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 187,
-			"dropRate": 0.034642460170433494
+			"timesDropped": 193,
+			"dropRate": 0.03527691464083348
+		},
+		{
+			"itemName": "Terra Rod",
+			"timesDropped": 192,
+			"dropRate": 0.03509413269968927
 		},
 		{
 			"itemName": "Ensouled Essence",
 			"timesDropped": 128,
-			"dropRate": 0.023712486105965172
+			"dropRate": 0.023396088466459512
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 113,
-			"dropRate": 0.02093367914042238
+			"timesDropped": 114,
+			"dropRate": 0.020837141290440505
 		},
 		{
 			"itemName": "Cursed Bone",
-			"timesDropped": 111,
-			"dropRate": 0.020563171545016672
+			"timesDropped": 113,
+			"dropRate": 0.02065435934929629
 		},
 		{
 			"itemName": "Necklace of the Deep",
-			"timesDropped": 105,
-			"dropRate": 0.019451648758799556
+			"timesDropped": 107,
+			"dropRate": 0.019557667702431
 		},
 		{
 			"itemName": "Glacial Rod",
-			"timesDropped": 64,
-			"dropRate": 0.011856243052982586
+			"timesDropped": 65,
+			"dropRate": 0.011880826174373972
 		},
 		{
 			"itemName": "Wand of Voodoo",
 			"timesDropped": 21,
-			"dropRate": 0.003890329751759911
+			"dropRate": 0.003838420764028514
 		}
 	]
 }

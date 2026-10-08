@@ -1,81 +1,81 @@
 {
 	"monsterName": "Bulltaur Forgepriest",
-	"timesKilled": 2935,
+	"timesKilled": 3332,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1579,
-			"dropRate": 0.5379897785349234
+			"timesDropped": 1806,
+			"dropRate": 0.542016806722689
 		},
 		{
 			"itemName": "Bulltaur Horn",
-			"timesDropped": 481,
-			"dropRate": 0.16388415672913118
+			"timesDropped": 536,
+			"dropRate": 0.1608643457382953
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 291,
-			"dropRate": 0.09914821124361159
+			"timesDropped": 327,
+			"dropRate": 0.09813925570228091
 		},
 		{
 			"itemName": "Staff Piece",
-			"timesDropped": 226,
-			"dropRate": 0.07700170357751278
+			"timesDropped": 265,
+			"dropRate": 0.07953181272509004
 		},
 		{
 			"itemName": "Idol of the Forge",
-			"timesDropped": 109,
-			"dropRate": 0.03713798977853492
+			"timesDropped": 126,
+			"dropRate": 0.037815126050420166
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 76,
-			"dropRate": 0.025894378194207836
+			"timesDropped": 84,
+			"dropRate": 0.025210084033613446
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 45,
-			"dropRate": 0.015332197614991482
+			"timesDropped": 55,
+			"dropRate": 0.016506602641056422
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 43,
-			"dropRate": 0.01465076660988075
+			"timesDropped": 51,
+			"dropRate": 0.015306122448979591
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 28,
-			"dropRate": 0.009540034071550256
+			"timesDropped": 33,
+			"dropRate": 0.009903961584633853
 		},
 		{
 			"itemName": "Lightning Robe",
-			"timesDropped": 25,
-			"dropRate": 0.008517887563884156
-		},
-		{
-			"itemName": "Gold Nugget",
-			"timesDropped": 21,
-			"dropRate": 0.007155025553662692
+			"timesDropped": 26,
+			"dropRate": 0.0078031212484993995
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 21,
-			"dropRate": 0.007155025553662692
+			"timesDropped": 23,
+			"dropRate": 0.006902761104441777
+		},
+		{
+			"itemName": "Gold Nugget",
+			"timesDropped": 22,
+			"dropRate": 0.006602641056422569
 		},
 		{
 			"itemName": "White Gem",
-			"timesDropped": 16,
-			"dropRate": 0.00545144804088586
+			"timesDropped": 19,
+			"dropRate": 0.005702280912364946
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 14,
-			"dropRate": 0.004770017035775128
+			"timesDropped": 15,
+			"dropRate": 0.004501800720288115
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 11,
-			"dropRate": 0.003747870528109029
+			"timesDropped": 12,
+			"dropRate": 0.003601440576230492
 		}
 	]
 }
