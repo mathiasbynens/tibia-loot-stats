@@ -1,66 +1,66 @@
 {
 	"monsterName": "Moonstone Excavator",
-	"timesKilled": 785,
+	"timesKilled": 793,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 625,
-			"dropRate": 0.7961783439490446
+			"timesDropped": 631,
+			"dropRate": 0.7957124842370744
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 254,
-			"dropRate": 0.3235668789808917
+			"timesDropped": 256,
+			"dropRate": 0.3228247162673392
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 140,
-			"dropRate": 0.17834394904458598
+			"timesDropped": 143,
+			"dropRate": 0.18032786885245902
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 111,
-			"dropRate": 0.14140127388535031
+			"dropRate": 0.13997477931904162
 		},
 		{
 			"itemName": "Small Ruby",
 			"timesDropped": 102,
-			"dropRate": 0.12993630573248408
+			"dropRate": 0.12862547288776796
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 96,
-			"dropRate": 0.12229299363057325
+			"timesDropped": 99,
+			"dropRate": 0.12484237074401008
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 82,
-			"dropRate": 0.10445859872611465
+			"dropRate": 0.1034047919293821
 		},
 		{
 			"itemName": "Candlestick",
 			"timesDropped": 32,
-			"dropRate": 0.04076433121019108
+			"dropRate": 0.0403530895334174
 		},
 		{
 			"itemName": "Iron Ore",
 			"timesDropped": 21,
-			"dropRate": 0.0267515923566879
+			"dropRate": 0.02648171500630517
 		},
 		{
 			"itemName": "Moonstone",
 			"timesDropped": 11,
-			"dropRate": 0.014012738853503185
+			"dropRate": 0.013871374527112233
 		},
 		{
 			"itemName": "Gold Nugget",
 			"timesDropped": 5,
-			"dropRate": 0.006369426751592357
+			"dropRate": 0.006305170239596469
 		},
 		{
 			"itemName": "Pick",
 			"timesDropped": 5,
-			"dropRate": 0.006369426751592357
+			"dropRate": 0.006305170239596469
 		}
 	]
 }

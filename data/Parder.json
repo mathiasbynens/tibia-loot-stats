@@ -1,46 +1,46 @@
 {
 	"monsterName": "Parder",
-	"timesKilled": 6906,
+	"timesKilled": 6908,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6906,
+			"timesDropped": 6908,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Ham",
 			"timesDropped": 1727,
-			"dropRate": 0.2500724008108891
+			"dropRate": 0.25
 		},
 		{
 			"itemName": "Parder Fur",
-			"timesDropped": 1334,
-			"dropRate": 0.19316536345207067
+			"timesDropped": 1335,
+			"dropRate": 0.1932541980312681
 		},
 		{
 			"itemName": "Parder Tooth",
 			"timesDropped": 1036,
-			"dropRate": 0.1500144801621778
+			"dropRate": 0.14997104806022005
 		},
 		{
 			"itemName": "Red Crystal Fragment",
 			"timesDropped": 943,
-			"dropRate": 0.13654792933680857
+			"dropRate": 0.1365083960625362
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 533,
-			"dropRate": 0.07717926440776136
+			"dropRate": 0.07715691951360741
 		},
 		{
 			"itemName": "Barbarian Axe",
 			"timesDropped": 324,
-			"dropRate": 0.04691572545612511
+			"dropRate": 0.046902142443543716
 		},
 		{
 			"itemName": "Crimson Sword",
 			"timesDropped": 103,
-			"dropRate": 0.014914567043150884
+			"dropRate": 0.014910248986682108
 		}
 	]
 }

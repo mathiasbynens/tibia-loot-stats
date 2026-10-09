@@ -1,66 +1,66 @@
 {
 	"monsterName": "Orger",
-	"timesKilled": 11110,
+	"timesKilled": 11154,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 11110,
+			"timesDropped": 11154,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Bone Club",
-			"timesDropped": 2174,
-			"dropRate": 0.19567956795679567
+			"timesDropped": 2186,
+			"dropRate": 0.19598350367581135
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 1865,
-			"dropRate": 0.16786678667866786
+			"timesDropped": 1872,
+			"dropRate": 0.16783216783216784
 		},
 		{
 			"itemName": "Copper Shield",
-			"timesDropped": 866,
-			"dropRate": 0.07794779477947794
+			"timesDropped": 868,
+			"dropRate": 0.07781961628115475
 		},
 		{
 			"itemName": "Studded Shield",
 			"timesDropped": 470,
-			"dropRate": 0.0423042304230423
+			"dropRate": 0.04213734982965752
 		},
 		{
 			"itemName": "Combat Knife",
-			"timesDropped": 406,
-			"dropRate": 0.036543654365436544
+			"timesDropped": 407,
+			"dropRate": 0.03648915187376726
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 394,
-			"dropRate": 0.035463546354635465
+			"timesDropped": 396,
+			"dropRate": 0.03550295857988166
 		},
 		{
 			"itemName": "Staff",
-			"timesDropped": 387,
-			"dropRate": 0.03483348334833483
+			"timesDropped": 388,
+			"dropRate": 0.0347857270934194
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 362,
-			"dropRate": 0.03258325832583258
+			"timesDropped": 364,
+			"dropRate": 0.03263403263403263
 		},
 		{
 			"itemName": "Crowbar",
-			"timesDropped": 337,
-			"dropRate": 0.030333033303330332
+			"timesDropped": 338,
+			"dropRate": 0.030303030303030304
 		},
 		{
 			"itemName": "Battle Axe",
 			"timesDropped": 317,
-			"dropRate": 0.028532853285328532
+			"dropRate": 0.02842029765106688
 		},
 		{
 			"itemName": "Spiky Club",
-			"timesDropped": 264,
-			"dropRate": 0.023762376237623763
+			"timesDropped": 265,
+			"dropRate": 0.02375829298906222
 		}
 	]
 }

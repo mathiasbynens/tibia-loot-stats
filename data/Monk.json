@@ -1,66 +1,66 @@
 {
 	"monsterName": "Monk",
-	"timesKilled": 2178,
+	"timesKilled": 2187,
 	"items": [
 		{
 			"itemName": "Bread",
-			"timesDropped": 430,
-			"dropRate": 0.19742883379247014
+			"timesDropped": 431,
+			"dropRate": 0.19707361682670324
 		},
 		{
 			"itemName": "Gold Coin",
 			"timesDropped": 351,
-			"dropRate": 0.16115702479338842
+			"dropRate": 0.16049382716049382
 		},
 		{
 			"itemName": "Book of Prayers",
-			"timesDropped": 132,
-			"dropRate": 0.06060606060606061
+			"timesDropped": 134,
+			"dropRate": 0.06127114769090078
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 63,
-			"dropRate": 0.028925619834710745
+			"timesDropped": 64,
+			"dropRate": 0.029263831732967534
 		},
 		{
 			"itemName": "Ankh",
 			"timesDropped": 52,
-			"dropRate": 0.023875114784205693
+			"dropRate": 0.02377686328303612
 		},
 		{
 			"itemName": "Scroll",
 			"timesDropped": 47,
-			"dropRate": 0.02157943067033976
+			"dropRate": 0.021490626428898034
 		},
 		{
 			"itemName": "Safety Pin",
 			"timesDropped": 23,
-			"dropRate": 0.010560146923783287
+			"dropRate": 0.010516689529035207
 		},
 		{
 			"itemName": "Lamp",
 			"timesDropped": 22,
-			"dropRate": 0.010101010101010102
+			"dropRate": 0.010059442158207591
 		},
 		{
 			"itemName": "Life Crystal",
 			"timesDropped": 21,
-			"dropRate": 0.009641873278236915
+			"dropRate": 0.009602194787379973
 		},
 		{
 			"itemName": "Brown Flask",
 			"timesDropped": 19,
-			"dropRate": 0.008723599632690543
+			"dropRate": 0.008687700045724738
 		},
 		{
 			"itemName": "Sandals",
 			"timesDropped": 15,
-			"dropRate": 0.006887052341597796
+			"dropRate": 0.006858710562414266
 		},
 		{
 			"itemName": "Staff",
 			"timesDropped": 11,
-			"dropRate": 0.005050505050505051
+			"dropRate": 0.005029721079103796
 		}
 	]
 }

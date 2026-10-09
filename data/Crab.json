@@ -1,21 +1,21 @@
 {
 	"monsterName": "Crab",
-	"timesKilled": 19985,
+	"timesKilled": 19988,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16040,
-			"dropRate": 0.8026019514635977
+			"timesDropped": 16043,
+			"dropRate": 0.8026315789473685
 		},
 		{
 			"itemName": "Crab Pincers",
 			"timesDropped": 3975,
-			"dropRate": 0.19889917438078558
+			"dropRate": 0.19886932159295578
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 3932,
-			"dropRate": 0.19674756067050286
+			"timesDropped": 3933,
+			"dropRate": 0.1967680608365019
 		}
 	]
 }

@@ -1,31 +1,31 @@
 {
 	"monsterName": "Cow",
-	"timesKilled": 9181,
+	"timesKilled": 9183,
 	"items": [
 		{
 			"itemName": "Meat",
 			"timesDropped": 1575,
-			"dropRate": 0.17154994009367172
+			"dropRate": 0.1715125775890232
 		},
 		{
 			"itemName": "Veal",
 			"timesDropped": 454,
-			"dropRate": 0.0494499509857314
+			"dropRate": 0.049439181095502556
 		},
 		{
 			"itemName": "Meat Hammer",
 			"timesDropped": 105,
-			"dropRate": 0.011436662672911447
+			"dropRate": 0.011434171839268212
 		},
 		{
 			"itemName": "Milk Churn",
 			"timesDropped": 51,
-			"dropRate": 0.005554950441128417
+			"dropRate": 0.00555374060764456
 		},
 		{
 			"itemName": "Cow Bell",
 			"timesDropped": 27,
-			"dropRate": 0.002940856115891515
+			"dropRate": 0.0029402156158118264
 		}
 	]
 }
