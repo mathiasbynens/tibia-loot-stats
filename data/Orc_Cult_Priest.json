@@ -1,76 +1,76 @@
 {
 	"monsterName": "Orc Cult Priest",
-	"timesKilled": 4799,
+	"timesKilled": 4880,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4799,
+			"timesDropped": 4880,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 713,
-			"dropRate": 0.1485726192956866
+			"timesDropped": 727,
+			"dropRate": 0.14897540983606558
 		},
 		{
 			"itemName": "Shamanic Hood",
-			"timesDropped": 670,
-			"dropRate": 0.13961241925401124
+			"timesDropped": 682,
+			"dropRate": 0.13975409836065575
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 572,
-			"dropRate": 0.11919149822879767
+			"timesDropped": 584,
+			"dropRate": 0.11967213114754098
 		},
 		{
 			"itemName": "Green Piece of Cloth",
-			"timesDropped": 508,
-			"dropRate": 0.10585538653886226
+			"timesDropped": 515,
+			"dropRate": 0.10553278688524591
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 492,
-			"dropRate": 0.10252135861637841
+			"timesDropped": 498,
+			"dropRate": 0.10204918032786885
 		},
 		{
 			"itemName": "Broken Shamanic Staff",
-			"timesDropped": 456,
-			"dropRate": 0.09501979579078974
+			"timesDropped": 463,
+			"dropRate": 0.09487704918032787
 		},
 		{
 			"itemName": "Mysterious Fetish",
-			"timesDropped": 451,
-			"dropRate": 0.09397791206501355
+			"timesDropped": 460,
+			"dropRate": 0.0942622950819672
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 390,
-			"dropRate": 0.08126693061054387
+			"timesDropped": 396,
+			"dropRate": 0.08114754098360656
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 246,
-			"dropRate": 0.05126067930818921
+			"timesDropped": 250,
+			"dropRate": 0.05122950819672131
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 135,
-			"dropRate": 0.028130860595957492
+			"timesDropped": 138,
+			"dropRate": 0.028278688524590163
 		},
 		{
 			"itemName": "Heavy Old Tome",
-			"timesDropped": 83,
-			"dropRate": 0.017295269847884976
+			"timesDropped": 84,
+			"dropRate": 0.01721311475409836
 		},
 		{
 			"itemName": "Berserk Potion",
-			"timesDropped": 46,
-			"dropRate": 0.009585330277141072
+			"timesDropped": 49,
+			"dropRate": 0.010040983606557377
 		},
 		{
 			"itemName": "Wand of Decay",
 			"timesDropped": 43,
-			"dropRate": 0.008960200041675349
+			"dropRate": 0.008811475409836065
 		}
 	]
 }

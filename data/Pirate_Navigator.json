@@ -1,66 +1,66 @@
 {
 	"monsterName": "Pirate Navigator",
-	"timesKilled": 4640,
+	"timesKilled": 4796,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3250,
-			"dropRate": 0.7004310344827587
+			"timesDropped": 3361,
+			"dropRate": 0.700792326939116
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 1149,
-			"dropRate": 0.24762931034482757
+			"timesDropped": 1192,
+			"dropRate": 0.24854045037531275
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 926,
-			"dropRate": 0.19956896551724138
+			"timesDropped": 961,
+			"dropRate": 0.20037531276063386
 		},
 		{
 			"itemName": "Sail Pass",
-			"timesDropped": 437,
-			"dropRate": 0.09418103448275862
+			"timesDropped": 455,
+			"dropRate": 0.09487072560467055
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 257,
-			"dropRate": 0.05538793103448276
+			"timesDropped": 264,
+			"dropRate": 0.05504587155963303
 		},
 		{
 			"itemName": "Gold Tooth",
-			"timesDropped": 223,
-			"dropRate": 0.048060344827586206
+			"timesDropped": 233,
+			"dropRate": 0.048582151793160964
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 124,
-			"dropRate": 0.026724137931034484
+			"timesDropped": 132,
+			"dropRate": 0.027522935779816515
 		},
 		{
 			"itemName": "Bandana",
-			"timesDropped": 48,
-			"dropRate": 0.010344827586206896
+			"timesDropped": 49,
+			"dropRate": 0.010216847372810676
 		},
 		{
 			"itemName": "Empty Goldfish Bowl",
-			"timesDropped": 45,
-			"dropRate": 0.009698275862068966
+			"timesDropped": 46,
+			"dropRate": 0.009591326105087573
+		},
+		{
+			"itemName": "Eye Patch",
+			"timesDropped": 6,
+			"dropRate": 0.0012510425354462051
+		},
+		{
+			"itemName": "Hook",
+			"timesDropped": 6,
+			"dropRate": 0.0012510425354462051
 		},
 		{
 			"itemName": "Peg Leg",
 			"timesDropped": 6,
-			"dropRate": 0.001293103448275862
-		},
-		{
-			"itemName": "Eye Patch",
-			"timesDropped": 5,
-			"dropRate": 0.0010775862068965517
-		},
-		{
-			"itemName": "Hook",
-			"timesDropped": 5,
-			"dropRate": 0.0010775862068965517
+			"dropRate": 0.0012510425354462051
 		}
 	]
 }

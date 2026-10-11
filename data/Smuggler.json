@@ -1,61 +1,61 @@
 {
 	"monsterName": "Smuggler",
-	"timesKilled": 71782,
+	"timesKilled": 71791,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 57319,
-			"dropRate": 0.7985149480371123
+			"timesDropped": 57326,
+			"dropRate": 0.7985123483445
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 21681,
-			"dropRate": 0.3020395085118832
+			"timesDropped": 21682,
+			"dropRate": 0.30201557298268583
 		},
 		{
 			"itemName": "Leather Legs",
-			"timesDropped": 10681,
-			"dropRate": 0.14879774873923826
+			"timesDropped": 10682,
+			"dropRate": 0.14879302419523338
 		},
 		{
 			"itemName": "Ham",
 			"timesDropped": 7301,
-			"dropRate": 0.10171073528182553
+			"dropRate": 0.10169798442701732
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 7234,
-			"dropRate": 0.10077735365411941
+			"timesDropped": 7235,
+			"dropRate": 0.1007786491342926
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 7230,
-			"dropRate": 0.10072162937783846
+			"timesDropped": 7231,
+			"dropRate": 0.10072293184382443
 		},
 		{
 			"itemName": "Short Sword",
 			"timesDropped": 7202,
-			"dropRate": 0.10033155944387172
+			"dropRate": 0.10031898148793024
 		},
 		{
 			"itemName": "Sword",
 			"timesDropped": 3618,
-			"dropRate": 0.05040260789612995
+			"dropRate": 0.05039628922845482
 		},
 		{
 			"itemName": "Raspberry",
-			"timesDropped": 3525,
-			"dropRate": 0.04910701847259759
+			"timesDropped": 3526,
+			"dropRate": 0.04911479154768703
 		},
 		{
 			"itemName": "Combat Knife",
 			"timesDropped": 2903,
-			"dropRate": 0.040441893510908024
+			"dropRate": 0.04043682355727041
 		},
 		{
 			"itemName": "Deer Trophy",
 			"timesDropped": 78,
-			"dropRate": 0.0010866233874787551
+			"dropRate": 0.0010864871641292084
 		}
 	]
 }

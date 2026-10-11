@@ -1,16 +1,36 @@
 {
 	"monsterName": "Rootthing Amber Shaper",
-	"timesKilled": 3,
+	"timesKilled": 77,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3,
-			"dropRate": 1
+			"timesDropped": 61,
+			"dropRate": 0.7922077922077922
 		},
 		{
 			"itemName": "Amber Sickle",
+			"timesDropped": 12,
+			"dropRate": 0.15584415584415584
+		},
+		{
+			"itemName": "Resin Parasite",
+			"timesDropped": 12,
+			"dropRate": 0.15584415584415584
+		},
+		{
+			"itemName": "Demon Root",
+			"timesDropped": 3,
+			"dropRate": 0.03896103896103896
+		},
+		{
+			"itemName": "Amber with a Bug",
 			"timesDropped": 1,
-			"dropRate": 0.3333333333333333
+			"dropRate": 0.012987012987012988
+		},
+		{
+			"itemName": "Crystal Coin",
+			"timesDropped": 1,
+			"dropRate": 0.012987012987012988
 		}
 	]
 }

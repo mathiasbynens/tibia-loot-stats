@@ -1,86 +1,86 @@
 {
 	"monsterName": "Metal Gargoyle",
-	"timesKilled": 12346,
+	"timesKilled": 12358,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12218,
-			"dropRate": 0.9896322695609914
+			"timesDropped": 12230,
+			"dropRate": 0.9896423369477262
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4905,
-			"dropRate": 0.3972946703385712
+			"timesDropped": 4909,
+			"dropRate": 0.3972325619032206
 		},
 		{
 			"itemName": "Metal Jaw",
-			"timesDropped": 1965,
-			"dropRate": 0.15916086181759273
+			"timesDropped": 1968,
+			"dropRate": 0.15924906942871014
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 963,
-			"dropRate": 0.07800097197472866
+			"timesDropped": 965,
+			"dropRate": 0.07808706910503317
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 946,
-			"dropRate": 0.07662400777579782
+			"dropRate": 0.07654960349571129
 		},
 		{
 			"itemName": "Metal Spats",
 			"timesDropped": 333,
-			"dropRate": 0.026972298720233275
+			"dropRate": 0.02694610778443114
 		},
 		{
 			"itemName": "Bronze Gear Wheel",
-			"timesDropped": 288,
-			"dropRate": 0.023327393487769316
+			"timesDropped": 289,
+			"dropRate": 0.023385661110212008
 		},
 		{
 			"itemName": "Slightly Rusted Armor",
 			"timesDropped": 281,
-			"dropRate": 0.022760408229386037
+			"dropRate": 0.022738307169444895
 		},
 		{
 			"itemName": "Shiny Stone",
 			"timesDropped": 160,
-			"dropRate": 0.012959663048760733
+			"dropRate": 0.01294707881534229
 		},
 		{
 			"itemName": "Alloy Legs",
-			"timesDropped": 111,
-			"dropRate": 0.008990766240077759
+			"timesDropped": 112,
+			"dropRate": 0.009062955170739602
 		},
 		{
 			"itemName": "Underworld Rod",
 			"timesDropped": 109,
-			"dropRate": 0.008828770451968249
+			"dropRate": 0.008820197442951934
 		},
 		{
 			"itemName": "Metal Bat",
 			"timesDropped": 102,
-			"dropRate": 0.008261785193584966
+			"dropRate": 0.008253762744780709
 		},
 		{
 			"itemName": "Life Ring",
 			"timesDropped": 58,
-			"dropRate": 0.004697877855175766
+			"dropRate": 0.0046933160705615795
 		},
 		{
 			"itemName": "Iron Ore",
 			"timesDropped": 50,
-			"dropRate": 0.004049894702737729
+			"dropRate": 0.004045962129794465
 		},
 		{
 			"itemName": "Energy Ring",
 			"timesDropped": 47,
-			"dropRate": 0.003806901020573465
+			"dropRate": 0.0038032044020067973
 		},
 		{
 			"itemName": "Lesser Spiritualist Gem",
 			"timesDropped": 1,
-			"dropRate": 0.00008099789405475457
+			"dropRate": 0.0000809192425958893
 		}
 	]
 }

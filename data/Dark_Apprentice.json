@@ -1,46 +1,46 @@
 {
 	"monsterName": "Dark Apprentice",
-	"timesKilled": 109473,
+	"timesKilled": 109474,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 82172,
-			"dropRate": 0.7506143067240324
+			"timesDropped": 82173,
+			"dropRate": 0.7506165847598516
 		},
 		{
 			"itemName": "Dead Frog",
 			"timesDropped": 13167,
-			"dropRate": 0.12027623249568387
+			"dropRate": 0.12027513382172936
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 8785,
-			"dropRate": 0.0802480977044568
+			"timesDropped": 8786,
+			"dropRate": 0.08025649926009829
 		},
 		{
 			"itemName": "Mana Potion",
 			"timesDropped": 3293,
-			"dropRate": 0.030080476464516365
+			"dropRate": 0.03008020169172589
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 3182,
-			"dropRate": 0.029066527819645027
+			"dropRate": 0.029066262308858726
 		},
 		{
 			"itemName": "Wand of Dragonbreath",
 			"timesDropped": 2181,
-			"dropRate": 0.019922720670850345
+			"dropRate": 0.019922538684984562
 		},
 		{
 			"itemName": "Wand of Decay",
 			"timesDropped": 116,
-			"dropRate": 0.00105962200725293
+			"dropRate": 0.0010596123280413614
 		},
 		{
 			"itemName": "Reins",
 			"timesDropped": 8,
-			"dropRate": 0.0000730773798105469
+			"dropRate": 0.00007307671227871458
 		}
 	]
 }

@@ -1,46 +1,46 @@
 {
 	"monsterName": "Poacher",
-	"timesKilled": 15874,
+	"timesKilled": 15876,
 	"items": [
 		{
 			"itemName": "Arrow",
-			"timesDropped": 7472,
-			"dropRate": 0.470706816177397
+			"timesDropped": 7473,
+			"dropRate": 0.4707105064247921
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 4827,
-			"dropRate": 0.3040821469068918
+			"timesDropped": 4828,
+			"dropRate": 0.30410682791635174
 		},
 		{
 			"itemName": "Leather Legs",
-			"timesDropped": 4451,
-			"dropRate": 0.2803956154718407
+			"timesDropped": 4452,
+			"dropRate": 0.2804232804232804
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 2397,
-			"dropRate": 0.1510016378984503
+			"timesDropped": 2398,
+			"dropRate": 0.15104560342655582
 		},
 		{
 			"itemName": "Roll",
 			"timesDropped": 1761,
-			"dropRate": 0.11093612196043845
+			"dropRate": 0.11092214663643235
 		},
 		{
 			"itemName": "Torch",
 			"timesDropped": 776,
-			"dropRate": 0.04888496913191382
+			"dropRate": 0.04887881078357269
 		},
 		{
 			"itemName": "Poison Arrow",
 			"timesDropped": 409,
-			"dropRate": 0.02576540254504221
+			"dropRate": 0.025762156714537666
 		},
 		{
 			"itemName": "Closed Trap",
 			"timesDropped": 164,
-			"dropRate": 0.010331359455713746
+			"dropRate": 0.010330057949105569
 		}
 	]
 }

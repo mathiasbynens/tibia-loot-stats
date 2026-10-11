@@ -1,11 +1,46 @@
 {
 	"monsterName": "Rootthing Nutshell",
-	"timesKilled": 15,
+	"timesKilled": 270,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 11,
-			"dropRate": 0.7333333333333333
+			"timesDropped": 204,
+			"dropRate": 0.7555555555555555
+		},
+		{
+			"itemName": "Demon Root",
+			"timesDropped": 17,
+			"dropRate": 0.06296296296296296
+		},
+		{
+			"itemName": "Resin Parasite",
+			"timesDropped": 14,
+			"dropRate": 0.05185185185185185
+		},
+		{
+			"itemName": "Epee",
+			"timesDropped": 5,
+			"dropRate": 0.018518518518518517
+		},
+		{
+			"itemName": "Terra Hood",
+			"timesDropped": 4,
+			"dropRate": 0.014814814814814815
+		},
+		{
+			"itemName": "Green Gem",
+			"timesDropped": 3,
+			"dropRate": 0.011111111111111112
+		},
+		{
+			"itemName": "Small Emerald",
+			"timesDropped": 3,
+			"dropRate": 0.011111111111111112
+		},
+		{
+			"itemName": "Swamplair Armor",
+			"timesDropped": 2,
+			"dropRate": 0.007407407407407408
 		}
 	]
 }
