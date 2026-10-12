@@ -1,46 +1,46 @@
 {
 	"monsterName": "Infernoid Blob",
-	"timesKilled": 10110,
+	"timesKilled": 10180,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5988,
-			"dropRate": 0.5922848664688427
+			"timesDropped": 6026,
+			"dropRate": 0.5919449901768173
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 2487,
-			"dropRate": 0.2459940652818991
+			"timesDropped": 2509,
+			"dropRate": 0.24646365422396857
 		},
 		{
 			"itemName": "Sail Pass",
-			"timesDropped": 1008,
-			"dropRate": 0.09970326409495549
+			"timesDropped": 1013,
+			"dropRate": 0.09950884086444008
 		},
 		{
 			"itemName": "Infernoid Ember",
-			"timesDropped": 567,
-			"dropRate": 0.056083086053412466
+			"timesDropped": 577,
+			"dropRate": 0.056679764243614934
 		},
 		{
 			"itemName": "Fire Mushroom",
-			"timesDropped": 214,
-			"dropRate": 0.021167161226508406
+			"timesDropped": 216,
+			"dropRate": 0.021218074656188603
 		},
 		{
 			"itemName": "Coal",
 			"timesDropped": 42,
-			"dropRate": 0.004154302670623145
+			"dropRate": 0.0041257367387033395
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 16,
-			"dropRate": 0.001582591493570722
+			"dropRate": 0.0015717092337917485
 		},
 		{
 			"itemName": "Lesser Spiritualist Gem",
 			"timesDropped": 1,
-			"dropRate": 0.00009891196834817012
+			"dropRate": 0.00009823182711198428
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Golden Servant Replica",
-	"timesKilled": 7240,
+	"timesKilled": 7438,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6373,
-			"dropRate": 0.8802486187845304
+			"timesDropped": 6560,
+			"dropRate": 0.8819575154611454
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 785,
-			"dropRate": 0.10842541436464088
+			"timesDropped": 850,
+			"dropRate": 0.1142780317289594
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 376,
-			"dropRate": 0.051933701657458566
+			"timesDropped": 386,
+			"dropRate": 0.05189567087926862
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 334,
-			"dropRate": 0.04613259668508287
+			"timesDropped": 348,
+			"dropRate": 0.046786770637268084
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 184,
-			"dropRate": 0.02541436464088398
+			"timesDropped": 191,
+			"dropRate": 0.02567894595321323
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 111,
-			"dropRate": 0.015331491712707182
+			"timesDropped": 113,
+			"dropRate": 0.015192255982791072
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 74,
-			"dropRate": 0.010220994475138122
+			"timesDropped": 78,
+			"dropRate": 0.010486689970422156
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 31,
-			"dropRate": 0.004281767955801105
+			"timesDropped": 32,
+			"dropRate": 0.004302231782737295
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 29,
-			"dropRate": 0.004005524861878453
+			"timesDropped": 30,
+			"dropRate": 0.004033342296316214
 		},
 		{
 			"itemName": "Slime Mould",
 			"timesDropped": 24,
-			"dropRate": 0.0033149171270718232
+			"dropRate": 0.0032266738370529714
 		},
 		{
 			"itemName": "Golden Can of Oil",
 			"timesDropped": 2,
-			"dropRate": 0.00027624309392265195
+			"dropRate": 0.00026888948642108095
 		},
 		{
 			"itemName": "Gold Ring",
 			"timesDropped": 1,
-			"dropRate": 0.00013812154696132598
+			"dropRate": 0.00013444474321054048
 		},
 		{
 			"itemName": "Golden Armor",
 			"timesDropped": 1,
-			"dropRate": 0.00013812154696132598
+			"dropRate": 0.00013444474321054048
 		}
 	]
 }
