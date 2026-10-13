@@ -1,81 +1,81 @@
 {
 	"monsterName": "Orc Cult Fanatic",
-	"timesKilled": 4818,
+	"timesKilled": 4896,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4818,
+			"timesDropped": 4896,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 1491,
-			"dropRate": 0.3094645080946451
+			"timesDropped": 1517,
+			"dropRate": 0.3098447712418301
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 932,
-			"dropRate": 0.1934412619344126
+			"timesDropped": 944,
+			"dropRate": 0.19281045751633988
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 728,
-			"dropRate": 0.15110004151100043
+			"timesDropped": 740,
+			"dropRate": 0.1511437908496732
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 727,
-			"dropRate": 0.15089248650892487
+			"timesDropped": 738,
+			"dropRate": 0.15073529411764705
 		},
 		{
 			"itemName": "Skull Belt",
-			"timesDropped": 567,
-			"dropRate": 0.11768368617683686
+			"timesDropped": 575,
+			"dropRate": 0.11744281045751634
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 511,
-			"dropRate": 0.10606060606060606
+			"timesDropped": 522,
+			"dropRate": 0.10661764705882353
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 504,
-			"dropRate": 0.10460772104607721
-		},
-		{
-			"itemName": "Small Ruby",
-			"timesDropped": 500,
-			"dropRate": 0.10377750103777501
+			"timesDropped": 514,
+			"dropRate": 0.10498366013071896
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 498,
-			"dropRate": 0.10336239103362391
+			"timesDropped": 510,
+			"dropRate": 0.10416666666666667
+		},
+		{
+			"itemName": "Small Ruby",
+			"timesDropped": 510,
+			"dropRate": 0.10416666666666667
 		},
 		{
 			"itemName": "Sword Ring",
-			"timesDropped": 417,
-			"dropRate": 0.08655043586550436
+			"timesDropped": 427,
+			"dropRate": 0.0872140522875817
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 260,
-			"dropRate": 0.053964300539643004
+			"timesDropped": 265,
+			"dropRate": 0.054125816993464054
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 209,
-			"dropRate": 0.04337899543378995
+			"timesDropped": 213,
+			"dropRate": 0.04350490196078431
 		},
 		{
 			"itemName": "Brass Legs",
-			"timesDropped": 125,
-			"dropRate": 0.025944375259443753
+			"timesDropped": 127,
+			"dropRate": 0.025939542483660132
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 45,
-			"dropRate": 0.00933997509339975
+			"timesDropped": 47,
+			"dropRate": 0.00959967320261438
 		}
 	]
 }

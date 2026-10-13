@@ -1,106 +1,111 @@
 {
 	"monsterName": "Banshee",
-	"timesKilled": 1464,
+	"timesKilled": 1564,
 	"items": [
 		{
 			"itemName": "Candlestick",
-			"timesDropped": 1000,
-			"dropRate": 0.6830601092896175
+			"timesDropped": 1075,
+			"dropRate": 0.6873401534526854
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 399,
-			"dropRate": 0.2725409836065574
+			"timesDropped": 434,
+			"dropRate": 0.2774936061381074
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 122,
-			"dropRate": 0.08333333333333333
+			"timesDropped": 128,
+			"dropRate": 0.08184143222506395
 		},
 		{
 			"itemName": "Simple Dress",
-			"timesDropped": 85,
-			"dropRate": 0.05806010928961749
+			"timesDropped": 91,
+			"dropRate": 0.058184143222506396
 		},
 		{
 			"itemName": "Hair of a Banshee",
-			"timesDropped": 65,
-			"dropRate": 0.04439890710382514
+			"timesDropped": 69,
+			"dropRate": 0.04411764705882353
 		},
 		{
 			"itemName": "Petrified Scream",
-			"timesDropped": 59,
-			"dropRate": 0.040300546448087435
+			"timesDropped": 66,
+			"dropRate": 0.04219948849104859
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 33,
-			"dropRate": 0.022540983606557378
+			"timesDropped": 37,
+			"dropRate": 0.023657289002557546
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 27,
-			"dropRate": 0.018442622950819672
+			"timesDropped": 28,
+			"dropRate": 0.017902813299232736
 		},
 		{
 			"itemName": "Crystal Ring",
-			"timesDropped": 23,
-			"dropRate": 0.015710382513661202
+			"timesDropped": 27,
+			"dropRate": 0.017263427109974423
 		},
 		{
 			"itemName": "Poison Dagger",
 			"timesDropped": 21,
-			"dropRate": 0.014344262295081968
+			"dropRate": 0.013427109974424553
 		},
 		{
 			"itemName": "Ring of Healing",
 			"timesDropped": 17,
-			"dropRate": 0.011612021857923498
+			"dropRate": 0.010869565217391304
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 15,
-			"dropRate": 0.010245901639344262
+			"timesDropped": 16,
+			"dropRate": 0.010230179028132993
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 14,
-			"dropRate": 0.009562841530054645
+			"timesDropped": 15,
+			"dropRate": 0.00959079283887468
 		},
 		{
 			"itemName": "Lyre",
 			"timesDropped": 12,
-			"dropRate": 0.00819672131147541
+			"dropRate": 0.0076726342710997444
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 12,
-			"dropRate": 0.00819672131147541
+			"dropRate": 0.0076726342710997444
 		},
 		{
 			"itemName": "Blue Robe",
 			"timesDropped": 11,
-			"dropRate": 0.007513661202185792
+			"dropRate": 0.007033248081841432
 		},
 		{
 			"itemName": "Wedding Ring",
-			"timesDropped": 9,
-			"dropRate": 0.006147540983606557
+			"timesDropped": 10,
+			"dropRate": 0.00639386189258312
 		},
 		{
 			"itemName": "Spellbook",
-			"timesDropped": 6,
-			"dropRate": 0.004098360655737705
+			"timesDropped": 7,
+			"dropRate": 0.004475703324808184
 		},
 		{
 			"itemName": "Terra Mantle",
 			"timesDropped": 4,
-			"dropRate": 0.00273224043715847
+			"dropRate": 0.0025575447570332483
 		},
 		{
 			"itemName": "Life Crystal",
 			"timesDropped": 1,
-			"dropRate": 0.0006830601092896175
+			"dropRate": 0.0006393861892583121
+		},
+		{
+			"itemName": "Red Robe",
+			"timesDropped": 1,
+			"dropRate": 0.0006393861892583121
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Giant Spider",
-	"timesKilled": 104411,
+	"timesKilled": 104415,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 104396,
-			"dropRate": 0.9998563369759891
+			"timesDropped": 104400,
+			"dropRate": 0.9998563424795288
 		},
 		{
 			"itemName": "Poison Arrow",
 			"timesDropped": 12455,
-			"dropRate": 0.11928819760370075
+			"dropRate": 0.1192836278312503
 		},
 		{
 			"itemName": "Plate Armor",
 			"timesDropped": 10479,
-			"dropRate": 0.10036298857400082
+			"dropRate": 0.100359143801178
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 8243,
-			"dropRate": 0.07894762046144563
+			"timesDropped": 8244,
+			"dropRate": 0.07895417325096969
 		},
 		{
 			"itemName": "Two Handed Sword",
 			"timesDropped": 5311,
-			"dropRate": 0.05086628803478561
+			"dropRate": 0.050864339414835036
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 5121,
-			"dropRate": 0.04904655639731446
+			"dropRate": 0.04904467748886654
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 3700,
-			"dropRate": 0.03543687925601709
+			"dropRate": 0.03543552171622851
 		},
 		{
 			"itemName": "Spider Silk",
 			"timesDropped": 2069,
-			"dropRate": 0.019815919778567392
+			"dropRate": 0.01981516065699373
 		},
 		{
 			"itemName": "Knight Legs",
 			"timesDropped": 852,
-			"dropRate": 0.008160059763817989
+			"dropRate": 0.008159747162763971
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 749,
-			"dropRate": 0.0071735736656099456
+			"dropRate": 0.0071732988555284205
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 515,
-			"dropRate": 0.004932430491040216
+			"dropRate": 0.004932241536177752
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 284,
-			"dropRate": 0.002720019921272663
+			"dropRate": 0.0027199157209213238
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 284,
-			"dropRate": 0.002720019921272663
+			"dropRate": 0.0027199157209213238
 		}
 	]
 }
