@@ -1,136 +1,136 @@
 {
 	"monsterName": "Hero",
-	"timesKilled": 32497,
+	"timesKilled": 32629,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 19654,
-			"dropRate": 0.6047942887035727
+			"timesDropped": 19734,
+			"dropRate": 0.6047994115663979
 		},
 		{
 			"itemName": "Scroll",
-			"timesDropped": 14671,
-			"dropRate": 0.45145705757454535
+			"timesDropped": 14723,
+			"dropRate": 0.45122437095834994
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 8794,
-			"dropRate": 0.2706095947318214
+			"timesDropped": 8825,
+			"dropRate": 0.27046492384075516
 		},
 		{
 			"itemName": "Red Rose",
-			"timesDropped": 6629,
-			"dropRate": 0.20398806043634798
+			"timesDropped": 6657,
+			"dropRate": 0.20402096294707162
 		},
 		{
 			"itemName": "Grapes",
-			"timesDropped": 6556,
-			"dropRate": 0.2017416992337754
+			"timesDropped": 6587,
+			"dropRate": 0.2018756321064084
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 4225,
-			"dropRate": 0.13001200110779457
+			"timesDropped": 4247,
+			"dropRate": 0.13016028686138098
 		},
 		{
 			"itemName": "Sniper Arrow",
-			"timesDropped": 3730,
-			"dropRate": 0.11477982583007662
+			"timesDropped": 3742,
+			"dropRate": 0.1146832572251678
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 2787,
-			"dropRate": 0.08576176262424223
+			"timesDropped": 2799,
+			"dropRate": 0.0857825860430905
 		},
 		{
 			"itemName": "Green Tunic",
-			"timesDropped": 2577,
-			"dropRate": 0.07929962765793766
+			"timesDropped": 2587,
+			"dropRate": 0.07928529835422476
 		},
 		{
 			"itemName": "Wedding Ring",
-			"timesDropped": 1659,
-			"dropRate": 0.0510508662338062
+			"timesDropped": 1667,
+			"dropRate": 0.051089521591222535
 		},
 		{
 			"itemName": "Scroll of Heroic Deeds",
-			"timesDropped": 1641,
-			"dropRate": 0.05049696895098009
-		},
-		{
-			"itemName": "Red Piece of Cloth",
-			"timesDropped": 664,
-			"dropRate": 0.020432655322029727
+			"timesDropped": 1643,
+			"dropRate": 0.05035397958870943
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 662,
-			"dropRate": 0.02037111117949349
+			"timesDropped": 666,
+			"dropRate": 0.020411290569738578
+		},
+		{
+			"itemName": "Red Piece of Cloth",
+			"timesDropped": 665,
+			"dropRate": 0.02038064298630053
 		},
 		{
 			"itemName": "Lyre",
-			"timesDropped": 515,
-			"dropRate": 0.015847616703080283
+			"timesDropped": 517,
+			"dropRate": 0.015844800637469736
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 510,
-			"dropRate": 0.0156937563467397
+			"timesDropped": 512,
+			"dropRate": 0.015691562720279505
 		},
 		{
 			"itemName": "Scarf",
-			"timesDropped": 359,
-			"dropRate": 0.011047173585254023
+			"timesDropped": 361,
+			"dropRate": 0.011063777621134573
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 305,
-			"dropRate": 0.009385481736775702
+			"timesDropped": 306,
+			"dropRate": 0.00937816053204205
 		},
 		{
 			"itemName": "Small Notebook",
 			"timesDropped": 301,
-			"dropRate": 0.009262393451703235
+			"dropRate": 0.009224922614851819
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 245,
-			"dropRate": 0.007539157460688679
+			"timesDropped": 246,
+			"dropRate": 0.007539305525759294
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 201,
-			"dropRate": 0.006185186324891528
+			"timesDropped": 202,
+			"dropRate": 0.006190811854485274
 		},
 		{
 			"itemName": "Crown Legs",
 			"timesDropped": 194,
-			"dropRate": 0.005969781826014709
+			"dropRate": 0.005945631186980906
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 164,
-			"dropRate": 0.005046619687971197
+			"dropRate": 0.005026203683839529
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 153,
-			"dropRate": 0.004708126904021909
+			"timesDropped": 154,
+			"dropRate": 0.00471972784945907
 		},
 		{
 			"itemName": "Crown Helmet",
-			"timesDropped": 140,
-			"dropRate": 0.004308089977536388
+			"timesDropped": 142,
+			"dropRate": 0.004351956848202519
 		},
 		{
 			"itemName": "Crown Shield",
 			"timesDropped": 66,
-			"dropRate": 0.002030956703695726
+			"dropRate": 0.00202274050691103
 		},
 		{
 			"itemName": "Piggy Bank",
 			"timesDropped": 25,
-			"dropRate": 0.0007693017817029265
+			"dropRate": 0.0007661895859511478
 		}
 	]
 }

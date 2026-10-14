@@ -1,96 +1,96 @@
 {
 	"monsterName": "Iks Aucar",
-	"timesKilled": 5854,
+	"timesKilled": 5907,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5854,
+			"timesDropped": 5907,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2495,
-			"dropRate": 0.42620430474888965
+			"timesDropped": 2516,
+			"dropRate": 0.4259353309632639
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 863,
-			"dropRate": 0.14742056713358387
+			"timesDropped": 874,
+			"dropRate": 0.14796004740138818
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 849,
-			"dropRate": 0.14502903997266825
+			"timesDropped": 858,
+			"dropRate": 0.1452513966480447
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 654,
-			"dropRate": 0.1117184830884865
+			"timesDropped": 659,
+			"dropRate": 0.11156255290333503
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 500,
-			"dropRate": 0.08541168431841475
+			"timesDropped": 509,
+			"dropRate": 0.0861689520907398
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 447,
-			"dropRate": 0.0763580457806628
+			"timesDropped": 452,
+			"dropRate": 0.07651938378195361
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 435,
-			"dropRate": 0.07430816535702084
+			"timesDropped": 438,
+			"dropRate": 0.07414931437277807
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 370,
-			"dropRate": 0.06320464639562692
+			"timesDropped": 373,
+			"dropRate": 0.06314542068732013
 		},
 		{
 			"itemName": "War Hammer",
-			"timesDropped": 295,
-			"dropRate": 0.05039289374786471
+			"timesDropped": 298,
+			"dropRate": 0.05044862028102252
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 264,
-			"dropRate": 0.045097369320122996
+			"timesDropped": 268,
+			"dropRate": 0.04536990011850347
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 245,
-			"dropRate": 0.041851725316023235
+			"timesDropped": 246,
+			"dropRate": 0.04164550533265617
 		},
 		{
 			"itemName": "Rotten Feather",
 			"timesDropped": 105,
-			"dropRate": 0.0179364537068671
+			"dropRate": 0.017775520568816656
 		},
 		{
 			"itemName": "Ritual Tooth",
 			"timesDropped": 88,
-			"dropRate": 0.015032456440040998
+			"dropRate": 0.0148975791433892
 		},
 		{
 			"itemName": "Gold-Brocaded Cloth",
 			"timesDropped": 57,
-			"dropRate": 0.009736932012299283
+			"dropRate": 0.009649568308786187
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 27,
-			"dropRate": 0.004612230953194397
+			"dropRate": 0.0045708481462671405
+		},
+		{
+			"itemName": "Broken Iks Faulds",
+			"timesDropped": 3,
+			"dropRate": 0.0005078720162519045
 		},
 		{
 			"itemName": "Broken Iks Cuirass",
 			"timesDropped": 2,
-			"dropRate": 0.00034164673727365904
-		},
-		{
-			"itemName": "Broken Iks Faulds",
-			"timesDropped": 2,
-			"dropRate": 0.00034164673727365904
+			"dropRate": 0.00033858134416793635
 		}
 	]
 }

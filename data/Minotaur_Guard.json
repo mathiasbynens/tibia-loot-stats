@@ -1,66 +1,66 @@
 {
 	"monsterName": "Minotaur Guard",
-	"timesKilled": 53500,
+	"timesKilled": 53502,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 31905,
-			"dropRate": 0.5963551401869159
+			"timesDropped": 31907,
+			"dropRate": 0.5963702291503121
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 4361,
-			"dropRate": 0.08151401869158878
+			"timesDropped": 4362,
+			"dropRate": 0.08152966244252552
 		},
 		{
 			"itemName": "Piece of Warrior Armor",
-			"timesDropped": 2658,
-			"dropRate": 0.049682242990654206
+			"timesDropped": 2659,
+			"dropRate": 0.049699076670031025
 		},
 		{
 			"itemName": "Brass Armor",
 			"timesDropped": 2198,
-			"dropRate": 0.04108411214953271
+			"dropRate": 0.0410825763522859
 		},
 		{
 			"itemName": "Chain Armor",
 			"timesDropped": 1615,
-			"dropRate": 0.03018691588785047
+			"dropRate": 0.030185787447198235
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 1109,
-			"dropRate": 0.020728971962616822
+			"dropRate": 0.020728197076744795
 		},
 		{
 			"itemName": "Minotaur Leather",
 			"timesDropped": 494,
-			"dropRate": 0.009233644859813084
+			"dropRate": 0.009233299689731226
 		},
 		{
 			"itemName": "Fishing Rod",
 			"timesDropped": 255,
-			"dropRate": 0.004766355140186916
+			"dropRate": 0.00476617696534709
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 224,
-			"dropRate": 0.004186915887850467
+			"dropRate": 0.004186759373481366
 		},
 		{
 			"itemName": "Double Axe",
 			"timesDropped": 221,
-			"dropRate": 0.004130841121495327
+			"dropRate": 0.004130686703300811
 		},
 		{
 			"itemName": "Minotaur Trophy",
 			"timesDropped": 51,
-			"dropRate": 0.0009532710280373832
+			"dropRate": 0.0009532353930694179
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.00001869158878504673
+			"dropRate": 0.000018690890060184666
 		}
 	]
 }

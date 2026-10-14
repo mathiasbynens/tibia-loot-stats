@@ -1,81 +1,81 @@
 {
 	"monsterName": "Iks Pututu",
-	"timesKilled": 3813,
+	"timesKilled": 3858,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2992,
-			"dropRate": 0.7846839758720168
+			"timesDropped": 3028,
+			"dropRate": 0.784862623120788
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1498,
-			"dropRate": 0.3928665093102544
+			"timesDropped": 1517,
+			"dropRate": 0.39320891653706586
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
-			"timesDropped": 308,
-			"dropRate": 0.08077629163388408
+			"timesDropped": 310,
+			"dropRate": 0.08035251425609125
 		},
 		{
 			"itemName": "Tiger Eye",
-			"timesDropped": 263,
-			"dropRate": 0.06897456071334906
+			"timesDropped": 265,
+			"dropRate": 0.06868843960601348
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 231,
-			"dropRate": 0.06058221872541306
+			"timesDropped": 235,
+			"dropRate": 0.06091238983929497
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 197,
-			"dropRate": 0.05166535536323105
+			"timesDropped": 199,
+			"dropRate": 0.051581130119232765
 		},
 		{
 			"itemName": "Opal",
 			"timesDropped": 78,
-			"dropRate": 0.020456333595594022
+			"dropRate": 0.02021772939346812
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 70,
-			"dropRate": 0.01835824809861002
+			"timesDropped": 71,
+			"dropRate": 0.0184033177812338
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 54,
-			"dropRate": 0.014162077104642014
+			"dropRate": 0.013996889580093312
+		},
+		{
+			"itemName": "Rotten Feather",
+			"timesDropped": 51,
+			"dropRate": 0.013219284603421462
 		},
 		{
 			"itemName": "Gold-Brocaded Cloth",
 			"timesDropped": 50,
-			"dropRate": 0.013113034356150013
+			"dropRate": 0.012960082944530845
 		},
 		{
 			"itemName": "Ritual Tooth",
 			"timesDropped": 49,
-			"dropRate": 0.012850773669027014
-		},
-		{
-			"itemName": "Rotten Feather",
-			"timesDropped": 49,
-			"dropRate": 0.012850773669027014
+			"dropRate": 0.012700881285640227
 		},
 		{
 			"itemName": "Ring of Orange Plasma",
 			"timesDropped": 39,
-			"dropRate": 0.010228166797797011
+			"dropRate": 0.01010886469673406
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 30,
-			"dropRate": 0.007867820613690008
+			"dropRate": 0.007776049766718507
 		},
 		{
 			"itemName": "Broken Iks Sandals",
 			"timesDropped": 1,
-			"dropRate": 0.00026226068712300026
+			"dropRate": 0.0002592016588906169
 		}
 	]
 }

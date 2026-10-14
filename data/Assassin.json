@@ -1,71 +1,71 @@
 {
 	"monsterName": "Assassin",
-	"timesKilled": 25951,
+	"timesKilled": 26025,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21546,
-			"dropRate": 0.8302570228507572
+			"timesDropped": 21612,
+			"dropRate": 0.8304322766570605
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 7820,
-			"dropRate": 0.30133713537050594
+			"timesDropped": 7841,
+			"dropRate": 0.30128722382324685
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 2561,
-			"dropRate": 0.09868598512581403
+			"timesDropped": 2569,
+			"dropRate": 0.09871277617675313
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 1837,
-			"dropRate": 0.07078725289969558
+			"timesDropped": 1844,
+			"dropRate": 0.07085494716618636
 		},
 		{
 			"itemName": "Viper Star",
-			"timesDropped": 1066,
-			"dropRate": 0.04107741512851142
+			"timesDropped": 1072,
+			"dropRate": 0.0411911623439001
 		},
 		{
 			"itemName": "Combat Knife",
-			"timesDropped": 1041,
-			"dropRate": 0.04011406111517861
+			"timesDropped": 1044,
+			"dropRate": 0.04011527377521614
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 783,
-			"dropRate": 0.030172247697583907
+			"timesDropped": 786,
+			"dropRate": 0.03020172910662824
 		},
 		{
 			"itemName": "Plate Shield",
 			"timesDropped": 494,
-			"dropRate": 0.019035875303456514
+			"dropRate": 0.018981748318924112
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 419,
-			"dropRate": 0.016145813263458056
+			"dropRate": 0.016099903938520652
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 242,
-			"dropRate": 0.009325266849061693
+			"timesDropped": 243,
+			"dropRate": 0.009337175792507205
 		},
 		{
 			"itemName": "Leopard Armor",
 			"timesDropped": 121,
-			"dropRate": 0.0046626334245308465
+			"dropRate": 0.004649375600384246
 		},
 		{
 			"itemName": "Horseman Helmet",
 			"timesDropped": 58,
-			"dropRate": 0.002234981310932141
+			"dropRate": 0.0022286263208453412
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 55,
-			"dropRate": 0.002119378829332203
+			"dropRate": 0.0021133525456292026
 		}
 	]
 }
