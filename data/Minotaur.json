@@ -1,71 +1,71 @@
 {
 	"monsterName": "Minotaur",
-	"timesKilled": 215222,
+	"timesKilled": 215228,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 142778,
-			"dropRate": 0.6633987231788572
+			"timesDropped": 142781,
+			"dropRate": 0.6633941680450499
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 43062,
-			"dropRate": 0.20008177602661437
+			"timesDropped": 43063,
+			"dropRate": 0.20008084449978628
 		},
 		{
 			"itemName": "Mace",
 			"timesDropped": 27984,
-			"dropRate": 0.13002388231686351
+			"dropRate": 0.13002025758730276
 		},
 		{
 			"itemName": "Chain Armor",
 			"timesDropped": 21605,
-			"dropRate": 0.10038471903429946
+			"dropRate": 0.10038192056795585
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 17230,
-			"dropRate": 0.08005687150941818
+			"timesDropped": 17231,
+			"dropRate": 0.08005928596650994
 		},
 		{
 			"itemName": "Meat",
 			"timesDropped": 10725,
-			"dropRate": 0.04983226621813755
+			"dropRate": 0.04983087702343561
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 10689,
-			"dropRate": 0.04966499707278996
+			"timesDropped": 10691,
+			"dropRate": 0.049672905012358985
 		},
 		{
 			"itemName": "Axe",
 			"timesDropped": 8545,
-			"dropRate": 0.03970319019431099
+			"dropRate": 0.039702083372051965
 		},
 		{
 			"itemName": "Minotaur Horn",
 			"timesDropped": 4380,
-			"dropRate": 0.020351079350624007
+			"dropRate": 0.020350512015165315
 		},
 		{
 			"itemName": "Minotaur Leather",
 			"timesDropped": 2147,
-			"dropRate": 0.009975745973924598
+			"dropRate": 0.009975467875926925
 		},
 		{
 			"itemName": "Shovel",
 			"timesDropped": 665,
-			"dropRate": 0.0030898328237819552
+			"dropRate": 0.003089746687234003
 		},
 		{
 			"itemName": "Bronze Amulet",
 			"timesDropped": 234,
-			"dropRate": 0.0010872494447593647
+			"dropRate": 0.001087219135056777
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.0000046463651485442935
+			"dropRate": 0.000004646235619900756
 		}
 	]
 }

@@ -1,196 +1,196 @@
 {
 	"monsterName": "Hellhound",
-	"timesKilled": 2586,
+	"timesKilled": 3856,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2050,
-			"dropRate": 0.7927300850734725
+			"timesDropped": 3069,
+			"dropRate": 0.795902489626556
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 790,
-			"dropRate": 0.30549110595514306
+			"timesDropped": 1177,
+			"dropRate": 0.3052385892116183
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 769,
-			"dropRate": 0.29737045630317094
+			"timesDropped": 1172,
+			"dropRate": 0.3039419087136929
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 667,
-			"dropRate": 0.25792730085073473
+			"timesDropped": 999,
+			"dropRate": 0.2590767634854772
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 544,
-			"dropRate": 0.21036349574632637
+			"timesDropped": 793,
+			"dropRate": 0.20565352697095435
 		},
 		{
 			"itemName": "Hellhound Slobber",
-			"timesDropped": 512,
-			"dropRate": 0.19798917246713071
-		},
-		{
-			"itemName": "Great Spirit Potion",
-			"timesDropped": 506,
-			"dropRate": 0.1956689868522815
-		},
-		{
-			"itemName": "Soul Orb",
-			"timesDropped": 506,
-			"dropRate": 0.1956689868522815
+			"timesDropped": 764,
+			"dropRate": 0.19813278008298754
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 504,
-			"dropRate": 0.19489559164733178
+			"timesDropped": 750,
+			"dropRate": 0.19450207468879668
+		},
+		{
+			"itemName": "Great Spirit Potion",
+			"timesDropped": 748,
+			"dropRate": 0.19398340248962656
+		},
+		{
+			"itemName": "Soul Orb",
+			"timesDropped": 732,
+			"dropRate": 0.18983402489626555
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 355,
-			"dropRate": 0.13727764887857696
+			"timesDropped": 544,
+			"dropRate": 0.14107883817427386
 		},
 		{
 			"itemName": "Blazing Bone",
-			"timesDropped": 300,
-			"dropRate": 0.11600928074245939
+			"timesDropped": 472,
+			"dropRate": 0.12240663900414937
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 270,
-			"dropRate": 0.10440835266821345
+			"timesDropped": 410,
+			"dropRate": 0.10632780082987552
 		},
 		{
 			"itemName": "Fiery Heart",
-			"timesDropped": 259,
-			"dropRate": 0.10015467904098994
+			"timesDropped": 380,
+			"dropRate": 0.09854771784232365
 		},
 		{
 			"itemName": "Hardened Bone",
-			"timesDropped": 237,
-			"dropRate": 0.09164733178654293
+			"timesDropped": 354,
+			"dropRate": 0.09180497925311204
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 232,
-			"dropRate": 0.0897138437741686
+			"timesDropped": 336,
+			"dropRate": 0.08713692946058091
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 198,
-			"dropRate": 0.0765661252900232
+			"timesDropped": 283,
+			"dropRate": 0.07339211618257262
 		},
 		{
 			"itemName": "Fire Sword",
-			"timesDropped": 164,
-			"dropRate": 0.0634184068058778
+			"timesDropped": 258,
+			"dropRate": 0.06690871369294606
 		},
 		{
 			"itemName": "Yellow Piece of Cloth",
-			"timesDropped": 154,
-			"dropRate": 0.05955143078112916
+			"timesDropped": 234,
+			"dropRate": 0.060684647302904564
 		},
 		{
 			"itemName": "Green Piece of Cloth",
-			"timesDropped": 125,
-			"dropRate": 0.048337200309358085
+			"timesDropped": 199,
+			"dropRate": 0.05160788381742738
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 118,
-			"dropRate": 0.04563031709203403
+			"timesDropped": 177,
+			"dropRate": 0.04590248962655602
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 93,
-			"dropRate": 0.03596287703016241
-		},
-		{
-			"itemName": "Magma Amulet",
-			"timesDropped": 81,
-			"dropRate": 0.031322505800464036
+			"timesDropped": 140,
+			"dropRate": 0.03630705394190872
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 79,
-			"dropRate": 0.03054911059551431
+			"timesDropped": 122,
+			"dropRate": 0.03163900414937759
+		},
+		{
+			"itemName": "Magma Amulet",
+			"timesDropped": 113,
+			"dropRate": 0.029304979253112033
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 71,
-			"dropRate": 0.02745552977571539
+			"timesDropped": 101,
+			"dropRate": 0.026192946058091287
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 65,
-			"dropRate": 0.025135344160866203
+			"timesDropped": 99,
+			"dropRate": 0.02567427385892116
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 62,
-			"dropRate": 0.02397525135344161
+			"timesDropped": 96,
+			"dropRate": 0.024896265560165973
 		},
 		{
 			"itemName": "Amber Staff",
-			"timesDropped": 48,
-			"dropRate": 0.018561484918793503
+			"timesDropped": 78,
+			"dropRate": 0.020228215767634856
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 39,
-			"dropRate": 0.015081206496519721
+			"timesDropped": 55,
+			"dropRate": 0.014263485477178423
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 36,
-			"dropRate": 0.013921113689095127
+			"timesDropped": 49,
+			"dropRate": 0.01270746887966805
 		},
 		{
 			"itemName": "Big Bone",
-			"timesDropped": 33,
-			"dropRate": 0.012761020881670533
+			"timesDropped": 45,
+			"dropRate": 0.011670124481327801
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 31,
-			"dropRate": 0.011987625676720804
+			"timesDropped": 45,
+			"dropRate": 0.011670124481327801
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 28,
-			"dropRate": 0.01082753286929621
+			"timesDropped": 43,
+			"dropRate": 0.011151452282157677
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 26,
-			"dropRate": 0.010054137664346482
+			"timesDropped": 41,
+			"dropRate": 0.010632780082987552
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 24,
-			"dropRate": 0.009280742459396751
-		},
-		{
-			"itemName": "Onyx Flail",
-			"timesDropped": 19,
-			"dropRate": 0.007347254447022429
+			"timesDropped": 41,
+			"dropRate": 0.010632780082987552
 		},
 		{
 			"itemName": "Ruthless Axe",
-			"timesDropped": 17,
-			"dropRate": 0.006573859242072699
+			"timesDropped": 34,
+			"dropRate": 0.008817427385892116
+		},
+		{
+			"itemName": "Onyx Flail",
+			"timesDropped": 28,
+			"dropRate": 0.007261410788381743
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 16,
-			"dropRate": 0.006187161639597835
+			"timesDropped": 24,
+			"dropRate": 0.006224066390041493
 		},
 		{
 			"itemName": "Explorer Brooch",
-			"timesDropped": 7,
-			"dropRate": 0.0027068832173240526
+			"timesDropped": 11,
+			"dropRate": 0.0028526970954356845
 		}
 	]
 }

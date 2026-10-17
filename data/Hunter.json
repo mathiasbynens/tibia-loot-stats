@@ -1,91 +1,91 @@
 {
 	"monsterName": "Hunter",
-	"timesKilled": 30250,
+	"timesKilled": 30252,
 	"items": [
 		{
 			"itemName": "Arrow",
-			"timesDropped": 24961,
-			"dropRate": 0.8251570247933885
+			"timesDropped": 24963,
+			"dropRate": 0.8251685838952797
 		},
 		{
 			"itemName": "Orange",
-			"timesDropped": 6078,
-			"dropRate": 0.20092561983471074
+			"timesDropped": 6079,
+			"dropRate": 0.20094539204019568
 		},
 		{
 			"itemName": "Roll",
 			"timesDropped": 3344,
-			"dropRate": 0.11054545454545454
+			"dropRate": 0.11053814623826524
 		},
 		{
 			"itemName": "Hunter's Quiver",
 			"timesDropped": 3073,
-			"dropRate": 0.10158677685950414
+			"dropRate": 0.10158006082242496
 		},
 		{
 			"itemName": "Bow",
 			"timesDropped": 1782,
-			"dropRate": 0.05890909090909091
+			"dropRate": 0.058905196350654505
 		},
 		{
 			"itemName": "Burst Arrow",
 			"timesDropped": 1575,
-			"dropRate": 0.05206611570247934
+			"dropRate": 0.05206267354224514
 		},
 		{
 			"itemName": "Brass Armor",
 			"timesDropped": 1542,
-			"dropRate": 0.05097520661157025
+			"dropRate": 0.05097183657278857
 		},
 		{
 			"itemName": "Brass Helmet",
 			"timesDropped": 1488,
-			"dropRate": 0.0491900826446281
+			"dropRate": 0.04918683062276874
 		},
 		{
 			"itemName": "Poison Arrow",
 			"timesDropped": 1299,
-			"dropRate": 0.042942148760330576
+			"dropRate": 0.042939309797699325
 		},
 		{
 			"itemName": "Dragon Necklace",
 			"timesDropped": 948,
-			"dropRate": 0.03133884297520661
+			"dropRate": 0.03133677112257041
 		},
 		{
 			"itemName": "Torch",
 			"timesDropped": 938,
-			"dropRate": 0.031008264462809916
+			"dropRate": 0.03100621446515933
 		},
 		{
 			"itemName": "Sniper Gloves",
 			"timesDropped": 167,
-			"dropRate": 0.005520661157024793
+			"dropRate": 0.00552029617876504
 		},
 		{
 			"itemName": "Deer Trophy",
 			"timesDropped": 130,
-			"dropRate": 0.004297520661157025
+			"dropRate": 0.004297236546344043
 		},
 		{
 			"itemName": "Small Ruby",
 			"timesDropped": 53,
-			"dropRate": 0.0017520661157024793
+			"dropRate": 0.0017519502842787253
 		},
 		{
 			"itemName": "Lion Trophy",
 			"timesDropped": 39,
-			"dropRate": 0.0012892561983471075
+			"dropRate": 0.001289170963903213
 		},
 		{
 			"itemName": "Slingshot",
 			"timesDropped": 37,
-			"dropRate": 0.0012231404958677687
+			"dropRate": 0.001223059632420997
 		},
 		{
 			"itemName": "Wolf Trophy",
 			"timesDropped": 35,
-			"dropRate": 0.0011570247933884298
+			"dropRate": 0.001156948300938781
 		}
 	]
 }
