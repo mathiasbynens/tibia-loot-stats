@@ -1,81 +1,81 @@
 {
 	"monsterName": "Efreet",
-	"timesKilled": 8818,
+	"timesKilled": 8830,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8582,
-			"dropRate": 0.9732365615785893
+			"timesDropped": 8594,
+			"dropRate": 0.973272933182333
 		},
 		{
 			"itemName": "Royal Spear",
 			"timesDropped": 1315,
-			"dropRate": 0.14912678611930144
+			"dropRate": 0.14892412231030577
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 915,
-			"dropRate": 0.10376502608301202
+			"timesDropped": 917,
+			"dropRate": 0.10385050962627407
 		},
 		{
 			"itemName": "Pear",
 			"timesDropped": 888,
-			"dropRate": 0.10070310728056249
+			"dropRate": 0.10056625141562854
 		},
 		{
 			"itemName": "Jewelled Belt",
-			"timesDropped": 688,
-			"dropRate": 0.07802222726241778
+			"timesDropped": 690,
+			"dropRate": 0.07814269535673839
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 617,
-			"dropRate": 0.06997051485597641
+			"timesDropped": 618,
+			"dropRate": 0.06998867497168743
 		},
 		{
 			"itemName": "Heavy Machete",
-			"timesDropped": 416,
-			"dropRate": 0.04717623043774098
+			"timesDropped": 417,
+			"dropRate": 0.04722536806342016
 		},
 		{
 			"itemName": "Green Piece of Cloth",
-			"timesDropped": 247,
-			"dropRate": 0.02801088682240871
+			"timesDropped": 249,
+			"dropRate": 0.028199320498301247
 		},
 		{
 			"itemName": "Green Tapestry",
 			"timesDropped": 196,
-			"dropRate": 0.02222726241778181
+			"dropRate": 0.022197055492638732
 		},
 		{
 			"itemName": "Noble Turban",
 			"timesDropped": 85,
-			"dropRate": 0.009639374007711499
+			"dropRate": 0.009626274065685165
 		},
 		{
 			"itemName": "Magma Monocle",
 			"timesDropped": 37,
-			"dropRate": 0.00419596280335677
+			"dropRate": 0.004190260475651189
 		},
 		{
 			"itemName": "Wand of Inferno",
 			"timesDropped": 32,
-			"dropRate": 0.0036289408029031526
+			"dropRate": 0.00362400906002265
 		},
 		{
 			"itemName": "Small Oil Lamp",
 			"timesDropped": 20,
-			"dropRate": 0.0022680880018144706
+			"dropRate": 0.0022650056625141564
 		},
 		{
 			"itemName": "Mystic Turban",
 			"timesDropped": 16,
-			"dropRate": 0.0018144704014515763
+			"dropRate": 0.001812004530011325
 		},
 		{
 			"itemName": "Green Gem",
 			"timesDropped": 8,
-			"dropRate": 0.0009072352007257881
+			"dropRate": 0.0009060022650056625
 		}
 	]
 }

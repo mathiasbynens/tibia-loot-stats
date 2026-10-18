@@ -1,71 +1,71 @@
 {
 	"monsterName": "Orc Rider",
-	"timesKilled": 22120,
+	"timesKilled": 22124,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10779,
-			"dropRate": 0.4872965641952984
+			"timesDropped": 10781,
+			"dropRate": 0.4872988609654674
 		},
 		{
 			"itemName": "Meat",
 			"timesDropped": 5368,
-			"dropRate": 0.24267631103074142
+			"dropRate": 0.24263243536431026
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 2249,
-			"dropRate": 0.10167269439421338
+			"timesDropped": 2250,
+			"dropRate": 0.10169951184234316
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 2239,
-			"dropRate": 0.10122061482820977
+			"timesDropped": 2240,
+			"dropRate": 0.10124751401193274
 		},
 		{
 			"itemName": "Warwolf Fur",
-			"timesDropped": 2184,
-			"dropRate": 0.09873417721518987
+			"timesDropped": 2185,
+			"dropRate": 0.09876152594467547
 		},
 		{
 			"itemName": "Orcish Axe",
 			"timesDropped": 1531,
-			"dropRate": 0.0692133815551537
+			"dropRate": 0.06920086783583439
 		},
 		{
 			"itemName": "Orc Tooth",
 			"timesDropped": 450,
-			"dropRate": 0.02034358047016275
+			"dropRate": 0.02033990236846863
 		},
 		{
 			"itemName": "Torch",
 			"timesDropped": 242,
-			"dropRate": 0.010940325497287523
+			"dropRate": 0.010938347495932019
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 225,
-			"dropRate": 0.010171790235081375
+			"dropRate": 0.010169951184234315
 		},
 		{
 			"itemName": "Obsidian Lance",
 			"timesDropped": 221,
-			"dropRate": 0.009990958408679928
+			"dropRate": 0.00998915205207015
 		},
 		{
 			"itemName": "Scale Armor",
 			"timesDropped": 125,
-			"dropRate": 0.005650994575045208
+			"dropRate": 0.005649972880130175
 		},
 		{
 			"itemName": "Meat (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.000045207956600361664
+			"dropRate": 0.0000451997830410414
 		},
 		{
 			"itemName": "Orc Tooth (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.000045207956600361664
+			"dropRate": 0.0000451997830410414
 		}
 	]
 }
