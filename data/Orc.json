@@ -1,61 +1,61 @@
 {
 	"monsterName": "Orc",
-	"timesKilled": 34677,
+	"timesKilled": 34680,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 29343,
-			"dropRate": 0.8461804654381867
+			"timesDropped": 29346,
+			"dropRate": 0.8461937716262976
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 3462,
-			"dropRate": 0.09983562591919716
+			"timesDropped": 3463,
+			"dropRate": 0.0998558246828143
 		},
 		{
 			"itemName": "Studded Armor",
 			"timesDropped": 2764,
-			"dropRate": 0.07970701041035845
+			"dropRate": 0.07970011534025374
 		},
 		{
 			"itemName": "Studded Shield",
-			"timesDropped": 2397,
-			"dropRate": 0.06912362661129856
+			"timesDropped": 2398,
+			"dropRate": 0.06914648212226067
 		},
 		{
 			"itemName": "Sabre",
 			"timesDropped": 2154,
-			"dropRate": 0.06211610000865127
+			"dropRate": 0.06211072664359862
 		},
 		{
 			"itemName": "Axe",
 			"timesDropped": 1789,
-			"dropRate": 0.051590391325662545
+			"dropRate": 0.05158592848904268
 		},
 		{
 			"itemName": "Studded Helmet",
-			"timesDropped": 1043,
-			"dropRate": 0.030077573031115724
+			"timesDropped": 1044,
+			"dropRate": 0.030103806228373702
 		},
 		{
 			"itemName": "Heavy Old Tome",
 			"timesDropped": 650,
-			"dropRate": 0.018744412723130606
+			"dropRate": 0.018742791234140715
 		},
 		{
 			"itemName": "Orc Leather",
 			"timesDropped": 175,
-			"dropRate": 0.005046572656227471
+			"dropRate": 0.005046136101499423
 		},
 		{
 			"itemName": "Orc Tooth",
 			"timesDropped": 29,
-			"dropRate": 0.0008362891830319809
+			"dropRate": 0.0008362168396770473
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.000028837558035585546
+			"dropRate": 0.000028835063437139562
 		}
 	]
 }

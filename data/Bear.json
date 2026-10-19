@@ -1,26 +1,26 @@
 {
 	"monsterName": "Bear",
-	"timesKilled": 61230,
+	"timesKilled": 61232,
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 24489,
-			"dropRate": 0.39995100440960313
+			"timesDropped": 24490,
+			"dropRate": 0.39995427227593416
 		},
 		{
 			"itemName": "Ham",
 			"timesDropped": 12197,
-			"dropRate": 0.19919973869018456
+			"dropRate": 0.19919323229683825
 		},
 		{
 			"itemName": "Bear Paw",
 			"timesDropped": 1219,
-			"dropRate": 0.01990854156459252
+			"dropRate": 0.019907891298667362
 		},
 		{
 			"itemName": "Honeycomb",
 			"timesDropped": 293,
-			"dropRate": 0.004785235995427078
+			"dropRate": 0.004785079696890515
 		}
 	]
 }

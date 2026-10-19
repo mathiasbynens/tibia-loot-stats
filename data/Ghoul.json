@@ -1,76 +1,76 @@
 {
 	"monsterName": "Ghoul",
-	"timesKilled": 11364,
+	"timesKilled": 11365,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7896,
-			"dropRate": 0.6948257655755016
+			"timesDropped": 7897,
+			"dropRate": 0.6948526176858777
 		},
 		{
 			"itemName": "Rotten Piece of Cloth",
 			"timesDropped": 1680,
-			"dropRate": 0.14783526927138332
+			"dropRate": 0.14782226132864057
 		},
 		{
 			"itemName": "Worm",
 			"timesDropped": 1146,
-			"dropRate": 0.10084477296726505
+			"dropRate": 0.10083589969203696
 		},
 		{
 			"itemName": "Ghoul Snack",
 			"timesDropped": 572,
-			"dropRate": 0.05033438929954241
+			"dropRate": 0.05032996040475143
 		},
 		{
 			"itemName": "Torch",
 			"timesDropped": 530,
-			"dropRate": 0.04663850756775783
+			"dropRate": 0.04663440387153542
 		},
 		{
 			"itemName": "Heavy Old Tome",
 			"timesDropped": 254,
-			"dropRate": 0.022351284758887716
+			"dropRate": 0.02234931808183018
 		},
 		{
 			"itemName": "Pile of Grave Earth",
 			"timesDropped": 122,
-			"dropRate": 0.010735656458993312
+			"dropRate": 0.01073471183457985
 		},
 		{
 			"itemName": "Scale Armor",
 			"timesDropped": 118,
-			"dropRate": 0.010383667722632876
+			"dropRate": 0.010382754069511658
 		},
 		{
 			"itemName": "Viking Helmet",
 			"timesDropped": 102,
-			"dropRate": 0.00897571277719113
+			"dropRate": 0.008974923009238892
 		},
 		{
 			"itemName": "Brown Piece of Cloth",
 			"timesDropped": 99,
-			"dropRate": 0.008711721224920803
+			"dropRate": 0.008710954685437748
 		},
 		{
 			"itemName": "Life Ring",
 			"timesDropped": 31,
-			"dropRate": 0.002727912706793383
+			"dropRate": 0.0027276726792784868
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 30,
-			"dropRate": 0.0026399155227032735
+			"timesDropped": 31,
+			"dropRate": 0.0027276726792784868
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 3,
-			"dropRate": 0.00026399155227032733
+			"dropRate": 0.0002639683238011439
 		},
 		{
 			"itemName": "Lesser Spiritualist Gem",
 			"timesDropped": 1,
-			"dropRate": 0.00008799718409010911
+			"dropRate": 0.00008798944126704795
 		}
 	]
 }

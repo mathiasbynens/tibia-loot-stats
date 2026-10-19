@@ -1,86 +1,86 @@
 {
 	"monsterName": "Demon Skeleton",
-	"timesKilled": 7714,
+	"timesKilled": 7716,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7523,
-			"dropRate": 0.975239823697174
+			"timesDropped": 7525,
+			"dropRate": 0.9752462415759461
 		},
 		{
 			"itemName": "Demonic Skeletal Hand",
-			"timesDropped": 936,
-			"dropRate": 0.12133782732693804
+			"timesDropped": 937,
+			"dropRate": 0.12143597719025402
 		},
 		{
 			"itemName": "Throwing Star",
 			"timesDropped": 743,
-			"dropRate": 0.0963183821623023
+			"dropRate": 0.09629341627786418
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 732,
-			"dropRate": 0.09489240342234898
+			"dropRate": 0.09486780715396578
 		},
 		{
 			"itemName": "Torch",
 			"timesDropped": 396,
-			"dropRate": 0.05133523463831994
+			"dropRate": 0.05132192846034215
 		},
 		{
 			"itemName": "Mana Potion",
 			"timesDropped": 383,
-			"dropRate": 0.04964998703655691
+			"dropRate": 0.04963711767755313
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 364,
-			"dropRate": 0.047186932849364795
+			"dropRate": 0.047174701918092275
 		},
 		{
 			"itemName": "Battle Hammer",
 			"timesDropped": 306,
-			"dropRate": 0.039668135856883585
+			"dropRate": 0.03965785381026438
 		},
 		{
 			"itemName": "Iron Helmet",
 			"timesDropped": 287,
-			"dropRate": 0.03720508166969147
+			"dropRate": 0.037195438050803525
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 230,
-			"dropRate": 0.029815919108115114
+			"timesDropped": 231,
+			"dropRate": 0.029937791601866253
 		},
 		{
 			"itemName": "Small Ruby",
 			"timesDropped": 104,
-			"dropRate": 0.013481980814104226
+			"dropRate": 0.01347848626231208
 		},
 		{
 			"itemName": "Mysterious Fetish",
 			"timesDropped": 45,
-			"dropRate": 0.005833549390718174
+			"dropRate": 0.00583203732503888
 		},
 		{
 			"itemName": "Mind Stone",
 			"timesDropped": 43,
-			"dropRate": 0.005574280528908478
+			"dropRate": 0.005572835666148263
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 5,
-			"dropRate": 0.0006481721545242416
+			"dropRate": 0.0006480041472265422
 		},
 		{
 			"itemName": "Guardian Shield",
 			"timesDropped": 3,
-			"dropRate": 0.000388903292714545
+			"dropRate": 0.00038880248833592535
 		},
 		{
 			"itemName": "Lesser Spiritualist Gem",
 			"timesDropped": 1,
-			"dropRate": 0.00012963443090484831
+			"dropRate": 0.00012960082944530845
 		}
 	]
 }
