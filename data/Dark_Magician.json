@@ -1,51 +1,51 @@
 {
 	"monsterName": "Dark Magician",
-	"timesKilled": 92166,
+	"timesKilled": 92300,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 69108,
-			"dropRate": 0.7498209751969273
+			"timesDropped": 69202,
+			"dropRate": 0.749750812567714
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 11066,
-			"dropRate": 0.12006596792743528
+			"timesDropped": 11080,
+			"dropRate": 0.1200433369447454
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 10993,
-			"dropRate": 0.11927391879868932
+			"timesDropped": 11010,
+			"dropRate": 0.11928494041170097
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 9205,
-			"dropRate": 0.09987414013844585
+			"timesDropped": 9222,
+			"dropRate": 0.09991332611050921
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 2716,
-			"dropRate": 0.029468567584575656
+			"timesDropped": 2720,
+			"dropRate": 0.029469122426868905
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 2666,
-			"dropRate": 0.028926068181325
+			"timesDropped": 2671,
+			"dropRate": 0.02893824485373781
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 477,
-			"dropRate": 0.005175444307011262
+			"timesDropped": 480,
+			"dropRate": 0.005200433369447454
 		},
 		{
 			"itemName": "Necrotic Rod",
 			"timesDropped": 267,
-			"dropRate": 0.002896946813358505
+			"dropRate": 0.0028927410617551465
 		},
 		{
 			"itemName": "Reins",
 			"timesDropped": 19,
-			"dropRate": 0.00020614977323524944
+			"dropRate": 0.00020585048754062838
 		}
 	]
 }

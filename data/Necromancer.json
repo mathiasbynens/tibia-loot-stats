@@ -1,66 +1,66 @@
 {
 	"monsterName": "Necromancer",
-	"timesKilled": 72310,
+	"timesKilled": 72542,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21752,
-			"dropRate": 0.30081593140644447
+			"timesDropped": 21824,
+			"dropRate": 0.30084640621984504
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 10818,
-			"dropRate": 0.1496058636426497
+			"timesDropped": 10859,
+			"dropRate": 0.14969259187780873
 		},
 		{
 			"itemName": "Book of Necromantic Rituals",
-			"timesDropped": 7242,
-			"dropRate": 0.10015212280459135
+			"timesDropped": 7263,
+			"dropRate": 0.10012130903476607
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 1080,
-			"dropRate": 0.014935693541695478
+			"timesDropped": 1082,
+			"dropRate": 0.014915497229191365
 		},
 		{
 			"itemName": "Necromantic Robe",
-			"timesDropped": 740,
-			"dropRate": 0.01023371594523579
+			"timesDropped": 742,
+			"dropRate": 0.010228557249593338
 		},
 		{
 			"itemName": "Mystic Turban",
-			"timesDropped": 357,
-			"dropRate": 0.004937076476282672
+			"timesDropped": 358,
+			"dropRate": 0.00493507209616498
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 275,
-			"dropRate": 0.0038030701147835706
+			"timesDropped": 276,
+			"dropRate": 0.003804692454026633
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 251,
-			"dropRate": 0.0034711658138570044
+			"timesDropped": 252,
+			"dropRate": 0.0034738496319373603
 		},
 		{
 			"itemName": "Boots of Haste",
 			"timesDropped": 152,
-			"dropRate": 0.002102060572534919
+			"dropRate": 0.0020953378732320588
 		},
 		{
 			"itemName": "Spellbook of Warding",
 			"timesDropped": 77,
-			"dropRate": 0.0010648596321393999
+			"dropRate": 0.0010614540542030824
 		},
 		{
 			"itemName": "Skull Staff",
 			"timesDropped": 75,
-			"dropRate": 0.0010372009403955193
+			"dropRate": 0.0010338838190289763
 		},
 		{
 			"itemName": "Noble Axe",
 			"timesDropped": 5,
-			"dropRate": 0.00006914672935970129
+			"dropRate": 0.00006892558793526508
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Bluebeak",
-	"timesKilled": 5288,
+	"timesKilled": 5661,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4326,
-			"dropRate": 0.8180786686838124
+			"timesDropped": 4616,
+			"dropRate": 0.8154036389330507
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3296,
-			"dropRate": 0.6232980332829047
+			"timesDropped": 3535,
+			"dropRate": 0.6244479773891538
 		},
 		{
 			"itemName": "Star Ink",
-			"timesDropped": 428,
-			"dropRate": 0.08093797276853253
+			"timesDropped": 462,
+			"dropRate": 0.08161102278749338
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 420,
-			"dropRate": 0.0794251134644478
+			"timesDropped": 447,
+			"dropRate": 0.0789613142554319
 		},
 		{
 			"itemName": "Paper Boat",
-			"timesDropped": 290,
-			"dropRate": 0.054841149773071106
+			"timesDropped": 315,
+			"dropRate": 0.05564387917329094
 		},
 		{
 			"itemName": "Grapes",
-			"timesDropped": 106,
-			"dropRate": 0.020045385779122543
+			"timesDropped": 116,
+			"dropRate": 0.020491079314608727
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 86,
-			"dropRate": 0.01626323751891074
+			"timesDropped": 99,
+			"dropRate": 0.017488076311605722
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 76,
-			"dropRate": 0.014372163388804841
+			"timesDropped": 79,
+			"dropRate": 0.013955131602190425
 		},
 		{
 			"itemName": "Glacier Shoes",
-			"timesDropped": 36,
-			"dropRate": 0.00680786686838124
+			"timesDropped": 40,
+			"dropRate": 0.007065889418830595
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 31,
-			"dropRate": 0.0058623298033282905
-		},
-		{
-			"itemName": "Etcher",
-			"timesDropped": 23,
-			"dropRate": 0.00434947049924357
+			"timesDropped": 32,
+			"dropRate": 0.005652711535064477
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 23,
-			"dropRate": 0.00434947049924357
+			"timesDropped": 26,
+			"dropRate": 0.004592828122239887
+		},
+		{
+			"itemName": "Etcher",
+			"timesDropped": 25,
+			"dropRate": 0.004416180886769122
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 22,
-			"dropRate": 0.00416036308623298
+			"timesDropped": 24,
+			"dropRate": 0.0042395336512983575
 		}
 	]
 }

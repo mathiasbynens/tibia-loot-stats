@@ -1,86 +1,86 @@
 {
 	"monsterName": "Pirate Corsair",
-	"timesKilled": 11606,
+	"timesKilled": 11608,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6428,
-			"dropRate": 0.5538514561433742
+			"timesDropped": 6430,
+			"dropRate": 0.5539283252929015
 		},
 		{
 			"itemName": "Compass",
 			"timesDropped": 1178,
-			"dropRate": 0.10149922453903154
+			"dropRate": 0.10148173673328739
 		},
 		{
 			"itemName": "Sabre",
-			"timesDropped": 1156,
-			"dropRate": 0.09960365328278477
+			"timesDropped": 1157,
+			"dropRate": 0.09967263955892489
 		},
 		{
 			"itemName": "Throwing Star",
 			"timesDropped": 914,
-			"dropRate": 0.07875236946407031
+			"dropRate": 0.07873880082701586
 		},
 		{
 			"itemName": "Dark Armor",
 			"timesDropped": 226,
-			"dropRate": 0.01947268654144408
+			"dropRate": 0.01946933149552033
 		},
 		{
 			"itemName": "Pirate Hat",
 			"timesDropped": 132,
-			"dropRate": 0.011373427537480614
+			"dropRate": 0.011371467953135768
 		},
 		{
 			"itemName": "Dark Shield",
 			"timesDropped": 121,
-			"dropRate": 0.01042564190935723
+			"dropRate": 0.010423845623707788
 		},
 		{
 			"itemName": "Pirate Backpack",
 			"timesDropped": 119,
-			"dropRate": 0.010253317249698432
+			"dropRate": 0.010251550654720882
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 93,
-			"dropRate": 0.008013096674134069
+			"dropRate": 0.008011716057891109
 		},
 		{
 			"itemName": "Hook",
 			"timesDropped": 65,
-			"dropRate": 0.005600551438910908
+			"dropRate": 0.005599586492074432
 		},
 		{
 			"itemName": "Peg Leg",
 			"timesDropped": 63,
-			"dropRate": 0.005428226779252111
+			"dropRate": 0.0054272915230875254
 		},
 		{
 			"itemName": "Eye Patch",
 			"timesDropped": 56,
-			"dropRate": 0.0048250904704463205
+			"dropRate": 0.004824259131633356
 		},
 		{
 			"itemName": "Pirate Boots",
 			"timesDropped": 35,
-			"dropRate": 0.0030156815440289505
+			"dropRate": 0.003015161957270848
 		},
 		{
 			"itemName": "Rum Flask",
 			"timesDropped": 15,
-			"dropRate": 0.0012924349474409788
+			"dropRate": 0.001292212267401792
 		},
 		{
 			"itemName": "Skull Candle",
 			"timesDropped": 13,
-			"dropRate": 0.0011201102877821817
+			"dropRate": 0.0011199172984148863
 		},
 		{
 			"itemName": "Piggy Bank",
 			"timesDropped": 10,
-			"dropRate": 0.0008616232982939859
+			"dropRate": 0.0008614748449345279
 		}
 	]
 }

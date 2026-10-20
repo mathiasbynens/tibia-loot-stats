@@ -1,66 +1,66 @@
 {
 	"monsterName": "Cursed Ape",
-	"timesKilled": 3034,
+	"timesKilled": 3328,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1830,
-			"dropRate": 0.6031641397495056
+			"timesDropped": 2016,
+			"dropRate": 0.6057692307692307
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1441,
-			"dropRate": 0.47495056031641397
+			"timesDropped": 1569,
+			"dropRate": 0.4714543269230769
 		},
 		{
 			"itemName": "Banana",
-			"timesDropped": 1246,
-			"dropRate": 0.4106789716545814
+			"timesDropped": 1359,
+			"dropRate": 0.40835336538461536
 		},
 		{
 			"itemName": "Kongra's Shoulderpad",
-			"timesDropped": 400,
-			"dropRate": 0.13183915622940012
+			"timesDropped": 442,
+			"dropRate": 0.1328125
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 247,
-			"dropRate": 0.08141067897165458
+			"timesDropped": 267,
+			"dropRate": 0.08022836538461539
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 54,
-			"dropRate": 0.017798286090969017
+			"timesDropped": 64,
+			"dropRate": 0.019230769230769232
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 38,
-			"dropRate": 0.012524719841793012
+			"timesDropped": 43,
+			"dropRate": 0.012920673076923076
 		},
 		{
 			"itemName": "Ape Fur",
-			"timesDropped": 31,
-			"dropRate": 0.01021753460777851
+			"timesDropped": 37,
+			"dropRate": 0.011117788461538462
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 20,
-			"dropRate": 0.0065919578114700065
+			"timesDropped": 22,
+			"dropRate": 0.006610576923076923
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 20,
-			"dropRate": 0.0065919578114700065
+			"timesDropped": 22,
+			"dropRate": 0.006610576923076923
 		},
 		{
 			"itemName": "Power Ring",
-			"timesDropped": 16,
-			"dropRate": 0.005273566249176005
+			"timesDropped": 19,
+			"dropRate": 0.005709134615384615
 		},
 		{
 			"itemName": "Club Ring",
 			"timesDropped": 9,
-			"dropRate": 0.002966381015161503
+			"dropRate": 0.002704326923076923
 		}
 	]
 }

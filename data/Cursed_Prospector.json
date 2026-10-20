@@ -1,71 +1,71 @@
 {
 	"monsterName": "Cursed Prospector",
-	"timesKilled": 2513,
+	"timesKilled": 2666,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2513,
+			"timesDropped": 2666,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Flash Arrow",
-			"timesDropped": 444,
-			"dropRate": 0.17668125746120175
+			"timesDropped": 474,
+			"dropRate": 0.17779444861215304
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 403,
-			"dropRate": 0.16036609629924392
+			"timesDropped": 426,
+			"dropRate": 0.15978994748687173
 		},
 		{
 			"itemName": "Spectral Silver Nugget",
-			"timesDropped": 256,
-			"dropRate": 0.10187027457222443
+			"timesDropped": 270,
+			"dropRate": 0.10127531882970743
 		},
 		{
 			"itemName": "Spectral Gold Nugget",
-			"timesDropped": 109,
-			"dropRate": 0.043374452845204935
+			"timesDropped": 121,
+			"dropRate": 0.04538634658664666
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 71,
-			"dropRate": 0.02825308396339037
-		},
-		{
-			"itemName": "Emerald Bangle",
-			"timesDropped": 28,
-			"dropRate": 0.011142061281337047
+			"timesDropped": 75,
+			"dropRate": 0.028132033008252063
 		},
 		{
 			"itemName": "Lightning Boots",
-			"timesDropped": 27,
-			"dropRate": 0.010744130521289296
+			"timesDropped": 30,
+			"dropRate": 0.011252813203300824
+		},
+		{
+			"itemName": "Emerald Bangle",
+			"timesDropped": 29,
+			"dropRate": 0.010877719429857465
 		},
 		{
 			"itemName": "Lightning Legs",
-			"timesDropped": 26,
-			"dropRate": 0.010346199761241544
+			"timesDropped": 28,
+			"dropRate": 0.010502625656414103
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 20,
-			"dropRate": 0.007958615200955034
+			"timesDropped": 21,
+			"dropRate": 0.007876969242310577
 		},
 		{
 			"itemName": "Diamond",
-			"timesDropped": 17,
-			"dropRate": 0.006764822920811779
+			"timesDropped": 19,
+			"dropRate": 0.007126781695423856
 		},
 		{
 			"itemName": "Shockwave Amulet",
-			"timesDropped": 14,
-			"dropRate": 0.005571030640668524
+			"timesDropped": 17,
+			"dropRate": 0.006376594148537134
 		},
 		{
 			"itemName": "Lightning Robe",
-			"timesDropped": 11,
-			"dropRate": 0.004377238360525269
+			"timesDropped": 13,
+			"dropRate": 0.004876219054763691
 		}
 	]
 }

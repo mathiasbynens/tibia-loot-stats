@@ -1,31 +1,31 @@
 {
 	"monsterName": "Gnarlhound",
-	"timesKilled": 15000,
+	"timesKilled": 15002,
 	"items": [
 		{
 			"itemName": "Worm",
-			"timesDropped": 7409,
-			"dropRate": 0.49393333333333334
+			"timesDropped": 7410,
+			"dropRate": 0.49393414211438474
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7397,
-			"dropRate": 0.4931333333333333
+			"timesDropped": 7398,
+			"dropRate": 0.4931342487668311
 		},
 		{
 			"itemName": "Meat",
 			"timesDropped": 6058,
-			"dropRate": 0.40386666666666665
+			"dropRate": 0.4038128249566724
 		},
 		{
 			"itemName": "Shaggy Tail",
-			"timesDropped": 3734,
-			"dropRate": 0.24893333333333334
+			"timesDropped": 3735,
+			"dropRate": 0.24896680442607652
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.00006666666666666667
+			"dropRate": 0.00006665777896280495
 		}
 	]
 }

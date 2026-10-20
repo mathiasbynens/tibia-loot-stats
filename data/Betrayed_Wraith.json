@@ -1,91 +1,91 @@
 {
 	"monsterName": "Betrayed Wraith",
-	"timesKilled": 696,
+	"timesKilled": 700,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 696,
+			"timesDropped": 700,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 696,
+			"timesDropped": 700,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 450,
-			"dropRate": 0.646551724137931
+			"timesDropped": 453,
+			"dropRate": 0.6471428571428571
 		},
 		{
 			"itemName": "Power Bolt",
-			"timesDropped": 330,
-			"dropRate": 0.47413793103448276
+			"timesDropped": 331,
+			"dropRate": 0.47285714285714286
 		},
 		{
 			"itemName": "Demonic Essence",
 			"timesDropped": 154,
-			"dropRate": 0.22126436781609196
+			"dropRate": 0.22
 		},
 		{
 			"itemName": "Unholy Bone",
 			"timesDropped": 149,
-			"dropRate": 0.21408045977011494
+			"dropRate": 0.21285714285714286
 		},
 		{
 			"itemName": "Great Mana Potion",
 			"timesDropped": 113,
-			"dropRate": 0.16235632183908047
+			"dropRate": 0.16142857142857142
 		},
 		{
 			"itemName": "Ultimate Health Potion",
 			"timesDropped": 102,
-			"dropRate": 0.14655172413793102
+			"dropRate": 0.1457142857142857
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 90,
-			"dropRate": 0.12931034482758622
+			"timesDropped": 91,
+			"dropRate": 0.13
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 76,
-			"dropRate": 0.10919540229885058
+			"timesDropped": 77,
+			"dropRate": 0.11
 		},
 		{
 			"itemName": "Orichalcum Pearl",
 			"timesDropped": 50,
-			"dropRate": 0.07183908045977011
+			"dropRate": 0.07142857142857142
 		},
 		{
 			"itemName": "Soul Orb",
 			"timesDropped": 50,
-			"dropRate": 0.07183908045977011
+			"dropRate": 0.07142857142857142
 		},
 		{
 			"itemName": "Mercenary Sword",
-			"timesDropped": 11,
-			"dropRate": 0.015804597701149427
+			"timesDropped": 13,
+			"dropRate": 0.018571428571428572
 		},
 		{
 			"itemName": "Bloody Edge",
 			"timesDropped": 1,
-			"dropRate": 0.0014367816091954023
+			"dropRate": 0.0014285714285714286
 		},
 		{
 			"itemName": "Golden Figurine",
 			"timesDropped": 1,
-			"dropRate": 0.0014367816091954023
+			"dropRate": 0.0014285714285714286
 		},
 		{
 			"itemName": "Skull Helmet",
 			"timesDropped": 1,
-			"dropRate": 0.0014367816091954023
+			"dropRate": 0.0014285714285714286
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 1,
-			"dropRate": 0.0014367816091954023
+			"dropRate": 0.0014285714285714286
 		}
 	]
 }

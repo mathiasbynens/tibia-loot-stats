@@ -1,51 +1,51 @@
 {
 	"monsterName": "Pirate Quartermaster",
-	"timesKilled": 2935,
+	"timesKilled": 3092,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1794,
-			"dropRate": 0.611243611584327
+			"timesDropped": 1887,
+			"dropRate": 0.6102846054333765
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 838,
-			"dropRate": 0.2855195911413969
+			"timesDropped": 891,
+			"dropRate": 0.28816300129366107
 		},
 		{
 			"itemName": "Gold Tooth",
-			"timesDropped": 198,
-			"dropRate": 0.06746166950596252
+			"timesDropped": 210,
+			"dropRate": 0.06791720569210867
 		},
 		{
 			"itemName": "Die",
-			"timesDropped": 34,
-			"dropRate": 0.011584327086882453
+			"timesDropped": 37,
+			"dropRate": 0.011966364812419146
 		},
 		{
 			"itemName": "Pirate Knee Breeches",
-			"timesDropped": 28,
-			"dropRate": 0.009540034071550256
+			"timesDropped": 29,
+			"dropRate": 0.009379042690815007
 		},
 		{
 			"itemName": "Pirate Bag",
 			"timesDropped": 26,
-			"dropRate": 0.008858603066439524
+			"dropRate": 0.008408796895213453
 		},
 		{
 			"itemName": "Hook",
 			"timesDropped": 5,
-			"dropRate": 0.0017035775127768314
+			"dropRate": 0.0016170763260025874
 		},
 		{
 			"itemName": "Peg Leg",
 			"timesDropped": 5,
-			"dropRate": 0.0017035775127768314
+			"dropRate": 0.0016170763260025874
 		},
 		{
 			"itemName": "Eye Patch",
-			"timesDropped": 3,
-			"dropRate": 0.0010221465076660989
+			"timesDropped": 4,
+			"dropRate": 0.00129366106080207
 		}
 	]
 }

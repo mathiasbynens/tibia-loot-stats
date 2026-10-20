@@ -1,66 +1,66 @@
 {
 	"monsterName": "Dwarf Soldier",
-	"timesKilled": 59148,
+	"timesKilled": 59479,
 	"items": [
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 23645,
-			"dropRate": 0.399759924257794
+			"timesDropped": 23765,
+			"dropRate": 0.3995527833352948
 		},
 		{
 			"itemName": "Bolt",
-			"timesDropped": 22396,
-			"dropRate": 0.37864340298911203
+			"timesDropped": 22526,
+			"dropRate": 0.378721901847711
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16788,
-			"dropRate": 0.2838303915601542
+			"timesDropped": 16883,
+			"dropRate": 0.28384808083525276
 		},
 		{
 			"itemName": "Soldier Helmet",
-			"timesDropped": 7024,
-			"dropRate": 0.11875295867992156
+			"timesDropped": 7060,
+			"dropRate": 0.11869735536912188
 		},
 		{
 			"itemName": "Shovel",
-			"timesDropped": 5963,
-			"dropRate": 0.10081490498410767
+			"timesDropped": 6004,
+			"dropRate": 0.10094319003345718
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 4393,
-			"dropRate": 0.07427131940217759
+			"timesDropped": 4423,
+			"dropRate": 0.07436237999966375
 		},
 		{
 			"itemName": "Piercing Bolt",
-			"timesDropped": 2264,
-			"dropRate": 0.0382768648136877
+			"timesDropped": 2270,
+			"dropRate": 0.03816473040905193
 		},
 		{
 			"itemName": "Dwarven Shield",
-			"timesDropped": 1823,
-			"dropRate": 0.030820991411374857
+			"timesDropped": 1833,
+			"dropRate": 0.03081759948889524
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 1801,
-			"dropRate": 0.03044904307837966
+			"timesDropped": 1811,
+			"dropRate": 0.030447721044402225
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 1464,
-			"dropRate": 0.02475147088658957
+			"timesDropped": 1468,
+			"dropRate": 0.024680979841624776
 		},
 		{
 			"itemName": "Iron Ore",
 			"timesDropped": 180,
-			"dropRate": 0.0030432136335970784
+			"dropRate": 0.003026278182215572
 		},
 		{
 			"itemName": "Axe Ring",
 			"timesDropped": 68,
-			"dropRate": 0.0011496584838033407
+			"dropRate": 0.0011432606466147716
 		}
 	]
 }

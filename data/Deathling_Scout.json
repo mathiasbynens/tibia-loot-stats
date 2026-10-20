@@ -1,91 +1,91 @@
 {
 	"monsterName": "Deathling Scout",
-	"timesKilled": 11335,
+	"timesKilled": 11373,
 	"items": [
 		{
 			"itemName": "Crystalline Arrow",
-			"timesDropped": 2873,
-			"dropRate": 0.2534627260696956
+			"timesDropped": 2881,
+			"dropRate": 0.2533192649257012
 		},
 		{
 			"itemName": "Vortex Bolt",
-			"timesDropped": 2535,
-			"dropRate": 0.22364358182620203
+			"timesDropped": 2543,
+			"dropRate": 0.22359975380286642
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 2416,
-			"dropRate": 0.21314512571680636
+			"timesDropped": 2422,
+			"dropRate": 0.2129605205310824
 		},
 		{
 			"itemName": "Deepling Warts",
-			"timesDropped": 2374,
-			"dropRate": 0.20943978826643142
+			"timesDropped": 2377,
+			"dropRate": 0.20900378088455113
 		},
 		{
 			"itemName": "Deeptags",
-			"timesDropped": 1464,
-			"dropRate": 0.12915747684164094
+			"timesDropped": 1470,
+			"dropRate": 0.1292534951200211
 		},
 		{
 			"itemName": "Deepling Filet",
-			"timesDropped": 1409,
-			"dropRate": 0.12430524922805469
+			"timesDropped": 1413,
+			"dropRate": 0.12424162490108151
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 1303,
-			"dropRate": 0.11495368328187032
+			"timesDropped": 1308,
+			"dropRate": 0.11500923239250857
 		},
 		{
 			"itemName": "Deepling Ridge",
-			"timesDropped": 1058,
-			"dropRate": 0.0933392148213498
+			"timesDropped": 1063,
+			"dropRate": 0.09346698320583839
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 984,
-			"dropRate": 0.08681076312307014
+			"timesDropped": 986,
+			"dropRate": 0.08669656203288491
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 946,
-			"dropRate": 0.08345831495368328
+			"timesDropped": 949,
+			"dropRate": 0.0834432427679592
+		},
+		{
+			"itemName": "Eye of a Deepling",
+			"timesDropped": 626,
+			"dropRate": 0.055042644860634836
 		},
 		{
 			"itemName": "Heavy Trident",
 			"timesDropped": 626,
-			"dropRate": 0.055227172474636085
-		},
-		{
-			"itemName": "Eye of a Deepling",
-			"timesDropped": 624,
-			"dropRate": 0.05505072783414204
+			"dropRate": 0.055042644860634836
 		},
 		{
 			"itemName": "Warrior's Axe",
-			"timesDropped": 330,
-			"dropRate": 0.029113365681517425
+			"timesDropped": 332,
+			"dropRate": 0.029191945836630616
 		},
 		{
 			"itemName": "Warrior's Shield",
-			"timesDropped": 289,
-			"dropRate": 0.0254962505513895
+			"timesDropped": 292,
+			"dropRate": 0.025674843928602833
 		},
 		{
 			"itemName": "Life Ring",
 			"timesDropped": 266,
-			"dropRate": 0.023467137185707983
+			"dropRate": 0.02338872768838477
 		},
 		{
 			"itemName": "Fish Fin",
 			"timesDropped": 89,
-			"dropRate": 0.007851786501985002
+			"dropRate": 0.007825551745361823
 		},
 		{
 			"itemName": "Necklace of the Deep",
 			"timesDropped": 56,
-			"dropRate": 0.004940449933833259
+			"dropRate": 0.004923942671238899
 		}
 	]
 }

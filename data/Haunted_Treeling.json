@@ -1,61 +1,61 @@
 {
 	"monsterName": "Haunted Treeling",
-	"timesKilled": 33587,
+	"timesKilled": 33629,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 30922,
-			"dropRate": 0.9206538243963438
+			"timesDropped": 30962,
+			"dropRate": 0.920693449106426
 		},
 		{
 			"itemName": "Wooden Trash",
-			"timesDropped": 9906,
-			"dropRate": 0.2949355405365171
+			"timesDropped": 9920,
+			"dropRate": 0.2949834963870469
 		},
 		{
 			"itemName": "Red Mushroom",
-			"timesDropped": 2598,
-			"dropRate": 0.0773513561794742
+			"timesDropped": 2602,
+			"dropRate": 0.07737369532248951
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 1747,
-			"dropRate": 0.05201417214993896
+			"timesDropped": 1751,
+			"dropRate": 0.052068155461060396
+		},
+		{
+			"itemName": "Haunted Piece of Wood",
+			"timesDropped": 1680,
+			"dropRate": 0.04995688245264504
 		},
 		{
 			"itemName": "White Mushroom",
 			"timesDropped": 1679,
-			"dropRate": 0.049989579301515465
-		},
-		{
-			"itemName": "Haunted Piece of Wood",
-			"timesDropped": 1676,
-			"dropRate": 0.0499002590287909
+			"dropRate": 0.04992714621308989
 		},
 		{
 			"itemName": "Orange Mushroom",
-			"timesDropped": 640,
-			"dropRate": 0.019054991514574092
+			"timesDropped": 641,
+			"dropRate": 0.019060929554848494
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 353,
-			"dropRate": 0.010510018757257272
+			"timesDropped": 354,
+			"dropRate": 0.010526628802521634
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 230,
-			"dropRate": 0.006847887575550064
+			"dropRate": 0.006839335097683547
 		},
 		{
 			"itemName": "Dwarven Ring",
 			"timesDropped": 202,
-			"dropRate": 0.006014231696787447
+			"dropRate": 0.006006720390139463
 		},
 		{
 			"itemName": "Bullseye Potion",
 			"timesDropped": 36,
-			"dropRate": 0.0010718432726947926
+			"dropRate": 0.0010705046239852507
 		}
 	]
 }

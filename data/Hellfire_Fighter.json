@@ -1,91 +1,91 @@
 {
 	"monsterName": "Hellfire Fighter",
-	"timesKilled": 20568,
+	"timesKilled": 20581,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 20568,
+			"timesDropped": 20581,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Burnt Scroll",
-			"timesDropped": 10252,
-			"dropRate": 0.4984441851419681
+			"timesDropped": 10257,
+			"dropRate": 0.4983722851173412
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 6290,
-			"dropRate": 0.30581485803189423
+			"timesDropped": 6299,
+			"dropRate": 0.3060589864438074
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 3150,
-			"dropRate": 0.1531505250875146
+			"timesDropped": 3151,
+			"dropRate": 0.15310237597784365
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 2476,
-			"dropRate": 0.12038117464021782
+			"timesDropped": 2477,
+			"dropRate": 0.12035372430882853
 		},
 		{
 			"itemName": "Fiery Heart",
-			"timesDropped": 2145,
-			"dropRate": 0.10428821470245041
+			"timesDropped": 2148,
+			"dropRate": 0.10436810650600067
 		},
 		{
 			"itemName": "Wand of Inferno",
 			"timesDropped": 1855,
-			"dropRate": 0.09018864255153637
+			"dropRate": 0.0901316748457315
 		},
 		{
 			"itemName": "Piece of Hellfire Armor",
 			"timesDropped": 1004,
-			"dropRate": 0.048813691170750684
+			"dropRate": 0.048782857975802923
 		},
 		{
 			"itemName": "Fire Sword",
 			"timesDropped": 863,
-			"dropRate": 0.04195838195254765
+			"dropRate": 0.04193187891744813
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 394,
-			"dropRate": 0.019155970439517698
+			"timesDropped": 395,
+			"dropRate": 0.019192459064185412
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 292,
-			"dropRate": 0.014196810579541034
+			"timesDropped": 293,
+			"dropRate": 0.01423643166026918
 		},
 		{
 			"itemName": "Platinum Coin",
 			"timesDropped": 212,
-			"dropRate": 0.010307273434461299
+			"dropRate": 0.010300762839512171
 		},
 		{
 			"itemName": "Magma Legs",
 			"timesDropped": 161,
-			"dropRate": 0.007827693504472967
+			"dropRate": 0.007822749137554055
 		},
 		{
 			"itemName": "Coal",
 			"timesDropped": 108,
-			"dropRate": 0.005250875145857643
+			"dropRate": 0.005247558427676012
 		},
 		{
 			"itemName": "Magma Coat",
 			"timesDropped": 99,
-			"dropRate": 0.004813302217036173
+			"dropRate": 0.004810261892036344
 		},
 		{
 			"itemName": "Fire Axe",
 			"timesDropped": 80,
-			"dropRate": 0.0038895371450797353
+			"dropRate": 0.003887080316797046
 		},
 		{
 			"itemName": "Demonbone Amulet",
 			"timesDropped": 41,
-			"dropRate": 0.0019933877868533643
+			"dropRate": 0.001992128662358486
 		}
 	]
 }

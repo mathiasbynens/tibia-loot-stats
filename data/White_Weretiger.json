@@ -1,66 +1,66 @@
 {
 	"monsterName": "White Weretiger",
-	"timesKilled": 1068,
+	"timesKilled": 1211,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1068,
+			"timesDropped": 1211,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1068,
+			"timesDropped": 1211,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Moonlight Crystals",
-			"timesDropped": 155,
-			"dropRate": 0.1451310861423221
+			"timesDropped": 162,
+			"dropRate": 0.1337737407101569
 		},
 		{
 			"itemName": "Weretiger Tooth",
-			"timesDropped": 142,
-			"dropRate": 0.13295880149812733
-		},
-		{
-			"itemName": "Ham",
-			"timesDropped": 46,
-			"dropRate": 0.04307116104868914
+			"timesDropped": 154,
+			"dropRate": 0.12716763005780346
 		},
 		{
 			"itemName": "Beastslayer Axe",
-			"timesDropped": 42,
-			"dropRate": 0.03932584269662921
+			"timesDropped": 50,
+			"dropRate": 0.04128819157720892
+		},
+		{
+			"itemName": "Ham",
+			"timesDropped": 50,
+			"dropRate": 0.04128819157720892
 		},
 		{
 			"itemName": "Silver Moon Coin",
-			"timesDropped": 24,
-			"dropRate": 0.02247191011235955
+			"timesDropped": 27,
+			"dropRate": 0.022295623451692816
 		},
 		{
 			"itemName": "White Gem",
-			"timesDropped": 19,
-			"dropRate": 0.017790262172284643
+			"timesDropped": 22,
+			"dropRate": 0.018166804293971925
 		},
 		{
 			"itemName": "Ring of Orange Plasma",
 			"timesDropped": 17,
-			"dropRate": 0.015917602996254682
+			"dropRate": 0.014037985136251032
 		},
 		{
 			"itemName": "Moon Pin",
 			"timesDropped": 16,
-			"dropRate": 0.0149812734082397
+			"dropRate": 0.013212221304706853
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 9,
-			"dropRate": 0.008426966292134831
+			"timesDropped": 11,
+			"dropRate": 0.009083402146985962
 		},
 		{
 			"itemName": "Crystal Mace",
-			"timesDropped": 7,
-			"dropRate": 0.006554307116104869
+			"timesDropped": 8,
+			"dropRate": 0.006606110652353427
 		}
 	]
 }

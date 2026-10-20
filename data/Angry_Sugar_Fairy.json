@@ -1,96 +1,101 @@
 {
 	"monsterName": "Angry Sugar Fairy",
-	"timesKilled": 4669,
+	"timesKilled": 4971,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4297,
-			"dropRate": 0.9203255515099593
+			"timesDropped": 4566,
+			"dropRate": 0.9185274592637296
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 386,
-			"dropRate": 0.08267294923966588
+			"timesDropped": 412,
+			"dropRate": 0.08288070810702072
 		},
 		{
 			"itemName": "Wild Flowers",
-			"timesDropped": 369,
-			"dropRate": 0.079031912615121
+			"timesDropped": 396,
+			"dropRate": 0.07966203983101991
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 274,
-			"dropRate": 0.058684943242664385
+			"timesDropped": 301,
+			"dropRate": 0.060551196942265136
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 272,
-			"dropRate": 0.05825658599271793
+			"timesDropped": 296,
+			"dropRate": 0.05954536310601489
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 178,
-			"dropRate": 0.03812379524523452
+			"timesDropped": 187,
+			"dropRate": 0.0376181854757594
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 175,
-			"dropRate": 0.037481259370314844
+			"timesDropped": 184,
+			"dropRate": 0.03701468517400926
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 166,
-			"dropRate": 0.035553651745555796
+			"timesDropped": 177,
+			"dropRate": 0.0356065178032589
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 130,
-			"dropRate": 0.027843221246519598
-		},
-		{
-			"itemName": "Prismatic Quartz",
-			"timesDropped": 98,
-			"dropRate": 0.020989505247376312
+			"timesDropped": 138,
+			"dropRate": 0.02776101388050694
 		},
 		{
 			"itemName": "Ruby Necklace",
-			"timesDropped": 96,
-			"dropRate": 0.020561147997429856
+			"timesDropped": 106,
+			"dropRate": 0.02132367732850533
+		},
+		{
+			"itemName": "Prismatic Quartz",
+			"timesDropped": 103,
+			"dropRate": 0.02072017702675518
 		},
 		{
 			"itemName": "Wafer Paper Flower",
-			"timesDropped": 79,
-			"dropRate": 0.016920111372884985
-		},
-		{
-			"itemName": "Butterfly Ring",
-			"timesDropped": 37,
-			"dropRate": 0.007924609124009423
+			"timesDropped": 84,
+			"dropRate": 0.016898008449004225
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 37,
-			"dropRate": 0.007924609124009423
+			"timesDropped": 44,
+			"dropRate": 0.008851337759002213
 		},
 		{
-			"itemName": "Milk Chocolate Coin",
-			"timesDropped": 35,
-			"dropRate": 0.0074962518740629685
+			"itemName": "Butterfly Ring",
+			"timesDropped": 38,
+			"dropRate": 0.007644337155501911
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 35,
-			"dropRate": 0.0074962518740629685
+			"timesDropped": 38,
+			"dropRate": 0.007644337155501911
+		},
+		{
+			"itemName": "Milk Chocolate Coin",
+			"timesDropped": 36,
+			"dropRate": 0.00724200362100181
 		},
 		{
 			"itemName": "Hibiscus Dress",
 			"timesDropped": 14,
-			"dropRate": 0.0029985007496251873
+			"dropRate": 0.002816334741500704
 		},
 		{
 			"itemName": "Gold Nugget",
-			"timesDropped": 12,
-			"dropRate": 0.002570143499678732
+			"timesDropped": 13,
+			"dropRate": 0.002615167974250654
+		},
+		{
+			"itemName": "Lesser Spiritualist Gem",
+			"timesDropped": 1,
+			"dropRate": 0.0002011667672500503
 		}
 	]
 }

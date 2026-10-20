@@ -1,66 +1,66 @@
 {
 	"monsterName": "Bonebeast",
-	"timesKilled": 6531,
+	"timesKilled": 6854,
 	"items": [
 		{
 			"itemName": "Bone",
-			"timesDropped": 3248,
-			"dropRate": 0.49732047159699894
+			"timesDropped": 3396,
+			"dropRate": 0.49547709366793113
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1869,
-			"dropRate": 0.2861736334405145
+			"timesDropped": 1964,
+			"dropRate": 0.28654800116720164
 		},
 		{
 			"itemName": "Skull",
-			"timesDropped": 1296,
-			"dropRate": 0.19843821773082224
+			"timesDropped": 1355,
+			"dropRate": 0.19769477677268749
 		},
 		{
 			"itemName": "Bony Tail",
-			"timesDropped": 656,
-			"dropRate": 0.10044403613535446
+			"timesDropped": 695,
+			"dropRate": 0.10140064196089875
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 526,
-			"dropRate": 0.08053896799877508
+			"timesDropped": 554,
+			"dropRate": 0.08082871316019842
 		},
 		{
 			"itemName": "Bone Club",
-			"timesDropped": 328,
-			"dropRate": 0.05022201806767723
+			"timesDropped": 342,
+			"dropRate": 0.0498978698570178
 		},
 		{
 			"itemName": "Bone Shield",
-			"timesDropped": 151,
-			"dropRate": 0.023120502220180677
+			"timesDropped": 158,
+			"dropRate": 0.02305223227312518
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 100,
-			"dropRate": 0.015311590874291839
+			"timesDropped": 106,
+			"dropRate": 0.015465421651590313
 		},
 		{
 			"itemName": "Hardened Bone",
-			"timesDropped": 80,
-			"dropRate": 0.012249272699433471
+			"timesDropped": 83,
+			"dropRate": 0.012109716953603735
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 25,
-			"dropRate": 0.0038278977185729596
+			"timesDropped": 27,
+			"dropRate": 0.003939305515027721
 		},
 		{
 			"itemName": "Bonebeast Trophy",
-			"timesDropped": 6,
-			"dropRate": 0.0009186954524575103
+			"timesDropped": 7,
+			"dropRate": 0.0010213014298220018
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 6,
-			"dropRate": 0.0009186954524575103
+			"timesDropped": 7,
+			"dropRate": 0.0010213014298220018
 		}
 	]
 }

@@ -1,21 +1,21 @@
 {
 	"monsterName": "Water Buffalo",
-	"timesKilled": 1136,
+	"timesKilled": 1184,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1136,
+			"timesDropped": 1184,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 392,
-			"dropRate": 0.34507042253521125
+			"timesDropped": 405,
+			"dropRate": 0.3420608108108108
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 351,
-			"dropRate": 0.3089788732394366
+			"timesDropped": 366,
+			"dropRate": 0.3091216216216216
 		}
 	]
 }

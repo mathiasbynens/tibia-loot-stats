@@ -1,76 +1,76 @@
 {
 	"monsterName": "Candy Floss Elemental",
-	"timesKilled": 1180,
+	"timesKilled": 1411,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1133,
-			"dropRate": 0.9601694915254237
+			"timesDropped": 1353,
+			"dropRate": 0.9588944011339475
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1001,
-			"dropRate": 0.8483050847457627
+			"timesDropped": 1189,
+			"dropRate": 0.8426647767540751
 		},
 		{
 			"itemName": "Fairy Wings",
-			"timesDropped": 75,
-			"dropRate": 0.0635593220338983
+			"timesDropped": 85,
+			"dropRate": 0.060240963855421686
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 49,
-			"dropRate": 0.04152542372881356
+			"timesDropped": 58,
+			"dropRate": 0.041105598866052445
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 44,
-			"dropRate": 0.03728813559322034
+			"timesDropped": 51,
+			"dropRate": 0.03614457831325301
 		},
 		{
 			"itemName": "Opal",
-			"timesDropped": 42,
-			"dropRate": 0.03559322033898305
+			"timesDropped": 48,
+			"dropRate": 0.03401842664776754
 		},
 		{
 			"itemName": "Gummy Rotworm",
-			"timesDropped": 39,
-			"dropRate": 0.03305084745762712
+			"timesDropped": 45,
+			"dropRate": 0.031892274982282066
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 33,
-			"dropRate": 0.027966101694915254
+			"timesDropped": 37,
+			"dropRate": 0.026222537207654145
 		},
 		{
 			"itemName": "Wad of Fairy Floss",
-			"timesDropped": 25,
-			"dropRate": 0.0211864406779661
+			"timesDropped": 31,
+			"dropRate": 0.021970233876683204
 		},
 		{
 			"itemName": "Might Ring",
-			"timesDropped": 24,
-			"dropRate": 0.020338983050847456
+			"timesDropped": 29,
+			"dropRate": 0.020552799433026223
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 10,
-			"dropRate": 0.00847457627118644
-		},
-		{
-			"itemName": "Milk Chocolate Coin",
-			"timesDropped": 7,
-			"dropRate": 0.005932203389830509
+			"timesDropped": 11,
+			"dropRate": 0.007795889440113395
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 7,
-			"dropRate": 0.005932203389830509
+			"timesDropped": 11,
+			"dropRate": 0.007795889440113395
+		},
+		{
+			"itemName": "Milk Chocolate Coin",
+			"timesDropped": 9,
+			"dropRate": 0.0063784549964564135
 		},
 		{
 			"itemName": "Club Ring",
 			"timesDropped": 2,
-			"dropRate": 0.001694915254237288
+			"dropRate": 0.001417434443656981
 		}
 	]
 }

@@ -1,96 +1,96 @@
 {
 	"monsterName": "Execowtioner",
-	"timesKilled": 8896,
+	"timesKilled": 8932,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8896,
+			"timesDropped": 8932,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5819,
-			"dropRate": 0.6541142086330936
+			"timesDropped": 5844,
+			"dropRate": 0.6542767577250336
 		},
 		{
 			"itemName": "Execowtioner Mask",
-			"timesDropped": 1447,
-			"dropRate": 0.16265737410071943
+			"timesDropped": 1454,
+			"dropRate": 0.16278549037169726
 		},
 		{
 			"itemName": "Minotaur Leather",
-			"timesDropped": 1408,
-			"dropRate": 0.15827338129496402
+			"timesDropped": 1415,
+			"dropRate": 0.1584191670398567
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 914,
-			"dropRate": 0.10274280575539568
+			"timesDropped": 917,
+			"dropRate": 0.10266457680250783
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 883,
-			"dropRate": 0.09925809352517985
+			"timesDropped": 887,
+			"dropRate": 0.09930586654724585
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 744,
-			"dropRate": 0.08363309352517985
+			"timesDropped": 746,
+			"dropRate": 0.08351992834751455
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 454,
-			"dropRate": 0.051034172661870505
+			"timesDropped": 459,
+			"dropRate": 0.05138826690550828
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 449,
-			"dropRate": 0.05047212230215827
+			"timesDropped": 451,
+			"dropRate": 0.050492610837438424
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 438,
-			"dropRate": 0.049235611510791366
+			"timesDropped": 440,
+			"dropRate": 0.04926108374384237
 		},
 		{
 			"itemName": "Red Piece of Cloth",
-			"timesDropped": 251,
-			"dropRate": 0.02821492805755396
+			"timesDropped": 252,
+			"dropRate": 0.02821316614420063
 		},
 		{
 			"itemName": "Execowtioner Axe",
-			"timesDropped": 91,
-			"dropRate": 0.01022931654676259
+			"timesDropped": 92,
+			"dropRate": 0.010300044782803403
 		},
 		{
 			"itemName": "Knight Axe",
 			"timesDropped": 67,
-			"dropRate": 0.007531474820143885
+			"dropRate": 0.007501119570085087
 		},
 		{
 			"itemName": "Titan Axe",
 			"timesDropped": 58,
-			"dropRate": 0.006519784172661871
+			"dropRate": 0.006493506493506494
 		},
 		{
 			"itemName": "Crown Armor",
-			"timesDropped": 55,
-			"dropRate": 0.006182553956834532
+			"timesDropped": 57,
+			"dropRate": 0.006381549484997761
 		},
 		{
 			"itemName": "Butcher's Axe",
 			"timesDropped": 43,
-			"dropRate": 0.00483363309352518
+			"dropRate": 0.0048141513658755035
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 35,
-			"dropRate": 0.003934352517985611
+			"dropRate": 0.003918495297805642
 		},
 		{
 			"itemName": "Minotaur Trophy",
 			"timesDropped": 25,
-			"dropRate": 0.002810251798561151
+			"dropRate": 0.0027989252127183163
 		}
 	]
 }

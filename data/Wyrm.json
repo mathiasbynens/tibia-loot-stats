@@ -1,86 +1,86 @@
 {
 	"monsterName": "Wyrm",
-	"timesKilled": 78856,
+	"timesKilled": 78857,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 76403,
-			"dropRate": 0.9688926651110885
+			"timesDropped": 76404,
+			"dropRate": 0.9688930595888761
 		},
 		{
 			"itemName": "Dragon Ham",
 			"timesDropped": 27506,
-			"dropRate": 0.3488130262757431
+			"dropRate": 0.34880860291413573
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 16026,
-			"dropRate": 0.20323120624936594
+			"dropRate": 0.20322862903737143
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 12008,
-			"dropRate": 0.15227756924013391
+			"dropRate": 0.15227563818050396
 		},
 		{
 			"itemName": "Wyrm Scale",
 			"timesDropped": 11781,
-			"dropRate": 0.14939890433194683
+			"dropRate": 0.14939700977719161
 		},
 		{
 			"itemName": "Burst Arrow",
 			"timesDropped": 6284,
-			"dropRate": 0.07968956071827128
+			"dropRate": 0.07968855016041695
 		},
 		{
 			"itemName": "Crossbow",
 			"timesDropped": 4728,
-			"dropRate": 0.05995739068682155
+			"dropRate": 0.059956630356214416
 		},
 		{
 			"itemName": "Focus Cape",
 			"timesDropped": 970,
-			"dropRate": 0.0123009029116364
+			"dropRate": 0.012300746921642973
 		},
 		{
 			"itemName": "Wand of Draconia",
 			"timesDropped": 806,
-			"dropRate": 0.010221162625545299
+			"dropRate": 0.01022103300911777
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 720,
-			"dropRate": 0.009130567109668256
+			"dropRate": 0.009130451323281382
 		},
 		{
 			"itemName": "Lightning Pendant",
 			"timesDropped": 579,
-			"dropRate": 0.007342497717358222
+			"dropRate": 0.007342404605805445
 		},
 		{
 			"itemName": "Wand of Starstorm",
 			"timesDropped": 352,
-			"dropRate": 0.004463832809171148
+			"dropRate": 0.00446377620249312
 		},
 		{
 			"itemName": "Hibiscus Dress",
 			"timesDropped": 246,
-			"dropRate": 0.0031196104291366543
+			"dropRate": 0.003119570868787806
 		},
 		{
 			"itemName": "Composite Hornbow",
 			"timesDropped": 81,
-			"dropRate": 0.0010271887998376788
+			"dropRate": 0.0010271757738691556
 		},
 		{
 			"itemName": "Dragonbone Staff",
 			"timesDropped": 76,
-			"dropRate": 0.0009637820837983159
+			"dropRate": 0.0009637698619019237
 		},
 		{
 			"itemName": "Shockwave Amulet",
 			"timesDropped": 68,
-			"dropRate": 0.0008623313381353353
+			"dropRate": 0.0008623204027543528
 		}
 	]
 }

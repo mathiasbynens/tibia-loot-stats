@@ -1,91 +1,91 @@
 {
 	"monsterName": "Armadile",
-	"timesKilled": 61,
+	"timesKilled": 64,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 61,
+			"timesDropped": 64,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 59,
-			"dropRate": 0.9672131147540983
+			"timesDropped": 62,
+			"dropRate": 0.96875
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 13,
-			"dropRate": 0.21311475409836064
+			"timesDropped": 14,
+			"dropRate": 0.21875
 		},
 		{
 			"itemName": "Great Mana Potion",
 			"timesDropped": 11,
-			"dropRate": 0.18032786885245902
+			"dropRate": 0.171875
 		},
 		{
 			"itemName": "Mana Potion",
 			"timesDropped": 9,
-			"dropRate": 0.14754098360655737
+			"dropRate": 0.140625
 		},
 		{
 			"itemName": "Battle Stone",
 			"timesDropped": 8,
-			"dropRate": 0.13114754098360656
+			"dropRate": 0.125
+		},
+		{
+			"itemName": "Crystalline Spikes",
+			"timesDropped": 8,
+			"dropRate": 0.125
 		},
 		{
 			"itemName": "Drill Bolt",
 			"timesDropped": 8,
-			"dropRate": 0.13114754098360656
-		},
-		{
-			"itemName": "Crystalline Spikes",
-			"timesDropped": 7,
-			"dropRate": 0.11475409836065574
+			"dropRate": 0.125
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 7,
-			"dropRate": 0.11475409836065574
+			"dropRate": 0.109375
+		},
+		{
+			"itemName": "Strong Health Potion",
+			"timesDropped": 6,
+			"dropRate": 0.09375
 		},
 		{
 			"itemName": "Coal",
 			"timesDropped": 5,
-			"dropRate": 0.08196721311475409
-		},
-		{
-			"itemName": "Strong Health Potion",
-			"timesDropped": 5,
-			"dropRate": 0.08196721311475409
+			"dropRate": 0.078125
 		},
 		{
 			"itemName": "Envenomed Arrow",
-			"timesDropped": 3,
-			"dropRate": 0.04918032786885246
+			"timesDropped": 4,
+			"dropRate": 0.0625
 		},
 		{
 			"itemName": "Green Crystal Fragment",
 			"timesDropped": 3,
-			"dropRate": 0.04918032786885246
+			"dropRate": 0.046875
 		},
 		{
 			"itemName": "Green Crystal Splinter",
 			"timesDropped": 3,
-			"dropRate": 0.04918032786885246
+			"dropRate": 0.046875
 		},
 		{
 			"itemName": "Titan Axe",
 			"timesDropped": 3,
-			"dropRate": 0.04918032786885246
+			"dropRate": 0.046875
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 1,
-			"dropRate": 0.01639344262295082
+			"dropRate": 0.015625
 		},
 		{
 			"itemName": "Tower Shield",
 			"timesDropped": 1,
-			"dropRate": 0.01639344262295082
+			"dropRate": 0.015625
 		}
 	]
 }

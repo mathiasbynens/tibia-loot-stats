@@ -1,101 +1,101 @@
 {
 	"monsterName": "Mooh'tah Warrior",
-	"timesKilled": 15279,
+	"timesKilled": 15297,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15279,
+			"timesDropped": 15297,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6216,
-			"dropRate": 0.4068329079128215
+			"timesDropped": 6222,
+			"dropRate": 0.40674642086683666
 		},
 		{
 			"itemName": "Mooh'tah Shell",
-			"timesDropped": 2272,
-			"dropRate": 0.1487008312062308
+			"timesDropped": 2275,
+			"dropRate": 0.14872197162842388
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1121,
-			"dropRate": 0.07336867596046862
+			"timesDropped": 1123,
+			"dropRate": 0.0734130875335033
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 1100,
-			"dropRate": 0.07199424046076314
+			"dropRate": 0.07190952474341374
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 777,
-			"dropRate": 0.05085411348910269
+			"dropRate": 0.050794273386938614
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 773,
-			"dropRate": 0.05059231625106355
+			"timesDropped": 774,
+			"dropRate": 0.05059815650127476
 		},
 		{
 			"itemName": "Minotaur Leather",
 			"timesDropped": 759,
-			"dropRate": 0.04967602591792657
+			"dropRate": 0.04961757207295548
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 753,
-			"dropRate": 0.04928333006086786
+			"timesDropped": 754,
+			"dropRate": 0.04929071059684906
 		},
 		{
 			"itemName": "Small Topaz",
 			"timesDropped": 751,
-			"dropRate": 0.04915243144184829
+			"dropRate": 0.0490945937111852
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 732,
-			"dropRate": 0.04790889456116238
+			"dropRate": 0.04785252010198078
 		},
 		{
 			"itemName": "Cowtana",
 			"timesDropped": 216,
-			"dropRate": 0.01413705085411349
+			"dropRate": 0.014120415767797607
 		},
 		{
 			"itemName": "Sword Ring",
 			"timesDropped": 150,
-			"dropRate": 0.0098173964264677
+			"dropRate": 0.009805844283192783
+		},
+		{
+			"itemName": "Guardian Shield",
+			"timesDropped": 134,
+			"dropRate": 0.00875988755965222
 		},
 		{
 			"itemName": "Mooh'tah Plate",
 			"timesDropped": 134,
-			"dropRate": 0.008770207474311146
-		},
-		{
-			"itemName": "Guardian Shield",
-			"timesDropped": 133,
-			"dropRate": 0.008704758164801362
+			"dropRate": 0.00875988755965222
 		},
 		{
 			"itemName": "Knight Legs",
 			"timesDropped": 130,
-			"dropRate": 0.008508410236272008
+			"dropRate": 0.00849839837876708
 		},
 		{
 			"itemName": "Red Piece of Cloth",
 			"timesDropped": 122,
-			"dropRate": 0.00798481576019373
+			"dropRate": 0.007975420016996797
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 96,
-			"dropRate": 0.006283133712939329
+			"dropRate": 0.006275740341243381
 		},
 		{
 			"itemName": "Minotaur Trophy",
 			"timesDropped": 20,
-			"dropRate": 0.0013089861901956934
+			"dropRate": 0.0013074459044257044
 		}
 	]
 }

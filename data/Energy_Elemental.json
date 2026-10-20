@@ -1,76 +1,76 @@
 {
 	"monsterName": "Energy Elemental",
-	"timesKilled": 1710,
+	"timesKilled": 1712,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1670,
-			"dropRate": 0.9766081871345029
+			"timesDropped": 1672,
+			"dropRate": 0.9766355140186916
 		},
 		{
 			"itemName": "Mana Potion",
 			"timesDropped": 232,
-			"dropRate": 0.13567251461988303
+			"dropRate": 0.13551401869158877
 		},
 		{
 			"itemName": "Throwing Star",
 			"timesDropped": 184,
-			"dropRate": 0.10760233918128655
+			"dropRate": 0.10747663551401869
 		},
 		{
 			"itemName": "Flash Arrow",
 			"timesDropped": 180,
-			"dropRate": 0.10526315789473684
+			"dropRate": 0.10514018691588785
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 139,
-			"dropRate": 0.08128654970760234
+			"dropRate": 0.08119158878504673
 		},
 		{
 			"itemName": "Crystal Sword",
 			"timesDropped": 111,
-			"dropRate": 0.06491228070175438
+			"dropRate": 0.06483644859813084
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 93,
-			"dropRate": 0.054385964912280704
+			"dropRate": 0.054322429906542055
 		},
 		{
 			"itemName": "Obsidian Lance",
 			"timesDropped": 73,
-			"dropRate": 0.04269005847953217
+			"dropRate": 0.04264018691588785
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 57,
-			"dropRate": 0.03333333333333333
+			"dropRate": 0.03329439252336448
 		},
 		{
 			"itemName": "Crystal Ring",
 			"timesDropped": 37,
-			"dropRate": 0.021637426900584796
+			"dropRate": 0.02161214953271028
 		},
 		{
 			"itemName": "Energy Ring",
 			"timesDropped": 17,
-			"dropRate": 0.009941520467836258
+			"dropRate": 0.009929906542056074
 		},
 		{
 			"itemName": "Silver Amulet",
 			"timesDropped": 14,
-			"dropRate": 0.008187134502923977
+			"dropRate": 0.008177570093457943
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
 			"timesDropped": 13,
-			"dropRate": 0.00760233918128655
+			"dropRate": 0.007593457943925234
 		},
 		{
 			"itemName": "Guardian Shield",
 			"timesDropped": 1,
-			"dropRate": 0.0005847953216374269
+			"dropRate": 0.0005841121495327102
 		}
 	]
 }

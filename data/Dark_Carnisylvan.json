@@ -1,76 +1,76 @@
 {
 	"monsterName": "Dark Carnisylvan",
-	"timesKilled": 2579,
+	"timesKilled": 2603,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2579,
+			"timesDropped": 2603,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 906,
-			"dropRate": 0.3512989530825901
+			"timesDropped": 913,
+			"dropRate": 0.3507491356127545
 		},
 		{
 			"itemName": "Carnisylvan Finger",
-			"timesDropped": 380,
-			"dropRate": 0.14734393175649477
+			"timesDropped": 382,
+			"dropRate": 0.14675374567806376
 		},
 		{
 			"itemName": "Carnisylvan Bark",
-			"timesDropped": 312,
-			"dropRate": 0.12097712291585885
+			"timesDropped": 317,
+			"dropRate": 0.12178255858624663
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 220,
-			"dropRate": 0.08530438154323382
+			"timesDropped": 222,
+			"dropRate": 0.08528620822128313
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 113,
-			"dropRate": 0.04381543233811555
+			"timesDropped": 115,
+			"dropRate": 0.044179792547061086
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 113,
-			"dropRate": 0.04381543233811555
+			"timesDropped": 114,
+			"dropRate": 0.043795620437956206
 		},
 		{
 			"itemName": "Hailstorm Rod",
-			"timesDropped": 91,
-			"dropRate": 0.03528499418379217
+			"timesDropped": 92,
+			"dropRate": 0.03534383403764887
 		},
 		{
 			"itemName": "Spellbook",
 			"timesDropped": 74,
-			"dropRate": 0.02869329197363319
+			"dropRate": 0.028428736073761045
 		},
 		{
 			"itemName": "Spellbook of Warding",
 			"timesDropped": 72,
-			"dropRate": 0.02791779759596743
+			"dropRate": 0.027660391855551286
 		},
 		{
 			"itemName": "Springsprout Rod",
-			"timesDropped": 71,
-			"dropRate": 0.02753005040713455
+			"timesDropped": 72,
+			"dropRate": 0.027660391855551286
 		},
 		{
 			"itemName": "Human Teeth",
 			"timesDropped": 20,
-			"dropRate": 0.0077549437766576195
+			"dropRate": 0.00768344218209758
 		},
 		{
 			"itemName": "Gold Ring",
 			"timesDropped": 16,
-			"dropRate": 0.006203955021326095
+			"dropRate": 0.006146753745678064
 		},
 		{
 			"itemName": "Butterfly Ring",
 			"timesDropped": 15,
-			"dropRate": 0.0058162078324932144
+			"dropRate": 0.005762581636573185
 		}
 	]
 }

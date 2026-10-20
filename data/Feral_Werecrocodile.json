@@ -1,71 +1,71 @@
 {
 	"monsterName": "Feral Werecrocodile",
-	"timesKilled": 721,
+	"timesKilled": 1048,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 721,
+			"timesDropped": 1048,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 721,
+			"timesDropped": 1048,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Werecrocodile Tongue",
-			"timesDropped": 62,
-			"dropRate": 0.08599167822468794
+			"timesDropped": 100,
+			"dropRate": 0.09541984732824428
+		},
+		{
+			"itemName": "War Hammer",
+			"timesDropped": 56,
+			"dropRate": 0.05343511450381679
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 35,
-			"dropRate": 0.04854368932038835
+			"timesDropped": 49,
+			"dropRate": 0.046755725190839696
 		},
 		{
 			"itemName": "Moonlight Crystals",
 			"timesDropped": 35,
-			"dropRate": 0.04854368932038835
-		},
-		{
-			"itemName": "War Hammer",
-			"timesDropped": 35,
-			"dropRate": 0.04854368932038835
+			"dropRate": 0.033396946564885496
 		},
 		{
 			"itemName": "Golden Sun Coin",
-			"timesDropped": 12,
-			"dropRate": 0.016643550624133148
-		},
-		{
-			"itemName": "Ring of Orange Plasma",
-			"timesDropped": 12,
-			"dropRate": 0.016643550624133148
+			"timesDropped": 18,
+			"dropRate": 0.01717557251908397
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 10,
-			"dropRate": 0.013869625520110958
+			"timesDropped": 18,
+			"dropRate": 0.01717557251908397
+		},
+		{
+			"itemName": "Ring of Orange Plasma",
+			"timesDropped": 15,
+			"dropRate": 0.01431297709923664
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 9,
-			"dropRate": 0.012482662968099861
+			"timesDropped": 12,
+			"dropRate": 0.011450381679389313
+		},
+		{
+			"itemName": "Ornate Crossbow",
+			"timesDropped": 7,
+			"dropRate": 0.006679389312977099
 		},
 		{
 			"itemName": "Sun Brooch",
 			"timesDropped": 7,
-			"dropRate": 0.009708737864077669
-		},
-		{
-			"itemName": "Ornate Crossbow",
-			"timesDropped": 6,
-			"dropRate": 0.008321775312066574
+			"dropRate": 0.006679389312977099
 		},
 		{
 			"itemName": "Swamplair Armor",
 			"timesDropped": 2,
-			"dropRate": 0.0027739251040221915
+			"dropRate": 0.0019083969465648854
 		}
 	]
 }

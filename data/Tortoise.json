@@ -1,41 +1,41 @@
 {
 	"monsterName": "Tortoise",
-	"timesKilled": 38724,
+	"timesKilled": 38770,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 23347,
-			"dropRate": 0.602907757463072
+			"timesDropped": 23373,
+			"dropRate": 0.6028630384317771
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 1970,
-			"dropRate": 0.050872843714492307
+			"timesDropped": 1973,
+			"dropRate": 0.05088986329636317
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 1147,
-			"dropRate": 0.02961987397996075
+			"timesDropped": 1148,
+			"dropRate": 0.029610523600722208
 		},
 		{
 			"itemName": "Tortoise Egg",
-			"timesDropped": 415,
-			"dropRate": 0.010716868092139242
+			"timesDropped": 416,
+			"dropRate": 0.010729945834408047
 		},
 		{
 			"itemName": "Battle Hammer",
 			"timesDropped": 333,
-			"dropRate": 0.008599318252246668
+			"dropRate": 0.008589115295331441
 		},
 		{
 			"itemName": "Turtle Shell",
 			"timesDropped": 301,
-			"dropRate": 0.00777295733911786
+			"dropRate": 0.0077637348465308224
 		},
 		{
 			"itemName": "Tortoise Shield",
 			"timesDropped": 70,
-			"dropRate": 0.0018076644974692696
+			"dropRate": 0.0018055197317513542
 		}
 	]
 }

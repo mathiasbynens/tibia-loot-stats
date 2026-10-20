@@ -1,31 +1,31 @@
 {
 	"monsterName": "Elephant",
-	"timesKilled": 12354,
+	"timesKilled": 12452,
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 4984,
-			"dropRate": 0.40343208677351466
+			"timesDropped": 5020,
+			"dropRate": 0.40314808866045615
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 3667,
-			"dropRate": 0.29682693864335435
+			"timesDropped": 3691,
+			"dropRate": 0.2964182460648892
 		},
 		{
 			"itemName": "Tusk",
-			"timesDropped": 140,
-			"dropRate": 0.011332361988020075
+			"timesDropped": 142,
+			"dropRate": 0.011403790555734018
 		},
 		{
 			"itemName": "Tusk Shield",
 			"timesDropped": 19,
-			"dropRate": 0.0015379634126598673
+			"dropRate": 0.0015258592997108899
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.00008094544277157196
+			"dropRate": 0.00008030838419531
 		}
 	]
 }

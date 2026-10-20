@@ -1,71 +1,71 @@
 {
 	"monsterName": "Enfeebled Silencer",
-	"timesKilled": 16111,
+	"timesKilled": 16329,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16111,
+			"timesDropped": 16329,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6405,
-			"dropRate": 0.39755446589286825
+			"timesDropped": 6494,
+			"dropRate": 0.3976973482760732
 		},
 		{
 			"itemName": "Fairy Wings",
-			"timesDropped": 1966,
-			"dropRate": 0.12202842778226057
+			"timesDropped": 1998,
+			"dropRate": 0.12235899320227815
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 1182,
-			"dropRate": 0.0733660232139532
+			"timesDropped": 1190,
+			"dropRate": 0.07287647743278829
 		},
 		{
 			"itemName": "Silencer Claws",
-			"timesDropped": 649,
-			"dropRate": 0.040283036434734035
+			"timesDropped": 658,
+			"dropRate": 0.040296405168718234
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 245,
-			"dropRate": 0.015207001427596052
+			"timesDropped": 247,
+			"dropRate": 0.015126462122603957
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 211,
-			"dropRate": 0.013096642045807213
+			"timesDropped": 215,
+			"dropRate": 0.013166758527772675
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 147,
-			"dropRate": 0.009124200856557631
+			"timesDropped": 151,
+			"dropRate": 0.00924735133811011
 		},
 		{
 			"itemName": "Glorious Axe",
-			"timesDropped": 145,
-			"dropRate": 0.009000062069393583
-		},
-		{
-			"itemName": "Shadow Sceptre",
-			"timesDropped": 133,
-			"dropRate": 0.008255229346409286
+			"timesDropped": 148,
+			"dropRate": 0.009063629126094678
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 133,
-			"dropRate": 0.008255229346409286
+			"timesDropped": 137,
+			"dropRate": 0.008389981015371426
+		},
+		{
+			"itemName": "Shadow Sceptre",
+			"timesDropped": 134,
+			"dropRate": 0.008206258803355992
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 121,
-			"dropRate": 0.0075103966234249895
+			"timesDropped": 124,
+			"dropRate": 0.007593851429971217
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 80,
-			"dropRate": 0.004965551486561976
+			"timesDropped": 82,
+			"dropRate": 0.0050217404617551595
 		}
 	]
 }

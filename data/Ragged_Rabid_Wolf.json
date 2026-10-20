@@ -1,51 +1,51 @@
 {
 	"monsterName": "Ragged Rabid Wolf",
-	"timesKilled": 821,
+	"timesKilled": 868,
 	"items": [
 		{
 			"itemName": "Arrow",
-			"timesDropped": 621,
-			"dropRate": 0.756394640682095
+			"timesDropped": 659,
+			"dropRate": 0.7592165898617511
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 488,
-			"dropRate": 0.5943970767356882
+			"timesDropped": 525,
+			"dropRate": 0.6048387096774194
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 487,
-			"dropRate": 0.5931790499390986
+			"timesDropped": 513,
+			"dropRate": 0.5910138248847926
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 330,
-			"dropRate": 0.40194884287454324
+			"timesDropped": 340,
+			"dropRate": 0.391705069124424
 		},
 		{
 			"itemName": "Small Health Potion",
-			"timesDropped": 152,
-			"dropRate": 0.1851400730816078
+			"timesDropped": 164,
+			"dropRate": 0.1889400921658986
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 89,
-			"dropRate": 0.10840438489646773
+			"timesDropped": 95,
+			"dropRate": 0.10944700460829493
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 83,
-			"dropRate": 0.10109622411693057
+			"timesDropped": 87,
+			"dropRate": 0.10023041474654378
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 72,
-			"dropRate": 0.0876979293544458
+			"timesDropped": 76,
+			"dropRate": 0.08755760368663594
 		},
 		{
 			"itemName": "Wolf Paw",
-			"timesDropped": 63,
-			"dropRate": 0.07673568818514007
+			"timesDropped": 70,
+			"dropRate": 0.08064516129032258
 		}
 	]
 }

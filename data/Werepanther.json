@@ -1,76 +1,76 @@
 {
 	"monsterName": "Werepanther",
-	"timesKilled": 3837,
+	"timesKilled": 4959,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3837,
+			"timesDropped": 4959,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3837,
+			"timesDropped": 4959,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Werepanther Claw",
-			"timesDropped": 560,
-			"dropRate": 0.14594735470419598
+			"timesDropped": 725,
+			"dropRate": 0.14619883040935672
 		},
 		{
 			"itemName": "Golden Sickle",
-			"timesDropped": 228,
-			"dropRate": 0.05942142298670837
+			"timesDropped": 275,
+			"dropRate": 0.05545472877596289
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 206,
-			"dropRate": 0.05368777690904352
+			"timesDropped": 265,
+			"dropRate": 0.0534381931841097
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 165,
-			"dropRate": 0.04300234558248632
+			"timesDropped": 207,
+			"dropRate": 0.041742286751361164
 		},
 		{
 			"itemName": "Moonlight Crystals",
 			"timesDropped": 153,
-			"dropRate": 0.0398749022673964
+			"dropRate": 0.030852994555353903
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 69,
-			"dropRate": 0.017982799061767005
+			"timesDropped": 99,
+			"dropRate": 0.019963702359346643
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 56,
-			"dropRate": 0.014594735470419598
-		},
-		{
-			"itemName": "Fur Armor",
-			"timesDropped": 33,
-			"dropRate": 0.008600469116497263
-		},
-		{
-			"itemName": "Gemmed Figurine",
-			"timesDropped": 32,
-			"dropRate": 0.00833984884023977
+			"timesDropped": 63,
+			"dropRate": 0.012704174228675136
 		},
 		{
 			"itemName": "Ripper Lance",
-			"timesDropped": 31,
-			"dropRate": 0.008079228563982278
+			"timesDropped": 44,
+			"dropRate": 0.008872756604154063
+		},
+		{
+			"itemName": "Fur Armor",
+			"timesDropped": 42,
+			"dropRate": 0.008469449485783424
+		},
+		{
+			"itemName": "Gemmed Figurine",
+			"timesDropped": 41,
+			"dropRate": 0.008267795926598105
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 21,
-			"dropRate": 0.00547302580140735
+			"timesDropped": 33,
+			"dropRate": 0.006654567453115548
 		},
 		{
 			"itemName": "Werepanther Trophy",
-			"timesDropped": 7,
-			"dropRate": 0.0018243419338024498
+			"timesDropped": 10,
+			"dropRate": 0.002016535591853196
 		}
 	]
 }

@@ -1,41 +1,41 @@
 {
 	"monsterName": "Shark",
-	"timesKilled": 12279,
+	"timesKilled": 12287,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 11224,
-			"dropRate": 0.9140809512175259
+			"timesDropped": 11232,
+			"dropRate": 0.9141368926507691
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 3044,
-			"dropRate": 0.24790292369085432
+			"timesDropped": 3045,
+			"dropRate": 0.24782290225441522
 		},
 		{
 			"itemName": "Deepling Scales",
-			"timesDropped": 1178,
-			"dropRate": 0.09593615115237397
+			"timesDropped": 1179,
+			"dropRate": 0.09595507446895092
 		},
 		{
 			"itemName": "Eye of a Deepling",
 			"timesDropped": 129,
-			"dropRate": 0.010505741509894943
+			"dropRate": 0.010498901277773256
 		},
 		{
 			"itemName": "Small Sapphire",
 			"timesDropped": 128,
-			"dropRate": 0.010424301653229091
+			"dropRate": 0.010417514446162611
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
 			"timesDropped": 50,
-			"dropRate": 0.004071992833292614
+			"dropRate": 0.00406934158053227
 		},
 		{
 			"itemName": "Fish Fin",
 			"timesDropped": 21,
-			"dropRate": 0.0017102369899828977
+			"dropRate": 0.0017091234638235532
 		}
 	]
 }

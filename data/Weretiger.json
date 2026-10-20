@@ -1,66 +1,66 @@
 {
 	"monsterName": "Weretiger",
-	"timesKilled": 5428,
+	"timesKilled": 5638,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5428,
+			"timesDropped": 5638,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5428,
+			"timesDropped": 5638,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Weretiger Tooth",
-			"timesDropped": 528,
-			"dropRate": 0.09727339719970524
+			"timesDropped": 547,
+			"dropRate": 0.09702021993614757
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 329,
-			"dropRate": 0.06061164333087694
+			"timesDropped": 342,
+			"dropRate": 0.060659808442710184
 		},
 		{
 			"itemName": "Furry Club",
-			"timesDropped": 324,
-			"dropRate": 0.05969049373618276
+			"timesDropped": 336,
+			"dropRate": 0.0595956012770486
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 208,
-			"dropRate": 0.03831982313927782
+			"timesDropped": 219,
+			"dropRate": 0.03884356154664775
 		},
 		{
 			"itemName": "Moonlight Crystals",
-			"timesDropped": 183,
-			"dropRate": 0.03371407516580693
+			"timesDropped": 185,
+			"dropRate": 0.03281305427456545
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 172,
-			"dropRate": 0.03168754605747973
+			"timesDropped": 177,
+			"dropRate": 0.03139411138701667
 		},
 		{
 			"itemName": "Angelic Axe",
-			"timesDropped": 88,
-			"dropRate": 0.016212232866617538
+			"timesDropped": 92,
+			"dropRate": 0.016317843206810925
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 33,
-			"dropRate": 0.006079587324981577
+			"timesDropped": 34,
+			"dropRate": 0.006030507272082299
 		},
 		{
 			"itemName": "Weretiger Trophy",
-			"timesDropped": 28,
-			"dropRate": 0.005158437730287398
+			"timesDropped": 32,
+			"dropRate": 0.005675771550195104
 		},
 		{
 			"itemName": "Silver Moon Coin",
-			"timesDropped": 22,
-			"dropRate": 0.0040530582166543845
+			"timesDropped": 24,
+			"dropRate": 0.004256828662646328
 		}
 	]
 }

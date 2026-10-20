@@ -1,151 +1,151 @@
 {
 	"monsterName": "Lava Golem",
-	"timesKilled": 8386,
+	"timesKilled": 8405,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8386,
+			"timesDropped": 8405,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 8385,
-			"dropRate": 0.9998807536370141
+			"timesDropped": 8404,
+			"dropRate": 0.9998810232004759
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 1688,
-			"dropRate": 0.20128786072024804
+			"timesDropped": 1690,
+			"dropRate": 0.20107079119571683
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1567,
-			"dropRate": 0.18685905079895063
+			"timesDropped": 1569,
+			"dropRate": 0.18667459845330162
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 1466,
-			"dropRate": 0.1748151681373718
+			"timesDropped": 1468,
+			"dropRate": 0.17465794170136822
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 1459,
-			"dropRate": 0.1739804435964703
+			"timesDropped": 1466,
+			"dropRate": 0.17441998810232004
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 1258,
-			"dropRate": 0.1500119246362986
+			"timesDropped": 1261,
+			"dropRate": 0.15002974419988102
 		},
 		{
 			"itemName": "Magma Clump",
-			"timesDropped": 1247,
-			"dropRate": 0.14870021464345337
+			"timesDropped": 1250,
+			"dropRate": 0.148720999405116
 		},
 		{
 			"itemName": "Blazing Bone",
-			"timesDropped": 1242,
-			"dropRate": 0.14810398282852372
+			"timesDropped": 1243,
+			"dropRate": 0.14788816180844735
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 1168,
-			"dropRate": 0.13927975196756498
+			"timesDropped": 1172,
+			"dropRate": 0.13944080904223677
 		},
 		{
 			"itemName": "Fiery Heart",
-			"timesDropped": 1127,
-			"dropRate": 0.1343906510851419
+			"timesDropped": 1129,
+			"dropRate": 0.13432480666270077
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 1010,
-			"dropRate": 0.12043882661578822
+			"timesDropped": 1012,
+			"dropRate": 0.12040452111838192
 		},
 		{
 			"itemName": "Prismatic Bolt",
-			"timesDropped": 997,
-			"dropRate": 0.11888862389697115
+			"timesDropped": 998,
+			"dropRate": 0.11873884592504462
 		},
 		{
 			"itemName": "Red Crystal Fragment",
-			"timesDropped": 904,
-			"dropRate": 0.10779871213927975
+			"timesDropped": 906,
+			"dropRate": 0.10779298036882808
 		},
 		{
 			"itemName": "Yellow Piece of Cloth",
-			"timesDropped": 616,
-			"dropRate": 0.07345575959933222
+			"timesDropped": 617,
+			"dropRate": 0.07340868530636525
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 513,
-			"dropRate": 0.06117338421178154
+			"timesDropped": 515,
+			"dropRate": 0.06127305175490779
 		},
 		{
 			"itemName": "Violet Crystal Shard",
 			"timesDropped": 493,
-			"dropRate": 0.05878845695206296
+			"dropRate": 0.058655562165377755
 		},
 		{
 			"itemName": "White Piece of Cloth",
-			"timesDropped": 408,
-			"dropRate": 0.048652516098259005
+			"timesDropped": 409,
+			"dropRate": 0.04866151100535396
 		},
 		{
 			"itemName": "Red Piece of Cloth",
 			"timesDropped": 291,
-			"dropRate": 0.034700691628905316
+			"dropRate": 0.03462224866151101
 		},
 		{
 			"itemName": "Magma Amulet",
 			"timesDropped": 289,
-			"dropRate": 0.034462198902933464
+			"dropRate": 0.03438429506246282
 		},
 		{
 			"itemName": "Wand of Inferno",
 			"timesDropped": 264,
-			"dropRate": 0.031481039828285234
+			"dropRate": 0.0314098750743605
 		},
 		{
 			"itemName": "Magma Boots",
 			"timesDropped": 208,
-			"dropRate": 0.024803243501073217
+			"dropRate": 0.024747174301011303
 		},
 		{
 			"itemName": "Fire Sword",
 			"timesDropped": 151,
-			"dropRate": 0.01800620081087527
+			"dropRate": 0.017965496728138013
 		},
 		{
 			"itemName": "Fire Axe",
 			"timesDropped": 125,
-			"dropRate": 0.014905795373241116
+			"dropRate": 0.0148720999405116
 		},
 		{
 			"itemName": "Crown Shield",
 			"timesDropped": 117,
-			"dropRate": 0.013951824469353684
+			"dropRate": 0.013920285544318858
 		},
 		{
 			"itemName": "Wand of Everblazing",
-			"timesDropped": 104,
-			"dropRate": 0.012401621750536608
+			"timesDropped": 105,
+			"dropRate": 0.012492563950029744
 		},
 		{
 			"itemName": "Red Gem",
 			"timesDropped": 97,
-			"dropRate": 0.011566897209635106
+			"dropRate": 0.011540749553837002
 		},
 		{
 			"itemName": "Magma Coat",
 			"timesDropped": 43,
-			"dropRate": 0.0051275936083949435
+			"dropRate": 0.005116002379535991
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
 			"timesDropped": 42,
-			"dropRate": 0.005008347245409015
+			"dropRate": 0.0049970255800118974
 		}
 	]
 }

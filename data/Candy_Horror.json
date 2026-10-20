@@ -1,71 +1,71 @@
 {
 	"monsterName": "Candy Horror",
-	"timesKilled": 13685,
+	"timesKilled": 14174,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 13685,
+			"timesDropped": 14174,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 11086,
-			"dropRate": 0.8100840336134454
+			"timesDropped": 11482,
+			"dropRate": 0.810074784817271
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 900,
-			"dropRate": 0.06576543660942638
+			"timesDropped": 935,
+			"dropRate": 0.06596585297022718
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 791,
-			"dropRate": 0.05780051150895141
+			"timesDropped": 824,
+			"dropRate": 0.05813461267108791
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 702,
-			"dropRate": 0.05129704055535258
+			"timesDropped": 735,
+			"dropRate": 0.05185551008889516
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 388,
-			"dropRate": 0.02835221044939715
+			"timesDropped": 399,
+			"dropRate": 0.028150134048257374
 		},
 		{
 			"itemName": "Gummy Rotworm",
-			"timesDropped": 306,
-			"dropRate": 0.02236024844720497
+			"timesDropped": 320,
+			"dropRate": 0.022576548610131225
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 305,
-			"dropRate": 0.02228717573986116
+			"timesDropped": 316,
+			"dropRate": 0.022294341752504585
 		},
 		{
 			"itemName": "Brigadeiro",
 			"timesDropped": 205,
-			"dropRate": 0.014979905005480453
+			"dropRate": 0.014463101453365317
 		},
 		{
 			"itemName": "Strawberry",
-			"timesDropped": 176,
-			"dropRate": 0.012860796492510047
+			"timesDropped": 180,
+			"dropRate": 0.012699308593198814
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 159,
-			"dropRate": 0.011618560467665327
+			"timesDropped": 166,
+			"dropRate": 0.011711584591505574
 		},
 		{
 			"itemName": "Dark Chocolate Coin",
-			"timesDropped": 68,
-			"dropRate": 0.004968944099378882
+			"timesDropped": 72,
+			"dropRate": 0.0050797234372795255
 		},
 		{
 			"itemName": "Dreaded Cleaver",
 			"timesDropped": 8,
-			"dropRate": 0.0005845816587504567
+			"dropRate": 0.0005644137152532807
 		}
 	]
 }

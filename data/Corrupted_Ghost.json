@@ -1,66 +1,66 @@
 {
 	"monsterName": "Corrupted Ghost",
-	"timesKilled": 1981,
+	"timesKilled": 2290,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1981,
+			"timesDropped": 2290,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 412,
-			"dropRate": 0.20797576981322563
+			"timesDropped": 473,
+			"dropRate": 0.20655021834061135
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 390,
-			"dropRate": 0.19687026754164563
+			"timesDropped": 444,
+			"dropRate": 0.19388646288209607
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 232,
-			"dropRate": 0.1171125694093892
+			"timesDropped": 278,
+			"dropRate": 0.12139737991266375
 		},
 		{
 			"itemName": "Cape",
-			"timesDropped": 58,
-			"dropRate": 0.0292781423523473
+			"timesDropped": 66,
+			"dropRate": 0.028820960698689956
 		},
 		{
 			"itemName": "Light Stone Shower Rune",
-			"timesDropped": 31,
-			"dropRate": 0.015648662291771833
+			"timesDropped": 45,
+			"dropRate": 0.019650655021834062
 		},
 		{
 			"itemName": "Lightest Missile Rune",
-			"timesDropped": 25,
-			"dropRate": 0.012619888944977285
+			"timesDropped": 44,
+			"dropRate": 0.01921397379912664
 		},
 		{
 			"itemName": "Ranger's Cloak",
-			"timesDropped": 3,
-			"dropRate": 0.001514386673397274
+			"timesDropped": 6,
+			"dropRate": 0.0026200873362445414
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 3,
-			"dropRate": 0.001514386673397274
+			"timesDropped": 4,
+			"dropRate": 0.0017467248908296944
 		},
 		{
 			"itemName": "Soldier Helmet",
-			"timesDropped": 2,
-			"dropRate": 0.0010095911155981827
+			"timesDropped": 3,
+			"dropRate": 0.0013100436681222707
 		},
 		{
 			"itemName": "Magician's Robe",
-			"timesDropped": 1,
-			"dropRate": 0.0005047955577990914
+			"timesDropped": 2,
+			"dropRate": 0.0008733624454148472
 		},
 		{
 			"itemName": "Plain Monk Robe",
 			"timesDropped": 1,
-			"dropRate": 0.0005047955577990914
+			"dropRate": 0.0004366812227074236
 		}
 	]
 }

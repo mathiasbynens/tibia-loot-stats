@@ -1,66 +1,66 @@
 {
 	"monsterName": "Walker",
-	"timesKilled": 3388,
+	"timesKilled": 3389,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3388,
+			"timesDropped": 3389,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1731,
-			"dropRate": 0.5109208972845336
+			"timesDropped": 1732,
+			"dropRate": 0.5110652109766893
 		},
 		{
 			"itemName": "Metal Toe",
 			"timesDropped": 703,
-			"dropRate": 0.2074970484061393
+			"dropRate": 0.2074358217763352
 		},
 		{
 			"itemName": "Small Topaz",
 			"timesDropped": 349,
-			"dropRate": 0.10301062573789846
+			"dropRate": 0.10298023015638831
 		},
 		{
 			"itemName": "Great Health Potion",
 			"timesDropped": 262,
-			"dropRate": 0.07733175914994096
+			"dropRate": 0.07730894069046916
 		},
 		{
 			"itemName": "Great Spirit Potion",
 			"timesDropped": 244,
-			"dropRate": 0.07201889020070838
+			"dropRate": 0.07199763942165831
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 172,
-			"dropRate": 0.05076741440377804
+			"dropRate": 0.050752434346414875
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 147,
-			"dropRate": 0.04338842975206612
+			"dropRate": 0.043375627028622014
 		},
 		{
 			"itemName": "Metal Spats",
 			"timesDropped": 115,
-			"dropRate": 0.03394332939787485
+			"dropRate": 0.03393331366184715
 		},
 		{
 			"itemName": "Gearwheel Chain",
 			"timesDropped": 71,
-			"dropRate": 0.020956316410861865
+			"dropRate": 0.02095013278253172
 		},
 		{
 			"itemName": "Crystal Mace",
 			"timesDropped": 21,
-			"dropRate": 0.006198347107438017
+			"dropRate": 0.006196518146946002
 		},
 		{
 			"itemName": "Steel Boots",
 			"timesDropped": 17,
-			"dropRate": 0.005017709563164109
+			"dropRate": 0.005016228976099144
 		}
 	]
 }

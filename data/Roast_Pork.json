@@ -1,31 +1,31 @@
 {
 	"monsterName": "Roast Pork",
-	"timesKilled": 4720,
+	"timesKilled": 4745,
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 724,
-			"dropRate": 0.15338983050847457
+			"timesDropped": 728,
+			"dropRate": 0.15342465753424658
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 479,
-			"dropRate": 0.10148305084745762
+			"timesDropped": 482,
+			"dropRate": 0.10158061116965227
 		},
 		{
 			"itemName": "Roasted Meat",
 			"timesDropped": 236,
-			"dropRate": 0.05
+			"dropRate": 0.049736564805057955
 		},
 		{
 			"itemName": "Beer Tap",
 			"timesDropped": 90,
-			"dropRate": 0.019067796610169493
+			"dropRate": 0.018967334035827187
 		},
 		{
 			"itemName": "Leberkassemmel",
 			"timesDropped": 4,
-			"dropRate": 0.000847457627118644
+			"dropRate": 0.0008429926238145417
 		}
 	]
 }

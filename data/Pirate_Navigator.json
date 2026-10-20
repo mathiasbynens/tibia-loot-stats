@@ -1,66 +1,66 @@
 {
 	"monsterName": "Pirate Navigator",
-	"timesKilled": 4796,
+	"timesKilled": 5156,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3361,
-			"dropRate": 0.700792326939116
+			"timesDropped": 3617,
+			"dropRate": 0.7015128006206361
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 1192,
-			"dropRate": 0.24854045037531275
+			"timesDropped": 1276,
+			"dropRate": 0.24747866563227308
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 961,
-			"dropRate": 0.20037531276063386
+			"timesDropped": 1030,
+			"dropRate": 0.19976726144297904
 		},
 		{
 			"itemName": "Sail Pass",
-			"timesDropped": 455,
-			"dropRate": 0.09487072560467055
+			"timesDropped": 495,
+			"dropRate": 0.09600465477114042
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 264,
-			"dropRate": 0.05504587155963303
+			"timesDropped": 290,
+			"dropRate": 0.056245151280062064
 		},
 		{
 			"itemName": "Gold Tooth",
-			"timesDropped": 233,
-			"dropRate": 0.048582151793160964
+			"timesDropped": 242,
+			"dropRate": 0.04693560899922421
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 132,
-			"dropRate": 0.027522935779816515
+			"timesDropped": 140,
+			"dropRate": 0.027152831652443754
 		},
 		{
 			"itemName": "Bandana",
-			"timesDropped": 49,
-			"dropRate": 0.010216847372810676
+			"timesDropped": 55,
+			"dropRate": 0.010667183863460047
 		},
 		{
 			"itemName": "Empty Goldfish Bowl",
-			"timesDropped": 46,
-			"dropRate": 0.009591326105087573
+			"timesDropped": 47,
+			"dropRate": 0.009115593483320403
 		},
 		{
 			"itemName": "Eye Patch",
-			"timesDropped": 6,
-			"dropRate": 0.0012510425354462051
+			"timesDropped": 7,
+			"dropRate": 0.0013576415826221878
+		},
+		{
+			"itemName": "Peg Leg",
+			"timesDropped": 7,
+			"dropRate": 0.0013576415826221878
 		},
 		{
 			"itemName": "Hook",
 			"timesDropped": 6,
-			"dropRate": 0.0012510425354462051
-		},
-		{
-			"itemName": "Peg Leg",
-			"timesDropped": 6,
-			"dropRate": 0.0012510425354462051
+			"dropRate": 0.0011636927851047323
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Acolyte of the Cult",
-	"timesKilled": 43340,
+	"timesKilled": 43433,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 28430,
-			"dropRate": 0.6559760036917397
+			"timesDropped": 28479,
+			"dropRate": 0.65569958326618
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 4365,
-			"dropRate": 0.1007152745731426
+			"timesDropped": 4376,
+			"dropRate": 0.10075288375198582
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 3518,
-			"dropRate": 0.08117212736502076
+			"timesDropped": 3522,
+			"dropRate": 0.08109041512214216
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 2189,
-			"dropRate": 0.05050761421319797
+			"timesDropped": 2195,
+			"dropRate": 0.050537609651647365
 		},
 		{
 			"itemName": "Dragon Necklace",
-			"timesDropped": 452,
-			"dropRate": 0.010429164743885557
+			"timesDropped": 454,
+			"dropRate": 0.010452881449589023
 		},
 		{
 			"itemName": "Pirate Voodoo Doll",
-			"timesDropped": 450,
-			"dropRate": 0.010383017997231195
+			"timesDropped": 452,
+			"dropRate": 0.01040683351368775
 		},
 		{
 			"itemName": "Book (Orange)",
 			"timesDropped": 316,
-			"dropRate": 0.007291185971389017
+			"dropRate": 0.00727557387240117
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 218,
-			"dropRate": 0.005029995385325335
+			"dropRate": 0.005019225013238781
+		},
+		{
+			"itemName": "Life Ring",
+			"timesDropped": 214,
+			"dropRate": 0.004927129141436235
 		},
 		{
 			"itemName": "Music Sheet (Second Verse)",
 			"timesDropped": 214,
-			"dropRate": 0.0049377018920166126
-		},
-		{
-			"itemName": "Life Ring",
-			"timesDropped": 213,
-			"dropRate": 0.004914628518689432
+			"dropRate": 0.004927129141436235
 		},
 		{
 			"itemName": "Terra Rod",
 			"timesDropped": 94,
-			"dropRate": 0.0021688970927549608
+			"dropRate": 0.0021642529873598416
 		},
 		{
 			"itemName": "Cultish Symbol",
 			"timesDropped": 32,
-			"dropRate": 0.0007383479464697738
+			"dropRate": 0.0007367669744203716
 		},
 		{
 			"itemName": "Broken Key Ring",
 			"timesDropped": 21,
-			"dropRate": 0.0004845408398707891
+			"dropRate": 0.00048350332696336885
 		}
 	]
 }

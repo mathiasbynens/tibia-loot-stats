@@ -1,71 +1,71 @@
 {
 	"monsterName": "Honey Elemental",
-	"timesKilled": 2094,
+	"timesKilled": 2155,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2094,
+			"timesDropped": 2155,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1764,
-			"dropRate": 0.8424068767908309
+			"timesDropped": 1814,
+			"dropRate": 0.8417633410672853
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 117,
-			"dropRate": 0.055873925501432664
+			"timesDropped": 121,
+			"dropRate": 0.05614849187935035
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 69,
-			"dropRate": 0.0329512893982808
+			"timesDropped": 71,
+			"dropRate": 0.032946635730858466
 		},
 		{
 			"itemName": "Honeycomb",
-			"timesDropped": 68,
-			"dropRate": 0.03247373447946514
+			"timesDropped": 70,
+			"dropRate": 0.03248259860788863
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 62,
-			"dropRate": 0.029608404966571154
+			"timesDropped": 63,
+			"dropRate": 0.02923433874709977
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 54,
-			"dropRate": 0.025787965616045846
+			"dropRate": 0.02505800464037123
 		},
 		{
 			"itemName": "Beijinho",
-			"timesDropped": 35,
-			"dropRate": 0.016714422158548233
+			"timesDropped": 37,
+			"dropRate": 0.01716937354988399
 		},
 		{
 			"itemName": "Magma Legs",
 			"timesDropped": 21,
-			"dropRate": 0.01002865329512894
+			"dropRate": 0.00974477958236659
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 19,
-			"dropRate": 0.009073543457497613
+			"timesDropped": 20,
+			"dropRate": 0.009280742459396751
 		},
 		{
 			"itemName": "Terra Amulet",
 			"timesDropped": 9,
-			"dropRate": 0.004297994269340974
+			"dropRate": 0.004176334106728539
 		},
 		{
 			"itemName": "Dark Chocolate Coin",
 			"timesDropped": 8,
-			"dropRate": 0.0038204393505253103
+			"dropRate": 0.0037122969837587007
 		},
 		{
 			"itemName": "Fire Sword",
 			"timesDropped": 7,
-			"dropRate": 0.0033428844317096467
+			"dropRate": 0.0032482598607888632
 		}
 	]
 }

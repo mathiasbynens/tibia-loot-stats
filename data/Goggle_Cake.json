@@ -1,126 +1,126 @@
 {
 	"monsterName": "Goggle Cake",
-	"timesKilled": 6347,
+	"timesKilled": 6768,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6347,
+			"timesDropped": 6768,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5073,
-			"dropRate": 0.7992752481487316
+			"timesDropped": 5399,
+			"dropRate": 0.797724586288416
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
-			"timesDropped": 441,
-			"dropRate": 0.06948164487159288
-		},
-		{
-			"itemName": "Combat Knife",
-			"timesDropped": 370,
-			"dropRate": 0.058295257602016703
+			"timesDropped": 463,
+			"dropRate": 0.06841016548463356
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 361,
-			"dropRate": 0.05687726484953522
+			"timesDropped": 392,
+			"dropRate": 0.057919621749408984
+		},
+		{
+			"itemName": "Combat Knife",
+			"timesDropped": 388,
+			"dropRate": 0.057328605200945626
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 247,
-			"dropRate": 0.03891602331810304
+			"timesDropped": 263,
+			"dropRate": 0.03885933806146572
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 230,
-			"dropRate": 0.036237592563415785
+			"timesDropped": 248,
+			"dropRate": 0.03664302600472813
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 160,
-			"dropRate": 0.02520876004411533
+			"timesDropped": 167,
+			"dropRate": 0.024674940898345155
 		},
 		{
 			"itemName": "Spirit Cloak",
-			"timesDropped": 111,
-			"dropRate": 0.01748857728060501
+			"timesDropped": 122,
+			"dropRate": 0.01802600472813239
 		},
 		{
 			"itemName": "Gummy Rotworm",
-			"timesDropped": 96,
-			"dropRate": 0.015125256026469198
+			"timesDropped": 102,
+			"dropRate": 0.015070921985815602
 		},
 		{
 			"itemName": "Churro Heart",
-			"timesDropped": 91,
-			"dropRate": 0.014337482275090595
+			"timesDropped": 99,
+			"dropRate": 0.014627659574468085
 		},
 		{
 			"itemName": "Egg",
-			"timesDropped": 67,
-			"dropRate": 0.010556168268473295
+			"timesDropped": 69,
+			"dropRate": 0.010195035460992909
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 55,
-			"dropRate": 0.008665511265164644
+			"timesDropped": 58,
+			"dropRate": 0.008569739952718676
 		},
 		{
 			"itemName": "Flour",
-			"timesDropped": 48,
-			"dropRate": 0.007562628013234599
+			"timesDropped": 50,
+			"dropRate": 0.007387706855791962
 		},
 		{
 			"itemName": "Milk Chocolate Coin",
-			"timesDropped": 42,
-			"dropRate": 0.006617299511580274
+			"timesDropped": 43,
+			"dropRate": 0.006353427895981087
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 38,
-			"dropRate": 0.005987080510477391
+			"timesDropped": 42,
+			"dropRate": 0.0062056737588652485
 		},
 		{
 			"itemName": "Glacier Robe",
-			"timesDropped": 36,
-			"dropRate": 0.005671971009925949
+			"timesDropped": 38,
+			"dropRate": 0.0056146572104018916
 		},
 		{
 			"itemName": "Epee",
-			"timesDropped": 27,
-			"dropRate": 0.004253978257444462
+			"timesDropped": 30,
+			"dropRate": 0.004432624113475178
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 15,
-			"dropRate": 0.002363321254135812
+			"timesDropped": 16,
+			"dropRate": 0.002364066193853428
 		},
 		{
 			"itemName": "Cream Cake",
-			"timesDropped": 10,
-			"dropRate": 0.001575547502757208
+			"timesDropped": 11,
+			"dropRate": 0.0016252955082742316
 		},
 		{
 			"itemName": "Gold Coins (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 3,
-			"dropRate": 0.00047266425082716245
+			"dropRate": 0.0004432624113475177
 		},
 		{
 			"itemName": "Platinum Coins (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 3,
-			"dropRate": 0.00047266425082716245
+			"dropRate": 0.0004432624113475177
 		},
 		{
 			"itemName": "Combat Knife (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.00015755475027572083
+			"dropRate": 0.00014775413711583924
 		},
 		{
 			"itemName": "Small Enchanted Sapphires (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.00015755475027572083
+			"dropRate": 0.00014775413711583924
 		}
 	]
 }

@@ -1,56 +1,56 @@
 {
 	"monsterName": "Troll Champion",
-	"timesKilled": 28773,
+	"timesKilled": 28800,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18582,
-			"dropRate": 0.6458137837556042
+			"timesDropped": 18602,
+			"dropRate": 0.6459027777777778
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 7219,
-			"dropRate": 0.2508949362249331
+			"timesDropped": 7225,
+			"dropRate": 0.2508680555555556
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 2854,
-			"dropRate": 0.09919021304695375
+			"timesDropped": 2858,
+			"dropRate": 0.09923611111111111
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 2847,
-			"dropRate": 0.09894692941299135
+			"timesDropped": 2848,
+			"dropRate": 0.09888888888888889
 		},
 		{
 			"itemName": "Wooden Shield",
-			"timesDropped": 1512,
-			"dropRate": 0.05254926493587739
+			"timesDropped": 1513,
+			"dropRate": 0.05253472222222222
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 1456,
-			"dropRate": 0.05060299586417822
+			"timesDropped": 1457,
+			"dropRate": 0.050590277777777776
 		},
 		{
 			"itemName": "Studded Club",
-			"timesDropped": 1452,
-			"dropRate": 0.05046397664477114
+			"timesDropped": 1456,
+			"dropRate": 0.050555555555555555
 		},
 		{
 			"itemName": "Bunch of Troll Hair",
-			"timesDropped": 869,
-			"dropRate": 0.03020192541618879
+			"timesDropped": 871,
+			"dropRate": 0.030243055555555554
 		},
 		{
 			"itemName": "Trollroot",
 			"timesDropped": 257,
-			"dropRate": 0.008931984846905085
+			"dropRate": 0.008923611111111111
 		},
 		{
 			"itemName": "Silver Amulet",
 			"timesDropped": 36,
-			"dropRate": 0.0012511729746637473
+			"dropRate": 0.00125
 		}
 	]
 }
