@@ -1,66 +1,66 @@
 {
 	"monsterName": "Goblin",
-	"timesKilled": 48739,
+	"timesKilled": 48944,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 24463,
-			"dropRate": 0.5019183815835367
+			"timesDropped": 24569,
+			"dropRate": 0.501981856815953
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 7425,
-			"dropRate": 0.1523420669279222
+			"timesDropped": 7445,
+			"dropRate": 0.15211261850277868
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 6322,
-			"dropRate": 0.12971131947721537
+			"timesDropped": 6351,
+			"dropRate": 0.12976054266100032
 		},
 		{
 			"itemName": "Small Axe",
-			"timesDropped": 4783,
-			"dropRate": 0.09813496378670059
+			"timesDropped": 4798,
+			"dropRate": 0.09803040209218698
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 4288,
-			"dropRate": 0.08797882599150578
+			"timesDropped": 4303,
+			"dropRate": 0.08791680287675711
 		},
 		{
 			"itemName": "Bone Club",
-			"timesDropped": 2404,
-			"dropRate": 0.04932395001949158
+			"timesDropped": 2416,
+			"dropRate": 0.04936253677672442
 		},
 		{
 			"itemName": "Leather Armor",
-			"timesDropped": 1246,
-			"dropRate": 0.025564742813763107
+			"timesDropped": 1249,
+			"dropRate": 0.025518960444589737
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 952,
-			"dropRate": 0.019532612486920127
+			"timesDropped": 954,
+			"dropRate": 0.01949166394246486
 		},
 		{
 			"itemName": "Dagger",
-			"timesDropped": 866,
-			"dropRate": 0.017768111779068098
+			"timesDropped": 869,
+			"dropRate": 0.017754985289310233
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 523,
-			"dropRate": 0.010730626397751287
+			"timesDropped": 525,
+			"dropRate": 0.01072654462242563
 		},
 		{
 			"itemName": "Mouldy Cheese",
 			"timesDropped": 481,
-			"dropRate": 0.009868893493916576
+			"dropRate": 0.009827558025498529
 		},
 		{
 			"itemName": "Goblin Ear",
-			"timesDropped": 475,
-			"dropRate": 0.00974578879336876
+			"timesDropped": 477,
+			"dropRate": 0.00974583197123243
 		}
 	]
 }

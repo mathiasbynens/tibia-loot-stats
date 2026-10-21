@@ -1,86 +1,86 @@
 {
 	"monsterName": "Spitter",
-	"timesKilled": 48327,
+	"timesKilled": 48438,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 48327,
+			"timesDropped": 48438,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 36195,
-			"dropRate": 0.7489602085790552
+			"timesDropped": 36281,
+			"dropRate": 0.749019364961394
 		},
 		{
 			"itemName": "Spitter Nose",
-			"timesDropped": 8738,
-			"dropRate": 0.18080989922817473
+			"timesDropped": 8755,
+			"dropRate": 0.18074652132623148
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 7233,
-			"dropRate": 0.14966788751629523
+			"timesDropped": 7254,
+			"dropRate": 0.1497584541062802
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 3911,
-			"dropRate": 0.08092784571771473
+			"timesDropped": 3927,
+			"dropRate": 0.08107271150749412
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 3900,
-			"dropRate": 0.0807002296852691
+			"timesDropped": 3908,
+			"dropRate": 0.08068045749205169
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 3565,
-			"dropRate": 0.07376828687897034
+			"timesDropped": 3571,
+			"dropRate": 0.07372310995499401
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 2386,
-			"dropRate": 0.049371986674115916
+			"timesDropped": 2393,
+			"dropRate": 0.04940336099756389
 		},
 		{
 			"itemName": "Time Ring",
-			"timesDropped": 1126,
-			"dropRate": 0.02329960477579821
+			"timesDropped": 1128,
+			"dropRate": 0.023287501548371115
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 959,
-			"dropRate": 0.019843979555941815
+			"timesDropped": 962,
+			"dropRate": 0.019860440150295224
 		},
 		{
 			"itemName": "Mastermind Potion",
 			"timesDropped": 158,
-			"dropRate": 0.003269393920582697
+			"dropRate": 0.0032619018126264503
 		},
 		{
 			"itemName": "Calopteryx Cape",
 			"timesDropped": 117,
-			"dropRate": 0.0024210068905580733
+			"dropRate": 0.0024154589371980675
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 113,
-			"dropRate": 0.0023382374242142076
+			"dropRate": 0.0023328791444733473
 		},
 		{
 			"itemName": "Crusader Helmet",
-			"timesDropped": 104,
-			"dropRate": 0.0021520061249405095
+			"timesDropped": 105,
+			"dropRate": 0.002167719559023907
 		},
 		{
 			"itemName": "Green Gem",
 			"timesDropped": 103,
-			"dropRate": 0.002131313758354543
+			"dropRate": 0.0021264296626615467
 		},
 		{
 			"itemName": "Grasshopper Legs",
-			"timesDropped": 54,
-			"dropRate": 0.0011173877956421876
+			"timesDropped": 55,
+			"dropRate": 0.0011354721499649036
 		}
 	]
 }

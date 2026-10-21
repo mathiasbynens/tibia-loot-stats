@@ -1,66 +1,66 @@
 {
 	"monsterName": "Dwarf Soldier",
-	"timesKilled": 59479,
+	"timesKilled": 59624,
 	"items": [
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 23765,
-			"dropRate": 0.3995527833352948
+			"timesDropped": 23812,
+			"dropRate": 0.39936938145713136
 		},
 		{
 			"itemName": "Bolt",
-			"timesDropped": 22526,
-			"dropRate": 0.378721901847711
+			"timesDropped": 22574,
+			"dropRate": 0.3786059304977861
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16883,
-			"dropRate": 0.28384808083525276
+			"timesDropped": 16942,
+			"dropRate": 0.28414732322554676
 		},
 		{
 			"itemName": "Soldier Helmet",
-			"timesDropped": 7060,
-			"dropRate": 0.11869735536912188
+			"timesDropped": 7074,
+			"dropRate": 0.11864349926204214
 		},
 		{
 			"itemName": "Shovel",
-			"timesDropped": 6004,
-			"dropRate": 0.10094319003345718
+			"timesDropped": 6020,
+			"dropRate": 0.10096605393801154
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 4423,
-			"dropRate": 0.07436237999966375
+			"timesDropped": 4432,
+			"dropRate": 0.07433248356366563
 		},
 		{
 			"itemName": "Piercing Bolt",
-			"timesDropped": 2270,
-			"dropRate": 0.03816473040905193
+			"timesDropped": 2276,
+			"dropRate": 0.03817254796726151
 		},
 		{
 			"itemName": "Dwarven Shield",
-			"timesDropped": 1833,
-			"dropRate": 0.03081759948889524
+			"timesDropped": 1835,
+			"dropRate": 0.03077619750436066
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 1811,
-			"dropRate": 0.030447721044402225
+			"timesDropped": 1817,
+			"dropRate": 0.030474305648732054
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 1468,
-			"dropRate": 0.024680979841624776
+			"timesDropped": 1471,
+			"dropRate": 0.02467127331275996
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 180,
-			"dropRate": 0.003026278182215572
+			"timesDropped": 182,
+			"dropRate": 0.0030524620958003487
 		},
 		{
 			"itemName": "Axe Ring",
 			"timesDropped": 68,
-			"dropRate": 0.0011432606466147716
+			"dropRate": 0.0011404803434858447
 		}
 	]
 }

@@ -1,86 +1,86 @@
 {
 	"monsterName": "Kollos",
-	"timesKilled": 24287,
+	"timesKilled": 24360,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 24285,
-			"dropRate": 0.9999176514184543
+			"timesDropped": 24358,
+			"dropRate": 0.9999178981937603
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 16072,
-			"dropRate": 0.6617532013011076
+			"timesDropped": 16119,
+			"dropRate": 0.6616995073891626
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 3802,
-			"dropRate": 0.15654465351834315
+			"timesDropped": 3809,
+			"dropRate": 0.15636288998357964
 		},
 		{
 			"itemName": "Kollos Shell",
-			"timesDropped": 3700,
-			"dropRate": 0.1523448758595133
+			"timesDropped": 3709,
+			"dropRate": 0.15225779967159278
 		},
 		{
 			"itemName": "Tarsal Arrow",
-			"timesDropped": 2473,
-			"dropRate": 0.10182402108123688
+			"timesDropped": 2480,
+			"dropRate": 0.10180623973727422
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 2168,
-			"dropRate": 0.08926586239552024
+			"timesDropped": 2178,
+			"dropRate": 0.08940886699507389
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 1982,
-			"dropRate": 0.08160744431177173
+			"timesDropped": 1988,
+			"dropRate": 0.08160919540229886
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 1247,
-			"dropRate": 0.05134434059373327
+			"timesDropped": 1248,
+			"dropRate": 0.05123152709359606
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 941,
-			"dropRate": 0.038745007617243796
+			"timesDropped": 945,
+			"dropRate": 0.03879310344827586
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 767,
-			"dropRate": 0.03158068102276938
+			"timesDropped": 770,
+			"dropRate": 0.031609195402298854
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Brown)",
-			"timesDropped": 610,
-			"dropRate": 0.025116317371433276
+			"timesDropped": 612,
+			"dropRate": 0.025123152709359605
 		},
 		{
 			"itemName": "Hive Scythe",
 			"timesDropped": 192,
-			"dropRate": 0.007905463828385556
+			"dropRate": 0.007881773399014778
 		},
 		{
 			"itemName": "Buggy Backpack",
 			"timesDropped": 107,
-			"dropRate": 0.004405649112694034
+			"dropRate": 0.004392446633825944
 		},
 		{
 			"itemName": "Calopteryx Cape",
 			"timesDropped": 90,
-			"dropRate": 0.0037056861695557294
+			"dropRate": 0.003694581280788177
 		},
 		{
 			"itemName": "Carapace Shield",
 			"timesDropped": 79,
-			"dropRate": 0.0032527689710544734
+			"dropRate": 0.0032430213464696225
 		},
 		{
 			"itemName": "Steel Boots",
 			"timesDropped": 35,
-			"dropRate": 0.0014411001770494503
+			"dropRate": 0.0014367816091954023
 		}
 	]
 }

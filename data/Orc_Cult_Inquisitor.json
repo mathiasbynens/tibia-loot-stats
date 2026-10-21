@@ -1,81 +1,81 @@
 {
 	"monsterName": "Orc Cult Inquisitor",
-	"timesKilled": 10266,
+	"timesKilled": 10270,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10266,
+			"timesDropped": 10270,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Bug Meat",
-			"timesDropped": 2042,
-			"dropRate": 0.19890902006623806
+			"timesDropped": 2044,
+			"dropRate": 0.19902629016553067
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1804,
-			"dropRate": 0.175725696473797
+			"timesDropped": 1805,
+			"dropRate": 0.17575462512171372
 		},
 		{
 			"itemName": "Orcish Gear",
-			"timesDropped": 1787,
-			"dropRate": 0.17406974478862264
+			"timesDropped": 1788,
+			"dropRate": 0.17409931840311588
 		},
 		{
 			"itemName": "Halberd",
 			"timesDropped": 1237,
-			"dropRate": 0.12049483732709916
+			"dropRate": 0.1204479065238559
 		},
 		{
 			"itemName": "Ham",
 			"timesDropped": 1061,
-			"dropRate": 0.10335086693941165
+			"dropRate": 0.10331061343719572
 		},
 		{
 			"itemName": "Cultish Robe",
 			"timesDropped": 995,
-			"dropRate": 0.09692187804402884
+			"dropRate": 0.09688412852969815
 		},
 		{
 			"itemName": "Orc Leather",
 			"timesDropped": 958,
-			"dropRate": 0.09331774790570817
+			"dropRate": 0.09328140214216163
 		},
 		{
 			"itemName": "Orcish Axe",
 			"timesDropped": 848,
-			"dropRate": 0.08260276641340347
+			"dropRate": 0.08257059396299903
 		},
 		{
 			"itemName": "Red Mushroom",
-			"timesDropped": 846,
-			"dropRate": 0.08240794856808883
+			"timesDropped": 847,
+			"dropRate": 0.08247322297955209
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 635,
-			"dropRate": 0.061854665887395285
+			"timesDropped": 636,
+			"dropRate": 0.06192794547224927
 		},
 		{
 			"itemName": "Black Pearl",
 			"timesDropped": 632,
-			"dropRate": 0.061562439119423336
+			"dropRate": 0.06153846153846154
 		},
 		{
 			"itemName": "Battle Axe",
 			"timesDropped": 623,
-			"dropRate": 0.0606857588155075
+			"dropRate": 0.060662122687439146
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 560,
-			"dropRate": 0.05454899668809663
+			"timesDropped": 561,
+			"dropRate": 0.05462512171372931
 		},
 		{
 			"itemName": "Berserk Potion",
 			"timesDropped": 312,
-			"dropRate": 0.030391583869082407
+			"dropRate": 0.030379746835443037
 		}
 	]
 }

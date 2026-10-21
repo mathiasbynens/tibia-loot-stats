@@ -1,71 +1,71 @@
 {
 	"monsterName": "Dwarf Guard",
-	"timesKilled": 38189,
+	"timesKilled": 38362,
 	"items": [
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 21074,
-			"dropRate": 0.5518342978344549
+			"timesDropped": 21170,
+			"dropRate": 0.5518481830978572
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15313,
-			"dropRate": 0.4009793396004085
+			"timesDropped": 15382,
+			"dropRate": 0.40096970960846673
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 15264,
-			"dropRate": 0.3996962476105685
+			"timesDropped": 15317,
+			"dropRate": 0.39927532453990927
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 3433,
-			"dropRate": 0.08989499594123962
+			"timesDropped": 3455,
+			"dropRate": 0.09006308325947553
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 2283,
-			"dropRate": 0.05978161250621907
+			"timesDropped": 2301,
+			"dropRate": 0.0599812314269329
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 1451,
-			"dropRate": 0.037995234229752026
+			"timesDropped": 1458,
+			"dropRate": 0.03800636046087274
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 588,
-			"dropRate": 0.015397103878080076
+			"timesDropped": 594,
+			"dropRate": 0.01548407278035556
 		},
 		{
 			"itemName": "Double Axe",
 			"timesDropped": 236,
-			"dropRate": 0.0061797899918824796
+			"dropRate": 0.006151921171993118
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 178,
-			"dropRate": 0.004661028044724921
+			"timesDropped": 179,
+			"dropRate": 0.004666075804181221
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 149,
-			"dropRate": 0.0039016470711461418
+			"timesDropped": 153,
+			"dropRate": 0.00398832177675825
 		},
 		{
 			"itemName": "Axe Ring",
 			"timesDropped": 77,
-			"dropRate": 0.002016287412605724
+			"dropRate": 0.002007194619675721
 		},
 		{
 			"itemName": "Coal",
-			"timesDropped": 69,
-			"dropRate": 0.0018068030061012333
+			"timesDropped": 70,
+			"dropRate": 0.0018247223815233825
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 43,
-			"dropRate": 0.001125978684961638
+			"dropRate": 0.0011209008915072207
 		}
 	]
 }
