@@ -1,76 +1,76 @@
 {
 	"monsterName": "Energetic Book",
-	"timesKilled": 195,
+	"timesKilled": 196,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 154,
-			"dropRate": 0.7897435897435897
+			"timesDropped": 155,
+			"dropRate": 0.7908163265306123
 		},
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 131,
-			"dropRate": 0.6717948717948717
+			"timesDropped": 132,
+			"dropRate": 0.673469387755102
 		},
 		{
 			"itemName": "Book Page",
 			"timesDropped": 97,
-			"dropRate": 0.49743589743589745
+			"dropRate": 0.49489795918367346
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
 			"timesDropped": 31,
-			"dropRate": 0.15897435897435896
+			"dropRate": 0.15816326530612246
 		},
 		{
 			"itemName": "Silken Bookmark",
 			"timesDropped": 27,
-			"dropRate": 0.13846153846153847
+			"dropRate": 0.1377551020408163
 		},
 		{
 			"itemName": "Ultimate Health Potion",
 			"timesDropped": 23,
-			"dropRate": 0.11794871794871795
+			"dropRate": 0.11734693877551021
 		},
 		{
 			"itemName": "Energy Ball",
 			"timesDropped": 21,
-			"dropRate": 0.1076923076923077
+			"dropRate": 0.10714285714285714
 		},
 		{
 			"itemName": "Lightning Pendant",
 			"timesDropped": 7,
-			"dropRate": 0.035897435897435895
+			"dropRate": 0.03571428571428571
 		},
 		{
 			"itemName": "Wand of Defiance",
 			"timesDropped": 5,
-			"dropRate": 0.02564102564102564
+			"dropRate": 0.025510204081632654
 		},
 		{
 			"itemName": "Lightning Boots",
 			"timesDropped": 3,
-			"dropRate": 0.015384615384615385
+			"dropRate": 0.015306122448979591
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 3,
-			"dropRate": 0.015384615384615385
+			"dropRate": 0.015306122448979591
 		},
 		{
 			"itemName": "Lightning Legs",
 			"timesDropped": 2,
-			"dropRate": 0.010256410256410256
+			"dropRate": 0.01020408163265306
 		},
 		{
 			"itemName": "Spellweaver's Robe",
 			"timesDropped": 2,
-			"dropRate": 0.010256410256410256
+			"dropRate": 0.01020408163265306
 		},
 		{
 			"itemName": "Haunted Blade",
 			"timesDropped": 1,
-			"dropRate": 0.005128205128205128
+			"dropRate": 0.00510204081632653
 		}
 	]
 }

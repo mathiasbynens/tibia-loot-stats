@@ -1,71 +1,71 @@
 {
 	"monsterName": "Minotaur",
-	"timesKilled": 215546,
+	"timesKilled": 215579,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 142998,
-			"dropRate": 0.6634221929425738
+			"timesDropped": 143023,
+			"dropRate": 0.6634366056062975
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 43125,
-			"dropRate": 0.20007330221855196
+			"timesDropped": 43131,
+			"dropRate": 0.20007050779528618
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 28020,
-			"dropRate": 0.1299954534066974
+			"timesDropped": 28026,
+			"dropRate": 0.13000338622964203
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 21645,
-			"dropRate": 0.1004194000352593
+			"timesDropped": 21649,
+			"dropRate": 0.10042258290464284
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 17252,
-			"dropRate": 0.0800385996492628
+			"timesDropped": 17255,
+			"dropRate": 0.080040263662045
 		},
 		{
 			"itemName": "Meat",
 			"timesDropped": 10748,
-			"dropRate": 0.04986406613901441
+			"dropRate": 0.049856433140519255
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 10717,
-			"dropRate": 0.049720245330463105
+			"timesDropped": 10719,
+			"dropRate": 0.0497219116889864
 		},
 		{
 			"itemName": "Axe",
 			"timesDropped": 8553,
-			"dropRate": 0.03968062501739768
+			"dropRate": 0.03967455086070536
 		},
 		{
 			"itemName": "Minotaur Horn",
 			"timesDropped": 4385,
-			"dropRate": 0.020343685338628414
+			"dropRate": 0.020340571205915235
 		},
 		{
 			"itemName": "Minotaur Leather",
 			"timesDropped": 2153,
-			"dropRate": 0.009988587122934316
+			"dropRate": 0.009987058108628391
 		},
 		{
 			"itemName": "Shovel",
 			"timesDropped": 665,
-			"dropRate": 0.0030851883124715838
+			"dropRate": 0.003084716043770497
 		},
 		{
 			"itemName": "Bronze Amulet",
 			"timesDropped": 235,
-			"dropRate": 0.0010902545164373266
+			"dropRate": 0.001090087624490326
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.000004639380921009901
+			"dropRate": 0.000004638670742512026
 		}
 	]
 }

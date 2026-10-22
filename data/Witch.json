@@ -1,81 +1,81 @@
 {
 	"monsterName": "Witch",
-	"timesKilled": 39386,
+	"timesKilled": 39405,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 25201,
-			"dropRate": 0.639846646016351
+			"timesDropped": 25213,
+			"dropRate": 0.6398426595609694
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 11795,
-			"dropRate": 0.2994718935662418
+			"timesDropped": 11801,
+			"dropRate": 0.29947976145159244
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 3975,
-			"dropRate": 0.10092418625907683
+			"timesDropped": 3979,
+			"dropRate": 0.10097703337139957
 		},
 		{
 			"itemName": "Witch Broom",
-			"timesDropped": 3936,
-			"dropRate": 0.09993398669578023
+			"timesDropped": 3938,
+			"dropRate": 0.09993655627458445
 		},
 		{
 			"itemName": "Star Herb",
-			"timesDropped": 3559,
-			"dropRate": 0.09036205758391307
+			"timesDropped": 3562,
+			"dropRate": 0.09039461997208476
 		},
 		{
 			"itemName": "Leather Boots",
 			"timesDropped": 1976,
-			"dropRate": 0.05017011120702788
+			"dropRate": 0.05014592056845578
 		},
 		{
 			"itemName": "Cape",
 			"timesDropped": 1959,
-			"dropRate": 0.049738485756360126
+			"dropRate": 0.049714503235629995
 		},
 		{
 			"itemName": "Sickle",
-			"timesDropped": 1539,
-			"dropRate": 0.03907479815162748
+			"timesDropped": 1541,
+			"dropRate": 0.039106712346148965
 		},
 		{
 			"itemName": "Garlic Necklace",
-			"timesDropped": 1008,
-			"dropRate": 0.02559285025135835
+			"timesDropped": 1009,
+			"dropRate": 0.025605887577718565
 		},
 		{
 			"itemName": "Coat",
 			"timesDropped": 786,
-			"dropRate": 0.01995632966028538
+			"dropRate": 0.019946707270650933
 		},
 		{
 			"itemName": "Necrotic Rod",
 			"timesDropped": 423,
-			"dropRate": 0.010739856801909307
+			"dropRate": 0.010734678340312142
 		},
 		{
 			"itemName": "Bag of Apple Slices",
 			"timesDropped": 356,
-			"dropRate": 0.009038744731630528
+			"dropRate": 0.00903438649917523
 		},
 		{
 			"itemName": "Silver Dagger",
 			"timesDropped": 212,
-			"dropRate": 0.005382623267150765
+			"dropRate": 0.005380027915239183
 		},
 		{
 			"itemName": "Witch Hat",
 			"timesDropped": 37,
-			"dropRate": 0.0009394200985121617
+			"dropRate": 0.0009389671361502347
 		},
 		{
 			"itemName": "Stuffed Toad",
 			"timesDropped": 2,
-			"dropRate": 0.000050779464784441175
+			"dropRate": 0.00005075498033244512
 		}
 	]
 }

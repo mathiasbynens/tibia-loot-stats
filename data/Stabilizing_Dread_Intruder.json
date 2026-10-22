@@ -1,91 +1,91 @@
 {
 	"monsterName": "Stabilizing Dread Intruder",
-	"timesKilled": 6227,
+	"timesKilled": 6408,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6154,
-			"dropRate": 0.9882768588405332
+			"timesDropped": 6335,
+			"dropRate": 0.9886079900124844
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5390,
-			"dropRate": 0.8655853541030994
+			"timesDropped": 5550,
+			"dropRate": 0.8661048689138576
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 636,
-			"dropRate": 0.10213585996466999
+			"timesDropped": 657,
+			"dropRate": 0.10252808988764045
 		},
 		{
 			"itemName": "Solid Rage",
-			"timesDropped": 612,
-			"dropRate": 0.09828167656977678
-		},
-		{
-			"itemName": "Glistening Bone",
-			"timesDropped": 606,
-			"dropRate": 0.09731813072105348
+			"timesDropped": 637,
+			"dropRate": 0.09940699126092385
 		},
 		{
 			"itemName": "Energy Drink",
-			"timesDropped": 601,
-			"dropRate": 0.0965151758471174
+			"timesDropped": 625,
+			"dropRate": 0.09753433208489388
+		},
+		{
+			"itemName": "Glistening Bone",
+			"timesDropped": 623,
+			"dropRate": 0.09722222222222222
 		},
 		{
 			"itemName": "Strange Proto Matter",
-			"timesDropped": 599,
-			"dropRate": 0.09619399389754296
+			"timesDropped": 622,
+			"dropRate": 0.0970661672908864
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 588,
-			"dropRate": 0.09442749317488357
+			"timesDropped": 612,
+			"dropRate": 0.09550561797752809
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 585,
-			"dropRate": 0.09394572025052192
+			"timesDropped": 603,
+			"dropRate": 0.09410112359550561
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 578,
-			"dropRate": 0.0928215834270114
-		},
-		{
-			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 329,
-			"dropRate": 0.05283443070499438
+			"timesDropped": 590,
+			"dropRate": 0.09207240948813983
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 327,
-			"dropRate": 0.05251324875541995
+			"timesDropped": 342,
+			"dropRate": 0.05337078651685393
+		},
+		{
+			"itemName": "Cyan Crystal Fragment",
+			"timesDropped": 341,
+			"dropRate": 0.0532147315855181
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 311,
-			"dropRate": 0.049943793158824475
+			"timesDropped": 315,
+			"dropRate": 0.04915730337078652
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 305,
-			"dropRate": 0.04898024731010117
+			"timesDropped": 313,
+			"dropRate": 0.04884519350811486
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 295,
-			"dropRate": 0.047374337562229
+			"timesDropped": 304,
+			"dropRate": 0.04744069912609238
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 266,
-			"dropRate": 0.04271719929339971
+			"timesDropped": 280,
+			"dropRate": 0.04369538077403246
 		},
 		{
 			"itemName": "Violet Gem",
 			"timesDropped": 13,
-			"dropRate": 0.0020876826722338203
+			"dropRate": 0.002028714107365793
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Giant Spider",
-	"timesKilled": 104482,
+	"timesKilled": 104487,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 104467,
-			"dropRate": 0.9998564346011753
+			"timesDropped": 104472,
+			"dropRate": 0.9998564414711878
 		},
 		{
 			"itemName": "Poison Arrow",
 			"timesDropped": 12465,
-			"dropRate": 0.11930284642330737
+			"dropRate": 0.11929713744293549
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 10489,
-			"dropRate": 0.10039049788480313
+			"timesDropped": 10490,
+			"dropRate": 0.10039526448266292
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 8245,
-			"dropRate": 0.07891311422063131
+			"timesDropped": 8246,
+			"dropRate": 0.07891890857235828
 		},
 		{
 			"itemName": "Two Handed Sword",
 			"timesDropped": 5312,
-			"dropRate": 0.05084129323711261
+			"dropRate": 0.050838860336692604
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 5129,
-			"dropRate": 0.04908979537145154
+			"timesDropped": 5130,
+			"dropRate": 0.04909701685377128
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 3703,
-			"dropRate": 0.035441511456518825
+			"dropRate": 0.035439815479437635
 		},
 		{
 			"itemName": "Spider Silk",
 			"timesDropped": 2071,
-			"dropRate": 0.019821596064393866
+			"dropRate": 0.01982064754467063
 		},
 		{
 			"itemName": "Knight Legs",
 			"timesDropped": 852,
-			"dropRate": 0.008154514653241707
+			"dropRate": 0.008154124436532774
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 749,
-			"dropRate": 0.007168698914645585
+			"dropRate": 0.007168355872022357
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 515,
-			"dropRate": 0.0049290786929806095
+			"dropRate": 0.004928842822552088
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 285,
-			"dropRate": 0.0027277425776688806
+			"dropRate": 0.0027276120474317377
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 284,
-			"dropRate": 0.002718171551080569
+			"dropRate": 0.002718041478844258
 		}
 	]
 }

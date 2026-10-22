@@ -1,76 +1,76 @@
 {
 	"monsterName": "Quara Raider",
-	"timesKilled": 6781,
+	"timesKilled": 6829,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 4422,
-			"dropRate": 0.6521162070491078
+			"timesDropped": 4457,
+			"dropRate": 0.6526577829843315
 		},
 		{
 			"itemName": "Amber Souvenir",
-			"timesDropped": 463,
-			"dropRate": 0.06827901489455833
+			"timesDropped": 467,
+			"dropRate": 0.0683848294040123
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 346,
-			"dropRate": 0.051024922577790885
+			"timesDropped": 347,
+			"dropRate": 0.050812710499341045
 		},
 		{
 			"itemName": "Resinous Fish Fin",
-			"timesDropped": 260,
-			"dropRate": 0.03834242737059431
+			"timesDropped": 261,
+			"dropRate": 0.03821935861765998
 		},
 		{
 			"itemName": "Skull Staff",
 			"timesDropped": 103,
-			"dropRate": 0.015189500073735438
+			"dropRate": 0.01508273539317616
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 75,
-			"dropRate": 0.011060315587671435
+			"timesDropped": 76,
+			"dropRate": 0.011129008639625128
 		},
 		{
 			"itemName": "Glacier Robe",
 			"timesDropped": 55,
-			"dropRate": 0.008110898097625718
+			"dropRate": 0.008053887831307659
 		},
 		{
 			"itemName": "Quara Pincers",
 			"timesDropped": 43,
-			"dropRate": 0.006341247603598289
+			"dropRate": 0.006296675940840533
 		},
 		{
 			"itemName": "Crystalline Armor",
 			"timesDropped": 34,
-			"dropRate": 0.005014009733077717
+			"dropRate": 0.004978767022990189
 		},
 		{
 			"itemName": "Abyss Hammer",
 			"timesDropped": 11,
-			"dropRate": 0.0016221796195251437
+			"dropRate": 0.0016107775662615317
 		},
 		{
 			"itemName": "Preserved Light Blue Seed",
 			"timesDropped": 4,
-			"dropRate": 0.0005898834980091432
+			"dropRate": 0.0005857372968223752
+		},
+		{
+			"itemName": "Preserved Purple Seed",
+			"timesDropped": 3,
+			"dropRate": 0.00043930297261678136
 		},
 		{
 			"itemName": "Preserved Violet Seed",
 			"timesDropped": 3,
-			"dropRate": 0.0004424126235068574
-		},
-		{
-			"itemName": "Preserved Purple Seed",
-			"timesDropped": 2,
-			"dropRate": 0.0002949417490045716
+			"dropRate": 0.00043930297261678136
 		},
 		{
 			"itemName": "Lesser Spiritualist Gem",
 			"timesDropped": 1,
-			"dropRate": 0.0001474708745022858
+			"dropRate": 0.0001464343242055938
 		}
 	]
 }

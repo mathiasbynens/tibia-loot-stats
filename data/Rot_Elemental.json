@@ -1,76 +1,76 @@
 {
 	"monsterName": "Rot Elemental",
-	"timesKilled": 6842,
+	"timesKilled": 6844,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6842,
+			"timesDropped": 6844,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Glob of Glooth",
-			"timesDropped": 974,
-			"dropRate": 0.14235603624671148
+			"timesDropped": 975,
+			"dropRate": 0.1424605493863238
 		},
 		{
 			"itemName": "Platinum Coin",
 			"timesDropped": 697,
-			"dropRate": 0.10187079801227711
+			"dropRate": 0.10184102863822327
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 690,
-			"dropRate": 0.10084770534931306
+			"dropRate": 0.10081823495032145
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 654,
-			"dropRate": 0.09558608593978368
+			"dropRate": 0.09555815312682642
 		},
 		{
 			"itemName": "Small Topaz",
 			"timesDropped": 371,
-			"dropRate": 0.05422391113709442
+			"dropRate": 0.05420806545879603
 		},
 		{
 			"itemName": "Small Sapphire",
 			"timesDropped": 364,
-			"dropRate": 0.05320081847413037
+			"dropRate": 0.053185271770894216
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 341,
-			"dropRate": 0.04983922829581994
+			"dropRate": 0.049824663939216834
 		},
 		{
 			"itemName": "Glooth Spear",
-			"timesDropped": 319,
-			"dropRate": 0.04662379421221865
+			"timesDropped": 320,
+			"dropRate": 0.046756282875511396
 		},
 		{
 			"itemName": "Life Ring",
 			"timesDropped": 92,
-			"dropRate": 0.013446360713241743
+			"dropRate": 0.013442431326709527
 		},
 		{
 			"itemName": "Glooth Axe",
 			"timesDropped": 9,
-			"dropRate": 0.0013154048523823444
+			"dropRate": 0.001315020455873758
 		},
 		{
 			"itemName": "Green Gem",
 			"timesDropped": 6,
-			"dropRate": 0.0008769365682548962
+			"dropRate": 0.0008766803039158387
 		},
 		{
 			"itemName": "Glooth Amulet",
 			"timesDropped": 4,
-			"dropRate": 0.0005846243788365975
+			"dropRate": 0.0005844535359438924
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 4,
-			"dropRate": 0.0005846243788365975
+			"dropRate": 0.0005844535359438924
 		}
 	]
 }

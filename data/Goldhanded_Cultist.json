@@ -1,56 +1,56 @@
 {
 	"monsterName": "Goldhanded Cultist",
-	"timesKilled": 1428,
+	"timesKilled": 1450,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 716,
-			"dropRate": 0.5014005602240896
+			"timesDropped": 730,
+			"dropRate": 0.503448275862069
 		},
 		{
 			"itemName": "Golden Brush",
-			"timesDropped": 336,
-			"dropRate": 0.23529411764705882
+			"timesDropped": 340,
+			"dropRate": 0.23448275862068965
 		},
 		{
 			"itemName": "Tiger Eye",
-			"timesDropped": 238,
-			"dropRate": 0.16666666666666666
+			"timesDropped": 244,
+			"dropRate": 0.16827586206896553
 		},
 		{
 			"itemName": "Opal",
 			"timesDropped": 155,
-			"dropRate": 0.10854341736694678
+			"dropRate": 0.10689655172413794
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 78,
-			"dropRate": 0.0546218487394958
+			"dropRate": 0.05379310344827586
 		},
 		{
 			"itemName": "Green Gem",
 			"timesDropped": 72,
-			"dropRate": 0.05042016806722689
+			"dropRate": 0.0496551724137931
 		},
 		{
 			"itemName": "Golden Backpack",
 			"timesDropped": 44,
-			"dropRate": 0.03081232492997199
+			"dropRate": 0.030344827586206897
 		},
 		{
 			"itemName": "Golden Bag",
 			"timesDropped": 40,
-			"dropRate": 0.028011204481792718
+			"dropRate": 0.027586206896551724
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 19,
-			"dropRate": 0.01330532212885154
+			"dropRate": 0.01310344827586207
 		},
 		{
 			"itemName": "Platinum Coin",
 			"timesDropped": 12,
-			"dropRate": 0.008403361344537815
+			"dropRate": 0.008275862068965517
 		}
 	]
 }

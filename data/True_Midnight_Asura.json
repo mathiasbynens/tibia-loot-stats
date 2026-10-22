@@ -1,171 +1,171 @@
 {
 	"monsterName": "True Midnight Asura",
-	"timesKilled": 3345,
+	"timesKilled": 3499,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3003,
-			"dropRate": 0.8977578475336323
+			"timesDropped": 3125,
+			"dropRate": 0.8931123178050872
 		},
 		{
 			"itemName": "Golden Lotus Brooch",
-			"timesDropped": 671,
-			"dropRate": 0.20059790732436472
+			"timesDropped": 701,
+			"dropRate": 0.20034295513003716
 		},
 		{
 			"itemName": "Peacock Feather Fan",
-			"timesDropped": 662,
-			"dropRate": 0.19790732436472347
-		},
-		{
-			"itemName": "Great Health Potion",
-			"timesDropped": 606,
-			"dropRate": 0.18116591928251122
+			"timesDropped": 685,
+			"dropRate": 0.19577022006287512
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 602,
-			"dropRate": 0.17997010463378177
+			"timesDropped": 629,
+			"dropRate": 0.17976564732780795
+		},
+		{
+			"itemName": "Great Health Potion",
+			"timesDropped": 624,
+			"dropRate": 0.1783366676193198
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 588,
-			"dropRate": 0.1757847533632287
+			"timesDropped": 620,
+			"dropRate": 0.17719348385252928
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 466,
-			"dropRate": 0.13931240657698057
+			"timesDropped": 483,
+			"dropRate": 0.13803943983995426
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
-			"timesDropped": 464,
-			"dropRate": 0.13871449925261584
+			"timesDropped": 482,
+			"dropRate": 0.13775364389825664
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 411,
-			"dropRate": 0.12286995515695068
+			"timesDropped": 427,
+			"dropRate": 0.1220348671048871
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 326,
-			"dropRate": 0.09745889387144993
+			"timesDropped": 340,
+			"dropRate": 0.09717062017719348
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 319,
-			"dropRate": 0.09536621823617339
-		},
-		{
-			"itemName": "Assassin Star",
-			"timesDropped": 304,
-			"dropRate": 0.09088191330343796
+			"timesDropped": 329,
+			"dropRate": 0.09402686481851957
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 302,
-			"dropRate": 0.09028400597907324
+			"timesDropped": 318,
+			"dropRate": 0.09088310945984567
+		},
+		{
+			"itemName": "Assassin Star",
+			"timesDropped": 313,
+			"dropRate": 0.08945412975135753
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 248,
-			"dropRate": 0.07414050822122571
+			"timesDropped": 258,
+			"dropRate": 0.073735352957988
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 244,
-			"dropRate": 0.07294469357249626
-		},
-		{
-			"itemName": "White Pearl",
-			"timesDropped": 235,
-			"dropRate": 0.07025411061285501
+			"timesDropped": 250,
+			"dropRate": 0.07144898542440697
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 228,
-			"dropRate": 0.06816143497757847
+			"timesDropped": 243,
+			"dropRate": 0.06944841383252358
+		},
+		{
+			"itemName": "White Pearl",
+			"timesDropped": 243,
+			"dropRate": 0.06944841383252358
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 142,
-			"dropRate": 0.04245142002989537
+			"timesDropped": 146,
+			"dropRate": 0.041726207487853675
 		},
 		{
 			"itemName": "Royal Star",
-			"timesDropped": 114,
-			"dropRate": 0.034080717488789235
+			"timesDropped": 120,
+			"dropRate": 0.03429551300371535
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 111,
-			"dropRate": 0.033183856502242155
+			"timesDropped": 115,
+			"dropRate": 0.03286653329522721
 		},
 		{
 			"itemName": "Tribal Mask",
-			"timesDropped": 92,
-			"dropRate": 0.027503736920777278
+			"timesDropped": 96,
+			"dropRate": 0.02743641040297228
 		},
 		{
 			"itemName": "Oriental Shoes",
-			"timesDropped": 58,
-			"dropRate": 0.01733931240657698
+			"timesDropped": 62,
+			"dropRate": 0.01771934838525293
 		},
 		{
 			"itemName": "Silver Amulet",
-			"timesDropped": 54,
-			"dropRate": 0.016143497757847534
-		},
-		{
-			"itemName": "Blue Gem",
-			"timesDropped": 49,
-			"dropRate": 0.014648729446935725
+			"timesDropped": 58,
+			"dropRate": 0.016576164618462418
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 49,
-			"dropRate": 0.014648729446935725
+			"timesDropped": 52,
+			"dropRate": 0.014861388968276651
+		},
+		{
+			"itemName": "Blue Gem",
+			"timesDropped": 51,
+			"dropRate": 0.014575593026579023
 		},
 		{
 			"itemName": "Assassin Dagger",
-			"timesDropped": 48,
-			"dropRate": 0.014349775784753363
+			"timesDropped": 50,
+			"dropRate": 0.014289797084881395
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 44,
-			"dropRate": 0.013153961136023917
-		},
-		{
-			"itemName": "Underworld Rod",
-			"timesDropped": 31,
-			"dropRate": 0.009267563527653214
-		},
-		{
-			"itemName": "Crystal Ring",
-			"timesDropped": 30,
-			"dropRate": 0.008968609865470852
+			"timesDropped": 46,
+			"dropRate": 0.013146613318090883
 		},
 		{
 			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 30,
-			"dropRate": 0.008968609865470852
+			"timesDropped": 32,
+			"dropRate": 0.009145470134324093
+		},
+		{
+			"itemName": "Underworld Rod",
+			"timesDropped": 32,
+			"dropRate": 0.009145470134324093
+		},
+		{
+			"itemName": "Crystal Ring",
+			"timesDropped": 31,
+			"dropRate": 0.008859674192626465
 		},
 		{
 			"itemName": "Skullcracker Armor",
 			"timesDropped": 28,
-			"dropRate": 0.00837070254110613
+			"dropRate": 0.00800228636753358
 		},
 		{
 			"itemName": "Blue Robe",
 			"timesDropped": 27,
-			"dropRate": 0.008071748878923767
+			"dropRate": 0.007716490425835953
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 27,
-			"dropRate": 0.008071748878923767
+			"dropRate": 0.007716490425835953
 		}
 	]
 }

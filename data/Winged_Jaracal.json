@@ -1,61 +1,61 @@
 {
 	"monsterName": "Winged Jaracal",
-	"timesKilled": 2898,
+	"timesKilled": 3125,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2628,
-			"dropRate": 0.906832298136646
+			"timesDropped": 2827,
+			"dropRate": 0.90464
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 433,
-			"dropRate": 0.14941338854382333
+			"timesDropped": 461,
+			"dropRate": 0.14752
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 166,
-			"dropRate": 0.05728088336783989
+			"timesDropped": 179,
+			"dropRate": 0.05728
 		},
 		{
 			"itemName": "Furry Club",
-			"timesDropped": 151,
-			"dropRate": 0.05210489993098689
+			"timesDropped": 170,
+			"dropRate": 0.0544
 		},
 		{
 			"itemName": "Beastslayer Axe",
-			"timesDropped": 80,
-			"dropRate": 0.027605244996549344
+			"timesDropped": 84,
+			"dropRate": 0.02688
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 65,
-			"dropRate": 0.022429261559696344
+			"timesDropped": 69,
+			"dropRate": 0.02208
 		},
 		{
 			"itemName": "Catnip",
-			"timesDropped": 41,
-			"dropRate": 0.014147688060731538
+			"timesDropped": 49,
+			"dropRate": 0.01568
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 41,
-			"dropRate": 0.014147688060731538
+			"timesDropped": 47,
+			"dropRate": 0.01504
 		},
 		{
 			"itemName": "Dark Shield",
-			"timesDropped": 35,
-			"dropRate": 0.012077294685990338
+			"timesDropped": 38,
+			"dropRate": 0.01216
 		},
 		{
 			"itemName": "Fur Armor",
-			"timesDropped": 12,
-			"dropRate": 0.004140786749482402
+			"timesDropped": 14,
+			"dropRate": 0.00448
 		},
 		{
 			"itemName": "Skullcracker Armor",
 			"timesDropped": 8,
-			"dropRate": 0.0027605244996549345
+			"dropRate": 0.00256
 		}
 	]
 }

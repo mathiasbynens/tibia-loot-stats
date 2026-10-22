@@ -1,36 +1,36 @@
 {
 	"monsterName": "Rabid Wolf",
-	"timesKilled": 2338,
+	"timesKilled": 2357,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1208,
-			"dropRate": 0.5166809238665526
+			"timesDropped": 1217,
+			"dropRate": 0.5163343232923208
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 1203,
-			"dropRate": 0.5145423438836613
+			"timesDropped": 1211,
+			"dropRate": 0.5137887144675435
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 580,
-			"dropRate": 0.24807527801539778
+			"timesDropped": 585,
+			"dropRate": 0.2481968604157828
 		},
 		{
 			"itemName": "Small Health Potion",
-			"timesDropped": 247,
-			"dropRate": 0.10564585115483319
+			"timesDropped": 249,
+			"dropRate": 0.10564276622825626
 		},
 		{
 			"itemName": "Wolf Paw",
-			"timesDropped": 204,
-			"dropRate": 0.0872540633019675
+			"timesDropped": 208,
+			"dropRate": 0.08824777259227833
 		},
 		{
 			"itemName": "Mana Potion",
 			"timesDropped": 113,
-			"dropRate": 0.048331907613344736
+			"dropRate": 0.04794229953330505
 		}
 	]
 }

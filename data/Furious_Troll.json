@@ -1,26 +1,26 @@
 {
 	"monsterName": "Furious Troll",
-	"timesKilled": 2937,
+	"timesKilled": 2980,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2730,
-			"dropRate": 0.9295199182839632
+			"timesDropped": 2766,
+			"dropRate": 0.9281879194630872
 		},
 		{
 			"itemName": "Bunch of Troll Hair",
-			"timesDropped": 152,
-			"dropRate": 0.05175348995573715
+			"timesDropped": 154,
+			"dropRate": 0.05167785234899329
 		},
 		{
 			"itemName": "Platinum Coin",
 			"timesDropped": 150,
-			"dropRate": 0.05107252298263534
+			"dropRate": 0.050335570469798654
 		},
 		{
 			"itemName": "War Hammer",
 			"timesDropped": 23,
-			"dropRate": 0.007831120190670752
+			"dropRate": 0.0077181208053691275
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Acolyte of the Cult",
-	"timesKilled": 43433,
+	"timesKilled": 43441,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 28479,
-			"dropRate": 0.65569958326618
+			"timesDropped": 28486,
+			"dropRate": 0.6557399691535646
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 4376,
-			"dropRate": 0.10075288375198582
+			"timesDropped": 4377,
+			"dropRate": 0.10075734904813426
 		},
 		{
 			"itemName": "Cultish Robe",
 			"timesDropped": 3522,
-			"dropRate": 0.08109041512214216
+			"dropRate": 0.08107548168780646
 		},
 		{
 			"itemName": "Morning Star",
 			"timesDropped": 2195,
-			"dropRate": 0.050537609651647365
+			"dropRate": 0.050528302755461434
 		},
 		{
 			"itemName": "Dragon Necklace",
 			"timesDropped": 454,
-			"dropRate": 0.010452881449589023
+			"dropRate": 0.010450956469694529
 		},
 		{
 			"itemName": "Pirate Voodoo Doll",
 			"timesDropped": 452,
-			"dropRate": 0.01040683351368775
+			"dropRate": 0.010404917013880896
 		},
 		{
 			"itemName": "Book (Orange)",
 			"timesDropped": 316,
-			"dropRate": 0.00727557387240117
+			"dropRate": 0.007274234018553901
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 218,
-			"dropRate": 0.005019225013238781
+			"timesDropped": 219,
+			"dropRate": 0.005041320411592735
+		},
+		{
+			"itemName": "Music Sheet (Second Verse)",
+			"timesDropped": 216,
+			"dropRate": 0.0049722612278722865
 		},
 		{
 			"itemName": "Life Ring",
 			"timesDropped": 214,
-			"dropRate": 0.004927129141436235
-		},
-		{
-			"itemName": "Music Sheet (Second Verse)",
-			"timesDropped": 214,
-			"dropRate": 0.004927129141436235
+			"dropRate": 0.004926221772058655
 		},
 		{
 			"itemName": "Terra Rod",
 			"timesDropped": 94,
-			"dropRate": 0.0021642529873598416
+			"dropRate": 0.0021638544232407174
 		},
 		{
 			"itemName": "Cultish Symbol",
 			"timesDropped": 32,
-			"dropRate": 0.0007367669744203716
+			"dropRate": 0.0007366312930181166
 		},
 		{
 			"itemName": "Broken Key Ring",
 			"timesDropped": 21,
-			"dropRate": 0.00048350332696336885
+			"dropRate": 0.000483414286043139
 		}
 	]
 }

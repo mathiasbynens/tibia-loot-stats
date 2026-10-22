@@ -1,36 +1,41 @@
 {
 	"monsterName": "Biting Book",
-	"timesKilled": 137,
+	"timesKilled": 167,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 107,
-			"dropRate": 0.781021897810219
+			"timesDropped": 125,
+			"dropRate": 0.7485029940119761
 		},
 		{
 			"itemName": "Book Page",
-			"timesDropped": 92,
-			"dropRate": 0.6715328467153284
+			"timesDropped": 112,
+			"dropRate": 0.6706586826347305
 		},
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 52,
-			"dropRate": 0.3795620437956204
+			"timesDropped": 66,
+			"dropRate": 0.39520958083832336
 		},
 		{
 			"itemName": "Silken Bookmark",
-			"timesDropped": 33,
-			"dropRate": 0.24087591240875914
+			"timesDropped": 39,
+			"dropRate": 0.23353293413173654
 		},
 		{
 			"itemName": "Big Bone",
-			"timesDropped": 7,
-			"dropRate": 0.051094890510948905
+			"timesDropped": 11,
+			"dropRate": 0.0658682634730539
 		},
 		{
 			"itemName": "Meat",
 			"timesDropped": 5,
-			"dropRate": 0.0364963503649635
+			"dropRate": 0.029940119760479042
+		},
+		{
+			"itemName": "Ruby Necklace",
+			"timesDropped": 2,
+			"dropRate": 0.011976047904191617
 		}
 	]
 }

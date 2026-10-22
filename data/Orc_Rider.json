@@ -1,71 +1,71 @@
 {
 	"monsterName": "Orc Rider",
-	"timesKilled": 22144,
+	"timesKilled": 22214,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10791,
-			"dropRate": 0.4873103323699422
+			"timesDropped": 10824,
+			"dropRate": 0.4872602863059332
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 5370,
-			"dropRate": 0.24250361271676302
+			"timesDropped": 5385,
+			"dropRate": 0.24241469343657154
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 2252,
-			"dropRate": 0.10169797687861272
+			"timesDropped": 2257,
+			"dropRate": 0.10160259295939497
 		},
 		{
 			"itemName": "Orc Leather",
-			"timesDropped": 2246,
-			"dropRate": 0.10142702312138728
+			"timesDropped": 2250,
+			"dropRate": 0.10128747636625551
 		},
 		{
 			"itemName": "Warwolf Fur",
-			"timesDropped": 2186,
-			"dropRate": 0.09871748554913294
+			"timesDropped": 2196,
+			"dropRate": 0.09885657693346538
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 1531,
-			"dropRate": 0.06913836705202313
+			"timesDropped": 1535,
+			"dropRate": 0.06910056720986765
 		},
 		{
 			"itemName": "Orc Tooth",
-			"timesDropped": 450,
-			"dropRate": 0.020321531791907516
+			"timesDropped": 456,
+			"dropRate": 0.020527595210227786
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 244,
-			"dropRate": 0.01101878612716763
+			"timesDropped": 245,
+			"dropRate": 0.011029080759881156
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 225,
-			"dropRate": 0.010160765895953758
+			"timesDropped": 227,
+			"dropRate": 0.010218780948951112
 		},
 		{
 			"itemName": "Obsidian Lance",
 			"timesDropped": 221,
-			"dropRate": 0.009980130057803469
+			"dropRate": 0.009948681011974431
 		},
 		{
 			"itemName": "Scale Armor",
 			"timesDropped": 125,
-			"dropRate": 0.005644869942196532
+			"dropRate": 0.005627082020347529
 		},
 		{
 			"itemName": "Meat (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.00004515895953757225
+			"dropRate": 0.00004501665616278023
 		},
 		{
 			"itemName": "Orc Tooth (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.00004515895953757225
+			"dropRate": 0.00004501665616278023
 		}
 	]
 }

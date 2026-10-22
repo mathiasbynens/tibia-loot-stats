@@ -1,56 +1,56 @@
 {
 	"monsterName": "Bramble Wyrmling",
-	"timesKilled": 5480,
+	"timesKilled": 5491,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 4660,
-			"dropRate": 0.8503649635036497
+			"timesDropped": 4669,
+			"dropRate": 0.8503004917137134
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3571,
-			"dropRate": 0.6516423357664234
+			"timesDropped": 3578,
+			"dropRate": 0.6516117282826444
 		},
 		{
 			"itemName": "Green Crystal Fragment",
-			"timesDropped": 457,
-			"dropRate": 0.08339416058394161
+			"timesDropped": 459,
+			"dropRate": 0.08359133126934984
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 348,
-			"dropRate": 0.06350364963503649
+			"timesDropped": 349,
+			"dropRate": 0.06355855035512657
 		},
 		{
 			"itemName": "Book with a Dragon",
-			"timesDropped": 204,
-			"dropRate": 0.03722627737226277
+			"timesDropped": 205,
+			"dropRate": 0.03733381897650701
 		},
 		{
 			"itemName": "Terra Mantle",
 			"timesDropped": 25,
-			"dropRate": 0.004562043795620438
+			"dropRate": 0.004552904753232562
 		},
 		{
 			"itemName": "Terra Hood",
 			"timesDropped": 22,
-			"dropRate": 0.0040145985401459855
+			"dropRate": 0.004006556182844655
 		},
 		{
 			"itemName": "Dragon Shield",
 			"timesDropped": 13,
-			"dropRate": 0.0023722627737226276
+			"dropRate": 0.0023675104716809323
 		},
 		{
 			"itemName": "Green Gem",
 			"timesDropped": 6,
-			"dropRate": 0.0010948905109489052
+			"dropRate": 0.001092697140775815
 		},
 		{
 			"itemName": "Dragonbone Staff",
 			"timesDropped": 4,
-			"dropRate": 0.00072992700729927
+			"dropRate": 0.0007284647605172099
 		}
 	]
 }

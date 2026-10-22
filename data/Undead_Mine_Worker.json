@@ -1,41 +1,41 @@
 {
 	"monsterName": "Undead Mine Worker",
-	"timesKilled": 185,
+	"timesKilled": 193,
 	"items": [
 		{
 			"itemName": "Bone",
-			"timesDropped": 94,
-			"dropRate": 0.5081081081081081
+			"timesDropped": 98,
+			"dropRate": 0.5077720207253886
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 81,
-			"dropRate": 0.43783783783783786
+			"timesDropped": 84,
+			"dropRate": 0.43523316062176165
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 45,
-			"dropRate": 0.24324324324324326
+			"timesDropped": 47,
+			"dropRate": 0.24352331606217617
 		},
 		{
 			"itemName": "White Mushroom",
 			"timesDropped": 23,
-			"dropRate": 0.12432432432432433
+			"dropRate": 0.11917098445595854
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 8,
-			"dropRate": 0.043243243243243246
+			"dropRate": 0.04145077720207254
 		},
 		{
 			"itemName": "Brown Mushroom",
 			"timesDropped": 4,
-			"dropRate": 0.021621621621621623
+			"dropRate": 0.02072538860103627
 		},
 		{
 			"itemName": "Sword",
 			"timesDropped": 3,
-			"dropRate": 0.016216216216216217
+			"dropRate": 0.015544041450777202
 		}
 	]
 }

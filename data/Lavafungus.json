@@ -1,56 +1,61 @@
 {
 	"monsterName": "Lavafungus",
-	"timesKilled": 17,
+	"timesKilled": 19,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 16,
-			"dropRate": 0.9411764705882353
+			"timesDropped": 17,
+			"dropRate": 0.8947368421052632
+		},
+		{
+			"itemName": "Terra Rod",
+			"timesDropped": 5,
+			"dropRate": 0.2631578947368421
 		},
 		{
 			"itemName": "Red Gem",
 			"timesDropped": 4,
-			"dropRate": 0.23529411764705882
-		},
-		{
-			"itemName": "Terra Rod",
-			"timesDropped": 4,
-			"dropRate": 0.23529411764705882
+			"dropRate": 0.21052631578947367
 		},
 		{
 			"itemName": "Lavafungus Ring",
 			"timesDropped": 2,
-			"dropRate": 0.11764705882352941
+			"dropRate": 0.10526315789473684
+		},
+		{
+			"itemName": "Red Crystal Fragment",
+			"timesDropped": 2,
+			"dropRate": 0.10526315789473684
 		},
 		{
 			"itemName": "Violet Crystal Shard",
 			"timesDropped": 2,
-			"dropRate": 0.11764705882352941
+			"dropRate": 0.10526315789473684
 		},
 		{
 			"itemName": "Blue Crystal Shard",
 			"timesDropped": 1,
-			"dropRate": 0.058823529411764705
+			"dropRate": 0.05263157894736842
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
 			"timesDropped": 1,
-			"dropRate": 0.058823529411764705
+			"dropRate": 0.05263157894736842
 		},
 		{
 			"itemName": "Green Crystal Fragment",
 			"timesDropped": 1,
-			"dropRate": 0.058823529411764705
+			"dropRate": 0.05263157894736842
+		},
+		{
+			"itemName": "Hailstorm Rod",
+			"timesDropped": 1,
+			"dropRate": 0.05263157894736842
 		},
 		{
 			"itemName": "Lavafungus Head",
 			"timesDropped": 1,
-			"dropRate": 0.058823529411764705
-		},
-		{
-			"itemName": "Red Crystal Fragment",
-			"timesDropped": 1,
-			"dropRate": 0.058823529411764705
+			"dropRate": 0.05263157894736842
 		}
 	]
 }

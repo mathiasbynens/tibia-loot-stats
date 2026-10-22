@@ -1,26 +1,26 @@
 {
 	"monsterName": "Troll Legionnaire",
-	"timesKilled": 3532,
+	"timesKilled": 3583,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3312,
-			"dropRate": 0.9377123442808607
+			"timesDropped": 3362,
+			"dropRate": 0.9383198437063913
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 1010,
-			"dropRate": 0.28595696489241224
+			"timesDropped": 1031,
+			"dropRate": 0.2877476974602289
 		},
 		{
 			"itemName": "Frosty Ear of a Troll",
-			"timesDropped": 160,
-			"dropRate": 0.045300113250283124
+			"timesDropped": 163,
+			"dropRate": 0.045492603963159364
 		},
 		{
 			"itemName": "Stealth Ring",
 			"timesDropped": 12,
-			"dropRate": 0.0033975084937712344
+			"dropRate": 0.0033491487580240022
 		}
 	]
 }

@@ -1,41 +1,41 @@
 {
 	"monsterName": "Undead Prospector",
-	"timesKilled": 64,
+	"timesKilled": 68,
 	"items": [
 		{
 			"itemName": "Worm",
-			"timesDropped": 52,
-			"dropRate": 0.8125
+			"timesDropped": 55,
+			"dropRate": 0.8088235294117647
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 37,
-			"dropRate": 0.578125
+			"timesDropped": 40,
+			"dropRate": 0.5882352941176471
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 35,
-			"dropRate": 0.546875
+			"timesDropped": 38,
+			"dropRate": 0.5588235294117647
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 10,
-			"dropRate": 0.15625
+			"timesDropped": 11,
+			"dropRate": 0.16176470588235295
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 9,
-			"dropRate": 0.140625
+			"timesDropped": 10,
+			"dropRate": 0.14705882352941177
 		},
 		{
 			"itemName": "Viking Helmet",
 			"timesDropped": 2,
-			"dropRate": 0.03125
+			"dropRate": 0.029411764705882353
 		},
 		{
 			"itemName": "Brown Piece of Cloth",
 			"timesDropped": 1,
-			"dropRate": 0.015625
+			"dropRate": 0.014705882352941176
 		}
 	]
 }

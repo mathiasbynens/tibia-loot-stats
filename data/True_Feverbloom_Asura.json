@@ -1,61 +1,61 @@
 {
 	"monsterName": "True Feverbloom Asura",
-	"timesKilled": 1041,
+	"timesKilled": 1485,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 909,
-			"dropRate": 0.8731988472622478
-		},
-		{
-			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 210,
-			"dropRate": 0.2017291066282421
+			"timesDropped": 1285,
+			"dropRate": 0.8653198653198653
 		},
 		{
 			"itemName": "Peacock Feather Fan",
-			"timesDropped": 206,
-			"dropRate": 0.1978866474543708
+			"timesDropped": 298,
+			"dropRate": 0.20067340067340067
+		},
+		{
+			"itemName": "Flask of Demonic Blood",
+			"timesDropped": 284,
+			"dropRate": 0.19124579124579125
 		},
 		{
 			"itemName": "Golden Lotus Brooch",
-			"timesDropped": 192,
-			"dropRate": 0.1844380403458213
+			"timesDropped": 277,
+			"dropRate": 0.18653198653198652
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 144,
-			"dropRate": 0.138328530259366
+			"timesDropped": 224,
+			"dropRate": 0.15084175084175083
 		},
 		{
 			"itemName": "Pyrophyte Seed Pod",
-			"timesDropped": 102,
-			"dropRate": 0.09798270893371758
+			"timesDropped": 140,
+			"dropRate": 0.09427609427609428
 		},
 		{
 			"itemName": "Seeds",
-			"timesDropped": 81,
-			"dropRate": 0.07780979827089338
+			"timesDropped": 110,
+			"dropRate": 0.07407407407407407
 		},
 		{
 			"itemName": "Wild Flowers",
-			"timesDropped": 71,
-			"dropRate": 0.06820365033621517
+			"timesDropped": 98,
+			"dropRate": 0.06599326599326599
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 60,
-			"dropRate": 0.05763688760806916
-		},
-		{
-			"itemName": "Muck Rod",
-			"timesDropped": 13,
-			"dropRate": 0.012487992315081652
+			"timesDropped": 84,
+			"dropRate": 0.05656565656565657
 		},
 		{
 			"itemName": "Oriental Shoes",
-			"timesDropped": 13,
-			"dropRate": 0.012487992315081652
+			"timesDropped": 23,
+			"dropRate": 0.015488215488215488
+		},
+		{
+			"itemName": "Muck Rod",
+			"timesDropped": 17,
+			"dropRate": 0.011447811447811448
 		}
 	]
 }

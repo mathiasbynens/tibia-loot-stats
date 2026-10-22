@@ -1,56 +1,56 @@
 {
 	"monsterName": "Massive Fire Elemental",
-	"timesKilled": 1850,
+	"timesKilled": 1856,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1850,
+			"timesDropped": 1856,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 273,
-			"dropRate": 0.14756756756756756
+			"timesDropped": 275,
+			"dropRate": 0.14816810344827586
 		},
 		{
 			"itemName": "Small Ruby",
 			"timesDropped": 152,
-			"dropRate": 0.08216216216216216
+			"dropRate": 0.08189655172413793
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 148,
-			"dropRate": 0.08
+			"timesDropped": 149,
+			"dropRate": 0.08028017241379311
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 63,
-			"dropRate": 0.03405405405405405
+			"dropRate": 0.03394396551724138
 		},
 		{
 			"itemName": "Wand of Inferno",
 			"timesDropped": 54,
-			"dropRate": 0.02918918918918919
+			"dropRate": 0.029094827586206896
 		},
 		{
 			"itemName": "Magma Amulet",
 			"timesDropped": 26,
-			"dropRate": 0.014054054054054054
+			"dropRate": 0.014008620689655173
 		},
 		{
 			"itemName": "Magma Boots",
 			"timesDropped": 15,
-			"dropRate": 0.008108108108108109
+			"dropRate": 0.008081896551724138
 		},
 		{
 			"itemName": "Fire Sword",
 			"timesDropped": 7,
-			"dropRate": 0.0037837837837837837
+			"dropRate": 0.003771551724137931
 		},
 		{
 			"itemName": "Magma Legs",
 			"timesDropped": 4,
-			"dropRate": 0.002162162162162162
+			"dropRate": 0.0021551724137931034
 		}
 	]
 }

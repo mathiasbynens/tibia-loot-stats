@@ -1,71 +1,71 @@
 {
 	"monsterName": "Braindeath",
-	"timesKilled": 1267,
+	"timesKilled": 1277,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1256,
-			"dropRate": 0.9913180741910024
+			"timesDropped": 1266,
+			"dropRate": 0.9913860610806577
 		},
 		{
 			"itemName": "Bone Sword",
-			"timesDropped": 188,
-			"dropRate": 0.1483820047355959
+			"timesDropped": 189,
+			"dropRate": 0.1480031323414252
 		},
 		{
 			"itemName": "Sniper Arrow",
 			"timesDropped": 121,
-			"dropRate": 0.09550118389897395
+			"dropRate": 0.0947533281127643
 		},
 		{
 			"itemName": "Steel Shield",
 			"timesDropped": 88,
-			"dropRate": 0.06945540647198106
+			"dropRate": 0.06891151135473766
 		},
 		{
 			"itemName": "Piece of Dead Brain",
 			"timesDropped": 63,
-			"dropRate": 0.049723756906077346
+			"dropRate": 0.04933437744714174
 		},
 		{
 			"itemName": "Bonelord Eye",
 			"timesDropped": 45,
-			"dropRate": 0.035516969218626675
+			"dropRate": 0.03523884103367267
 		},
 		{
 			"itemName": "Clerical Mace",
 			"timesDropped": 35,
-			"dropRate": 0.027624309392265192
+			"dropRate": 0.0274079874706343
 		},
 		{
 			"itemName": "Haunted Blade",
 			"timesDropped": 18,
-			"dropRate": 0.014206787687450671
+			"dropRate": 0.014095536413469069
 		},
 		{
 			"itemName": "Spellbook",
 			"timesDropped": 13,
-			"dropRate": 0.010260457774269928
+			"dropRate": 0.010180109631949883
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 9,
-			"dropRate": 0.007103393843725336
+			"dropRate": 0.007047768206734534
 		},
 		{
 			"itemName": "Bonelord Helmet",
 			"timesDropped": 2,
-			"dropRate": 0.0015785319652722968
+			"dropRate": 0.0015661707126076742
 		},
 		{
 			"itemName": "Bonelord Shield",
 			"timesDropped": 1,
-			"dropRate": 0.0007892659826361484
+			"dropRate": 0.0007830853563038371
 		},
 		{
 			"itemName": "Spiked Squelcher",
 			"timesDropped": 1,
-			"dropRate": 0.0007892659826361484
+			"dropRate": 0.0007830853563038371
 		}
 	]
 }

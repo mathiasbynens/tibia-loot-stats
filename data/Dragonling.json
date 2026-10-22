@@ -1,26 +1,26 @@
 {
 	"monsterName": "Dragonling",
-	"timesKilled": 3154,
+	"timesKilled": 3155,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3052,
-			"dropRate": 0.9676601141407736
+			"timesDropped": 3053,
+			"dropRate": 0.9676703645007924
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 590,
-			"dropRate": 0.18706404565630944
+			"dropRate": 0.18700475435816163
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 454,
-			"dropRate": 0.1439441978440076
+			"timesDropped": 455,
+			"dropRate": 0.14421553090332806
 		},
 		{
 			"itemName": "Blazing Bone",
 			"timesDropped": 347,
-			"dropRate": 0.11001902346227013
+			"dropRate": 0.10998415213946117
 		}
 	]
 }
