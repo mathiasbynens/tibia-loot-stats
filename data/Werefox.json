@@ -1,91 +1,91 @@
 {
 	"monsterName": "Werefox",
-	"timesKilled": 10802,
+	"timesKilled": 10853,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9728,
-			"dropRate": 0.9005739677837438
+			"timesDropped": 9771,
+			"dropRate": 0.9003040633926104
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9213,
-			"dropRate": 0.852897611553416
+			"timesDropped": 9259,
+			"dropRate": 0.8531281673270064
 		},
 		{
 			"itemName": "Fox Paw",
-			"timesDropped": 1628,
-			"dropRate": 0.15071283095723015
+			"timesDropped": 1643,
+			"dropRate": 0.15138671335114715
 		},
 		{
 			"itemName": "Werefox Tail",
-			"timesDropped": 1382,
-			"dropRate": 0.12793927050546194
+			"timesDropped": 1394,
+			"dropRate": 0.1284437482723671
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 565,
-			"dropRate": 0.0523051286798741
+			"timesDropped": 569,
+			"dropRate": 0.05242790011978255
 		},
 		{
 			"itemName": "Troll Green",
-			"timesDropped": 525,
-			"dropRate": 0.04860211072023699
+			"timesDropped": 526,
+			"dropRate": 0.04846586197364784
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 395,
-			"dropRate": 0.036567302351416406
-		},
-		{
-			"itemName": "Assassin Star",
-			"timesDropped": 327,
-			"dropRate": 0.030272171820033326
+			"timesDropped": 396,
+			"dropRate": 0.03648760711324058
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 327,
-			"dropRate": 0.030272171820033326
+			"timesDropped": 332,
+			"dropRate": 0.03059062010504008
+		},
+		{
+			"itemName": "Assassin Star",
+			"timesDropped": 329,
+			"dropRate": 0.030314198839030682
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 221,
-			"dropRate": 0.020459174226995
+			"timesDropped": 222,
+			"dropRate": 0.020455173684695478
 		},
 		{
 			"itemName": "Moonlight Rod",
 			"timesDropped": 215,
-			"dropRate": 0.019903721533049434
+			"dropRate": 0.019810190730673548
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
-			"timesDropped": 163,
-			"dropRate": 0.0150897981855212
+			"timesDropped": 164,
+			"dropRate": 0.015111029208513775
 		},
 		{
 			"itemName": "Moonlight Crystals",
 			"timesDropped": 120,
-			"dropRate": 0.011109053878911312
+			"dropRate": 0.011056850640375933
 		},
 		{
 			"itemName": "Ring of Healing",
 			"timesDropped": 102,
-			"dropRate": 0.009442695797074616
+			"dropRate": 0.009398323044319543
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 66,
-			"dropRate": 0.006109979633401222
+			"dropRate": 0.006081267852206763
 		},
 		{
 			"itemName": "Werewolf Amulet",
-			"timesDropped": 64,
-			"dropRate": 0.005924828735419367
+			"timesDropped": 65,
+			"dropRate": 0.00598912743020363
 		},
 		{
 			"itemName": "Werefox Trophy",
 			"timesDropped": 17,
-			"dropRate": 0.0015737826328457694
+			"dropRate": 0.001566387174053257
 		}
 	]
 }

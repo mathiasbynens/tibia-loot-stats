@@ -1,81 +1,81 @@
 {
 	"monsterName": "Omnivora",
-	"timesKilled": 5624,
+	"timesKilled": 5736,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5624,
+			"timesDropped": 5736,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Fish",
-			"timesDropped": 576,
-			"dropRate": 0.10241820768136557
+			"timesDropped": 585,
+			"dropRate": 0.10198744769874477
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 547,
-			"dropRate": 0.09726173541963015
+			"timesDropped": 563,
+			"dropRate": 0.09815202231520223
 		},
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 547,
-			"dropRate": 0.09726173541963015
+			"timesDropped": 555,
+			"dropRate": 0.09675732217573221
 		},
 		{
 			"itemName": "Life Ring",
-			"timesDropped": 85,
-			"dropRate": 0.015113798008534851
+			"timesDropped": 90,
+			"dropRate": 0.015690376569037656
 		},
 		{
 			"itemName": "Necrotic Rod",
-			"timesDropped": 51,
-			"dropRate": 0.00906827880512091
+			"timesDropped": 52,
+			"dropRate": 0.00906555090655509
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
 			"timesDropped": 43,
-			"dropRate": 0.007645803698435277
+			"dropRate": 0.007496513249651325
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 34,
-			"dropRate": 0.00604551920341394
+			"timesDropped": 36,
+			"dropRate": 0.006276150627615063
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
 			"timesDropped": 33,
-			"dropRate": 0.005867709815078236
+			"dropRate": 0.005753138075313808
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
 			"timesDropped": 27,
-			"dropRate": 0.004800853485064011
+			"dropRate": 0.004707112970711297
 		},
 		{
 			"itemName": "Serpent Sword",
 			"timesDropped": 24,
-			"dropRate": 0.004267425320056899
+			"dropRate": 0.0041841004184100415
 		},
 		{
 			"itemName": "Terra Amulet",
 			"timesDropped": 18,
-			"dropRate": 0.003200568990042674
+			"dropRate": 0.0031380753138075313
 		},
 		{
 			"itemName": "Terra Boots",
 			"timesDropped": 17,
-			"dropRate": 0.00302275960170697
+			"dropRate": 0.0029637377963737796
 		},
 		{
 			"itemName": "Death Ring",
 			"timesDropped": 10,
-			"dropRate": 0.0017780938833570413
+			"dropRate": 0.0017433751743375174
 		},
 		{
 			"itemName": "Carrot on a Stick",
 			"timesDropped": 8,
-			"dropRate": 0.001422475106685633
+			"dropRate": 0.001394700139470014
 		}
 	]
 }

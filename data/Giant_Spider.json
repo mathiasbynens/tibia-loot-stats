@@ -1,71 +1,71 @@
 {
 	"monsterName": "Giant Spider",
-	"timesKilled": 104487,
+	"timesKilled": 104494,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 104472,
-			"dropRate": 0.9998564414711878
+			"timesDropped": 104479,
+			"dropRate": 0.9998564510881007
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 12465,
-			"dropRate": 0.11929713744293549
+			"timesDropped": 12466,
+			"dropRate": 0.11929871571573487
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 10490,
-			"dropRate": 0.10039526448266292
+			"timesDropped": 10491,
+			"dropRate": 0.10039810898233391
 		},
 		{
 			"itemName": "Plate Legs",
 			"timesDropped": 8246,
-			"dropRate": 0.07891890857235828
+			"dropRate": 0.0789136218347465
 		},
 		{
 			"itemName": "Two Handed Sword",
 			"timesDropped": 5312,
-			"dropRate": 0.050838860336692604
+			"dropRate": 0.05083545466725362
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 5130,
-			"dropRate": 0.04909701685377128
+			"dropRate": 0.04909372786954275
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 3703,
-			"dropRate": 0.035439815479437635
+			"dropRate": 0.03543744138419431
 		},
 		{
 			"itemName": "Spider Silk",
 			"timesDropped": 2071,
-			"dropRate": 0.01982064754467063
+			"dropRate": 0.019819319769556146
 		},
 		{
 			"itemName": "Knight Legs",
 			"timesDropped": 852,
-			"dropRate": 0.008154124436532774
+			"dropRate": 0.008153578195877276
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 749,
-			"dropRate": 0.007168355872022357
+			"dropRate": 0.00716787566750244
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 515,
-			"dropRate": 0.004928842822552088
+			"dropRate": 0.004928512641874175
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 285,
-			"dropRate": 0.0027276120474317377
+			"dropRate": 0.0027274293260857083
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 284,
-			"dropRate": 0.002718041478844258
+			"dropRate": 0.0027178593986257583
 		}
 	]
 }

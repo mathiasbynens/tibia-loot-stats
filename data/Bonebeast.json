@@ -1,66 +1,66 @@
 {
 	"monsterName": "Bonebeast",
-	"timesKilled": 6855,
+	"timesKilled": 6856,
 	"items": [
 		{
 			"itemName": "Bone",
 			"timesDropped": 3396,
-			"dropRate": 0.49540481400437636
+			"dropRate": 0.4953325554259043
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1965,
-			"dropRate": 0.28665207877461707
+			"timesDropped": 1966,
+			"dropRate": 0.2867561260210035
 		},
 		{
 			"itemName": "Skull",
 			"timesDropped": 1355,
-			"dropRate": 0.1976659372720642
+			"dropRate": 0.19763710618436406
 		},
 		{
 			"itemName": "Bony Tail",
-			"timesDropped": 695,
-			"dropRate": 0.10138584974471189
+			"timesDropped": 696,
+			"dropRate": 0.10151691948658109
 		},
 		{
 			"itemName": "Plate Armor",
 			"timesDropped": 554,
-			"dropRate": 0.08081692195477753
+			"dropRate": 0.0808051341890315
 		},
 		{
 			"itemName": "Bone Club",
 			"timesDropped": 342,
-			"dropRate": 0.04989059080962801
+			"dropRate": 0.04988331388564761
 		},
 		{
 			"itemName": "Bone Shield",
 			"timesDropped": 158,
-			"dropRate": 0.023048869438366155
+			"dropRate": 0.023045507584597433
 		},
 		{
 			"itemName": "Green Mushroom",
 			"timesDropped": 106,
-			"dropRate": 0.015463165572574763
+			"dropRate": 0.015460910151691949
 		},
 		{
 			"itemName": "Hardened Bone",
 			"timesDropped": 83,
-			"dropRate": 0.012107950401167031
+			"dropRate": 0.012106184364060676
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 27,
-			"dropRate": 0.003938730853391685
+			"dropRate": 0.003938156359393232
 		},
 		{
 			"itemName": "Bonebeast Trophy",
 			"timesDropped": 7,
-			"dropRate": 0.0010211524434719183
+			"dropRate": 0.0010210035005834305
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 7,
-			"dropRate": 0.0010211524434719183
+			"dropRate": 0.0010210035005834305
 		}
 	]
 }

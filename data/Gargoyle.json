@@ -1,71 +1,71 @@
 {
 	"monsterName": "Gargoyle",
-	"timesKilled": 35063,
+	"timesKilled": 35126,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 30767,
-			"dropRate": 0.877477683027693
+			"timesDropped": 30825,
+			"dropRate": 0.8775550873996469
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 5272,
-			"dropRate": 0.150357927159684
+			"timesDropped": 5283,
+			"dropRate": 0.15040141205944316
 		},
 		{
 			"itemName": "Stone Wing",
-			"timesDropped": 4251,
-			"dropRate": 0.12123891281407752
+			"timesDropped": 4254,
+			"dropRate": 0.12110687240220919
 		},
 		{
 			"itemName": "Potato",
-			"timesDropped": 3461,
-			"dropRate": 0.09870803981404899
+			"timesDropped": 3467,
+			"dropRate": 0.09870181631839663
 		},
 		{
 			"itemName": "Strawberry",
 			"timesDropped": 715,
-			"dropRate": 0.020391866069646065
+			"dropRate": 0.020355292376017766
 		},
 		{
 			"itemName": "Morning Star",
 			"timesDropped": 518,
-			"dropRate": 0.014773407865841486
+			"dropRate": 0.014746911119968115
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 490,
-			"dropRate": 0.013974845278498703
+			"dropRate": 0.013949780789159028
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
-			"timesDropped": 376,
-			"dropRate": 0.010723554744317371
+			"timesDropped": 379,
+			"dropRate": 0.010789728406308718
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 271,
-			"dropRate": 0.007728945041781936
+			"dropRate": 0.007715082844616523
 		},
 		{
 			"itemName": "Piece of Marble Rock",
 			"timesDropped": 170,
-			"dropRate": 0.004848415708866897
+			"dropRate": 0.004839719865626602
 		},
 		{
 			"itemName": "Dark Armor",
 			"timesDropped": 92,
-			"dropRate": 0.002623848501269144
+			"dropRate": 0.0026191425155155726
 		},
 		{
 			"itemName": "Club Ring",
 			"timesDropped": 74,
-			"dropRate": 0.002110486837977355
+			"dropRate": 0.0021067015885668735
 		},
 		{
 			"itemName": "Shiny Stone",
 			"timesDropped": 72,
-			"dropRate": 0.002053446653167156
+			"dropRate": 0.002049763707794796
 		}
 	]
 }

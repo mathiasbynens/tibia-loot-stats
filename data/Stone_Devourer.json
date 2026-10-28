@@ -1,101 +1,111 @@
 {
 	"monsterName": "Stone Devourer",
-	"timesKilled": 61,
+	"timesKilled": 158,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 61,
+			"timesDropped": 158,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 59,
-			"dropRate": 0.9672131147540983
-		},
-		{
-			"itemName": "Crystalline Spikes",
-			"timesDropped": 13,
-			"dropRate": 0.21311475409836064
+			"timesDropped": 150,
+			"dropRate": 0.9493670886075949
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 13,
-			"dropRate": 0.21311475409836064
+			"timesDropped": 30,
+			"dropRate": 0.189873417721519
 		},
 		{
-			"itemName": "Great Mana Potion",
-			"timesDropped": 11,
-			"dropRate": 0.18032786885245902
-		},
-		{
-			"itemName": "Stone Nose",
-			"timesDropped": 9,
-			"dropRate": 0.14754098360655737
-		},
-		{
-			"itemName": "Coal",
-			"timesDropped": 8,
-			"dropRate": 0.13114754098360656
+			"itemName": "Crystalline Spikes",
+			"timesDropped": 29,
+			"dropRate": 0.18354430379746836
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 8,
-			"dropRate": 0.13114754098360656
+			"timesDropped": 27,
+			"dropRate": 0.17088607594936708
 		},
 		{
-			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 7,
-			"dropRate": 0.11475409836065574
-		},
-		{
-			"itemName": "Mana Potion",
-			"timesDropped": 7,
-			"dropRate": 0.11475409836065574
-		},
-		{
-			"itemName": "Strong Health Potion",
-			"timesDropped": 7,
-			"dropRate": 0.11475409836065574
+			"itemName": "Stone Nose",
+			"timesDropped": 24,
+			"dropRate": 0.1518987341772152
 		},
 		{
 			"itemName": "Ancient Stone",
-			"timesDropped": 6,
-			"dropRate": 0.09836065573770492
+			"timesDropped": 22,
+			"dropRate": 0.13924050632911392
+		},
+		{
+			"itemName": "Great Mana Potion",
+			"timesDropped": 22,
+			"dropRate": 0.13924050632911392
+		},
+		{
+			"itemName": "Strong Health Potion",
+			"timesDropped": 22,
+			"dropRate": 0.13924050632911392
+		},
+		{
+			"itemName": "Cyan Crystal Fragment",
+			"timesDropped": 18,
+			"dropRate": 0.11392405063291139
+		},
+		{
+			"itemName": "Mana Potion",
+			"timesDropped": 18,
+			"dropRate": 0.11392405063291139
+		},
+		{
+			"itemName": "Coal",
+			"timesDropped": 17,
+			"dropRate": 0.10759493670886076
 		},
 		{
 			"itemName": "Crystalline Arrow",
-			"timesDropped": 3,
-			"dropRate": 0.04918032786885246
-		},
-		{
-			"itemName": "Glorious Axe",
-			"timesDropped": 3,
-			"dropRate": 0.04918032786885246
-		},
-		{
-			"itemName": "Sapphire Hammer",
-			"timesDropped": 3,
-			"dropRate": 0.04918032786885246
+			"timesDropped": 11,
+			"dropRate": 0.06962025316455696
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 2,
-			"dropRate": 0.03278688524590164
+			"timesDropped": 10,
+			"dropRate": 0.06329113924050633
 		},
 		{
 			"itemName": "Dwarven Ring",
-			"timesDropped": 1,
-			"dropRate": 0.01639344262295082
+			"timesDropped": 7,
+			"dropRate": 0.04430379746835443
+		},
+		{
+			"itemName": "Sapphire Hammer",
+			"timesDropped": 7,
+			"dropRate": 0.04430379746835443
+		},
+		{
+			"itemName": "Glorious Axe",
+			"timesDropped": 4,
+			"dropRate": 0.02531645569620253
 		},
 		{
 			"itemName": "Spiked Squelcher",
+			"timesDropped": 3,
+			"dropRate": 0.0189873417721519
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 2,
+			"dropRate": 0.012658227848101266
+		},
+		{
+			"itemName": "Crystal Mace",
 			"timesDropped": 1,
-			"dropRate": 0.01639344262295082
+			"dropRate": 0.006329113924050633
 		},
 		{
 			"itemName": "War Axe",
 			"timesDropped": 1,
-			"dropRate": 0.01639344262295082
+			"dropRate": 0.006329113924050633
 		}
 	]
 }

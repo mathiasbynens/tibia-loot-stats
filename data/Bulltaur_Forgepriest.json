@@ -1,81 +1,21 @@
 {
 	"monsterName": "Bulltaur Forgepriest",
-	"timesKilled": 3332,
+	"timesKilled": 8,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1806,
-			"dropRate": 0.542016806722689
-		},
-		{
-			"itemName": "Bulltaur Horn",
-			"timesDropped": 536,
-			"dropRate": 0.1608643457382953
+			"timesDropped": 3,
+			"dropRate": 0.375
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 327,
-			"dropRate": 0.09813925570228091
-		},
-		{
-			"itemName": "Staff Piece",
-			"timesDropped": 265,
-			"dropRate": 0.07953181272509004
-		},
-		{
-			"itemName": "Idol of the Forge",
-			"timesDropped": 126,
-			"dropRate": 0.037815126050420166
-		},
-		{
-			"itemName": "Gold Ingot",
-			"timesDropped": 84,
-			"dropRate": 0.025210084033613446
-		},
-		{
-			"itemName": "Soul Orb",
-			"timesDropped": 55,
-			"dropRate": 0.016506602641056422
+			"timesDropped": 1,
+			"dropRate": 0.125
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 51,
-			"dropRate": 0.015306122448979591
-		},
-		{
-			"itemName": "Blue Gem",
-			"timesDropped": 33,
-			"dropRate": 0.009903961584633853
-		},
-		{
-			"itemName": "Lightning Robe",
-			"timesDropped": 26,
-			"dropRate": 0.0078031212484993995
-		},
-		{
-			"itemName": "Spellbook of Mind Control",
-			"timesDropped": 23,
-			"dropRate": 0.006902761104441777
-		},
-		{
-			"itemName": "Gold Nugget",
-			"timesDropped": 22,
-			"dropRate": 0.006602641056422569
-		},
-		{
-			"itemName": "White Gem",
-			"timesDropped": 19,
-			"dropRate": 0.005702280912364946
-		},
-		{
-			"itemName": "Stone Skin Amulet",
-			"timesDropped": 15,
-			"dropRate": 0.004501800720288115
-		},
-		{
-			"itemName": "Violet Gem",
-			"timesDropped": 12,
-			"dropRate": 0.003601440576230492
+			"timesDropped": 1,
+			"dropRate": 0.125
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Lizard Sentinel",
-	"timesKilled": 21009,
+	"timesKilled": 21057,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 18105,
-			"dropRate": 0.861773525631872
+			"timesDropped": 18146,
+			"dropRate": 0.8617561855914898
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 2135,
-			"dropRate": 0.10162311390356514
+			"timesDropped": 2143,
+			"dropRate": 0.10177138243814408
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 1942,
-			"dropRate": 0.09243657480127565
+			"timesDropped": 1947,
+			"dropRate": 0.09246331386237355
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 1694,
-			"dropRate": 0.08063211004807463
+			"timesDropped": 1695,
+			"dropRate": 0.08049579712209716
 		},
 		{
 			"itemName": "Hunting Spear",
-			"timesDropped": 1036,
-			"dropRate": 0.049312199533533246
+			"timesDropped": 1039,
+			"dropRate": 0.04934226148074274
+		},
+		{
+			"itemName": "Lizard Scale",
+			"timesDropped": 438,
+			"dropRate": 0.020800683858099446
 		},
 		{
 			"itemName": "Lizard Leather",
 			"timesDropped": 437,
-			"dropRate": 0.02080060926269694
-		},
-		{
-			"itemName": "Lizard Scale",
-			"timesDropped": 437,
-			"dropRate": 0.02080060926269694
+			"dropRate": 0.020753193712304698
 		},
 		{
 			"itemName": "Halberd",
 			"timesDropped": 318,
-			"dropRate": 0.01513637012708839
+			"dropRate": 0.015101866362729734
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 283,
-			"dropRate": 0.0134704174401447
+			"dropRate": 0.013439711259913568
 		},
 		{
 			"itemName": "Obsidian Lance",
 			"timesDropped": 252,
-			"dropRate": 0.011994859345994573
+			"dropRate": 0.011967516740276393
 		},
 		{
 			"itemName": "Sentinel Shield",
 			"timesDropped": 71,
-			"dropRate": 0.0033795040220857726
+			"dropRate": 0.0033718003514270787
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 24,
-			"dropRate": 0.001142367556761388
+			"timesDropped": 25,
+			"dropRate": 0.0011872536448686898
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.00004759864819839116
+			"dropRate": 0.00004749014579474759
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Ink Splash",
-	"timesKilled": 2963,
+	"timesKilled": 3015,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1909,
-			"dropRate": 0.6442794465069187
+			"timesDropped": 1940,
+			"dropRate": 0.6434494195688225
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1765,
-			"dropRate": 0.595680053999325
+			"timesDropped": 1793,
+			"dropRate": 0.59469320066335
 		},
 		{
 			"itemName": "Star Ink",
-			"timesDropped": 194,
-			"dropRate": 0.06547418157273034
+			"timesDropped": 200,
+			"dropRate": 0.06633499170812604
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 132,
-			"dropRate": 0.04454944313196085
+			"timesDropped": 138,
+			"dropRate": 0.045771144278606964
 		},
 		{
 			"itemName": "Inkwell",
-			"timesDropped": 100,
-			"dropRate": 0.03374957813027337
+			"timesDropped": 104,
+			"dropRate": 0.03449419568822554
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 79,
-			"dropRate": 0.026662166722915964
+			"timesDropped": 82,
+			"dropRate": 0.027197346600331674
 		},
 		{
 			"itemName": "Black Pearl",
 			"timesDropped": 29,
-			"dropRate": 0.009787377657779277
+			"dropRate": 0.009618573797678276
 		},
 		{
 			"itemName": "Candlestick",
 			"timesDropped": 22,
-			"dropRate": 0.007424907188660142
+			"dropRate": 0.007296849087893864
 		},
 		{
 			"itemName": "Terra Hood",
 			"timesDropped": 12,
-			"dropRate": 0.004049949375632805
+			"dropRate": 0.003980099502487562
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 10,
-			"dropRate": 0.0033749578130273373
+			"timesDropped": 11,
+			"dropRate": 0.003648424543946932
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 8,
-			"dropRate": 0.0026999662504218697
+			"timesDropped": 9,
+			"dropRate": 0.0029850746268656717
 		},
 		{
 			"itemName": "Terra Mantle",
 			"timesDropped": 8,
-			"dropRate": 0.0026999662504218697
+			"dropRate": 0.0026533996683250414
 		},
 		{
 			"itemName": "Terra Amulet",
 			"timesDropped": 6,
-			"dropRate": 0.0020249746878164025
+			"dropRate": 0.001990049751243781
 		}
 	]
 }

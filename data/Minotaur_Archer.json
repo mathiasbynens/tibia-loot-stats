@@ -1,61 +1,61 @@
 {
 	"monsterName": "Minotaur Archer",
-	"timesKilled": 33385,
+	"timesKilled": 33400,
 	"items": [
 		{
 			"itemName": "Bolt",
-			"timesDropped": 30070,
-			"dropRate": 0.9007039089411413
+			"timesDropped": 30085,
+			"dropRate": 0.900748502994012
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 25031,
-			"dropRate": 0.7497678598172832
+			"timesDropped": 25044,
+			"dropRate": 0.7498203592814371
 		},
 		{
 			"itemName": "Broken Crossbow",
-			"timesDropped": 5093,
-			"dropRate": 0.1525535420098847
+			"timesDropped": 5094,
+			"dropRate": 0.15251497005988024
 		},
 		{
 			"itemName": "Piercing Bolt",
-			"timesDropped": 4065,
-			"dropRate": 0.12176127003145125
+			"timesDropped": 4067,
+			"dropRate": 0.12176646706586826
 		},
 		{
 			"itemName": "Piece of Archer Armor",
-			"timesDropped": 2668,
-			"dropRate": 0.07991612999850232
+			"timesDropped": 2669,
+			"dropRate": 0.07991017964071856
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 1623,
-			"dropRate": 0.04861464729669013
+			"timesDropped": 1624,
+			"dropRate": 0.04862275449101797
 		},
 		{
 			"itemName": "Minotaur Leather",
-			"timesDropped": 660,
-			"dropRate": 0.019769357495881382
+			"timesDropped": 661,
+			"dropRate": 0.019790419161676648
 		},
 		{
 			"itemName": "Minotaur Horn",
-			"timesDropped": 655,
-			"dropRate": 0.0196195896360641
+			"timesDropped": 656,
+			"dropRate": 0.019640718562874252
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 291,
-			"dropRate": 0.008716489441365882
+			"timesDropped": 292,
+			"dropRate": 0.00874251497005988
+		},
+		{
+			"itemName": "Scale Armor",
+			"timesDropped": 181,
+			"dropRate": 0.005419161676646707
 		},
 		{
 			"itemName": "Brass Armor",
 			"timesDropped": 180,
-			"dropRate": 0.005391642953422196
-		},
-		{
-			"itemName": "Scale Armor",
-			"timesDropped": 180,
-			"dropRate": 0.005391642953422196
+			"dropRate": 0.005389221556886228
 		}
 	]
 }

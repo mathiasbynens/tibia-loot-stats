@@ -1,86 +1,86 @@
 {
 	"monsterName": "Renegade Knight",
-	"timesKilled": 21142,
+	"timesKilled": 21146,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21140,
-			"dropRate": 0.9999054015703339
+			"timesDropped": 21144,
+			"dropRate": 0.9999054194646742
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5339,
-			"dropRate": 0.2525305079935673
+			"timesDropped": 5340,
+			"dropRate": 0.25253002931996593
 		},
 		{
 			"itemName": "Meat",
 			"timesDropped": 1969,
-			"dropRate": 0.0931321540062435
+			"dropRate": 0.09311453702827958
 		},
 		{
 			"itemName": "Great Health Potion",
 			"timesDropped": 1494,
-			"dropRate": 0.07066502696055245
+			"dropRate": 0.07065165988839497
 		},
 		{
 			"itemName": "Scroll of Heroic Deeds",
 			"timesDropped": 1283,
-			"dropRate": 0.060684892630782326
+			"dropRate": 0.06067341341151991
 		},
 		{
 			"itemName": "Two Handed Sword",
 			"timesDropped": 1081,
-			"dropRate": 0.05113045123450951
+			"dropRate": 0.05112077934361108
 		},
 		{
 			"itemName": "Small Ruby",
 			"timesDropped": 779,
-			"dropRate": 0.03684608835493331
+			"dropRate": 0.03683911850941076
 		},
 		{
 			"itemName": "Red Piece of Cloth",
 			"timesDropped": 378,
-			"dropRate": 0.017879103206886765
+			"dropRate": 0.01787572117658186
 		},
 		{
 			"itemName": "Small Notebook",
 			"timesDropped": 329,
-			"dropRate": 0.015561441680068112
+			"dropRate": 0.015558498061099026
 		},
 		{
 			"itemName": "War Hammer",
 			"timesDropped": 210,
-			"dropRate": 0.009932835114937092
+			"dropRate": 0.009930956209212144
 		},
 		{
 			"itemName": "Crown Armor",
 			"timesDropped": 138,
-			"dropRate": 0.00652729164695866
+			"dropRate": 0.006526056937482266
 		},
 		{
 			"itemName": "Crown Legs",
 			"timesDropped": 124,
-			"dropRate": 0.005865102639296188
+			"dropRate": 0.005863993190201457
 		},
 		{
 			"itemName": "Crown Helmet",
 			"timesDropped": 119,
-			"dropRate": 0.005628606565131019
+			"dropRate": 0.005627541851886882
 		},
 		{
 			"itemName": "Fire Sword",
 			"timesDropped": 112,
-			"dropRate": 0.005297512061299783
+			"dropRate": 0.0052965099782464765
 		},
 		{
 			"itemName": "Crown Shield",
 			"timesDropped": 42,
-			"dropRate": 0.0019865670229874182
+			"dropRate": 0.001986191241842429
 		},
 		{
 			"itemName": "Piggy Bank",
 			"timesDropped": 24,
-			"dropRate": 0.0011351811559928105
+			"dropRate": 0.0011349664239099593
 		}
 	]
 }

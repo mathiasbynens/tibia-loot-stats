@@ -1,71 +1,71 @@
 {
 	"monsterName": "Golden Servant Replica",
-	"timesKilled": 7453,
+	"timesKilled": 7512,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6575,
-			"dropRate": 0.8821950892258151
+			"timesDropped": 6630,
+			"dropRate": 0.8825878594249201
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 853,
-			"dropRate": 0.11445055682275594
+			"timesDropped": 870,
+			"dropRate": 0.11581469648562301
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 386,
-			"dropRate": 0.051791225010063065
+			"timesDropped": 388,
+			"dropRate": 0.0516506922257721
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 348,
-			"dropRate": 0.04669260700389105
+			"timesDropped": 351,
+			"dropRate": 0.04672523961661342
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 191,
-			"dropRate": 0.025627264188917215
+			"timesDropped": 193,
+			"dropRate": 0.025692225772097975
 		},
 		{
 			"itemName": "Green Mushroom",
 			"timesDropped": 113,
-			"dropRate": 0.015161679860458875
+			"dropRate": 0.015042598509052183
 		},
 		{
 			"itemName": "Gear Wheel",
 			"timesDropped": 78,
-			"dropRate": 0.010465584328458339
+			"dropRate": 0.010383386581469648
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 32,
-			"dropRate": 0.004293573057829062
+			"timesDropped": 34,
+			"dropRate": 0.004526091586794462
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
-			"timesDropped": 30,
-			"dropRate": 0.004025224741714746
+			"timesDropped": 31,
+			"dropRate": 0.004126730564430245
 		},
 		{
 			"itemName": "Slime Mould",
-			"timesDropped": 24,
-			"dropRate": 0.0032201797933717967
+			"timesDropped": 25,
+			"dropRate": 0.0033280085197018106
 		},
 		{
 			"itemName": "Golden Can of Oil",
 			"timesDropped": 2,
-			"dropRate": 0.0002683483161143164
+			"dropRate": 0.00026624068157614486
 		},
 		{
 			"itemName": "Gold Ring",
 			"timesDropped": 1,
-			"dropRate": 0.0001341741580571582
+			"dropRate": 0.00013312034078807243
 		},
 		{
 			"itemName": "Golden Armor",
 			"timesDropped": 1,
-			"dropRate": 0.0001341741580571582
+			"dropRate": 0.00013312034078807243
 		}
 	]
 }

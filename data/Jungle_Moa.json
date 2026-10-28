@@ -1,51 +1,51 @@
 {
 	"monsterName": "Jungle Moa",
-	"timesKilled": 5265,
+	"timesKilled": 5278,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5265,
+			"timesDropped": 5278,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
 			"timesDropped": 1083,
-			"dropRate": 0.2056980056980057
+			"dropRate": 0.20519136036377417
 		},
 		{
 			"itemName": "Jungle Moa Claw",
-			"timesDropped": 1068,
-			"dropRate": 0.20284900284900284
+			"timesDropped": 1069,
+			"dropRate": 0.20253884046987494
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 605,
-			"dropRate": 0.11490978157644824
+			"timesDropped": 606,
+			"dropRate": 0.11481621826449413
 		},
 		{
 			"itemName": "Jungle Moa Feather",
-			"timesDropped": 574,
-			"dropRate": 0.10902184235517569
+			"timesDropped": 575,
+			"dropRate": 0.10894278135657447
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 507,
-			"dropRate": 0.0962962962962963
+			"timesDropped": 510,
+			"dropRate": 0.09662751042061386
 		},
 		{
 			"itemName": "Jungle Moa Egg",
 			"timesDropped": 446,
-			"dropRate": 0.08471035137701804
+			"dropRate": 0.08450170519136037
 		},
 		{
 			"itemName": "Doublet",
 			"timesDropped": 239,
-			"dropRate": 0.04539411206077873
+			"dropRate": 0.04528230390299356
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
 			"timesDropped": 106,
-			"dropRate": 0.0201329534662868
+			"dropRate": 0.02008336491095112
 		}
 	]
 }
