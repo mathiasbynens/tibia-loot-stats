@@ -1,96 +1,96 @@
 {
 	"monsterName": "Swan Maiden",
-	"timesKilled": 12299,
+	"timesKilled": 12338,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7393,
-			"dropRate": 0.6011057809578014
+			"timesDropped": 7416,
+			"dropRate": 0.6010698654563138
 		},
 		{
 			"itemName": "Wild Flowers",
-			"timesDropped": 2469,
-			"dropRate": 0.20074802829498334
+			"timesDropped": 2476,
+			"dropRate": 0.2006808234721997
 		},
 		{
 			"itemName": "Colourful Snail Shell",
-			"timesDropped": 1803,
-			"dropRate": 0.1465972843320595
+			"timesDropped": 1812,
+			"dropRate": 0.14686334900307993
 		},
 		{
 			"itemName": "Powder Herb",
-			"timesDropped": 653,
-			"dropRate": 0.05309374745914302
+			"timesDropped": 655,
+			"dropRate": 0.05308802074890582
 		},
 		{
 			"itemName": "Great Mana Potion",
 			"timesDropped": 385,
-			"dropRate": 0.03130335799658509
+			"dropRate": 0.031204409142486626
 		},
 		{
 			"itemName": "Silver Brooch",
-			"timesDropped": 367,
-			"dropRate": 0.029839824375965527
+			"timesDropped": 368,
+			"dropRate": 0.029826552115415787
 		},
 		{
 			"itemName": "Small Enchanted Emerald",
 			"timesDropped": 325,
-			"dropRate": 0.02642491259451988
+			"dropRate": 0.02634138434106014
 		},
 		{
 			"itemName": "White Pearl",
 			"timesDropped": 251,
-			"dropRate": 0.02040816326530612
+			"dropRate": 0.02034365375263414
+		},
+		{
+			"itemName": "Opal",
+			"timesDropped": 228,
+			"dropRate": 0.01847949424542065
 		},
 		{
 			"itemName": "Coral Brooch",
 			"timesDropped": 227,
-			"dropRate": 0.01845678510448004
-		},
-		{
-			"itemName": "Opal",
-			"timesDropped": 227,
-			"dropRate": 0.01845678510448004
+			"dropRate": 0.018398443832063544
 		},
 		{
 			"itemName": "Green Mushroom",
 			"timesDropped": 168,
-			"dropRate": 0.013659647125782584
+			"dropRate": 0.013616469443994165
 		},
 		{
 			"itemName": "Clerical Mace",
-			"timesDropped": 117,
-			"dropRate": 0.009512968534027156
+			"timesDropped": 119,
+			"dropRate": 0.009644999189495867
+		},
+		{
+			"itemName": "Boots of Haste",
+			"timesDropped": 103,
+			"dropRate": 0.008348192575782136
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 103,
-			"dropRate": 0.008374664606878609
-		},
-		{
-			"itemName": "Boots of Haste",
-			"timesDropped": 102,
-			"dropRate": 0.008293357183510855
+			"dropRate": 0.008348192575782136
 		},
 		{
 			"itemName": "Butterfly Ring",
 			"timesDropped": 91,
-			"dropRate": 0.007398975526465566
+			"dropRate": 0.007375587615496839
 		},
 		{
 			"itemName": "Summer Dress",
 			"timesDropped": 58,
-			"dropRate": 0.004715830555329701
+			"dropRate": 0.004700923974712271
 		},
 		{
 			"itemName": "Flower Wreath",
 			"timesDropped": 52,
-			"dropRate": 0.004227986015123181
+			"dropRate": 0.004214621494569622
 		},
 		{
 			"itemName": "Diamond Sceptre",
 			"timesDropped": 47,
-			"dropRate": 0.0038214488982844133
+			"dropRate": 0.0038093694277840815
 		}
 	]
 }

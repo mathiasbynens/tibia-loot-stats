@@ -1,56 +1,56 @@
 {
 	"monsterName": "Pirate Gunner",
-	"timesKilled": 4338,
+	"timesKilled": 4452,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3459,
-			"dropRate": 0.7973720608575381
+			"timesDropped": 3554,
+			"dropRate": 0.798292902066487
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 1089,
-			"dropRate": 0.25103734439834025
+			"timesDropped": 1121,
+			"dropRate": 0.2517969451931716
 		},
 		{
 			"itemName": "Throwing Knife",
-			"timesDropped": 386,
-			"dropRate": 0.08898109727985247
+			"timesDropped": 397,
+			"dropRate": 0.08917340521114106
 		},
 		{
 			"itemName": "Gold Tooth",
-			"timesDropped": 230,
-			"dropRate": 0.05301982480405717
+			"timesDropped": 235,
+			"dropRate": 0.05278526504941599
 		},
 		{
 			"itemName": "Sabre",
-			"timesDropped": 85,
-			"dropRate": 0.019594283079760258
+			"timesDropped": 87,
+			"dropRate": 0.01954177897574124
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 56,
-			"dropRate": 0.012909174734900875
+			"timesDropped": 57,
+			"dropRate": 0.012803234501347708
 		},
 		{
 			"itemName": "Pirate Shirt",
 			"timesDropped": 45,
-			"dropRate": 0.01037344398340249
+			"dropRate": 0.010107816711590296
 		},
 		{
 			"itemName": "Peg Leg",
 			"timesDropped": 6,
-			"dropRate": 0.0013831258644536654
+			"dropRate": 0.0013477088948787063
 		},
 		{
 			"itemName": "Eye Patch",
 			"timesDropped": 5,
-			"dropRate": 0.001152604887044721
+			"dropRate": 0.0011230907457322552
 		},
 		{
 			"itemName": "Hook",
 			"timesDropped": 3,
-			"dropRate": 0.0006915629322268327
+			"dropRate": 0.0006738544474393531
 		}
 	]
 }

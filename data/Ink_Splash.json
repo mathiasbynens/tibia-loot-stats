@@ -1,71 +1,71 @@
 {
 	"monsterName": "Ink Splash",
-	"timesKilled": 3015,
+	"timesKilled": 3019,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1940,
-			"dropRate": 0.6434494195688225
+			"timesDropped": 1944,
+			"dropRate": 0.6439218284200067
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1793,
-			"dropRate": 0.59469320066335
+			"timesDropped": 1795,
+			"dropRate": 0.5945677376614773
 		},
 		{
 			"itemName": "Star Ink",
 			"timesDropped": 200,
-			"dropRate": 0.06633499170812604
+			"dropRate": 0.06624710168930109
 		},
 		{
 			"itemName": "Poisonous Slime",
 			"timesDropped": 138,
-			"dropRate": 0.045771144278606964
+			"dropRate": 0.04571050016561776
 		},
 		{
 			"itemName": "Inkwell",
-			"timesDropped": 104,
-			"dropRate": 0.03449419568822554
+			"timesDropped": 105,
+			"dropRate": 0.03477972838688308
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
 			"timesDropped": 82,
-			"dropRate": 0.027197346600331674
+			"dropRate": 0.02716131169261345
 		},
 		{
 			"itemName": "Black Pearl",
 			"timesDropped": 29,
-			"dropRate": 0.009618573797678276
+			"dropRate": 0.009605829744948658
 		},
 		{
 			"itemName": "Candlestick",
 			"timesDropped": 22,
-			"dropRate": 0.007296849087893864
+			"dropRate": 0.00728718118582312
 		},
 		{
 			"itemName": "Terra Hood",
 			"timesDropped": 12,
-			"dropRate": 0.003980099502487562
+			"dropRate": 0.003974826101358066
 		},
 		{
 			"itemName": "Terra Legs",
 			"timesDropped": 11,
-			"dropRate": 0.003648424543946932
+			"dropRate": 0.00364359059291156
 		},
 		{
 			"itemName": "Terra Boots",
 			"timesDropped": 9,
-			"dropRate": 0.0029850746268656717
+			"dropRate": 0.0029811195760185492
 		},
 		{
 			"itemName": "Terra Mantle",
-			"timesDropped": 8,
-			"dropRate": 0.0026533996683250414
+			"timesDropped": 9,
+			"dropRate": 0.0029811195760185492
 		},
 		{
 			"itemName": "Terra Amulet",
 			"timesDropped": 6,
-			"dropRate": 0.001990049751243781
+			"dropRate": 0.001987413050679033
 		}
 	]
 }

@@ -1,76 +1,76 @@
 {
 	"monsterName": "Insane Siren",
-	"timesKilled": 3254,
+	"timesKilled": 3393,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2362,
-			"dropRate": 0.7258758451137062
+			"timesDropped": 2467,
+			"dropRate": 0.7270851753610375
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 385,
-			"dropRate": 0.1183159188690842
+			"timesDropped": 400,
+			"dropRate": 0.11788977306218686
 		},
 		{
 			"itemName": "Dream Essence Egg",
-			"timesDropped": 311,
-			"dropRate": 0.09557467732022126
+			"timesDropped": 325,
+			"dropRate": 0.09578544061302682
 		},
 		{
 			"itemName": "Miraculum",
-			"timesDropped": 303,
-			"dropRate": 0.09311616472034419
+			"timesDropped": 313,
+			"dropRate": 0.09224874742116121
 		},
 		{
 			"itemName": "Wand of Draconia",
-			"timesDropped": 185,
-			"dropRate": 0.05685310387215734
+			"timesDropped": 192,
+			"dropRate": 0.05658709106984969
 		},
 		{
 			"itemName": "Holy Orchid",
-			"timesDropped": 111,
-			"dropRate": 0.034111862323294405
+			"timesDropped": 115,
+			"dropRate": 0.03389330975537872
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 98,
-			"dropRate": 0.03011677934849416
-		},
-		{
-			"itemName": "Wand of Dragonbreath",
-			"timesDropped": 84,
-			"dropRate": 0.02581438229870928
+			"timesDropped": 106,
+			"dropRate": 0.031240789861479518
 		},
 		{
 			"itemName": "Wand of Inferno",
-			"timesDropped": 83,
-			"dropRate": 0.025507068223724647
+			"timesDropped": 90,
+			"dropRate": 0.026525198938992044
+		},
+		{
+			"itemName": "Wand of Dragonbreath",
+			"timesDropped": 87,
+			"dropRate": 0.02564102564102564
 		},
 		{
 			"itemName": "Fire Axe",
-			"timesDropped": 82,
-			"dropRate": 0.02519975414874001
+			"timesDropped": 86,
+			"dropRate": 0.025346301208370173
 		},
 		{
 			"itemName": "Sun Fruit",
-			"timesDropped": 76,
-			"dropRate": 0.023355869698832205
+			"timesDropped": 80,
+			"dropRate": 0.02357795461243737
 		},
 		{
 			"itemName": "Magma Coat",
-			"timesDropped": 71,
-			"dropRate": 0.021819299323909035
+			"timesDropped": 73,
+			"dropRate": 0.0215148835838491
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 23,
-			"dropRate": 0.007068223724646589
+			"timesDropped": 25,
+			"dropRate": 0.0073681108163866785
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 14,
-			"dropRate": 0.0043023970497848806
+			"timesDropped": 15,
+			"dropRate": 0.004420866489832007
 		}
 	]
 }

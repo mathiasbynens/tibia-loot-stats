@@ -1,116 +1,116 @@
 {
 	"monsterName": "Thanatursus",
-	"timesKilled": 10080,
+	"timesKilled": 10165,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10080,
+			"timesDropped": 10165,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 5047,
-			"dropRate": 0.5006944444444444
+			"timesDropped": 5095,
+			"dropRate": 0.5012297097884899
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 1535,
-			"dropRate": 0.15228174603174602
+			"timesDropped": 1542,
+			"dropRate": 0.15169699950811608
 		},
 		{
 			"itemName": "Essence of a Bad Dream",
-			"timesDropped": 1282,
-			"dropRate": 0.12718253968253967
+			"timesDropped": 1289,
+			"dropRate": 0.12680767338908017
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 1230,
-			"dropRate": 0.12202380952380952
+			"timesDropped": 1242,
+			"dropRate": 0.1221839645843581
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 971,
-			"dropRate": 0.09632936507936508
+			"timesDropped": 983,
+			"dropRate": 0.09670437776684702
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 867,
-			"dropRate": 0.08601190476190476
+			"timesDropped": 875,
+			"dropRate": 0.08607968519429415
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 642,
-			"dropRate": 0.06369047619047619
+			"timesDropped": 646,
+			"dropRate": 0.06355140186915888
 		},
 		{
 			"itemName": "Terra Hood",
-			"timesDropped": 635,
-			"dropRate": 0.06299603174603174
+			"timesDropped": 636,
+			"dropRate": 0.06256763403836695
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 567,
-			"dropRate": 0.05625
+			"timesDropped": 570,
+			"dropRate": 0.056074766355140186
 		},
 		{
 			"itemName": "Mino Shield",
-			"timesDropped": 514,
-			"dropRate": 0.05099206349206349
+			"timesDropped": 519,
+			"dropRate": 0.05105755041810133
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
-			"timesDropped": 423,
-			"dropRate": 0.04196428571428571
+			"timesDropped": 426,
+			"dropRate": 0.04190850959173635
 		},
 		{
 			"itemName": "Beastslayer Axe",
-			"timesDropped": 411,
-			"dropRate": 0.040773809523809525
+			"timesDropped": 417,
+			"dropRate": 0.04102311854402361
 		},
 		{
 			"itemName": "Dark Shield",
-			"timesDropped": 365,
-			"dropRate": 0.036210317460317464
+			"timesDropped": 367,
+			"dropRate": 0.03610427939006394
 		},
 		{
 			"itemName": "Warrior's Shield",
-			"timesDropped": 300,
-			"dropRate": 0.02976190476190476
+			"timesDropped": 303,
+			"dropRate": 0.02980816527299557
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 298,
-			"dropRate": 0.029563492063492063
+			"timesDropped": 301,
+			"dropRate": 0.029611411706837187
 		},
 		{
 			"itemName": "Sickle",
-			"timesDropped": 281,
-			"dropRate": 0.02787698412698413
+			"timesDropped": 283,
+			"dropRate": 0.027840629611411708
 		},
 		{
 			"itemName": "Obsidian Lance",
-			"timesDropped": 258,
-			"dropRate": 0.025595238095238095
+			"timesDropped": 262,
+			"dropRate": 0.02577471716674865
 		},
 		{
 			"itemName": "Bloody Pincers",
-			"timesDropped": 187,
-			"dropRate": 0.0185515873015873
+			"timesDropped": 188,
+			"dropRate": 0.018494835218888343
 		},
 		{
 			"itemName": "Warrior's Axe",
 			"timesDropped": 180,
-			"dropRate": 0.017857142857142856
+			"dropRate": 0.017707820954254796
+		},
+		{
+			"itemName": "Wand of Defiance",
+			"timesDropped": 165,
+			"dropRate": 0.016232169208066895
 		},
 		{
 			"itemName": "Titan Axe",
 			"timesDropped": 164,
-			"dropRate": 0.01626984126984127
-		},
-		{
-			"itemName": "Wand of Defiance",
-			"timesDropped": 163,
-			"dropRate": 0.016170634920634922
+			"dropRate": 0.016133792424987702
 		}
 	]
 }

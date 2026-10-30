@@ -1,76 +1,76 @@
 {
 	"monsterName": "Pooka",
-	"timesKilled": 8377,
+	"timesKilled": 8392,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8377,
+			"timesDropped": 8392,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Carrot",
-			"timesDropped": 1667,
-			"dropRate": 0.19899725438701205
+			"timesDropped": 1669,
+			"dropRate": 0.19887988560533842
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 1047,
-			"dropRate": 0.12498507819028291
+			"dropRate": 0.12476167778836987
 		},
 		{
 			"itemName": "Shimmering Beetles",
-			"timesDropped": 879,
-			"dropRate": 0.10493016593052405
+			"timesDropped": 882,
+			"dropRate": 0.10510009532888465
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 415,
-			"dropRate": 0.04954040826071386
+			"timesDropped": 416,
+			"dropRate": 0.04957102001906578
 		},
 		{
 			"itemName": "Rainbow Quartz",
 			"timesDropped": 394,
-			"dropRate": 0.047033544228244004
+			"dropRate": 0.04694947569113441
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 323,
-			"dropRate": 0.03855795630894115
+			"timesDropped": 324,
+			"dropRate": 0.038608198284080075
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 274,
-			"dropRate": 0.03270860689984481
+			"timesDropped": 275,
+			"dropRate": 0.03276930409914204
 		},
 		{
 			"itemName": "Opal",
 			"timesDropped": 252,
-			"dropRate": 0.030082368389638296
+			"dropRate": 0.030028598665395614
 		},
 		{
 			"itemName": "Fern",
-			"timesDropped": 231,
-			"dropRate": 0.027575504357168438
+			"timesDropped": 232,
+			"dropRate": 0.027645376549094377
 		},
 		{
 			"itemName": "Orange Mushroom",
 			"timesDropped": 225,
-			"dropRate": 0.026859257490748478
+			"dropRate": 0.026811248808388942
 		},
 		{
 			"itemName": "Stealth Ring",
 			"timesDropped": 71,
-			"dropRate": 0.008475587919302852
+			"dropRate": 0.008460438512869399
 		},
 		{
 			"itemName": "Dream Blossom Staff",
 			"timesDropped": 36,
-			"dropRate": 0.004297481198519757
+			"dropRate": 0.004289799809342231
 		},
 		{
 			"itemName": "Carrot on a Stick",
 			"timesDropped": 8,
-			"dropRate": 0.0009549958218932792
+			"dropRate": 0.0009532888465204957
 		}
 	]
 }
