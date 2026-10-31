@@ -1,26 +1,26 @@
 {
 	"monsterName": "Noble Lion",
-	"timesKilled": 3638,
+	"timesKilled": 3649,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 3638,
+			"timesDropped": 3649,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 931,
-			"dropRate": 0.2559098405717427
+			"timesDropped": 934,
+			"dropRate": 0.25596053713346123
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 878,
-			"dropRate": 0.24134139637163277
+			"timesDropped": 880,
+			"dropRate": 0.24116196218141955
 		},
 		{
 			"itemName": "Lion's Mane",
-			"timesDropped": 741,
-			"dropRate": 0.20368334249587686
+			"timesDropped": 745,
+			"dropRate": 0.20416552480131542
 		}
 	]
 }

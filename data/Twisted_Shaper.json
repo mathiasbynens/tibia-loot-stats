@@ -1,106 +1,106 @@
 {
 	"monsterName": "Twisted Shaper",
-	"timesKilled": 10188,
+	"timesKilled": 10192,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10188,
+			"timesDropped": 10192,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7592,
-			"dropRate": 0.7451904201020809
+			"timesDropped": 7595,
+			"dropRate": 0.7451923076923077
 		},
 		{
 			"itemName": "Cave Turnip",
-			"timesDropped": 2037,
-			"dropRate": 0.19994110718492344
+			"timesDropped": 2038,
+			"dropRate": 0.1999607535321821
 		},
 		{
 			"itemName": "Ancient Belt Buckle",
-			"timesDropped": 1979,
-			"dropRate": 0.19424813506085592
+			"timesDropped": 1981,
+			"dropRate": 0.19436813186813187
 		},
 		{
 			"itemName": "Cracked Alabaster Vase",
-			"timesDropped": 1783,
-			"dropRate": 0.17500981546917943
+			"timesDropped": 1784,
+			"dropRate": 0.1750392464678179
 		},
 		{
 			"itemName": "Tarnished Rhino Figurine",
 			"timesDropped": 1500,
-			"dropRate": 0.14723203769140164
+			"dropRate": 0.14717425431711145
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 1023,
-			"dropRate": 0.10041224970553593
+			"timesDropped": 1025,
+			"dropRate": 0.1005690737833595
 		},
 		{
 			"itemName": "Energy Ring",
-			"timesDropped": 772,
-			"dropRate": 0.07577542206517472
+			"timesDropped": 773,
+			"dropRate": 0.07584379905808478
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 701,
-			"dropRate": 0.0688064389477817
+			"timesDropped": 702,
+			"dropRate": 0.06887755102040816
 		},
 		{
 			"itemName": "Ancient Coin",
 			"timesDropped": 568,
-			"dropRate": 0.055751864939144094
+			"dropRate": 0.05572998430141287
 		},
 		{
 			"itemName": "Brown Mushroom",
 			"timesDropped": 540,
-			"dropRate": 0.053003533568904596
+			"dropRate": 0.052982731554160126
+		},
+		{
+			"itemName": "Orichalcum Pearl",
+			"timesDropped": 528,
+			"dropRate": 0.05180533751962323
 		},
 		{
 			"itemName": "Small Ruby",
 			"timesDropped": 528,
-			"dropRate": 0.05182567726737338
-		},
-		{
-			"itemName": "Orichalcum Pearl",
-			"timesDropped": 527,
-			"dropRate": 0.05172752257557911
+			"dropRate": 0.05180533751962323
 		},
 		{
 			"itemName": "Vortex Bolt",
 			"timesDropped": 502,
-			"dropRate": 0.04927365528072242
+			"dropRate": 0.04925431711145997
 		},
 		{
 			"itemName": "Onyx Chip",
 			"timesDropped": 499,
-			"dropRate": 0.04897919120533962
+			"dropRate": 0.04895996860282575
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
 			"timesDropped": 366,
-			"dropRate": 0.035924617196702
+			"dropRate": 0.035910518053375196
 		},
 		{
 			"itemName": "Gemmed Figurine",
 			"timesDropped": 98,
-			"dropRate": 0.009619159795838241
+			"dropRate": 0.009615384615384616
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 38,
-			"dropRate": 0.003729878288182175
+			"dropRate": 0.003728414442700157
 		},
 		{
 			"itemName": "Piggy Bank",
 			"timesDropped": 20,
-			"dropRate": 0.0019630938358853552
+			"dropRate": 0.0019623233908948193
 		},
 		{
 			"itemName": "Piece of Marble Rock",
 			"timesDropped": 5,
-			"dropRate": 0.0004907734589713388
+			"dropRate": 0.0004905808477237048
 		}
 	]
 }
