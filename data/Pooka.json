@@ -1,76 +1,76 @@
 {
 	"monsterName": "Pooka",
-	"timesKilled": 8392,
+	"timesKilled": 8399,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8392,
+			"timesDropped": 8399,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Carrot",
-			"timesDropped": 1669,
-			"dropRate": 0.19887988560533842
+			"timesDropped": 1670,
+			"dropRate": 0.1988331944279081
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 1047,
-			"dropRate": 0.12476167778836987
+			"dropRate": 0.12465769734492202
 		},
 		{
 			"itemName": "Shimmering Beetles",
 			"timesDropped": 882,
-			"dropRate": 0.10510009532888465
+			"dropRate": 0.10501250148827242
 		},
 		{
 			"itemName": "Small Stone",
 			"timesDropped": 416,
-			"dropRate": 0.04957102001906578
+			"dropRate": 0.04952970591737112
 		},
 		{
 			"itemName": "Rainbow Quartz",
 			"timesDropped": 394,
-			"dropRate": 0.04694947569113441
+			"dropRate": 0.046910346469817836
 		},
 		{
 			"itemName": "Cookie",
 			"timesDropped": 324,
-			"dropRate": 0.038608198284080075
+			"dropRate": 0.03857602095487558
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 275,
-			"dropRate": 0.03276930409914204
+			"timesDropped": 276,
+			"dropRate": 0.032861054887486606
 		},
 		{
 			"itemName": "Opal",
 			"timesDropped": 252,
-			"dropRate": 0.030028598665395614
+			"dropRate": 0.030003571853792117
 		},
 		{
 			"itemName": "Fern",
-			"timesDropped": 232,
-			"dropRate": 0.027645376549094377
+			"timesDropped": 234,
+			"dropRate": 0.027860459578521252
 		},
 		{
 			"itemName": "Orange Mushroom",
 			"timesDropped": 225,
-			"dropRate": 0.026811248808388942
+			"dropRate": 0.02678890344088582
 		},
 		{
 			"itemName": "Stealth Ring",
 			"timesDropped": 71,
-			"dropRate": 0.008460438512869399
+			"dropRate": 0.008453387308012858
 		},
 		{
 			"itemName": "Dream Blossom Staff",
-			"timesDropped": 36,
-			"dropRate": 0.004289799809342231
+			"timesDropped": 37,
+			"dropRate": 0.004405286343612335
 		},
 		{
 			"itemName": "Carrot on a Stick",
 			"timesDropped": 8,
-			"dropRate": 0.0009532888465204957
+			"dropRate": 0.0009524943445648292
 		}
 	]
 }

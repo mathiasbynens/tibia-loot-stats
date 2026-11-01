@@ -1,66 +1,66 @@
 {
 	"monsterName": "Troll",
-	"timesKilled": 24332,
+	"timesKilled": 24414,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15750,
-			"dropRate": 0.6472957422324511
+			"timesDropped": 15812,
+			"dropRate": 0.6476611780126157
 		},
 		{
 			"itemName": "Hand Axe",
-			"timesDropped": 4436,
-			"dropRate": 0.1823113595265494
+			"timesDropped": 4447,
+			"dropRate": 0.18214958630294092
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 3680,
-			"dropRate": 0.15124116389939174
+			"timesDropped": 3693,
+			"dropRate": 0.15126566724010815
 		},
 		{
 			"itemName": "Spear",
-			"timesDropped": 3172,
-			"dropRate": 0.13036330757849746
+			"timesDropped": 3187,
+			"dropRate": 0.1305398541820267
 		},
 		{
 			"itemName": "Leather Helmet",
-			"timesDropped": 2956,
-			"dropRate": 0.12148610882788098
+			"timesDropped": 2969,
+			"dropRate": 0.12161055132301139
 		},
 		{
 			"itemName": "Leather Boots",
 			"timesDropped": 2435,
-			"dropRate": 0.10007397665625514
+			"dropRate": 0.09973785532890964
 		},
 		{
 			"itemName": "Rope",
-			"timesDropped": 1972,
-			"dropRate": 0.08104553674173927
+			"timesDropped": 1977,
+			"dropRate": 0.0809781273040059
 		},
 		{
 			"itemName": "Studded Club",
-			"timesDropped": 1243,
-			"dropRate": 0.05108499095840868
+			"timesDropped": 1250,
+			"dropRate": 0.05120013107233554
 		},
 		{
 			"itemName": "Wooden Shield",
-			"timesDropped": 1221,
-			"dropRate": 0.05018083182640145
+			"timesDropped": 1223,
+			"dropRate": 0.0500942082411731
 		},
 		{
 			"itemName": "Heavy Old Tome",
-			"timesDropped": 533,
-			"dropRate": 0.021905309879993423
+			"timesDropped": 536,
+			"dropRate": 0.021954616203817483
 		},
 		{
 			"itemName": "Bunch of Troll Hair",
-			"timesDropped": 242,
-			"dropRate": 0.009945750452079566
+			"timesDropped": 244,
+			"dropRate": 0.009994265585319899
 		},
 		{
 			"itemName": "Silver Amulet",
 			"timesDropped": 20,
-			"dropRate": 0.000821962847279303
+			"dropRate": 0.0008192020971573687
 		}
 	]
 }

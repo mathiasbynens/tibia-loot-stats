@@ -1,66 +1,66 @@
 {
 	"monsterName": "Waspoid",
-	"timesKilled": 21941,
+	"timesKilled": 22060,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21899,
-			"dropRate": 0.998085775488811
+			"timesDropped": 22018,
+			"dropRate": 0.9980961015412512
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 13252,
-			"dropRate": 0.6039834100542364
+			"timesDropped": 13326,
+			"dropRate": 0.6040797824116048
 		},
 		{
 			"itemName": "Waspoid Wing",
-			"timesDropped": 3058,
-			"dropRate": 0.1393737751241967
+			"timesDropped": 3078,
+			"dropRate": 0.13952855847688123
 		},
 		{
 			"itemName": "Compound Eye",
-			"timesDropped": 3027,
-			"dropRate": 0.13796089512784285
+			"timesDropped": 3043,
+			"dropRate": 0.13794197642792386
 		},
 		{
 			"itemName": "Waspoid Claw",
-			"timesDropped": 2164,
-			"dropRate": 0.09862813910031448
+			"timesDropped": 2177,
+			"dropRate": 0.09868540344514959
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 1006,
-			"dropRate": 0.04585023472038649
+			"timesDropped": 1015,
+			"dropRate": 0.046010879419764276
 		},
 		{
 			"itemName": "Emerald Bangle",
-			"timesDropped": 455,
-			"dropRate": 0.020737432204548562
+			"timesDropped": 458,
+			"dropRate": 0.020761559383499547
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 222,
-			"dropRate": 0.01011804384485666
+			"dropRate": 0.010063463281958295
 		},
 		{
 			"itemName": "Hive Scythe",
 			"timesDropped": 80,
-			"dropRate": 0.0036461419260744726
+			"dropRate": 0.003626473254759746
 		},
 		{
 			"itemName": "Grasshopper Legs",
 			"timesDropped": 40,
-			"dropRate": 0.0018230709630372363
+			"dropRate": 0.001813236627379873
 		},
 		{
 			"itemName": "Carapace Shield",
 			"timesDropped": 30,
-			"dropRate": 0.0013673032222779272
+			"dropRate": 0.0013599274705349048
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 2,
-			"dropRate": 0.0000911535481518618
+			"dropRate": 0.00009066183136899366
 		}
 	]
 }

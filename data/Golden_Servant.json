@@ -1,66 +1,66 @@
 {
 	"monsterName": "Golden Servant",
-	"timesKilled": 75383,
+	"timesKilled": 75602,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 64075,
-			"dropRate": 0.8499927039252881
+			"timesDropped": 64262,
+			"dropRate": 0.8500039681489908
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 3758,
-			"dropRate": 0.04985208866720613
+			"timesDropped": 3767,
+			"dropRate": 0.04982672416073649
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 3695,
-			"dropRate": 0.049016356472944826
+			"timesDropped": 3705,
+			"dropRate": 0.049006640035977884
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 2310,
-			"dropRate": 0.030643513789581207
+			"timesDropped": 2319,
+			"dropRate": 0.03067379169863231
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 1165,
-			"dropRate": 0.015454412798641603
+			"timesDropped": 1171,
+			"dropRate": 0.015489008227295575
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 738,
-			"dropRate": 0.009790005704203866
+			"timesDropped": 740,
+			"dropRate": 0.009788100843893019
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
 			"timesDropped": 381,
-			"dropRate": 0.005054189936723134
+			"dropRate": 0.005039549218274649
 		},
 		{
 			"itemName": "Stealth Ring",
 			"timesDropped": 366,
-			"dropRate": 0.004855206080946632
+			"dropRate": 0.004841141768736277
 		},
 		{
 			"itemName": "Slime Mould",
-			"timesDropped": 272,
-			"dropRate": 0.003608240584747224
+			"timesDropped": 276,
+			"dropRate": 0.0036506970715060446
 		},
 		{
 			"itemName": "Golden Can of Oil",
 			"timesDropped": 25,
-			"dropRate": 0.00033163975962750223
+			"dropRate": 0.00033067908256395335
 		},
 		{
 			"itemName": "Golden Armor",
 			"timesDropped": 12,
-			"dropRate": 0.00015918708462120106
+			"dropRate": 0.0001587259596306976
 		},
 		{
 			"itemName": "Gold Ring",
 			"timesDropped": 7,
-			"dropRate": 0.00009285913269570062
+			"dropRate": 0.00009259014311790694
 		}
 	]
 }

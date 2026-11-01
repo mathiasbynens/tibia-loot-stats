@@ -1,71 +1,71 @@
 {
 	"monsterName": "Gargoyle",
-	"timesKilled": 35126,
+	"timesKilled": 35172,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 30825,
-			"dropRate": 0.8775550873996469
+			"timesDropped": 30869,
+			"dropRate": 0.8776583646082111
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 5283,
-			"dropRate": 0.15040141205944316
+			"timesDropped": 5292,
+			"dropRate": 0.150460593654043
 		},
 		{
 			"itemName": "Stone Wing",
-			"timesDropped": 4254,
-			"dropRate": 0.12110687240220919
+			"timesDropped": 4262,
+			"dropRate": 0.1211759354031616
 		},
 		{
 			"itemName": "Potato",
-			"timesDropped": 3467,
-			"dropRate": 0.09870181631839663
+			"timesDropped": 3472,
+			"dropRate": 0.09871488684180599
 		},
 		{
 			"itemName": "Strawberry",
 			"timesDropped": 715,
-			"dropRate": 0.020355292376017766
+			"dropRate": 0.020328670533378824
 		},
 		{
 			"itemName": "Morning Star",
 			"timesDropped": 518,
-			"dropRate": 0.014746911119968115
+			"dropRate": 0.014727624246559764
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 490,
-			"dropRate": 0.013949780789159028
+			"dropRate": 0.013931536449448424
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
 			"timesDropped": 379,
-			"dropRate": 0.010789728406308718
+			"dropRate": 0.01077561696804276
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 271,
-			"dropRate": 0.007715082844616523
+			"dropRate": 0.00770499260775617
 		},
 		{
 			"itemName": "Piece of Marble Rock",
 			"timesDropped": 170,
-			"dropRate": 0.004839719865626602
+			"dropRate": 0.0048333901967474125
 		},
 		{
 			"itemName": "Dark Armor",
 			"timesDropped": 92,
-			"dropRate": 0.0026191425155155726
+			"dropRate": 0.002615717047651541
 		},
 		{
 			"itemName": "Club Ring",
 			"timesDropped": 74,
-			"dropRate": 0.0021067015885668735
+			"dropRate": 0.002103946320937109
 		},
 		{
 			"itemName": "Shiny Stone",
 			"timesDropped": 72,
-			"dropRate": 0.002049763707794796
+			"dropRate": 0.0020470829068577278
 		}
 	]
 }
