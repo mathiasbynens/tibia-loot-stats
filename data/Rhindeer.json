@@ -1,51 +1,56 @@
 {
 	"monsterName": "Rhindeer",
-	"timesKilled": 54,
+	"timesKilled": 134,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 45,
-			"dropRate": 0.8333333333333334
+			"timesDropped": 98,
+			"dropRate": 0.7313432835820896
 		},
 		{
 			"itemName": "Brown Crystal Splinter",
-			"timesDropped": 7,
-			"dropRate": 0.12962962962962962
+			"timesDropped": 13,
+			"dropRate": 0.09701492537313433
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 5,
-			"dropRate": 0.09259259259259259
+			"timesDropped": 9,
+			"dropRate": 0.06716417910447761
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 5,
-			"dropRate": 0.09259259259259259
+			"timesDropped": 6,
+			"dropRate": 0.04477611940298507
 		},
 		{
 			"itemName": "Knight Armor",
-			"timesDropped": 3,
-			"dropRate": 0.05555555555555555
+			"timesDropped": 5,
+			"dropRate": 0.03731343283582089
 		},
 		{
 			"itemName": "Rhindeer Antlers",
-			"timesDropped": 3,
-			"dropRate": 0.05555555555555555
+			"timesDropped": 5,
+			"dropRate": 0.03731343283582089
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 3,
-			"dropRate": 0.05555555555555555
+			"timesDropped": 4,
+			"dropRate": 0.029850746268656716
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 2,
-			"dropRate": 0.037037037037037035
+			"timesDropped": 3,
+			"dropRate": 0.022388059701492536
 		},
 		{
 			"itemName": "Titan Axe",
+			"timesDropped": 3,
+			"dropRate": 0.022388059701492536
+		},
+		{
+			"itemName": "Mastermind Shield",
 			"timesDropped": 1,
-			"dropRate": 0.018518518518518517
+			"dropRate": 0.007462686567164179
 		}
 	]
 }

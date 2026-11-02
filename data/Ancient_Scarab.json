@@ -1,76 +1,76 @@
 {
 	"monsterName": "Ancient Scarab",
-	"timesKilled": 36652,
+	"timesKilled": 36710,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 36652,
+			"timesDropped": 36710,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 3782,
-			"dropRate": 0.1031867292371494
+			"timesDropped": 3787,
+			"dropRate": 0.10315990193407791
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 2957,
-			"dropRate": 0.08067772563570882
+			"timesDropped": 2961,
+			"dropRate": 0.08065922092073005
 		},
 		{
 			"itemName": "Scarab Pincers",
-			"timesDropped": 2610,
-			"dropRate": 0.07121030230273928
+			"timesDropped": 2613,
+			"dropRate": 0.07117951511849632
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 2217,
-			"dropRate": 0.06048783149623486
+			"timesDropped": 2218,
+			"dropRate": 0.060419504222282754
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 2195,
-			"dropRate": 0.05988759140019644
+			"timesDropped": 2197,
+			"dropRate": 0.059847453010078995
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 1817,
-			"dropRate": 0.049574375204627305
+			"timesDropped": 1819,
+			"dropRate": 0.049550531190411334
 		},
 		{
 			"itemName": "Scarab Amulet",
-			"timesDropped": 1314,
-			"dropRate": 0.035850703917930805
+			"timesDropped": 1316,
+			"dropRate": 0.035848542631435575
 		},
 		{
 			"itemName": "Ancient Amulet",
-			"timesDropped": 916,
-			"dropRate": 0.024991814907781296
+			"timesDropped": 917,
+			"dropRate": 0.024979569599564152
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 574,
-			"dropRate": 0.01566080977845684
+			"dropRate": 0.01563606646690275
 		},
 		{
 			"itemName": "Springsprout Rod",
 			"timesDropped": 350,
-			"dropRate": 0.009549274255156608
+			"dropRate": 0.009534186870062654
 		},
 		{
 			"itemName": "Scarab Shield",
-			"timesDropped": 191,
-			"dropRate": 0.005211175379242606
+			"timesDropped": 192,
+			"dropRate": 0.005230182511577227
 		},
 		{
 			"itemName": "Terra Hood",
 			"timesDropped": 159,
-			"dropRate": 0.004338098875914002
+			"dropRate": 0.004331244892399891
 		},
 		{
 			"itemName": "Daramian Waraxe",
 			"timesDropped": 103,
-			"dropRate": 0.0028102149950889445
+			"dropRate": 0.0028057749931898663
 		}
 	]
 }
