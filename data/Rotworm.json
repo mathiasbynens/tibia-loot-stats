@@ -1,41 +1,41 @@
 {
 	"monsterName": "Rotworm",
-	"timesKilled": 133237,
+	"timesKilled": 133304,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 95814,
-			"dropRate": 0.7191245675000187
+			"timesDropped": 95866,
+			"dropRate": 0.7191532137070156
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 26837,
-			"dropRate": 0.20142302813782959
+			"timesDropped": 26853,
+			"dropRate": 0.20144181719978396
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 26544,
-			"dropRate": 0.19922393929614146
+			"timesDropped": 26555,
+			"dropRate": 0.19920632539158614
 		},
 		{
 			"itemName": "Lump of Dirt",
-			"timesDropped": 13352,
-			"dropRate": 0.10021240346150094
+			"timesDropped": 13358,
+			"dropRate": 0.10020704555002101
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 5917,
-			"dropRate": 0.04440958592583141
+			"timesDropped": 5920,
+			"dropRate": 0.04440977014943288
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 4060,
-			"dropRate": 0.030472016031582817
+			"timesDropped": 4061,
+			"dropRate": 0.030464202124467384
 		},
 		{
 			"itemName": "Worm",
 			"timesDropped": 4037,
-			"dropRate": 0.030299391310221635
+			"dropRate": 0.030284162515753464
 		}
 	]
 }
