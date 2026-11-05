@@ -1,76 +1,76 @@
 {
 	"monsterName": "Paladin's Apparition",
-	"timesKilled": 2031,
+	"timesKilled": 2202,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1228,
-			"dropRate": 0.604628261939931
+			"timesDropped": 1331,
+			"dropRate": 0.6044504995458674
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 128,
-			"dropRate": 0.06302314130969966
+			"timesDropped": 136,
+			"dropRate": 0.061762034514078114
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 107,
-			"dropRate": 0.05268340718857706
+			"timesDropped": 113,
+			"dropRate": 0.05131698455949137
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 91,
-			"dropRate": 0.0448055145248646
+			"timesDropped": 100,
+			"dropRate": 0.045413260672116255
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 75,
-			"dropRate": 0.03692762186115214
+			"timesDropped": 81,
+			"dropRate": 0.03678474114441417
 		},
 		{
 			"itemName": "Glacier Mask",
-			"timesDropped": 66,
-			"dropRate": 0.03249630723781388
+			"timesDropped": 73,
+			"dropRate": 0.033151680290644865
 		},
 		{
 			"itemName": "Violet Gem",
-			"timesDropped": 60,
-			"dropRate": 0.029542097488921712
+			"timesDropped": 73,
+			"dropRate": 0.033151680290644865
 		},
 		{
 			"itemName": "Wood Cape",
-			"timesDropped": 43,
-			"dropRate": 0.02117183653372723
+			"timesDropped": 44,
+			"dropRate": 0.019981834695731154
 		},
 		{
 			"itemName": "Skull Helmet",
-			"timesDropped": 38,
-			"dropRate": 0.018709995076317085
+			"timesDropped": 40,
+			"dropRate": 0.018165304268846504
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 36,
-			"dropRate": 0.01772525849335303
+			"timesDropped": 38,
+			"dropRate": 0.01725703905540418
 		},
 		{
 			"itemName": "Ring of Blue Plasma",
-			"timesDropped": 32,
-			"dropRate": 0.015755785327424915
+			"timesDropped": 34,
+			"dropRate": 0.015440508628519528
 		},
 		{
 			"itemName": "Collar of Blue Plasma",
-			"timesDropped": 25,
-			"dropRate": 0.012309207287050714
+			"timesDropped": 28,
+			"dropRate": 0.012715712988192553
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 10,
-			"dropRate": 0.004923682914820286
+			"timesDropped": 11,
+			"dropRate": 0.004995458673932788
 		},
 		{
 			"itemName": "Composite Hornbow",
 			"timesDropped": 2,
-			"dropRate": 0.0009847365829640572
+			"dropRate": 0.0009082652134423251
 		}
 	]
 }

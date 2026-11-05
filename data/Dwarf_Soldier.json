@@ -1,66 +1,66 @@
 {
 	"monsterName": "Dwarf Soldier",
-	"timesKilled": 59624,
+	"timesKilled": 59626,
 	"items": [
 		{
 			"itemName": "White Mushroom",
 			"timesDropped": 23812,
-			"dropRate": 0.39936938145713136
+			"dropRate": 0.39935598564384667
 		},
 		{
 			"itemName": "Bolt",
-			"timesDropped": 22574,
-			"dropRate": 0.3786059304977861
+			"timesDropped": 22575,
+			"dropRate": 0.378610002347969
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16942,
-			"dropRate": 0.28414732322554676
+			"timesDropped": 16943,
+			"dropRate": 0.2841545634454768
 		},
 		{
 			"itemName": "Soldier Helmet",
 			"timesDropped": 7074,
-			"dropRate": 0.11864349926204214
+			"dropRate": 0.11863951967262604
 		},
 		{
 			"itemName": "Shovel",
 			"timesDropped": 6020,
-			"dropRate": 0.10096605393801154
+			"dropRate": 0.10096266729279174
 		},
 		{
 			"itemName": "Chain Armor",
 			"timesDropped": 4432,
-			"dropRate": 0.07433248356366563
+			"dropRate": 0.07432999027269983
 		},
 		{
 			"itemName": "Piercing Bolt",
 			"timesDropped": 2276,
-			"dropRate": 0.03817254796726151
+			"dropRate": 0.038171267567839534
 		},
 		{
 			"itemName": "Dwarven Shield",
 			"timesDropped": 1835,
-			"dropRate": 0.03077619750436066
+			"dropRate": 0.030775165196390838
 		},
 		{
 			"itemName": "Crossbow",
 			"timesDropped": 1817,
-			"dropRate": 0.030474305648732054
+			"dropRate": 0.03047328346694395
 		},
 		{
 			"itemName": "Battle Axe",
 			"timesDropped": 1471,
-			"dropRate": 0.02467127331275996
+			"dropRate": 0.02467044577868715
 		},
 		{
 			"itemName": "Iron Ore",
 			"timesDropped": 182,
-			"dropRate": 0.0030524620958003487
+			"dropRate": 0.0030523597088518433
 		},
 		{
 			"itemName": "Axe Ring",
 			"timesDropped": 68,
-			"dropRate": 0.0011404803434858447
+			"dropRate": 0.0011404420890215679
 		}
 	]
 }

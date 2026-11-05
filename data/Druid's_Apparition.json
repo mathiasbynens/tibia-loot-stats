@@ -1,71 +1,71 @@
 {
 	"monsterName": "Druid's Apparition",
-	"timesKilled": 1948,
+	"timesKilled": 2090,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 1124,
-			"dropRate": 0.5770020533880903
+			"timesDropped": 1209,
+			"dropRate": 0.5784688995215311
 		},
 		{
 			"itemName": "Terra Rod",
-			"timesDropped": 271,
-			"dropRate": 0.1391170431211499
+			"timesDropped": 296,
+			"dropRate": 0.1416267942583732
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 231,
-			"dropRate": 0.11858316221765913
+			"timesDropped": 249,
+			"dropRate": 0.11913875598086124
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 147,
-			"dropRate": 0.07546201232032854
+			"timesDropped": 158,
+			"dropRate": 0.07559808612440191
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 133,
-			"dropRate": 0.06827515400410678
+			"timesDropped": 144,
+			"dropRate": 0.06889952153110047
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 83,
-			"dropRate": 0.04260780287474333
+			"timesDropped": 88,
+			"dropRate": 0.042105263157894736
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
-			"timesDropped": 53,
-			"dropRate": 0.027207392197125257
-		},
-		{
-			"itemName": "Springsprout Rod",
-			"timesDropped": 40,
-			"dropRate": 0.02053388090349076
+			"timesDropped": 56,
+			"dropRate": 0.026794258373205742
 		},
 		{
 			"itemName": "Glacier Amulet",
-			"timesDropped": 38,
-			"dropRate": 0.019507186858316223
+			"timesDropped": 41,
+			"dropRate": 0.019617224880382776
 		},
 		{
-			"itemName": "Platinum Amulet",
-			"timesDropped": 35,
-			"dropRate": 0.017967145790554414
+			"itemName": "Springsprout Rod",
+			"timesDropped": 41,
+			"dropRate": 0.019617224880382776
 		},
 		{
 			"itemName": "Underworld Rod",
-			"timesDropped": 35,
-			"dropRate": 0.017967145790554414
+			"timesDropped": 40,
+			"dropRate": 0.019138755980861243
+		},
+		{
+			"itemName": "Platinum Amulet",
+			"timesDropped": 37,
+			"dropRate": 0.01770334928229665
 		},
 		{
 			"itemName": "Glacier Robe",
 			"timesDropped": 32,
-			"dropRate": 0.01642710472279261
+			"dropRate": 0.015311004784688996
 		},
 		{
 			"itemName": "Collar of Red Plasma",
-			"timesDropped": 13,
-			"dropRate": 0.006673511293634497
+			"timesDropped": 14,
+			"dropRate": 0.0066985645933014355
 		}
 	]
 }

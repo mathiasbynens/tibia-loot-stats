@@ -1,81 +1,81 @@
 {
 	"monsterName": "Mummy",
-	"timesKilled": 6523,
+	"timesKilled": 6549,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2564,
-			"dropRate": 0.39307067300321935
+			"timesDropped": 2572,
+			"dropRate": 0.3927317147656131
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 1319,
-			"dropRate": 0.20220757320251417
+			"timesDropped": 1327,
+			"dropRate": 0.20262635516872804
 		},
 		{
 			"itemName": "Flask of Embalming Fluid",
-			"timesDropped": 769,
-			"dropRate": 0.117890541162042
+			"timesDropped": 770,
+			"dropRate": 0.11757520232096504
 		},
 		{
 			"itemName": "Gauze Bandage",
-			"timesDropped": 655,
-			"dropRate": 0.1004139199754714
+			"timesDropped": 656,
+			"dropRate": 0.10016796457474424
 		},
 		{
 			"itemName": "Magic Light Wand",
-			"timesDropped": 396,
-			"dropRate": 0.06070826306913996
+			"timesDropped": 398,
+			"dropRate": 0.060772637043823484
 		},
 		{
 			"itemName": "Strange Talisman",
-			"timesDropped": 310,
-			"dropRate": 0.0475241453319025
+			"timesDropped": 311,
+			"dropRate": 0.04748816613223393
 		},
 		{
 			"itemName": "Silver Brooch",
 			"timesDropped": 258,
-			"dropRate": 0.0395523532117124
+			"dropRate": 0.03939532753092075
 		},
 		{
 			"itemName": "Crystal Ring",
 			"timesDropped": 96,
-			"dropRate": 0.014717154683427871
+			"dropRate": 0.014658726523133303
 		},
 		{
 			"itemName": "Yellow Piece of Cloth",
 			"timesDropped": 70,
-			"dropRate": 0.010731258623332822
+			"dropRate": 0.010688654756451367
 		},
 		{
 			"itemName": "Black Pearl",
 			"timesDropped": 61,
-			"dropRate": 0.00935152537176146
+			"dropRate": 0.00931439914490762
 		},
 		{
 			"itemName": "Poison Dagger",
 			"timesDropped": 38,
-			"dropRate": 0.005825540395523532
+			"dropRate": 0.005802412582073599
 		},
 		{
 			"itemName": "Black Shield",
 			"timesDropped": 10,
-			"dropRate": 0.0015330369461904031
+			"dropRate": 0.0015269506794930523
 		},
 		{
 			"itemName": "Silver Amulet",
 			"timesDropped": 8,
-			"dropRate": 0.0012264295569523226
+			"dropRate": 0.0012215605435944418
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 6,
-			"dropRate": 0.000919822167714242
+			"dropRate": 0.0009161704076958314
 		},
 		{
 			"itemName": "Mini Mummy",
 			"timesDropped": 1,
-			"dropRate": 0.00015330369461904033
+			"dropRate": 0.00015269506794930523
 		}
 	]
 }

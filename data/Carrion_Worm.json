@@ -1,31 +1,31 @@
 {
 	"monsterName": "Carrion Worm",
-	"timesKilled": 27684,
+	"timesKilled": 27694,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 15979,
-			"dropRate": 0.5771926022251119
+			"timesDropped": 15986,
+			"dropRate": 0.5772369466310392
 		},
 		{
 			"itemName": "Carrion Worm Fang",
 			"timesDropped": 2758,
-			"dropRate": 0.09962433174396763
+			"dropRate": 0.09958835848920344
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 2664,
-			"dropRate": 0.09622886866059818
+			"timesDropped": 2666,
+			"dropRate": 0.09626633927926627
 		},
 		{
 			"itemName": "Worm",
 			"timesDropped": 568,
-			"dropRate": 0.020517266290998412
+			"dropRate": 0.020509857730916445
 		},
 		{
 			"itemName": "Coal",
 			"timesDropped": 60,
-			"dropRate": 0.002167316861725184
+			"dropRate": 0.0021665342673503284
 		}
 	]
 }

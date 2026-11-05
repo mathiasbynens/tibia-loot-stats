@@ -1,71 +1,71 @@
 {
 	"monsterName": "Minotaur",
-	"timesKilled": 215606,
+	"timesKilled": 215625,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 143043,
-			"dropRate": 0.6634462862814579
+			"timesDropped": 143053,
+			"dropRate": 0.6634342028985507
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 43137,
-			"dropRate": 0.20007328181961542
+			"timesDropped": 43140,
+			"dropRate": 0.2000695652173913
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 28031,
-			"dropRate": 0.13001029655946494
+			"timesDropped": 28034,
+			"dropRate": 0.1300127536231884
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 21650,
-			"dropRate": 0.10041464523250744
+			"timesDropped": 21652,
+			"dropRate": 0.10041507246376812
 		},
 		{
 			"itemName": "Brass Helmet",
-			"timesDropped": 17255,
-			"dropRate": 0.08003024034581598
+			"timesDropped": 17257,
+			"dropRate": 0.08003246376811594
 		},
 		{
 			"itemName": "Meat",
 			"timesDropped": 10749,
-			"dropRate": 0.049854827787723904
+			"dropRate": 0.0498504347826087
 		},
 		{
 			"itemName": "Sword",
 			"timesDropped": 10720,
-			"dropRate": 0.049720323182100686
+			"dropRate": 0.04971594202898551
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 8554,
-			"dropRate": 0.03967422056900086
+			"timesDropped": 8556,
+			"dropRate": 0.03968
 		},
 		{
 			"itemName": "Minotaur Horn",
 			"timesDropped": 4385,
-			"dropRate": 0.0203380239882007
+			"dropRate": 0.020336231884057972
 		},
 		{
 			"itemName": "Minotaur Leather",
 			"timesDropped": 2153,
-			"dropRate": 0.009985807445061825
+			"dropRate": 0.009984927536231885
 		},
 		{
 			"itemName": "Shovel",
 			"timesDropped": 665,
-			"dropRate": 0.00308432974963591
+			"dropRate": 0.0030840579710144926
 		},
 		{
 			"itemName": "Bronze Amulet",
 			"timesDropped": 235,
-			"dropRate": 0.0010899511145329908
+			"dropRate": 0.001089855072463768
 		},
 		{
 			"itemName": "Soul Prism",
 			"timesDropped": 1,
-			"dropRate": 0.000004638089849076556
+			"dropRate": 0.00000463768115942029
 		}
 	]
 }
