@@ -1,61 +1,61 @@
 {
 	"monsterName": "Crusader",
-	"timesKilled": 10372,
+	"timesKilled": 10521,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8767,
-			"dropRate": 0.8452564596991902
+			"timesDropped": 8887,
+			"dropRate": 0.8446915692424675
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 6514,
-			"dropRate": 0.6280370227535673
+			"timesDropped": 6616,
+			"dropRate": 0.6288375629692995
 		},
 		{
 			"itemName": "Torn Page",
-			"timesDropped": 785,
-			"dropRate": 0.07568453528731199
+			"timesDropped": 798,
+			"dropRate": 0.07584830339321358
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 673,
-			"dropRate": 0.06488623216351716
+			"timesDropped": 680,
+			"dropRate": 0.06463263948293889
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 537,
-			"dropRate": 0.051774006941766294
+			"timesDropped": 547,
+			"dropRate": 0.05199125558406995
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 356,
-			"dropRate": 0.03432317778634786
+			"timesDropped": 359,
+			"dropRate": 0.03412223172702215
 		},
 		{
 			"itemName": "Knight Axe",
-			"timesDropped": 342,
-			"dropRate": 0.032973389895873506
+			"timesDropped": 348,
+			"dropRate": 0.03307670373538637
 		},
 		{
 			"itemName": "Cookbook (Creature Product)",
-			"timesDropped": 316,
-			"dropRate": 0.030466640956421133
+			"timesDropped": 321,
+			"dropRate": 0.03051040775591674
 		},
 		{
 			"itemName": "Ancient Shield",
-			"timesDropped": 145,
-			"dropRate": 0.013979946008484382
+			"timesDropped": 147,
+			"dropRate": 0.013972055888223553
 		},
 		{
 			"itemName": "Warrior Helmet",
 			"timesDropped": 33,
-			"dropRate": 0.0031816428846895488
+			"dropRate": 0.003136583974907328
 		},
 		{
 			"itemName": "Onyx Chip",
 			"timesDropped": 1,
-			"dropRate": 0.00009641342074816814
+			"dropRate": 0.000095047999239616
 		}
 	]
 }

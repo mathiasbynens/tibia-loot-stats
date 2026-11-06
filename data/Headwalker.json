@@ -1,61 +1,61 @@
 {
 	"monsterName": "Headwalker",
-	"timesKilled": 10353,
+	"timesKilled": 10491,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9802,
-			"dropRate": 0.9467787114845938
+			"timesDropped": 9935,
+			"dropRate": 0.9470021923553522
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 7029,
-			"dropRate": 0.6789336424224862
+			"timesDropped": 7122,
+			"dropRate": 0.6788676008006863
 		},
 		{
 			"itemName": "Torn Page",
-			"timesDropped": 715,
-			"dropRate": 0.06906210760166136
+			"timesDropped": 724,
+			"dropRate": 0.06901153369554856
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 470,
-			"dropRate": 0.045397469332560614
+			"timesDropped": 478,
+			"dropRate": 0.045562863406729576
 		},
 		{
 			"itemName": "Book with an Hourglass",
-			"timesDropped": 452,
-			"dropRate": 0.04365884284748382
+			"timesDropped": 460,
+			"dropRate": 0.04384710704413307
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 398,
-			"dropRate": 0.038442963392253456
+			"timesDropped": 405,
+			"dropRate": 0.0386045181584215
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 333,
-			"dropRate": 0.032164589973920604
+			"timesDropped": 340,
+			"dropRate": 0.03240873129348966
 		},
 		{
 			"itemName": "Protection Amulet",
-			"timesDropped": 240,
-			"dropRate": 0.023181686467690525
+			"timesDropped": 245,
+			"dropRate": 0.02335335049089696
 		},
 		{
 			"itemName": "Black Pearl",
 			"timesDropped": 121,
-			"dropRate": 0.011687433594127307
+			"dropRate": 0.011533695548565436
 		},
 		{
 			"itemName": "Blank Imbuement Scroll",
 			"timesDropped": 64,
-			"dropRate": 0.006181783058050807
+			"dropRate": 0.006100467067009818
 		},
 		{
 			"itemName": "Life Ring",
 			"timesDropped": 36,
-			"dropRate": 0.0034772529701535787
+			"dropRate": 0.0034315127251930227
 		}
 	]
 }

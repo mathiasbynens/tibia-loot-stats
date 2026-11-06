@@ -1,51 +1,51 @@
 {
 	"monsterName": "Orc Spearman",
-	"timesKilled": 23462,
+	"timesKilled": 23463,
 	"items": [
 		{
 			"itemName": "Meat",
 			"timesDropped": 7142,
-			"dropRate": 0.30440712641718526
+			"dropRate": 0.3043941524954183
 		},
 		{
 			"itemName": "Gold Coin",
 			"timesDropped": 5732,
-			"dropRate": 0.24430994800102293
+			"dropRate": 0.24429953543877594
 		},
 		{
 			"itemName": "Spear",
 			"timesDropped": 4206,
-			"dropRate": 0.1792686045520416
+			"dropRate": 0.17926096407109066
 		},
 		{
 			"itemName": "Studded Legs",
 			"timesDropped": 2223,
-			"dropRate": 0.09474895575824738
+			"dropRate": 0.09474491752972766
 		},
 		{
 			"itemName": "Studded Helmet",
 			"timesDropped": 2067,
-			"dropRate": 0.08809990623135283
+			"dropRate": 0.08809615138729063
 		},
 		{
 			"itemName": "Machete",
 			"timesDropped": 679,
-			"dropRate": 0.02894041428693206
+			"dropRate": 0.028939180837915014
 		},
 		{
 			"itemName": "Heavy Old Tome",
 			"timesDropped": 482,
-			"dropRate": 0.02054385815361009
+			"dropRate": 0.020542982568299024
 		},
 		{
 			"itemName": "Orc Leather",
 			"timesDropped": 454,
-			"dropRate": 0.019350439007757226
+			"dropRate": 0.019349614286323147
 		},
 		{
 			"itemName": "Orc Tooth",
 			"timesDropped": 32,
-			"dropRate": 0.0013639075952604212
+			"dropRate": 0.001363849465115288
 		}
 	]
 }

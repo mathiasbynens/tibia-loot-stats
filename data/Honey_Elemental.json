@@ -1,71 +1,71 @@
 {
 	"monsterName": "Honey Elemental",
-	"timesKilled": 2155,
+	"timesKilled": 2174,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2155,
+			"timesDropped": 2174,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1814,
-			"dropRate": 0.8417633410672853
+			"timesDropped": 1828,
+			"dropRate": 0.8408463661453542
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 121,
-			"dropRate": 0.05614849187935035
+			"dropRate": 0.05565777368905244
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 71,
-			"dropRate": 0.032946635730858466
+			"timesDropped": 72,
+			"dropRate": 0.03311867525298988
 		},
 		{
 			"itemName": "Honeycomb",
-			"timesDropped": 70,
-			"dropRate": 0.03248259860788863
+			"timesDropped": 71,
+			"dropRate": 0.03265869365225391
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 63,
-			"dropRate": 0.02923433874709977
+			"dropRate": 0.028978840846366146
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 54,
-			"dropRate": 0.02505800464037123
+			"dropRate": 0.02483900643974241
 		},
 		{
 			"itemName": "Beijinho",
-			"timesDropped": 37,
-			"dropRate": 0.01716937354988399
+			"timesDropped": 38,
+			"dropRate": 0.017479300827966882
 		},
 		{
 			"itemName": "Magma Legs",
 			"timesDropped": 21,
-			"dropRate": 0.00974477958236659
+			"dropRate": 0.009659613615455382
 		},
 		{
 			"itemName": "Magma Boots",
 			"timesDropped": 20,
-			"dropRate": 0.009280742459396751
+			"dropRate": 0.00919963201471941
 		},
 		{
 			"itemName": "Terra Amulet",
-			"timesDropped": 9,
-			"dropRate": 0.004176334106728539
+			"timesDropped": 10,
+			"dropRate": 0.004599816007359705
 		},
 		{
 			"itemName": "Dark Chocolate Coin",
 			"timesDropped": 8,
-			"dropRate": 0.0037122969837587007
+			"dropRate": 0.0036798528058877645
 		},
 		{
 			"itemName": "Fire Sword",
 			"timesDropped": 7,
-			"dropRate": 0.0032482598607888632
+			"dropRate": 0.003219871205151794
 		}
 	]
 }

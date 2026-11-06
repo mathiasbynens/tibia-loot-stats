@@ -1,71 +1,71 @@
 {
 	"monsterName": "Candy Horror",
-	"timesKilled": 14174,
+	"timesKilled": 14269,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 14174,
+			"timesDropped": 14269,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 11482,
-			"dropRate": 0.810074784817271
+			"timesDropped": 11562,
+			"dropRate": 0.8102880370032939
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 935,
-			"dropRate": 0.06596585297022718
+			"timesDropped": 942,
+			"dropRate": 0.06601724017100007
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 824,
-			"dropRate": 0.05813461267108791
+			"timesDropped": 830,
+			"dropRate": 0.05816805662625272
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 735,
-			"dropRate": 0.05185551008889516
+			"timesDropped": 739,
+			"dropRate": 0.05179059499614549
 		},
 		{
 			"itemName": "Black Shield",
-			"timesDropped": 399,
-			"dropRate": 0.028150134048257374
+			"timesDropped": 402,
+			"dropRate": 0.028172962365968182
 		},
 		{
 			"itemName": "Gummy Rotworm",
-			"timesDropped": 320,
-			"dropRate": 0.022576548610131225
+			"timesDropped": 321,
+			"dropRate": 0.0224963206952134
 		},
 		{
 			"itemName": "Wand of Decay",
-			"timesDropped": 316,
-			"dropRate": 0.022294341752504585
+			"timesDropped": 318,
+			"dropRate": 0.022286074707407667
 		},
 		{
 			"itemName": "Brigadeiro",
-			"timesDropped": 205,
-			"dropRate": 0.014463101453365317
+			"timesDropped": 209,
+			"dropRate": 0.014647137150466045
 		},
 		{
 			"itemName": "Strawberry",
-			"timesDropped": 180,
-			"dropRate": 0.012699308593198814
+			"timesDropped": 183,
+			"dropRate": 0.012825005256149696
 		},
 		{
 			"itemName": "Violet Gem",
 			"timesDropped": 166,
-			"dropRate": 0.011711584591505574
+			"dropRate": 0.011633611325250544
 		},
 		{
 			"itemName": "Dark Chocolate Coin",
 			"timesDropped": 72,
-			"dropRate": 0.0050797234372795255
+			"dropRate": 0.005045903707337585
 		},
 		{
 			"itemName": "Dreaded Cleaver",
 			"timesDropped": 8,
-			"dropRate": 0.0005644137152532807
+			"dropRate": 0.0005606559674819539
 		}
 	]
 }

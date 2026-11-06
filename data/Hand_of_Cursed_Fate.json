@@ -1,26 +1,116 @@
 {
 	"monsterName": "Hand of Cursed Fate",
-	"timesKilled": 1,
+	"timesKilled": 90,
 	"items": [
 		{
-			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 1,
-			"dropRate": 1
-		},
-		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1,
+			"timesDropped": 90,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1,
-			"dropRate": 1
+			"timesDropped": 80,
+			"dropRate": 0.8888888888888888
+		},
+		{
+			"itemName": "Great Mana Potion",
+			"timesDropped": 28,
+			"dropRate": 0.3111111111111111
+		},
+		{
+			"itemName": "Flask of Demonic Blood",
+			"timesDropped": 27,
+			"dropRate": 0.3
 		},
 		{
 			"itemName": "Soul Orb",
+			"timesDropped": 26,
+			"dropRate": 0.28888888888888886
+		},
+		{
+			"itemName": "Small Sapphire",
+			"timesDropped": 19,
+			"dropRate": 0.2111111111111111
+		},
+		{
+			"itemName": "Mind Stone",
+			"timesDropped": 16,
+			"dropRate": 0.17777777777777778
+		},
+		{
+			"itemName": "Ultimate Health Potion",
+			"timesDropped": 16,
+			"dropRate": 0.17777777777777778
+		},
+		{
+			"itemName": "Assassin Star",
+			"timesDropped": 12,
+			"dropRate": 0.13333333333333333
+		},
+		{
+			"itemName": "Demonic Essence",
+			"timesDropped": 10,
+			"dropRate": 0.1111111111111111
+		},
+		{
+			"itemName": "Protection Amulet",
+			"timesDropped": 10,
+			"dropRate": 0.1111111111111111
+		},
+		{
+			"itemName": "Yellow Gem",
+			"timesDropped": 8,
+			"dropRate": 0.08888888888888889
+		},
+		{
+			"itemName": "Wand of Inferno",
+			"timesDropped": 5,
+			"dropRate": 0.05555555555555555
+		},
+		{
+			"itemName": "Sudden Death Rune",
+			"timesDropped": 4,
+			"dropRate": 0.044444444444444446
+		},
+		{
+			"itemName": "Blue Gem",
+			"timesDropped": 3,
+			"dropRate": 0.03333333333333333
+		},
+		{
+			"itemName": "Energy Ring",
+			"timesDropped": 3,
+			"dropRate": 0.03333333333333333
+		},
+		{
+			"itemName": "Emerald Bangle",
+			"timesDropped": 2,
+			"dropRate": 0.022222222222222223
+		},
+		{
+			"itemName": "Knight Armor",
+			"timesDropped": 2,
+			"dropRate": 0.022222222222222223
+		},
+		{
+			"itemName": "Violet Gem",
+			"timesDropped": 2,
+			"dropRate": 0.022222222222222223
+		},
+		{
+			"itemName": "Death Ring",
 			"timesDropped": 1,
-			"dropRate": 1
+			"dropRate": 0.011111111111111112
+		},
+		{
+			"itemName": "Gold Ingot",
+			"timesDropped": 1,
+			"dropRate": 0.011111111111111112
+		},
+		{
+			"itemName": "Skull Staff",
+			"timesDropped": 1,
+			"dropRate": 0.011111111111111112
 		}
 	]
 }
