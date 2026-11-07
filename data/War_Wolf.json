@@ -1,26 +1,26 @@
 {
 	"monsterName": "War Wolf",
-	"timesKilled": 17983,
+	"timesKilled": 18016,
 	"items": [
 		{
 			"itemName": "Ham",
-			"timesDropped": 7075,
-			"dropRate": 0.39342712561863985
+			"timesDropped": 7090,
+			"dropRate": 0.39353907637655416
 		},
 		{
 			"itemName": "Warwolf Fur",
-			"timesDropped": 887,
-			"dropRate": 0.04932436189734749
+			"timesDropped": 893,
+			"dropRate": 0.049567051509769096
 		},
 		{
 			"itemName": "Wolf Paw",
-			"timesDropped": 168,
-			"dropRate": 0.009342156481121059
+			"timesDropped": 169,
+			"dropRate": 0.009380550621669627
 		},
 		{
 			"itemName": "Wolf Trophy",
 			"timesDropped": 11,
-			"dropRate": 0.0006116888172162598
+			"dropRate": 0.0006105683836589699
 		}
 	]
 }

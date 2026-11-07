@@ -1,66 +1,66 @@
 {
 	"monsterName": "Goblin",
-	"timesKilled": 49113,
+	"timesKilled": 49117,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 24653,
-			"dropRate": 0.5019648565552909
+			"timesDropped": 24654,
+			"dropRate": 0.5019443369912657
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 7463,
-			"dropRate": 0.15195569401176878
+			"timesDropped": 7464,
+			"dropRate": 0.15196367856343018
 		},
 		{
 			"itemName": "Fish",
 			"timesDropped": 6374,
-			"dropRate": 0.129782338688331
+			"dropRate": 0.1297717694484598
 		},
 		{
 			"itemName": "Small Axe",
-			"timesDropped": 4814,
-			"dropRate": 0.09801885447844766
+			"timesDropped": 4815,
+			"dropRate": 0.09803123154915813
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 4318,
-			"dropRate": 0.0879196953963309
+			"timesDropped": 4319,
+			"dropRate": 0.08793289492436428
 		},
 		{
 			"itemName": "Bone Club",
 			"timesDropped": 2432,
-			"dropRate": 0.04951845743489504
+			"dropRate": 0.04951442474092473
 		},
 		{
 			"itemName": "Leather Armor",
 			"timesDropped": 1252,
-			"dropRate": 0.02549223219921406
+			"dropRate": 0.025490156157745792
 		},
 		{
 			"itemName": "Leather Helmet",
 			"timesDropped": 956,
-			"dropRate": 0.019465314682466962
+			"dropRate": 0.019463729462304295
 		},
 		{
 			"itemName": "Dagger",
 			"timesDropped": 873,
-			"dropRate": 0.017775334432838557
+			"dropRate": 0.017773886841623062
 		},
 		{
 			"itemName": "Bone",
 			"timesDropped": 526,
-			"dropRate": 0.0107099953169222
+			"dropRate": 0.010709123114196714
 		},
 		{
 			"itemName": "Mouldy Cheese",
 			"timesDropped": 482,
-			"dropRate": 0.009814102172540876
+			"dropRate": 0.009813302929739195
 		},
 		{
 			"itemName": "Goblin Ear",
 			"timesDropped": 480,
-			"dropRate": 0.009773379756887178
+			"dropRate": 0.00977258383044567
 		}
 	]
 }

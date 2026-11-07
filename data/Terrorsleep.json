@@ -1,126 +1,126 @@
 {
 	"monsterName": "Terrorsleep",
-	"timesKilled": 477,
+	"timesKilled": 839,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 477,
+			"timesDropped": 839,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 477,
+			"timesDropped": 839,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 154,
-			"dropRate": 0.3228511530398323
+			"timesDropped": 275,
+			"dropRate": 0.32777115613825986
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 105,
-			"dropRate": 0.22012578616352202
+			"timesDropped": 186,
+			"dropRate": 0.22169249106078665
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 82,
-			"dropRate": 0.1719077568134172
-		},
-		{
-			"itemName": "Small Topaz",
-			"timesDropped": 73,
-			"dropRate": 0.1530398322851153
-		},
-		{
-			"itemName": "Bowl of Terror Sweat",
-			"timesDropped": 71,
-			"dropRate": 0.1488469601677149
-		},
-		{
-			"itemName": "Trapped Bad Dream Monster",
-			"timesDropped": 68,
-			"dropRate": 0.14255765199161424
+			"timesDropped": 139,
+			"dropRate": 0.16567342073897498
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 66,
-			"dropRate": 0.13836477987421383
+			"timesDropped": 126,
+			"dropRate": 0.1501787842669845
 		},
 		{
-			"itemName": "Small Ruby",
-			"timesDropped": 66,
-			"dropRate": 0.13836477987421383
+			"itemName": "Bowl of Terror Sweat",
+			"timesDropped": 122,
+			"dropRate": 0.14541120381406436
+		},
+		{
+			"itemName": "Trapped Bad Dream Monster",
+			"timesDropped": 115,
+			"dropRate": 0.13706793802145412
+		},
+		{
+			"itemName": "Small Topaz",
+			"timesDropped": 114,
+			"dropRate": 0.13587604290822408
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 63,
-			"dropRate": 0.1320754716981132
+			"timesDropped": 112,
+			"dropRate": 0.133492252681764
+		},
+		{
+			"itemName": "Small Ruby",
+			"timesDropped": 106,
+			"dropRate": 0.1263408820023838
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 56,
-			"dropRate": 0.11740041928721175
+			"timesDropped": 101,
+			"dropRate": 0.12038140643623362
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 43,
-			"dropRate": 0.09014675052410902
+			"timesDropped": 85,
+			"dropRate": 0.10131108462455304
 		},
 		{
 			"itemName": "Blue Piece of Cloth",
-			"timesDropped": 22,
-			"dropRate": 0.04612159329140461
-		},
-		{
-			"itemName": "Knight Armor",
-			"timesDropped": 15,
-			"dropRate": 0.031446540880503145
-		},
-		{
-			"itemName": "Fish Fin",
-			"timesDropped": 13,
-			"dropRate": 0.027253668763102725
+			"timesDropped": 34,
+			"dropRate": 0.04052443384982122
 		},
 		{
 			"itemName": "White Piece of Cloth",
-			"timesDropped": 13,
-			"dropRate": 0.027253668763102725
+			"timesDropped": 28,
+			"dropRate": 0.033373063170441
+		},
+		{
+			"itemName": "Knight Armor",
+			"timesDropped": 21,
+			"dropRate": 0.025029797377830752
+		},
+		{
+			"itemName": "Fish Fin",
+			"timesDropped": 20,
+			"dropRate": 0.023837902264600714
 		},
 		{
 			"itemName": "Warrior Helmet",
-			"timesDropped": 12,
-			"dropRate": 0.025157232704402517
+			"timesDropped": 18,
+			"dropRate": 0.021454112038140644
 		},
 		{
 			"itemName": "Collar of Orange Plasma",
-			"timesDropped": 10,
-			"dropRate": 0.020964360587002098
+			"timesDropped": 17,
+			"dropRate": 0.02026221692491061
 		},
 		{
 			"itemName": "Blue Robe",
-			"timesDropped": 9,
-			"dropRate": 0.018867924528301886
-		},
-		{
-			"itemName": "Broken Dream",
-			"timesDropped": 7,
-			"dropRate": 0.014675052410901468
-		},
-		{
-			"itemName": "Red Piece of Cloth",
-			"timesDropped": 7,
-			"dropRate": 0.014675052410901468
+			"timesDropped": 16,
+			"dropRate": 0.01907032181168057
 		},
 		{
 			"itemName": "Giant Sword",
-			"timesDropped": 6,
-			"dropRate": 0.012578616352201259
+			"timesDropped": 16,
+			"dropRate": 0.01907032181168057
+		},
+		{
+			"itemName": "Broken Dream",
+			"timesDropped": 13,
+			"dropRate": 0.015494636471990465
+		},
+		{
+			"itemName": "Red Piece of Cloth",
+			"timesDropped": 12,
+			"dropRate": 0.014302741358760428
 		},
 		{
 			"itemName": "Cluster of Solace",
-			"timesDropped": 5,
-			"dropRate": 0.010482180293501049
+			"timesDropped": 9,
+			"dropRate": 0.010727056019070322
 		}
 	]
 }

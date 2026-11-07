@@ -1,76 +1,76 @@
 {
 	"monsterName": "Sphinx",
-	"timesKilled": 27912,
+	"timesKilled": 28284,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 27912,
+			"timesDropped": 28284,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Sphinx Feather",
-			"timesDropped": 2019,
-			"dropRate": 0.07233447979363715
+			"timesDropped": 2040,
+			"dropRate": 0.07212558336868902
 		},
 		{
 			"itemName": "Magma Amulet",
-			"timesDropped": 1669,
-			"dropRate": 0.05979507022069361
+			"timesDropped": 1687,
+			"dropRate": 0.05964502899165606
 		},
 		{
 			"itemName": "Sphinx Tiara",
-			"timesDropped": 1623,
-			"dropRate": 0.05814703353396389
+			"timesDropped": 1646,
+			"dropRate": 0.0581954461886579
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 1531,
-			"dropRate": 0.05485096016050444
+			"timesDropped": 1546,
+			"dropRate": 0.05465987837646726
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 1200,
-			"dropRate": 0.04299226139294927
+			"timesDropped": 1221,
+			"dropRate": 0.04316928298684769
 		},
 		{
 			"itemName": "Magma Boots",
-			"timesDropped": 987,
-			"dropRate": 0.035361134995700774
+			"timesDropped": 997,
+			"dropRate": 0.03524961108754066
 		},
 		{
 			"itemName": "White Pearl",
-			"timesDropped": 923,
-			"dropRate": 0.03306821438807681
+			"timesDropped": 933,
+			"dropRate": 0.03298684768773865
 		},
 		{
 			"itemName": "Lightning Headband",
-			"timesDropped": 836,
-			"dropRate": 0.02995127543708799
+			"timesDropped": 845,
+			"dropRate": 0.02987554801301089
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 663,
-			"dropRate": 0.023753224419604473
+			"timesDropped": 675,
+			"dropRate": 0.023865082732286807
 		},
 		{
 			"itemName": "Wand of Defiance",
-			"timesDropped": 585,
-			"dropRate": 0.020958727429062768
+			"timesDropped": 590,
+			"dropRate": 0.020859850091924762
 		},
 		{
 			"itemName": "Wand of Starstorm",
-			"timesDropped": 559,
-			"dropRate": 0.020027228432215535
+			"timesDropped": 566,
+			"dropRate": 0.02001131381699901
 		},
 		{
 			"itemName": "Magma Monocle",
-			"timesDropped": 536,
-			"dropRate": 0.019203210088850675
+			"timesDropped": 551,
+			"dropRate": 0.019480978645170413
 		},
 		{
 			"itemName": "Magma Legs",
-			"timesDropped": 307,
-			"dropRate": 0.010998853539696188
+			"timesDropped": 312,
+			"dropRate": 0.01103097157403479
 		}
 	]
 }

@@ -1,91 +1,91 @@
 {
 	"monsterName": "Wereboar",
-	"timesKilled": 9153,
+	"timesKilled": 9174,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 9153,
+			"timesDropped": 9174,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 7295,
-			"dropRate": 0.7970064459739976
+			"timesDropped": 7307,
+			"dropRate": 0.7964900806627425
 		},
 		{
 			"itemName": "Wereboar Tusks",
-			"timesDropped": 1370,
-			"dropRate": 0.14967770130012018
+			"timesDropped": 1376,
+			"dropRate": 0.1499890996293874
 		},
 		{
 			"itemName": "Wereboar Hooves",
-			"timesDropped": 1338,
-			"dropRate": 0.1461815798098984
+			"timesDropped": 1342,
+			"dropRate": 0.14628297362110312
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 648,
-			"dropRate": 0.07079646017699115
+			"timesDropped": 649,
+			"dropRate": 0.07074340527577938
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 436,
-			"dropRate": 0.04763465530427182
+			"dropRate": 0.04752561587093961
 		},
 		{
 			"itemName": "Moonlight Crystals",
 			"timesDropped": 220,
-			"dropRate": 0.024035835245274775
+			"dropRate": 0.023980815347721823
 		},
 		{
 			"itemName": "Ultimate Health Potion",
 			"timesDropped": 167,
-			"dropRate": 0.01824538402709494
+			"dropRate": 0.018203618923043383
 		},
 		{
 			"itemName": "Wereboar Loincloth",
-			"timesDropped": 146,
-			"dropRate": 0.015951054299136895
+			"timesDropped": 147,
+			"dropRate": 0.016023544800523218
 		},
 		{
 			"itemName": "Small Enchanted Ruby",
-			"timesDropped": 138,
-			"dropRate": 0.015077023926581449
+			"timesDropped": 139,
+			"dropRate": 0.015151515151515152
 		},
 		{
 			"itemName": "Berserk Potion",
 			"timesDropped": 89,
-			"dropRate": 0.00972358789467934
+			"dropRate": 0.009701329845214737
 		},
 		{
 			"itemName": "Werewolf Amulet",
 			"timesDropped": 71,
-			"dropRate": 0.007757019556429586
+			"dropRate": 0.007739263134946588
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 60,
-			"dropRate": 0.006555227794165847
+			"dropRate": 0.006540222367560497
 		},
 		{
 			"itemName": "Furry Club",
 			"timesDropped": 57,
-			"dropRate": 0.006227466404457555
+			"dropRate": 0.006213211249182472
 		},
 		{
 			"itemName": "Fur Armor",
 			"timesDropped": 34,
-			"dropRate": 0.0037146290833606466
+			"dropRate": 0.003706126008284282
 		},
 		{
 			"itemName": "Wereboar Trophy",
 			"timesDropped": 21,
-			"dropRate": 0.0022943297279580466
+			"dropRate": 0.002289077828646174
 		},
 		{
 			"itemName": "Dreaded Cleaver",
 			"timesDropped": 8,
-			"dropRate": 0.0008740303725554463
+			"dropRate": 0.0008720296490080662
 		}
 	]
 }

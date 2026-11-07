@@ -1,56 +1,56 @@
 {
 	"monsterName": "Wild Warrior",
-	"timesKilled": 18688,
+	"timesKilled": 18700,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 12275,
-			"dropRate": 0.6568386130136986
+			"timesDropped": 12282,
+			"dropRate": 0.6567914438502673
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 3923,
-			"dropRate": 0.20992080479452055
+			"timesDropped": 3926,
+			"dropRate": 0.20994652406417114
 		},
 		{
 			"itemName": "Brass Shield",
-			"timesDropped": 3244,
-			"dropRate": 0.1735873287671233
+			"timesDropped": 3249,
+			"dropRate": 0.17374331550802138
 		},
 		{
 			"itemName": "Mace",
 			"timesDropped": 2485,
-			"dropRate": 0.1329730308219178
+			"dropRate": 0.13288770053475935
 		},
 		{
 			"itemName": "Egg",
 			"timesDropped": 2359,
-			"dropRate": 0.12623073630136986
+			"dropRate": 0.12614973262032086
 		},
 		{
 			"itemName": "Chain Helmet",
 			"timesDropped": 991,
-			"dropRate": 0.053028681506849314
+			"dropRate": 0.05299465240641711
 		},
 		{
 			"itemName": "Brass Armor",
-			"timesDropped": 495,
-			"dropRate": 0.026487585616438356
+			"timesDropped": 496,
+			"dropRate": 0.026524064171122994
 		},
 		{
 			"itemName": "Steel Shield",
 			"timesDropped": 225,
-			"dropRate": 0.012039811643835616
+			"dropRate": 0.012032085561497326
 		},
 		{
 			"itemName": "Iron Helmet",
 			"timesDropped": 181,
-			"dropRate": 0.009685359589041096
+			"dropRate": 0.009679144385026739
 		},
 		{
 			"itemName": "Doll",
 			"timesDropped": 97,
-			"dropRate": 0.005190496575342466
+			"dropRate": 0.005187165775401069
 		}
 	]
 }
