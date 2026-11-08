@@ -1,41 +1,41 @@
 {
 	"monsterName": "Lizard Magistratus",
-	"timesKilled": 1290,
+	"timesKilled": 1291,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1016,
-			"dropRate": 0.7875968992248062
+			"timesDropped": 1017,
+			"dropRate": 0.7877614252517429
 		},
 		{
 			"itemName": "Platinum Coin",
 			"timesDropped": 198,
-			"dropRate": 0.15348837209302327
+			"dropRate": 0.1533694810224632
 		},
 		{
 			"itemName": "Small Ruby",
 			"timesDropped": 124,
-			"dropRate": 0.09612403100775194
+			"dropRate": 0.09604957397366383
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 98,
-			"dropRate": 0.07596899224806201
+			"dropRate": 0.07591014717273431
 		},
 		{
 			"itemName": "Great Mana Potion",
 			"timesDropped": 67,
-			"dropRate": 0.05193798449612403
+			"dropRate": 0.051897753679318356
 		},
 		{
 			"itemName": "Lizard Leather",
 			"timesDropped": 16,
-			"dropRate": 0.012403100775193798
+			"dropRate": 0.012393493415956624
 		},
 		{
 			"itemName": "Lizard Scale",
 			"timesDropped": 8,
-			"dropRate": 0.006201550387596899
+			"dropRate": 0.006196746707978312
 		}
 	]
 }
