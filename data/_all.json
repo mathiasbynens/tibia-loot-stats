@@ -133,19 +133,19 @@
 	},
 	"ancient scarab": {
 		"Gold Coin": 1,
-		"Magic Light Wand": 0.10284475751828773,
-		"Scarab Coin": 0.08065564887564346,
-		"Scarab Pincers": 0.07120021674342997,
-		"Small Emerald": 0.060254673530208615,
-		"Small Amethyst": 0.059848279599024654,
-		"Plate Armor": 0.04966133839068003,
-		"Scarab Amulet": 0.035871037659170955,
-		"Ancient Amulet": 0.02489840151720401,
-		"Strong Health Potion": 0.015686805743700894,
-		"Springsprout Rod": 0.009509617989704688,
-		"Scarab Shield": 0.005228935247900298,
-		"Terra Hood": 0.004389054456786778,
-		"Daramian Waraxe": 0.0028176645895421296
+		"Magic Light Wand": 0.10279994589476532,
+		"Scarab Coin": 0.08064385229270932,
+		"Scarab Pincers": 0.07114838360611389,
+		"Small Emerald": 0.06030028405248208,
+		"Small Amethyst": 0.059867442175030434,
+		"Plate Armor": 0.049668605437576084,
+		"Scarab Amulet": 0.03584471797646422,
+		"Ancient Amulet": 0.02499661842283241,
+		"Strong Health Potion": 0.0157175706749628,
+		"Springsprout Rod": 0.009522521303936157,
+		"Scarab Shield": 0.005248207764101177,
+		"Terra Hood": 0.0043825240091978895,
+		"Daramian Waraxe": 0.0028134722034356824
 	},
 	"angry sugar fairy": {
 		"Platinum Coin": 0.9181077320612204,
@@ -476,13 +476,13 @@
 		"Haunted Blade": 0.006837606837606838
 	},
 	"bat": {
-		"Bat Wing": 0.01072885982217658
+		"Bat Wing": 0.010738599524529933
 	},
 	"bear": {
-		"Meat": 0.39992515944292595,
-		"Ham": 0.19910842118963945,
-		"Bear Paw": 0.019979174801509826,
-		"Honeycomb": 0.004815827150852532
+		"Meat": 0.3999056404249435,
+		"Ham": 0.1990987033692876,
+		"Bear Paw": 0.01997819968438349,
+		"Honeycomb": 0.00481559210633348
 	},
 	"behemoth": {
 		"Gold Coin": 1,
@@ -599,28 +599,28 @@
 	"blightwalker": {
 		"Gold Coin": 1,
 		"Platinum Coin": 1,
-		"Bunch of Wheat": 0.5014352308999472,
-		"Great Mana Potion": 0.3019266539600891,
-		"Demonic Essence": 0.29884951891060235,
-		"Soul Orb": 0.25689484924334627,
-		"Blank Rune": 0.25124578042115414,
-		"Bundle of Cursed Straw": 0.15204262061680482,
-		"Ultimate Health Potion": 0.1500218155096792,
-		"Hailstorm Rod": 0.09984614324752566,
-		"Assassin Star": 0.07543573610122396,
-		"Gold Ingot": 0.04930305187498565,
-		"Giant Shimmering Pearl (Green)": 0.04868303212620846,
-		"Seeds": 0.03995682825452959,
-		"Scythe": 0.029140928192527615,
-		"Terra Legs": 0.025604519255057755,
-		"Garlic Necklace": 0.020736216042436906,
-		"Skull Staff": 0.020667324959239442,
-		"Gold Ring": 0.015385675247433808,
-		"Death Ring": 0.0139619261946862,
-		"Terra Mantle": 0.009989207063632398,
-		"Stone Skin Amulet": 0.002939352883091832,
-		"Amulet of Loss": 0.00181413185753324,
-		"Golden Sickle": 0.0012630031919535214
+		"Bunch of Wheat": 0.5015006821282401,
+		"Great Mana Potion": 0.30193269668030925,
+		"Demonic Essence": 0.2987721691678035,
+		"Soul Orb": 0.2568212824010914,
+		"Blank Rune": 0.25115961800818554,
+		"Bundle of Cursed Straw": 0.15202364711232377,
+		"Ultimate Health Potion": 0.15011368804001818,
+		"Hailstorm Rod": 0.09968167348794907,
+		"Assassin Star": 0.0755343337880855,
+		"Gold Ingot": 0.049363346975898136,
+		"Giant Shimmering Pearl (Green)": 0.0488631195998181,
+		"Seeds": 0.03988176443838108,
+		"Scythe": 0.0291268758526603,
+		"Terra Legs": 0.02555707139608913,
+		"Garlic Necklace": 0.020736698499317873,
+		"Skull Staff": 0.020600272851296043,
+		"Gold Ring": 0.015438835834470213,
+		"Death Ring": 0.01398362892223738,
+		"Terra Mantle": 0.009959072305593451,
+		"Stone Skin Amulet": 0.002933151432469304,
+		"Amulet of Loss": 0.0017962710322874033,
+		"Golden Sickle": 0.0012505684402000909
 	},
 	"bloated man-maggot": {
 		"Crystal Coin": 0.5515370705244123,
@@ -756,18 +756,18 @@
 		"Paladin Armor": 0.001352247116531884
 	},
 	"bonebeast": {
-		"Bone": 0.49463288965221125,
-		"Gold Coin": 0.28853585229712325,
-		"Skull": 0.19879776728209533,
-		"Bony Tail": 0.10118792042364391,
-		"Plate Armor": 0.0804350937455274,
-		"Bone Club": 0.049949906970087304,
-		"Bone Shield": 0.022899670817232,
-		"Green Mushroom": 0.015457277801631602,
-		"Hardened Bone": 0.012308573064262201,
-		"Health Potion": 0.0038643194504079004,
-		"Bonebeast Trophy": 0.0011449835408616,
-		"Stone Skin Amulet": 0.0010018605982539
+		"Bone": 0.49484978540772534,
+		"Gold Coin": 0.28841201716738196,
+		"Skull": 0.19871244635193133,
+		"Bony Tail": 0.1011444921316166,
+		"Plate Armor": 0.08054363376251789,
+		"Bone Club": 0.049928469241773965,
+		"Bone Shield": 0.022889842632331903,
+		"Green Mushroom": 0.015450643776824034,
+		"Hardened Bone": 0.012303290414878397,
+		"Health Potion": 0.0038626609442060085,
+		"Bonebeast Trophy": 0.0011444921316165952,
+		"Stone Skin Amulet": 0.0010014306151645207
 	},
 	"bonelord": {
 		"Gold Coin": 0.9940284445552854,
@@ -805,22 +805,22 @@
 	},
 	"boogy": {
 		"Gold Coin": 1,
-		"Shimmering Beetles": 0.18300756620428751,
-		"Fairy Wings": 0.14832912988650693,
-		"Strong Health Potion": 0.14627994955863807,
-		"Leaf Star": 0.0792875157629256,
-		"Wood Mushroom": 0.05422446406052964,
-		"Red Crystal Fragment": 0.03562421185372005,
-		"Prismatic Quartz": 0.03121059268600252,
-		"Ancient Coin": 0.0308953341740227,
-		"Sling Herb": 0.03026481715006305,
-		"Terra Amulet": 0.029791929382093317,
-		"Small Enchanted Emerald": 0.02080706179066835,
-		"Berserk Potion": 0.011349306431273645,
-		"Golden Sickle": 0.010245901639344262,
-		"Wooden Spellbook": 0.005832282471626734,
-		"Crystal of Power": 0.00031525851197982345,
-		"Mandrake": 0.00031525851197982345
+		"Shimmering Beetles": 0.1829787234042553,
+		"Fairy Wings": 0.1483057525610717,
+		"Strong Health Potion": 0.14641449960598896,
+		"Leaf Star": 0.07927501970055162,
+		"Wood Mushroom": 0.05421591804570528,
+		"Red Crystal Fragment": 0.03561859732072498,
+		"Prismatic Quartz": 0.031205673758865248,
+		"Ancient Coin": 0.030890464933018124,
+		"Sling Herb": 0.030260047281323876,
+		"Terra Amulet": 0.029787234042553193,
+		"Small Enchanted Emerald": 0.020803782505910164,
+		"Berserk Potion": 0.011347517730496455,
+		"Golden Sickle": 0.01024428684003152,
+		"Wooden Spellbook": 0.0058313632781717886,
+		"Crystal of Power": 0.00031520882584712374,
+		"Mandrake": 0.00031520882584712374
 	},
 	"brachiodemon": {
 		"Crystal Coin": 0.4214638157894737,
@@ -1024,8 +1024,8 @@
 		"Arbalest": 0.00045936882723138407
 	},
 	"bug": {
-		"Gold Coin": 0.49805392198642007,
-		"Cherry": 0.03076791954316884
+		"Gold Coin": 0.4980265212823352,
+		"Cherry": 0.030780588920123805
 	},
 	"bulltaur alchemist": {
 		"Platinum Coin": 1
@@ -1216,8 +1216,8 @@
 		"Cookie": 0.009414252920997653
 	},
 	"centipede": {
-		"Gold Coin": 0.8014485051476313,
-		"Centipede Leg": 0.10119761219117301
+		"Gold Coin": 0.8014534129249935,
+		"Centipede Leg": 0.10120746975146144
 	},
 	"chakoya toolshaper": {
 		"Gold Coin": 0.7905839807125636,
@@ -1269,10 +1269,10 @@
 		"Mushroom Backpack": 0.004699927693420101
 	},
 	"chicken": {
-		"Chicken Feather": 0.17849925905967937,
-		"Worm": 0.08828416183932822,
-		"Meat": 0.017647851273070187,
-		"Egg": 0.00848713458170551
+		"Chicken Feather": 0.17852813075299717,
+		"Worm": 0.08832113510843698,
+		"Meat": 0.01764626644515289,
+		"Egg": 0.00853127385389071
 	},
 	"chocolate blob": {},
 	"choking fear": {
@@ -1437,7 +1437,7 @@
 		"Onyx Chip": 0.00924568722516631
 	},
 	"cobra": {
-		"Cobra Tongue": 0.052363558802356894
+		"Cobra Tongue": 0.05236508994003997
 	},
 	"converter": {
 		"Crystal Coin": 0.6096139839766934,
@@ -1773,18 +1773,18 @@
 		"Necromantic Core": 0.0064516129032258064
 	},
 	"crypt shambler": {
-		"Gold Coin": 0.5788105297367566,
-		"Worm": 0.10139746506337341,
-		"Half-Digested Piece of Meat": 0.05102372440688983,
-		"Bone": 0.04419889502762431,
-		"Rotten Meat": 0.019499512512187196,
-		"Iron Helmet": 0.018199545011374715,
-		"Two Handed Sword": 0.016249593760155997,
-		"Throwing Star": 0.011049723756906077,
-		"Bone Shield": 0.009099772505687357,
-		"Bone Sword": 0.008774780630484237,
-		"Small Diamond": 0.0068248293792655184,
-		"Stone Skin Amulet": 0.0006499837504062399
+		"Gold Coin": 0.5789303079416531,
+		"Worm": 0.10145867098865478,
+		"Half-Digested Piece of Meat": 0.05089141004862237,
+		"Bone": 0.044084278768233384,
+		"Rotten Meat": 0.019448946515397084,
+		"Iron Helmet": 0.01815235008103728,
+		"Two Handed Sword": 0.01653160453808752,
+		"Throwing Star": 0.011021069692058346,
+		"Bone Shield": 0.00907617504051864,
+		"Bone Sword": 0.008752025931928687,
+		"Small Diamond": 0.006807131280388979,
+		"Stone Skin Amulet": 0.0006482982171799027
 	},
 	"crypt warden": {
 		"Platinum Coin": 0.8994902332295754,
@@ -1904,18 +1904,18 @@
 		"Werepanther Trophy": 0.0024609458591910976
 	},
 	"cursed ape": {
-		"Gold Coin": 0.6076595744680852,
-		"Platinum Coin": 0.4697872340425532,
-		"Banana": 0.40907801418439715,
-		"Kongra's Shoulderpad": 0.13446808510638297,
-		"Small Amethyst": 0.07886524822695036,
-		"Protection Amulet": 0.01929078014184397,
-		"Plate Armor": 0.013333333333333334,
-		"Ape Fur": 0.011063829787234043,
-		"Health Potion": 0.006524822695035461,
-		"Stone Skin Amulet": 0.006524822695035461,
-		"Power Ring": 0.005390070921985815,
-		"Club Ring": 0.002553191489361702
+		"Gold Coin": 0.6075770426915466,
+		"Platinum Coin": 0.4696070115917444,
+		"Banana": 0.4091037602487984,
+		"Kongra's Shoulderpad": 0.1342945999434549,
+		"Small Amethyst": 0.07888040712468193,
+		"Protection Amulet": 0.019225332202431437,
+		"Plate Armor": 0.013288097257562907,
+		"Ape Fur": 0.01102629346904156,
+		"Health Potion": 0.006502685891998869,
+		"Stone Skin Amulet": 0.006502685891998869,
+		"Power Ring": 0.0053717839977381965,
+		"Club Ring": 0.002544529262086514
 	},
 	"cursed book": {
 		"Platinum Coin": 0.756551724137931,
@@ -2047,23 +2047,23 @@
 	},
 	"dark faun": {
 		"Gold Coin": 1,
-		"Fairy Wings": 0.140788191059741,
-		"Strong Health Potion": 0.11850717170310542,
-		"Shimmering Beetles": 0.10012533073388108,
-		"Goat Grass": 0.08647820637794179,
-		"Leaf Star": 0.06795710903773848,
-		"Cave Turnip": 0.06099429048878986,
-		"Prismatic Quartz": 0.056120317504525834,
-		"Dark Mushroom": 0.051803370004177694,
-		"Small Stone": 0.04442278234229216,
-		"Great Health Potion": 0.03592814371257485,
-		"Panpipes": 0.02729424871187857,
-		"Small Enchanted Sapphire": 0.02367358306642529,
-		"Wood Cape": 0.017267790001392565,
-		"Leaf Legs": 0.006545049436011698,
-		"Wooden Spellbook": 0.0034814092744743074,
-		"Die": 0.0006962818548948615,
-		"Mandrake": 0.0004177691129369169
+		"Fairy Wings": 0.14063152037835583,
+		"Strong Health Potion": 0.11879259980525804,
+		"Shimmering Beetles": 0.10043121435526499,
+		"Goat Grass": 0.08652107386284602,
+		"Leaf Star": 0.06802058700792878,
+		"Cave Turnip": 0.06106551676171929,
+		"Prismatic Quartz": 0.05605786618444846,
+		"Dark Mushroom": 0.05174572263179858,
+		"Small Stone": 0.04437334817081653,
+		"Great Health Potion": 0.03602726387536514,
+		"Panpipes": 0.027263875365141188,
+		"Small Enchanted Sapphire": 0.023647238837112255,
+		"Wood Cape": 0.017248574210599527,
+		"Leaf Legs": 0.006537766031436918,
+		"Wooden Spellbook": 0.0034775351231047433,
+		"Die": 0.0006955070246209487,
+		"Mandrake": 0.0004173042147725692
 	},
 	"dark magician": {
 		"Gold Coin": 0.7497239004742415,
@@ -2404,9 +2404,9 @@
 		"Giant Shimmering Pearl (Brown)": 0.007700621453661172
 	},
 	"deer": {
-		"Meat": 0.79970690747782,
-		"Ham": 0.5025744613434727,
-		"Antlers": 0.011921736375158429
+		"Meat": 0.7996992124114458,
+		"Ham": 0.5024340048284324,
+		"Antlers": 0.01191277159931927
 	},
 	"defiler": {
 		"Gold Coin": 1,
@@ -2456,57 +2456,57 @@
 		"Gold Coin": 0.7992403689636463
 	},
 	"demon skeleton": {
-		"Gold Coin": 0.9752693437806073,
-		"Demonic Skeletal Hand": 0.12181684622918706,
-		"Throwing Star": 0.09647404505386875,
-		"Health Potion": 0.09463761018609207,
-		"Torch": 0.05105288932419197,
-		"Mana Potion": 0.049583741429970615,
-		"Battle Shield": 0.04738001958863859,
-		"Battle Hammer": 0.04040156709108717,
-		"Iron Helmet": 0.036973555337904015,
-		"Black Pearl": 0.029505386875612143,
-		"Small Ruby": 0.013344760039177277,
-		"Mysterious Fetish": 0.005631733594515181,
-		"Mind Stone": 0.005264446620959843,
-		"Stone Skin Amulet": 0.0006121449559255632,
-		"Guardian Shield": 0.0003672869735553379,
-		"Lesser Spiritualist Gem": 0.00012242899118511264
+		"Gold Coin": 0.9750428186934181,
+		"Demonic Skeletal Hand": 0.1218497675556643,
+		"Throwing Star": 0.09652556887692684,
+		"Health Potion": 0.09456814289209689,
+		"Torch": 0.05113775385368241,
+		"Mana Potion": 0.049547345241008074,
+		"Battle Shield": 0.047345241008074385,
+		"Battle Hammer": 0.04037191093711769,
+		"Iron Helmet": 0.03694641546366528,
+		"Black Pearl": 0.0294837288965011,
+		"Small Ruby": 0.013334964521654025,
+		"Mysterious Fetish": 0.005627599706386102,
+		"Mind Stone": 0.005260582334230487,
+		"Stone Skin Amulet": 0.000611695620259359,
+		"Guardian Shield": 0.0003670173721556154,
+		"Lesser Spiritualist Gem": 0.00012233912405187178
 	},
 	"demon": {
 		"Gold Coin": 1,
 		"Platinum Coin": 1,
-		"Great Spirit Potion": 0.2534821389340481,
-		"Great Mana Potion": 0.25220791774682544,
-		"Ultimate Health Potion": 0.20132694758117667,
-		"Fire Mushroom": 0.2002284810404675,
-		"Demonic Essence": 0.19921789182301508,
-		"Demon Horn": 0.19908607583812998,
-		"Assassin Star": 0.14952326552133222,
-		"Small Amethyst": 0.10325585482666198,
-		"Small Topaz": 0.10101498308361527,
-		"Small Ruby": 0.09996045520453448,
-		"Small Emerald": 0.09824684740102817,
-		"Fire Axe": 0.04174172854694846,
-		"Talon": 0.03515092930269344,
-		"Orb": 0.029131332659607188,
-		"Red Gem": 0.028999516674722087,
-		"Ring of Healing": 0.02636319697702008,
-		"Stealth Ring": 0.023858693264203173,
-		"Giant Sword": 0.02016784568742036,
-		"Ice Rapier": 0.01977239773276506,
-		"Golden Sickle": 0.014324003690847577,
-		"Purple Tome": 0.012346763917571071,
-		"Gold Ring": 0.011467990685003735,
-		"Devil Helmet": 0.011160420053605168,
-		"Platinum Amulet": 0.007162001845423789,
-		"Demon Shield": 0.006327167274484819,
-		"Might Ring": 0.005755964673316051,
-		"Mastermind Shield": 0.004657498132606881,
-		"Golden Legs": 0.0040862955314381125,
-		"Demonrage Sword": 0.0014060371721077375,
-		"Magic Plate Armor": 0.000878773232567336,
-		"Demon Trophy": 0.0006151412627971352
+		"Great Spirit Potion": 0.25402647778058857,
+		"Great Mana Potion": 0.25259296736655706,
+		"Ultimate Health Potion": 0.20170334766843748,
+		"Fire Mushroom": 0.20031199932540686,
+		"Demonic Essence": 0.20018551311240407,
+		"Demon Horn": 0.19866767855637069,
+		"Assassin Star": 0.14853697613626782,
+		"Small Amethyst": 0.10283329117126233,
+		"Small Topaz": 0.10165275318323636,
+		"Small Ruby": 0.10000843241420018,
+		"Small Emerald": 0.09811113921915844,
+		"Fire Axe": 0.041909098574922,
+		"Talon": 0.03482587064676617,
+		"Red Gem": 0.029513449700649296,
+		"Orb": 0.029007504848638167,
+		"Ring of Healing": 0.026013997807572308,
+		"Stealth Ring": 0.023779408044523147,
+		"Giant Sword": 0.020195632009444305,
+		"Ice Rapier": 0.01990049751243781,
+		"Golden Sickle": 0.014335104140315372,
+		"Purple Tome": 0.012395648874272705,
+		"Gold Ring": 0.011468083312252297,
+		"Devil Helmet": 0.011004300531242095,
+		"Platinum Amulet": 0.007294038283160469,
+		"Demon Shield": 0.006366472721140062,
+		"Might Ring": 0.005734041656126149,
+		"Mastermind Shield": 0.004553503668100177,
+		"Golden Legs": 0.004089720887089974,
+		"Demonrage Sword": 0.0013913483430306097,
+		"Magic Plate Armor": 0.0009275655620204064,
+		"Demon Trophy": 0.0006324310650139134
 	},
 	"destroyer": {
 		"Gold Coin": 0.9437485228078468,
@@ -2886,7 +2886,7 @@
 		"Lesser Spiritualist Gem": 0.000013103583830177554
 	},
 	"dromedary": {
-		"Meat": 0.3506581933726736
+		"Meat": 0.3506083821541235
 	},
 	"dryad": {
 		"White Mushroom": 0.5517500817795224,
@@ -3464,24 +3464,24 @@
 	},
 	"faun": {
 		"Gold Coin": 1,
-		"Dandelion Seeds": 0.15186450327355536,
-		"Strong Health Potion": 0.12204668374608596,
-		"Shimmering Beetles": 0.09913179618559635,
-		"Fresh Fruit": 0.0979931682322801,
-		"Leaf Star": 0.08098491317961856,
-		"Goat Grass": 0.0796327924850555,
-		"Cookie": 0.06148590947907771,
-		"Rainbow Quartz": 0.05550811272416738,
-		"Panpipes": 0.052803871335041275,
-		"Small Stone": 0.051594079134642756,
-		"Grapes": 0.0506689439225733,
-		"Great Health Potion": 0.0327355536578423,
-		"Small Enchanted Sapphire": 0.025405636208368915,
-		"Wood Cape": 0.02277255906632508,
-		"Leaf Legs": 0.005550811272416738,
-		"Wooden Spellbook": 0.003700540848277825,
-		"Die": 0.0009251352120694563,
-		"Mandrake": 0.0004269854824935952
+		"Dandelion Seeds": 0.15183208822483102,
+		"Strong Health Potion": 0.12202063322660975,
+		"Shimmering Beetles": 0.09911063678406261,
+		"Fresh Fruit": 0.09797225186766276,
+		"Leaf Star": 0.08103877623621487,
+		"Goat Grass": 0.07961579509071505,
+		"Cookie": 0.06154393454286731,
+		"Rainbow Quartz": 0.05549626467449306,
+		"Panpipes": 0.0527926004980434,
+		"Small Stone": 0.05158306652436855,
+		"Grapes": 0.05065812877979367,
+		"Great Health Potion": 0.03272856634649591,
+		"Small Enchanted Sapphire": 0.025471362504446815,
+		"Wood Cape": 0.022767698327997153,
+		"Leaf Legs": 0.005549626467449306,
+		"Wooden Spellbook": 0.0036997509782995376,
+		"Die": 0.0009249377445748844,
+		"Mandrake": 0.00042689434364994664
 	},
 	"feral sphinx": {
 		"Platinum Coin": 1,
@@ -3645,8 +3645,8 @@
 		"Elvish Bow": 0.0008714217245435929
 	},
 	"fox": {
-		"Meat": 0.49396471680594245,
-		"Fox Paw": 0.017084493964716806
+		"Meat": 0.49396919651141213,
+		"Fox Paw": 0.01707181295231026
 	},
 	"frazzlemaw": {
 		"Platinum Coin": 0.908091735179576,
@@ -3911,20 +3911,20 @@
 		"Stone Skin Amulet": 0.0007107320540156361
 	},
 	"ghoul": {
-		"Gold Coin": 0.6950409659335921,
-		"Rotten Piece of Cloth": 0.14816731349719706,
-		"Worm": 0.10099180681328158,
-		"Ghoul Snack": 0.050107805088400174,
-		"Torch": 0.04657179818887452,
-		"Heavy Old Tome": 0.02242345838723588,
-		"Pile of Grave Earth": 0.010608020698576973,
-		"Scale Armor": 0.01034928848641656,
-		"Viking Helmet": 0.009141871496334627,
-		"Brown Piece of Cloth": 0.008796895213454075,
-		"Life Ring": 0.0028460543337645535,
-		"Skull": 0.002759810263044416,
-		"Stone Skin Amulet": 0.000258732212160414,
-		"Lesser Spiritualist Gem": 0.000086244070720138
+		"Gold Coin": 0.695067264573991,
+		"Rotten Piece of Cloth": 0.14815453604691273,
+		"Worm": 0.10098309761986891,
+		"Ghoul Snack": 0.0501034839599862,
+		"Torch": 0.04656778199379096,
+		"Heavy Old Tome": 0.02242152466367713,
+		"Pile of Grave Earth": 0.01060710589858572,
+		"Scale Armor": 0.010348395998620214,
+		"Viking Helmet": 0.009141083132114522,
+		"Brown Piece of Cloth": 0.008796136598827182,
+		"Life Ring": 0.0028458088996205586,
+		"Skull": 0.0027595722662987236,
+		"Stone Skin Amulet": 0.00025870989996550536,
+		"Lesser Spiritualist Gem": 0.00008623663332183511
 	},
 	"ghoulish hyaena": {
 		"Gold Coin": 0.8746770025839793,
@@ -4380,37 +4380,37 @@
 		"Stone Skin Amulet": 0.0003968647683301915
 	},
 	"grimeleech": {
-		"Platinum Coin": 0.4500171174255392,
-		"Gold Coin": 0.44907565902088326,
-		"Great Mana Potion": 0.2515405682985279,
-		"Great Spirit Potion": 0.2509414584046559,
-		"Great Health Potion": 0.24614857925368025,
-		"Flask of Demonic Blood": 0.18632317699418008,
-		"Some Grimeleech Wings": 0.1513180417665183,
-		"Demonic Essence": 0.15037658336186238,
-		"Underworld Rod": 0.05451900034234851,
-		"Green Mushroom": 0.05169462512838069,
-		"Fire Mushroom": 0.05058199246833276,
-		"Wand of Voodoo": 0.038942143101677505,
-		"Small Amethyst": 0.030640191715166038,
-		"Small Diamond": 0.028671687778158164,
-		"Small Ruby": 0.02798699075659021,
-		"Small Topaz": 0.02747346799041424,
-		"Red Gem": 0.020369736391646697,
-		"Yellow Gem": 0.0187435809654228,
-		"Magma Legs": 0.01078397808969531,
-		"Rift Lance": 0.008045190003423484,
-		"Demon Shield": 0.006590208832591578,
-		"Devil Helmet": 0.005991098938719616,
-		"Nightmare Blade": 0.004792879150975694,
-		"Rift Shield": 0.00453611776788771,
-		"Blue Gem": 0.004108182129407737,
-		"Rift Crossbow": 0.0036802464909277645,
-		"Rift Bow": 0.0033378979801437863,
-		"Steel Boots": 0.002139678192399863,
-		"Abyss Hammer": 0.0015405682985279014,
-		"Vile Axe": 0.0013693940431359123,
-		"Magic Plate Armor": 0.0011126326600479288
+		"Platinum Coin": 0.4515093127809891,
+		"Gold Coin": 0.44757546563904943,
+		"Great Mana Potion": 0.2524084778420039,
+		"Great Spirit Potion": 0.25112395632626844,
+		"Great Health Potion": 0.24486191393705845,
+		"Flask of Demonic Blood": 0.1869781631342325,
+		"Some Grimeleech Wings": 0.1510115606936416,
+		"Demonic Essence": 0.14988760436737317,
+		"Underworld Rod": 0.05491329479768786,
+		"Green Mushroom": 0.05122029543994862,
+		"Fire Mushroom": 0.05033718689788054,
+		"Wand of Voodoo": 0.03941875401412974,
+		"Small Amethyst": 0.030025690430314708,
+		"Small Diamond": 0.028982016698779704,
+		"Small Ruby": 0.028179190751445087,
+		"Small Topaz": 0.027296082209377008,
+		"Red Gem": 0.020070648683365448,
+		"Yellow Gem": 0.019026974951830443,
+		"Magma Legs": 0.010597302504816955,
+		"Rift Lance": 0.007707129094412331,
+		"Demon Shield": 0.006422607578676943,
+		"Devil Helmet": 0.006181759794476558,
+		"Nightmare Blade": 0.004897238278741169,
+		"Rift Shield": 0.00449582530507386,
+		"Blue Gem": 0.004254977520873475,
+		"Rift Crossbow": 0.003692999357739242,
+		"Rift Bow": 0.003291586384071933,
+		"Steel Boots": 0.0020873474630700066,
+		"Abyss Hammer": 0.001445086705202312,
+		"Vile Axe": 0.0013648041104688503,
+		"Magic Plate Armor": 0.0010436737315350033
 	},
 	"grynch clan goblin": {
 		"Gold Coin": 0.5533683412428744,
@@ -4646,38 +4646,38 @@
 		"Demonbone Amulet": 0.0017728303442589156
 	},
 	"hellflayer": {
-		"Gold Coin": 0.7009906515976001,
-		"Platinum Coin": 0.5333333333333333,
-		"Flask of Demonic Blood": 0.21272498953537045,
-		"Demonic Essence": 0.1749965117901493,
-		"Great Mana Potion": 0.14075624389563277,
-		"Pair of Hellflayer Horns": 0.14044928142877075,
-		"Great Spirit Potion": 0.13975163945862984,
-		"Ultimate Health Potion": 0.12406864796986186,
-		"Small Emerald": 0.07157806613645877,
-		"Small Ruby": 0.07046183898423329,
-		"Small Diamond": 0.07004325380214874,
-		"Small Topaz": 0.06870378121947816,
-		"Small Amethyst": 0.06862006418306126,
-		"Gold Ingot": 0.054332356634575134,
-		"Giant Shimmering Pearl (Green)": 0.03577508022882657,
-		"Red Gem": 0.02056648527975443,
-		"Violet Gem": 0.010046044370029301,
-		"Magma Legs": 0.008706571787358728,
-		"Magma Boots": 0.008539137714524905,
-		"Green Gem": 0.007506627598716339,
-		"Rift Lance": 0.007032231059020511,
-		"Titan Axe": 0.0059997209432119435,
-		"Rift Shield": 0.004911399469792103,
-		"Rift Bow": 0.004102134784428631,
-		"Rift Crossbow": 0.004102134784428631,
-		"Mastermind Shield": 0.0037951723175666248,
-		"Skull Helmet": 0.0034882098507046182,
-		"Golden Armor": 0.0028742849169806056,
-		"Demonbone Amulet": 0.0016464350495325798,
-		"Magic Plate Armor": 0.0013673782614762105,
-		"Spellbook of Mind Control": 0.0012278498674480258,
-		"Heavy Mace": 0.000558113576112739
+		"Gold Coin": 0.7004443956767433,
+		"Platinum Coin": 0.5331376529324628,
+		"Flask of Demonic Blood": 0.21215778789707576,
+		"Demonic Essence": 0.17498765567564603,
+		"Great Mana Potion": 0.14099961595435342,
+		"Pair of Hellflayer Horns": 0.14067043397158063,
+		"Great Spirit Potion": 0.13940856970428486,
+		"Ultimate Health Potion": 0.12415647116914467,
+		"Small Emerald": 0.07178910407637022,
+		"Small Ruby": 0.07011576233060844,
+		"Small Diamond": 0.0700883304987107,
+		"Small Topaz": 0.06882646623141493,
+		"Small Amethyst": 0.06868930707192626,
+		"Gold Ingot": 0.054232731661820376,
+		"Giant Shimmering Pearl (Green)": 0.036100290777418116,
+		"Red Gem": 0.020683601250891536,
+		"Violet Gem": 0.009985186810775223,
+		"Magma Legs": 0.008723322543479453,
+		"Magma Boots": 0.008558731552093048,
+		"Green Gem": 0.007488890108081418,
+		"Rift Lance": 0.0069951171339222035,
+		"Titan Axe": 0.006007571185603774,
+		"Rift Shield": 0.004937729741592144,
+		"Rift Crossbow": 0.004142206616557854,
+		"Rift Bow": 0.004087342952762385,
+		"Mastermind Shield": 0.0038130246337850443,
+		"Skull Helmet": 0.003566138146705437,
+		"Golden Armor": 0.0029077741811598177,
+		"Demonbone Amulet": 0.0016459099138640479,
+		"Magic Plate Armor": 0.0013990234267844406,
+		"Spellbook of Mind Control": 0.001234432435398036,
+		"Heavy Mace": 0.0005486366379546826
 	},
 	"hellhound": {
 		"Platinum Coin": 0.7955779160598437,
@@ -4861,13 +4861,13 @@
 		"Fire Sword": 0.003219871205151794
 	},
 	"honour guard": {
-		"Gold Coin": 0.4838279426475492,
-		"Pelvis Bone": 0.09103034344781594,
-		"Brown Mushroom": 0.06802267422474158,
-		"Mace": 0.04434811603867956,
-		"Scarab Coin": 0.02567522507502501,
-		"Scimitar": 0.014671557185728577,
-		"Stone Skin Amulet": 0.014004668222740914
+		"Gold Coin": 0.4838497033618985,
+		"Pelvis Bone": 0.0912986156888596,
+		"Brown Mushroom": 0.06756756756756757,
+		"Mace": 0.044166117336849046,
+		"Scarab Coin": 0.025708635464733027,
+		"Scimitar": 0.015161502966381015,
+		"Stone Skin Amulet": 0.013843111404087014
 	},
 	"hot dog": {
 		"Gold Coin": 0.7343976777939042
@@ -4944,8 +4944,8 @@
 	},
 	"husky": {},
 	"hyaena": {
-		"Worm": 0.5059716028499667,
-		"Meat": 0.30391101542877647
+		"Worm": 0.5060468439046792,
+		"Meat": 0.3036689289176915
 	},
 	"hydra": {
 		"Gold Coin": 0.8768983133879208,
@@ -5064,38 +5064,38 @@
 	},
 	"iks aucar": {
 		"Gold Coin": 1,
-		"Platinum Coin": 0.4272404614019521,
-		"Green Crystal Splinter": 0.14995563442768411,
-		"Brown Crystal Splinter": 0.1430050280981958,
-		"Small Enchanted Sapphire": 0.11032238982549541,
-		"Plate Shield": 0.08680863649807749,
-		"Onyx Chip": 0.07660455486542443,
-		"Small Emerald": 0.07216799763383615,
-		"Opal": 0.06344276841171251,
-		"War Hammer": 0.050576752440106475,
-		"Strong Health Potion": 0.04687962141378291,
-		"Small Ruby": 0.0406684412895593,
-		"Rotten Feather": 0.01671103223898255,
-		"Ritual Tooth": 0.014344868382135462,
-		"Gold-Brocaded Cloth": 0.009760425909494233,
-		"Stone Skin Amulet": 0.004288671990535345,
-		"Broken Iks Faulds": 0.00044365572315882877,
-		"Broken Iks Cuirass": 0.0002957704821058858
+		"Platinum Coin": 0.42682747462862186,
+		"Green Crystal Splinter": 0.14972790116193557,
+		"Brown Crystal Splinter": 0.14355052213560818,
+		"Small Enchanted Sapphire": 0.11016325930283866,
+		"Plate Shield": 0.0867774672745992,
+		"Onyx Chip": 0.07648183556405354,
+		"Small Emerald": 0.07221650242682748,
+		"Opal": 0.06339167524635976,
+		"War Hammer": 0.050448595381673775,
+		"Strong Health Potion": 0.0466245036034711,
+		"Small Ruby": 0.040594205030151494,
+		"Rotten Feather": 0.01676717164288866,
+		"Ritual Tooth": 0.01426680394175614,
+		"Gold-Brocaded Cloth": 0.009707309898514488,
+		"Stone Skin Amulet": 0.004265333137226063,
+		"Broken Iks Faulds": 0.00044124135902338577,
+		"Broken Iks Cuirass": 0.00029416090601559053
 	},
 	"iks chuka": {
-		"Gold Coin": 0.8647127007782746,
-		"Platinum Coin": 0.40288127173373073,
-		"Violet Crystal Shard": 0.14654744162940883,
-		"Green Crystal Splinter": 0.12038416956449743,
-		"Small Sapphire": 0.10498426891869515,
-		"Royal Spear": 0.039907269415466136,
-		"Crystal Ring": 0.019042887895346913,
-		"Rotten Feather": 0.018546116906772644,
-		"Gold Ingot": 0.014903129657228018,
-		"Gold-Brocaded Cloth": 0.01324722636198046,
-		"Ritual Tooth": 0.009438648782911079,
-		"Stone Skin Amulet": 0.004636529226693161,
-		"Broken Iks Spear": 0.0003311806590495115
+		"Gold Coin": 0.8645575877409788,
+		"Platinum Coin": 0.40220794200032955,
+		"Violet Crystal Shard": 0.14664689405173834,
+		"Green Crystal Splinter": 0.12011863568956994,
+		"Small Sapphire": 0.10512440270225737,
+		"Royal Spear": 0.03987477343878728,
+		"Crystal Ring": 0.018948755972977425,
+		"Rotten Feather": 0.018948755972977425,
+		"Gold Ingot": 0.014829461196243203,
+		"Gold-Brocaded Cloth": 0.013346515076618883,
+		"Ritual Tooth": 0.009391992090954029,
+		"Stone Skin Amulet": 0.004778381941011699,
+		"Broken Iks Spear": 0.00032954358213873783
 	},
 	"iks churrascan": {
 		"Gold Coin": 1,
@@ -5109,21 +5109,21 @@
 		"Small Ruby": 0.022525192649673977
 	},
 	"iks pututu": {
-		"Gold Coin": 0.7865894408554244,
-		"Platinum Coin": 0.3938516373357095,
-		"Giant Shimmering Pearl (Green)": 0.0790822009356204,
-		"Tiger Eye": 0.06994876364446424,
-		"Small Sapphire": 0.06081532635330809,
-		"Strong Mana Potion": 0.05257295611494765,
-		"Opal": 0.020271775451102696,
-		"Spellbook of Enlightenment": 0.019380708398306974,
-		"Gold Ingot": 0.014479839607930497,
-		"Gold-Brocaded Cloth": 0.013143239028736913,
-		"Rotten Feather": 0.012920472265537981,
-		"Ritual Tooth": 0.011583871686344397,
-		"Ring of Orange Plasma": 0.010024504343951883,
-		"Stone Skin Amulet": 0.007796836711962575,
-		"Broken Iks Sandals": 0.00022276676319893073
+		"Gold Coin": 0.786631252766711,
+		"Platinum Coin": 0.3942009738822488,
+		"Giant Shimmering Pearl (Green)": 0.07901726427622842,
+		"Tiger Eye": 0.06994245241257194,
+		"Small Sapphire": 0.06086764054891545,
+		"Strong Mana Potion": 0.05245683930942895,
+		"Opal": 0.02036299247454626,
+		"Spellbook of Enlightenment": 0.019256308100929615,
+		"Gold Ingot": 0.01438689685701638,
+		"Gold-Brocaded Cloth": 0.013058875608676405,
+		"Rotten Feather": 0.012837538733953076,
+		"Ritual Tooth": 0.011509517485613104,
+		"Ring of Orange Plasma": 0.0099601593625498,
+		"Stone Skin Amulet": 0.007746790615316512,
+		"Broken Iks Sandals": 0.0002213368747233289
 	},
 	"iks yapunac": {
 		"Platinum Coin": 0.5460224906289046,
@@ -5276,19 +5276,19 @@
 		"Swamplair Armor": 0.0011334655709832814
 	},
 	"ink splash": {
-		"Platinum Coin": 0.644177748945832,
-		"Gold Coin": 0.5945507622445669,
-		"Star Ink": 0.06649367499189102,
-		"Poisonous Slime": 0.0447615958481998,
-		"Inkwell": 0.03470645475186507,
-		"Giant Shimmering Pearl": 0.026921829386960753,
-		"Black Pearl": 0.009406422315926047,
-		"Candlestick": 0.007460265974699967,
-		"Terra Hood": 0.003892312682452157,
-		"Terra Legs": 0.0035679532922478106,
-		"Terra Boots": 0.0029192345118391177,
-		"Terra Mantle": 0.0029192345118391177,
-		"Terra Amulet": 0.0019461563412260785
+		"Platinum Coin": 0.6441281138790036,
+		"Gold Coin": 0.595276609511485,
+		"Star Ink": 0.06664509867356842,
+		"Poisonous Slime": 0.04464574571336137,
+		"Inkwell": 0.03461662892267874,
+		"Giant Shimmering Pearl": 0.02685215140731155,
+		"Black Pearl": 0.009382076997735361,
+		"Candlestick": 0.007440957618893562,
+		"Terra Hood": 0.0038822387576835974,
+		"Terra Legs": 0.0035587188612099642,
+		"Terra Boots": 0.0029116790682626984,
+		"Terra Mantle": 0.0029116790682626984,
+		"Terra Amulet": 0.0019411193788417987
 	},
 	"insane siren": {
 		"Platinum Coin": 0.7270851753610375,
@@ -5591,8 +5591,8 @@
 		"Small Amethyst": 0.003023731712531688
 	},
 	"larva": {
-		"Gold Coin": 0.6471505606624713,
-		"Meat": 0.14956124454987754
+		"Gold Coin": 0.6471634710417078,
+		"Meat": 0.14955744437855528
 	},
 	"lava golem": {
 		"Gold Coin": 1,
@@ -5711,9 +5711,9 @@
 		"Medusa Shield": 0.001466992665036675
 	},
 	"lion": {
-		"Meat": 0.45331380446722813,
-		"Ham": 0.1988282680336873,
-		"Lion's Mane": 0.010862931771024044
+		"Meat": 0.4532031726662599,
+		"Ham": 0.1987797437461867,
+		"Lion's Mane": 0.010860280658938378
 	},
 	"little corym charlatan": {},
 	"lizard chosen": {
@@ -6248,16 +6248,16 @@
 		"Blue Gem": 0.0012872379551305626
 	},
 	"marsh stalker": {
-		"Gold Coin": 0.6400497907728163,
-		"Fish": 0.20387732401080566,
-		"Meat": 0.19913660681180148,
-		"Worm": 0.1481540335822872,
-		"Marsh Stalker Feather": 0.08782244822289316,
-		"Longsword": 0.07463319031728376,
-		"Marsh Stalker Beak": 0.060331585359394035,
-		"Rope": 0.048466550135070716,
-		"Seeds": 0.0008739869696488161,
-		"Soul Prism": 0.000026484453625721702
+		"Gold Coin": 0.6400804999470395,
+		"Fish": 0.2038714119267027,
+		"Meat": 0.19915792818557357,
+		"Worm": 0.14815697489672705,
+		"Marsh Stalker Feather": 0.08780849486283232,
+		"Longsword": 0.07462133248596547,
+		"Marsh Stalker Beak": 0.06032199978815803,
+		"Rope": 0.04851181018959856,
+		"Seeds": 0.0008738481093104544,
+		"Soul Prism": 0.000026480245736680435
 	},
 	"massive earth elemental": {
 		"Gold Coin": 0.9351510685335298,
@@ -6873,21 +6873,21 @@
 		"Plain Monk Robe": 0.0010554089709762533
 	},
 	"mummy": {
-		"Gold Coin": 0.39262307575064775,
-		"Worm": 0.2030178326474623,
-		"Flask of Embalming Fluid": 0.11751257430269776,
-		"Gauze Bandage": 0.10028959000152415,
-		"Magic Light Wand": 0.060966316110349035,
-		"Strange Talisman": 0.04770614235634812,
-		"Silver Brooch": 0.039475689681451,
-		"Crystal Ring": 0.014784331656759641,
-		"Yellow Piece of Cloth": 0.010669105319311081,
-		"Black Pearl": 0.009297363206828228,
-		"Poison Dagger": 0.005791800030483158,
-		"Black Shield": 0.0015241579027587258,
-		"Silver Amulet": 0.0012193263222069807,
-		"Stone Skin Amulet": 0.0009144947416552355,
-		"Mini Mummy": 0.00015241579027587258
+		"Gold Coin": 0.3932806324110672,
+		"Worm": 0.20310124657950746,
+		"Flask of Embalming Fluid": 0.11736089996959562,
+		"Gauze Bandage": 0.10048647005168744,
+		"Magic Light Wand": 0.060808756460930376,
+		"Strange Talisman": 0.047582851930678016,
+		"Silver Brooch": 0.03967771359075707,
+		"Crystal Ring": 0.014746123441775616,
+		"Yellow Piece of Cloth": 0.010641532380662816,
+		"Black Pearl": 0.009273335360291882,
+		"Poison Dagger": 0.005776831863788386,
+		"Black Shield": 0.0015202189115232593,
+		"Silver Amulet": 0.0012161751292186075,
+		"Stone Skin Amulet": 0.0009121313469139556,
+		"Mini Mummy": 0.00015202189115232594
 	},
 	"mushroom sniffer": {},
 	"mutated bat": {
@@ -7125,21 +7125,21 @@
 	},
 	"noble lion": {
 		"Gold Coin": 1,
-		"Meat": 0.2560553633217993,
-		"Ham": 0.2400851743412297,
-		"Lion's Mane": 0.20388607931860528
+		"Meat": 0.25654588733139383,
+		"Ham": 0.24014810896588204,
+		"Lion's Mane": 0.20285638719915366
 	},
 	"nomad (basic)": {
-		"Gold Coin": 0.5609584391421316,
-		"Rope Belt": 0.06371156312071002,
-		"Potato": 0.047293389988182936,
-		"Axe": 0.028436376436275865,
-		"Brass Armor": 0.02511754205114022,
-		"Dirty Turban": 0.02054157342921077,
-		"Mace": 0.0199884343650215,
-		"Steel Shield": 0.010006788524878686,
-		"Iron Helmet": 0.005682246750307998,
-		"Nomad Parchment": 0.0020114147788700878
+		"Gold Coin": 0.5609627547434997,
+		"Rope Belt": 0.06367332597128803,
+		"Potato": 0.047334604959341435,
+		"Axe": 0.028410802128300373,
+		"Brass Armor": 0.025122979620520028,
+		"Dirty Turban": 0.020555165144061843,
+		"Mace": 0.01997791386406987,
+		"Steel Shield": 0.009988956932034936,
+		"Iron Helmet": 0.005697219154703343,
+		"Nomad Parchment": 0.0020078305391024996
 	},
 	"norcferatu heartless": {
 		"Platinum Coin": 0.6297148114075437,
@@ -7751,8 +7751,8 @@
 		"Death Ring": 0.004024144869215292
 	},
 	"pig": {
-		"Meat": 0.6530168508787824,
-		"Pig Foot": 0.012321072658090234
+		"Meat": 0.6531425466401014,
+		"Pig Foot": 0.012316609309907625
 	},
 	"pigeon": {},
 	"pirat bombardier": {
@@ -8003,8 +8003,8 @@
 		"Closed Trap": 0.010271184317655164
 	},
 	"poison spider": {
-		"Gold Coin": 0.747214160881207,
-		"Poison Spider Shell": 0.010053071237313409
+		"Gold Coin": 0.7472305497218527,
+		"Poison Spider Shell": 0.010051781906792567
 	},
 	"poisonous carnisylvan": {
 		"Platinum Coin": 0.9518796992481203,
@@ -8260,8 +8260,8 @@
 		"Lesser Spiritualist Gem": 0.0001464343242055938
 	},
 	"rabbit": {
-		"Meat": 0.7989049574480748,
-		"Carrot": 0.09438790692138309
+		"Meat": 0.7988221997501636,
+		"Carrot": 0.09434298970911903
 	},
 	"rabid wolf": {
 		"Gold Coin": 0.5163343232923208,
@@ -8595,17 +8595,17 @@
 	},
 	"roaring lion": {
 		"Gold Coin": 1,
-		"Meat": 0.25287803612543375,
-		"Ham": 0.24931089275869897,
-		"Lion's Mane": 0.20154360022051432,
-		"Platinum Coin": 0.10017187145312449,
-		"Small Sapphire": 0.07153743879106268,
-		"Small Topaz": 0.06985115283587898,
-		"Small Ruby": 0.06887829555404222,
-		"Small Amethyst": 0.06732172390310341,
-		"Ankh": 0.029023575574796512,
-		"Might Ring": 0.007037001005285858,
-		"Crown Helmet": 0.005739857962836852
+		"Meat": 0.2528582995951417,
+		"Ham": 0.24926315789473685,
+		"Lion's Mane": 0.20155465587044535,
+		"Platinum Coin": 0.10017813765182186,
+		"Small Sapphire": 0.07161133603238866,
+		"Small Topaz": 0.06982995951417004,
+		"Small Ruby": 0.06892307692307692,
+		"Small Amethyst": 0.06727125506072874,
+		"Ankh": 0.02908502024291498,
+		"Might Ring": 0.007060728744939271,
+		"Crown Helmet": 0.005732793522267207
 	},
 	"roast pork": {
 		"Meat": 0.15342465753424658,
@@ -8745,9 +8745,9 @@
 		"Insectoid Egg": 0.0037936948342896138
 	},
 	"sandcrawler": {
-		"Gold Coin": 0.34764979948100966,
-		"Sandcrawler Shell": 0.019919202642132577,
-		"Soul Prism": 0.000014744043406463789
+		"Gold Coin": 0.34762803313972346,
+		"Sandcrawler Shell": 0.01991626617920217,
+		"Soul Prism": 0.000014741869858772887
 	},
 	"sandstone scorpion": {
 		"Gold Coin": 0.9264805990469708,
@@ -8759,13 +8759,13 @@
 		"Fist on a Stick": 0.0021272974812797823
 	},
 	"scarab": {
-		"Gold Coin": 0.872950900131535,
-		"Meat": 0.3992873549679015,
-		"Piece of Scarab Shell": 0.05038577065787149,
-		"Scarab Coin": 0.01101360504152188,
-		"Small Amethyst": 0.005084712487975342,
-		"Small Emerald": 0.003445432593203369,
-		"Daramian Mace": 0.0030037104658696035
+		"Gold Coin": 0.8729608763078855,
+		"Meat": 0.39927563259457016,
+		"Piece of Scarab Shell": 0.05039162953220392,
+		"Scarab Coin": 0.011022555505388587,
+		"Small Amethyst": 0.005084313225103551,
+		"Small Emerald": 0.0034451620502149545,
+		"Daramian Mace": 0.003003474607879704
 	},
 	"schiach": {
 		"Gold Coin": 1,
@@ -8788,7 +8788,7 @@
 		"Glacial Rod": 0.0052554130754677315
 	},
 	"scorpion": {
-		"Scorpion Tail": 0.05098057770102434
+		"Scorpion Tail": 0.05101678883896903
 	},
 	"sea captain": {
 		"Gold Coin": 1,
@@ -8965,8 +8965,8 @@
 		"Fish Fin": 0.0017071782781887652
 	},
 	"sheep": {
-		"Meat": 0.6453025477707006,
-		"Wool": 0.009355095541401274
+		"Meat": 0.6449304174950298,
+		"Wool": 0.00934393638170974
 	},
 	"shell drake": {
 		"Platinum Coin": 0.7335156487389851,
@@ -9278,8 +9278,8 @@
 		"Magma Legs": 0.01103097157403479
 	},
 	"spider": {
-		"Gold Coin": 0.6470512240811317,
-		"Spider Fangs": 0.010109166074542987
+		"Gold Coin": 0.6470626231308336,
+		"Spider Fangs": 0.010108839582727772
 	},
 	"spidris elite": {
 		"Gold Coin": 0.9645729933253465,
@@ -9384,9 +9384,9 @@
 		"Leviathan's Amulet": 0.0027624309392265192
 	},
 	"squirrel": {
-		"Acorn": 0.40236148955495005,
-		"Peanut": 0.007606721162579474,
-		"Walnut": 0.00715258855585831
+		"Acorn": 0.4022701475595914,
+		"Peanut": 0.007604994324631101,
+		"Walnut": 0.007150964812712826
 	},
 	"stabilizing dread intruder": {
 		"Gold Coin": 0.9882010419859025,
@@ -9498,18 +9498,18 @@
 		"War Axe": 0.006329113924050633
 	},
 	"stone golem": {
-		"Gold Coin": 0.9601139601139601,
-		"Small Stone": 0.12931995540691194,
-		"Sulphurous Stone": 0.10043354391180478,
-		"Power Ring": 0.05108385977951195,
-		"Carlin Sword": 0.02556670382757339,
-		"Iron Ore": 0.019794376316115445,
-		"Ancient Stone": 0.01023163631859284,
-		"Shiny Stone": 0.007729468599033816,
-		"Coal": 0.005425492382014121,
-		"Piece of Marble Rock": 0.004310665180230397,
-		"Crystal Ring": 0.0018084974606713737,
-		"Red Gem": 0.0004707048185309055
+		"Gold Coin": 0.9601149482237527,
+		"Small Stone": 0.12931675172174603,
+		"Sulphurous Stone": 0.10043105583907248,
+		"Power Ring": 0.05108259426249814,
+		"Carlin Sword": 0.025566070455333698,
+		"Iron Ore": 0.01981865926770054,
+		"Ancient Stone": 0.010231382846950405,
+		"Shiny Stone": 0.0077292771144032105,
+		"Coal": 0.005425357974533022,
+		"Piece of Marble Rock": 0.004310558390724867,
+		"Crystal Ring": 0.0018084526581776744,
+		"Red Gem": 0.00047069315760788784
 	},
 	"stone rhino": {
 		"Raw Meat": 0.17584223500410848,
@@ -9580,12 +9580,12 @@
 		"Fishing Rod": 0.000784172779402395
 	},
 	"swampling": {
-		"Gold Coin": 0.8497201587463112,
-		"Swampling Moss": 0.19983718327058106,
-		"Piece of Swampling Wood": 0.1492622366948204,
-		"White Mushroom": 0.10230996234863132,
-		"Swampling Club": 0.07442759743563651,
-		"Rope": 0.05057494657576066
+		"Gold Coin": 0.8497293337132158,
+		"Swampling Moss": 0.19982498270177868,
+		"Piece of Swampling Wood": 0.14927347470389515,
+		"White Mushroom": 0.10230371606495992,
+		"Swampling Club": 0.0744230534413285,
+		"Rope": 0.0505718588465139
 	},
 	"swan maiden": {
 		"Gold Coin": 0.6011430411333817,
@@ -9639,10 +9639,10 @@
 		"Ancient Shield": 0.00894187779433681
 	},
 	"terramite": {
-		"Gold Coin": 0.975019355515994,
-		"Terramite Legs": 0.1496826570202566,
-		"Terramite Shell": 0.07453513955655092,
-		"Terramite Eggs": 0.0498344392586728
+		"Gold Coin": 0.9750211036901935,
+		"Terramite Legs": 0.14968092969956218,
+		"Terramite Shell": 0.07453867114546019,
+		"Terramite Eggs": 0.04983095178736228
 	},
 	"terrified elephant": {
 		"Meat": 0.4029200261494879,
@@ -10019,31 +10019,31 @@
 	"undead cavebear": {},
 	"undead dragon": {
 		"Gold Coin": 1,
-		"Platinum Coin": 0.500741066037218,
-		"Unholy Bone": 0.3295822583301312,
-		"Great Mana Potion": 0.2534720316188176,
-		"Great Health Potion": 0.250205851677005,
-		"Assassin Star": 0.24993138277433166,
-		"Hardened Bone": 0.1534830103749245,
-		"Demonic Essence": 0.1510402371411319,
-		"Power Bolt": 0.15021683043311193,
-		"Black Pearl": 0.09793050447384312,
-		"Small Sapphire": 0.08146237031344349,
-		"Golden Mug": 0.05138057858044683,
-		"Knight Armor": 0.04808695174836691,
-		"Dragonbone Staff": 0.03793160234945381,
-		"Death Ring": 0.019295163857934897,
-		"War Axe": 0.016330899709062964,
-		"Life Crystal": 0.015370258549706318,
-		"Gold Ingot": 0.012680463303507713,
-		"Dragon Slayer": 0.00982598671570511,
-		"Blue Gem": 0.009304495800625789,
-		"Royal Helmet": 0.00911236756875446,
-		"Spellweaver's Robe": 0.00831640775100181,
-		"Golden Armor": 0.007191085250041171,
-		"Divine Plate": 0.005269802931327881,
-		"Stone Skin Amulet": 0.004281714881703903,
-		"Skullcracker Armor": 0.0031563923807432616
+		"Platinum Coin": 0.5003518077505954,
+		"Unholy Bone": 0.32967092444252005,
+		"Great Mana Potion": 0.2534639532366313,
+		"Great Health Potion": 0.25037886988525654,
+		"Assassin Star": 0.24981056505737173,
+		"Hardened Bone": 0.15317168218229055,
+		"Demonic Essence": 0.1508172764667677,
+		"Power Bolt": 0.1502219095042217,
+		"Black Pearl": 0.09766724399220611,
+		"Small Sapphire": 0.08164646027278631,
+		"Golden Mug": 0.051472180125568305,
+		"Knight Armor": 0.04822472396622646,
+		"Dragonbone Staff": 0.037914050660316084,
+		"Death Ring": 0.019241177744100453,
+		"War Axe": 0.01634552933535397,
+		"Life Crystal": 0.0153983546222126,
+		"Gold Ingot": 0.012692141156094393,
+		"Dragon Slayer": 0.009877679151331456,
+		"Blue Gem": 0.009309374323446633,
+		"Royal Helmet": 0.009174063650140724,
+		"Spellweaver's Robe": 0.008281013206321715,
+		"Golden Armor": 0.007225589954535614,
+		"Divine Plate": 0.005304178393591687,
+		"Stone Skin Amulet": 0.004248755141805585,
+		"Skullcracker Armor": 0.0031392076206971206
 	},
 	"undead elite gladiator": {
 		"Platinum Coin": 1,
@@ -10314,36 +10314,36 @@
 		"Wand of Defiance": 0.006122448979591836
 	},
 	"vexclaw": {
-		"Platinum Coin": 0.34870191445193366,
-		"Great Mana Potion": 0.16292062841179938,
-		"Great Spirit Potion": 0.16233117199313155,
-		"Demonic Essence": 0.1300135831261693,
-		"Fire Mushroom": 0.12970604064686433,
-		"Ultimate Health Potion": 0.12965478356698018,
-		"Vexclaw Talon": 0.12909095568825443,
-		"Small Topaz": 0.031036161869858275,
-		"Ice Rapier": 0.0307542479304954,
-		"Small Emerald": 0.030369819831364206,
-		"Small Ruby": 0.03016479151182757,
-		"Small Amethyst": 0.029139649914144392,
-		"Fire Axe": 0.024731541044106718,
-		"Energy Ring": 0.016017837463799686,
-		"Giant Sword": 0.013557497629360055,
-		"Ring of Healing": 0.010969015095210026,
-		"Red Gem": 0.009892616417642688,
-		"Yellow Gem": 0.009251902919090699,
-		"Devil Helmet": 0.007791076142392168,
-		"Might Ring": 0.005766421486967888,
-		"Rift Lance": 0.005151336528357979,
-		"Demon Shield": 0.004279966170327276,
-		"Platinum Amulet": 0.004151823470616879,
-		"Rift Shield": 0.003741766831543607,
-		"Mastermind Shield": 0.0029985391732233013,
-		"Rift Crossbow": 0.0026909966939183474,
-		"Golden Legs": 0.0025884825341500294,
-		"Rift Bow": 0.0022296829749609164,
-		"Demonrage Sword": 0.000563827878725749,
-		"Magic Plate Armor": 0.0004356851790153515
+		"Platinum Coin": 0.34931301523857106,
+		"Great Mana Potion": 0.16312765425930553,
+		"Great Spirit Potion": 0.16250312265800648,
+		"Demonic Essence": 0.13020234823882088,
+		"Fire Mushroom": 0.12985261054209343,
+		"Ultimate Health Potion": 0.1293529852610542,
+		"Vexclaw Talon": 0.12907819135648263,
+		"Small Topaz": 0.031201598800899327,
+		"Ice Rapier": 0.030676992255808142,
+		"Small Emerald": 0.03037721708718461,
+		"Small Ruby": 0.030052460654509117,
+		"Small Amethyst": 0.029203097676742444,
+		"Fire Axe": 0.02473145141144142,
+		"Energy Ring": 0.015938046465151137,
+		"Giant Sword": 0.013639770172370723,
+		"Ring of Healing": 0.010841868598551086,
+		"Red Gem": 0.009867599300524606,
+		"Yellow Gem": 0.009143142643017736,
+		"Devil Helmet": 0.007944041968523607,
+		"Might Ring": 0.005770671996002998,
+		"Rift Lance": 0.005171121658755933,
+		"Demon Shield": 0.004396702473145141,
+		"Platinum Amulet": 0.004171871096677492,
+		"Rift Shield": 0.0037222083437421934,
+		"Mastermind Shield": 0.0029477891581314013,
+		"Rift Crossbow": 0.0026729952535598303,
+		"Golden Legs": 0.002648013989507869,
+		"Rift Bow": 0.0022233325006245316,
+		"Demonrage Sword": 0.0005495878091431426,
+		"Magic Plate Armor": 0.0004246814888833375
 	},
 	"vibrant phantom": {
 		"Crystal Coin": 0.5589421783953384,
@@ -10570,7 +10570,7 @@
 		"Piggy Bank": 0.0007240692692934291
 	},
 	"wasp": {
-		"Honeycomb": 0.029609415969079574
+		"Honeycomb": 0.029607115806645823
 	},
 	"waspoid": {
 		"Gold Coin": 0.9980978260869565,
@@ -11065,15 +11065,15 @@
 		"Shockwave Amulet": 0.0008623204027543528
 	},
 	"wyvern": {
-		"Gold Coin": 0.999839161495262,
-		"Dragon Ham": 0.6025814580010455,
-		"Wyvern Talisman": 0.11973086356873835,
-		"Small Sapphire": 0.04944443699821737,
-		"Power Bolt": 0.03415137583937595,
-		"Strong Health Potion": 0.02513101636531786,
-		"Wand of Inferno": 0.00788108673216368,
-		"Emerald Bangle": 0.005843799005481912,
-		"Wyvern Fang": 0.00450347813266496
+		"Gold Coin": 0.9998391873601266,
+		"Dragon Ham": 0.6025649616059823,
+		"Wyvern Talisman": 0.1197652135457847,
+		"Small Sapphire": 0.04943648570777663,
+		"Power Bolt": 0.0341458838664719,
+		"Strong Health Potion": 0.025153777086879027,
+		"Wand of Inferno": 0.007879819353801209,
+		"Emerald Bangle": 0.005842859248736951,
+		"Wyvern Fang": 0.004502753916457833
 	},
 	"yeti": {
 		"Gold Coin": 0.7606837606837606,
