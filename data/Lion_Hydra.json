@@ -1,66 +1,66 @@
 {
 	"monsterName": "Lion Hydra",
-	"timesKilled": 6135,
+	"timesKilled": 6140,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5044,
-			"dropRate": 0.8221678891605542
+			"timesDropped": 5048,
+			"dropRate": 0.8221498371335505
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 3956,
-			"dropRate": 0.6448247758761206
+			"timesDropped": 3960,
+			"dropRate": 0.6449511400651465
 		},
 		{
 			"itemName": "Sealing Wax",
-			"timesDropped": 465,
-			"dropRate": 0.07579462102689487
+			"timesDropped": 466,
+			"dropRate": 0.0758957654723127
 		},
 		{
 			"itemName": "Ham",
 			"timesDropped": 225,
-			"dropRate": 0.03667481662591687
+			"dropRate": 0.03664495114006515
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 190,
-			"dropRate": 0.030969845150774247
+			"dropRate": 0.030944625407166124
 		},
 		{
 			"itemName": "Silver Brooch",
 			"timesDropped": 148,
-			"dropRate": 0.0241238793806031
+			"dropRate": 0.024104234527687295
 		},
 		{
 			"itemName": "Hydra Head",
 			"timesDropped": 135,
-			"dropRate": 0.022004889975550123
+			"dropRate": 0.021986970684039087
 		},
 		{
 			"itemName": "Onyx Chip",
 			"timesDropped": 96,
-			"dropRate": 0.015647921760391197
+			"dropRate": 0.015635179153094463
 		},
 		{
 			"itemName": "Titan Axe",
 			"timesDropped": 75,
-			"dropRate": 0.012224938875305624
+			"dropRate": 0.012214983713355049
 		},
 		{
 			"itemName": "Sacred Tree Amulet",
 			"timesDropped": 50,
-			"dropRate": 0.008149959250203748
+			"dropRate": 0.008143322475570033
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 12,
-			"dropRate": 0.0019559902200488996
+			"dropRate": 0.001954397394136808
 		},
 		{
 			"itemName": "Medusa Shield",
 			"timesDropped": 9,
-			"dropRate": 0.001466992665036675
+			"dropRate": 0.0014657980456026058
 		}
 	]
 }

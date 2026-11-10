@@ -1,46 +1,46 @@
 {
 	"monsterName": "Infernoid Hound",
-	"timesKilled": 8517,
+	"timesKilled": 8587,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5971,
-			"dropRate": 0.7010684513326289
+			"timesDropped": 6015,
+			"dropRate": 0.7004774659368813
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 4251,
-			"dropRate": 0.49911940824233886
+			"timesDropped": 4282,
+			"dropRate": 0.49866076627460115
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 2610,
-			"dropRate": 0.3064459316660796
+			"timesDropped": 2635,
+			"dropRate": 0.30685920577617326
 		},
 		{
 			"itemName": "Infernoid Ember",
-			"timesDropped": 495,
-			"dropRate": 0.058119056005635786
+			"timesDropped": 497,
+			"dropRate": 0.05787818795854198
 		},
 		{
 			"itemName": "Wolf Paw",
-			"timesDropped": 365,
-			"dropRate": 0.04285546553950922
+			"timesDropped": 367,
+			"dropRate": 0.04273902410620706
 		},
 		{
 			"itemName": "Meat",
 			"timesDropped": 143,
-			"dropRate": 0.016789949512739228
+			"dropRate": 0.016653080237568417
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 6,
-			"dropRate": 0.0007044734061289186
+			"dropRate": 0.000698730639338535
 		},
 		{
 			"itemName": "Lesser Spiritualist Gem",
 			"timesDropped": 1,
-			"dropRate": 0.00011741223435481978
+			"dropRate": 0.0001164551065564225
 		}
 	]
 }

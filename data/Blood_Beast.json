@@ -1,71 +1,71 @@
 {
 	"monsterName": "Blood Beast",
-	"timesKilled": 9090,
+	"timesKilled": 9183,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9090,
+			"timesDropped": 9183,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Slime Heart",
-			"timesDropped": 1830,
-			"dropRate": 0.20132013201320131
+			"timesDropped": 1850,
+			"dropRate": 0.20145921812043993
 		},
 		{
 			"itemName": "Poisoned Fang",
-			"timesDropped": 1435,
-			"dropRate": 0.15786578657865788
+			"timesDropped": 1449,
+			"dropRate": 0.15779157138190134
 		},
 		{
 			"itemName": "Viper Star",
-			"timesDropped": 714,
-			"dropRate": 0.07854785478547854
+			"timesDropped": 723,
+			"dropRate": 0.07873244037896113
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 654,
-			"dropRate": 0.07194719471947195
+			"timesDropped": 658,
+			"dropRate": 0.07165414352608081
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 426,
-			"dropRate": 0.04686468646864687
+			"timesDropped": 429,
+			"dropRate": 0.04671675922901013
 		},
 		{
 			"itemName": "Glooth Steak",
-			"timesDropped": 316,
-			"dropRate": 0.03476347634763476
+			"timesDropped": 323,
+			"dropRate": 0.03517369051508222
 		},
 		{
 			"itemName": "Glooth Spear",
-			"timesDropped": 92,
-			"dropRate": 0.01012101210121012
+			"timesDropped": 93,
+			"dropRate": 0.010127409343351846
 		},
 		{
 			"itemName": "Glooth Blade",
 			"timesDropped": 65,
-			"dropRate": 0.007150715071507151
+			"dropRate": 0.007078296852880322
 		},
 		{
 			"itemName": "Glooth Club",
-			"timesDropped": 64,
-			"dropRate": 0.0070407040704070405
+			"timesDropped": 65,
+			"dropRate": 0.007078296852880322
 		},
 		{
 			"itemName": "Glooth Amulet",
 			"timesDropped": 63,
-			"dropRate": 0.006930693069306931
+			"dropRate": 0.006860503103560928
 		},
 		{
 			"itemName": "Glooth Axe",
 			"timesDropped": 61,
-			"dropRate": 0.0067106710671067105
+			"dropRate": 0.006642709354241533
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 9,
-			"dropRate": 0.0009900990099009901
+			"dropRate": 0.0009800718719372753
 		}
 	]
 }

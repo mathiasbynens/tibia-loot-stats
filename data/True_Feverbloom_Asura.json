@@ -1,56 +1,56 @@
 {
 	"monsterName": "True Feverbloom Asura",
-	"timesKilled": 83,
+	"timesKilled": 174,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 73,
-			"dropRate": 0.8795180722891566
+			"timesDropped": 150,
+			"dropRate": 0.8620689655172413
 		},
 		{
 			"itemName": "Golden Lotus Brooch",
-			"timesDropped": 21,
-			"dropRate": 0.25301204819277107
-		},
-		{
-			"itemName": "Demonic Essence",
-			"timesDropped": 15,
-			"dropRate": 0.18072289156626506
+			"timesDropped": 35,
+			"dropRate": 0.20114942528735633
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 15,
-			"dropRate": 0.18072289156626506
+			"timesDropped": 33,
+			"dropRate": 0.1896551724137931
 		},
 		{
 			"itemName": "Peacock Feather Fan",
-			"timesDropped": 13,
-			"dropRate": 0.1566265060240964
+			"timesDropped": 31,
+			"dropRate": 0.1781609195402299
+		},
+		{
+			"itemName": "Demonic Essence",
+			"timesDropped": 27,
+			"dropRate": 0.15517241379310345
 		},
 		{
 			"itemName": "Pyrophyte Seed Pod",
-			"timesDropped": 13,
-			"dropRate": 0.1566265060240964
+			"timesDropped": 17,
+			"dropRate": 0.09770114942528736
 		},
 		{
 			"itemName": "Seeds",
-			"timesDropped": 6,
-			"dropRate": 0.07228915662650602
+			"timesDropped": 12,
+			"dropRate": 0.06896551724137931
 		},
 		{
 			"itemName": "Wild Flowers",
-			"timesDropped": 6,
-			"dropRate": 0.07228915662650602
+			"timesDropped": 10,
+			"dropRate": 0.05747126436781609
 		},
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 2,
-			"dropRate": 0.024096385542168676
+			"timesDropped": 5,
+			"dropRate": 0.028735632183908046
 		},
 		{
 			"itemName": "Oriental Shoes",
-			"timesDropped": 1,
-			"dropRate": 0.012048192771084338
+			"timesDropped": 2,
+			"dropRate": 0.011494252873563218
 		}
 	]
 }

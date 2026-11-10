@@ -1,71 +1,71 @@
 {
 	"monsterName": "Gargoyle",
-	"timesKilled": 35189,
+	"timesKilled": 35209,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 30884,
-			"dropRate": 0.8776606325840461
+			"timesDropped": 30901,
+			"dropRate": 0.8776449203328694
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 5295,
-			"dropRate": 0.15047315922589447
+			"timesDropped": 5296,
+			"dropRate": 0.15041608679598967
 		},
 		{
 			"itemName": "Stone Wing",
-			"timesDropped": 4263,
-			"dropRate": 0.12114581261189576
+			"timesDropped": 4265,
+			"dropRate": 0.12113380101678548
 		},
 		{
 			"itemName": "Potato",
-			"timesDropped": 3472,
-			"dropRate": 0.09866719713546847
+			"timesDropped": 3475,
+			"dropRate": 0.09869635604532932
 		},
 		{
 			"itemName": "Strawberry",
 			"timesDropped": 715,
-			"dropRate": 0.02031884964051266
+			"dropRate": 0.020307307790621718
 		},
 		{
 			"itemName": "Morning Star",
 			"timesDropped": 518,
-			"dropRate": 0.01472050925004973
+			"dropRate": 0.014712147462296573
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 490,
-			"dropRate": 0.01392480604734434
+			"timesDropped": 491,
+			"dropRate": 0.013945298077196171
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
 			"timesDropped": 380,
-			"dropRate": 0.010798829179573161
+			"dropRate": 0.010792695049561192
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 272,
-			"dropRate": 0.0077296882548523686
+			"timesDropped": 273,
+			"dropRate": 0.007753699338237383
 		},
 		{
 			"itemName": "Piece of Marble Rock",
 			"timesDropped": 170,
-			"dropRate": 0.00483105515928273
+			"dropRate": 0.004828310943224744
 		},
 		{
 			"itemName": "Dark Armor",
 			"timesDropped": 92,
-			"dropRate": 0.0026144533803177127
+			"dropRate": 0.00261296827515692
 		},
 		{
 			"itemName": "Club Ring",
 			"timesDropped": 75,
-			"dropRate": 0.00213134786438944
+			"dropRate": 0.0021301371808344458
 		},
 		{
 			"itemName": "Shiny Stone",
 			"timesDropped": 72,
-			"dropRate": 0.0020460939498138622
+			"dropRate": 0.002044931693601068
 		}
 	]
 }

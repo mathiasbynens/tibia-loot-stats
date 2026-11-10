@@ -1,71 +1,71 @@
 {
 	"monsterName": "Giant Spider",
-	"timesKilled": 104514,
+	"timesKilled": 104524,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 104499,
-			"dropRate": 0.9998564785578965
+			"timesDropped": 104509,
+			"dropRate": 0.9998564922888523
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 12467,
-			"dropRate": 0.11928545458024763
+			"timesDropped": 12469,
+			"dropRate": 0.11929317668669397
 		},
 		{
 			"itemName": "Plate Armor",
 			"timesDropped": 10493,
-			"dropRate": 0.10039803279943357
+			"dropRate": 0.10038842753817305
 		},
 		{
 			"itemName": "Plate Legs",
 			"timesDropped": 8247,
-			"dropRate": 0.07890808886847694
+			"dropRate": 0.07890053958899391
 		},
 		{
 			"itemName": "Two Handed Sword",
 			"timesDropped": 5312,
-			"dropRate": 0.05082572669690185
+			"dropRate": 0.05082086410776472
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 5131,
-			"dropRate": 0.049093901295520215
+			"timesDropped": 5132,
+			"dropRate": 0.049098771573992575
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 3703,
-			"dropRate": 0.035430660007271755
+			"dropRate": 0.03542727029199036
 		},
 		{
 			"itemName": "Spider Silk",
 			"timesDropped": 2071,
-			"dropRate": 0.019815527106416365
+			"dropRate": 0.019813631319122883
 		},
 		{
 			"itemName": "Knight Legs",
 			"timesDropped": 852,
-			"dropRate": 0.008152017911475974
+			"dropRate": 0.008151237993188168
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 749,
-			"dropRate": 0.0071665040090322825
+			"dropRate": 0.0071658183766407715
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 515,
-			"dropRate": 0.004927569512218459
+			"dropRate": 0.004927098082736979
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 285,
-			"dropRate": 0.002726907399965555
+			"dropRate": 0.002726646511805901
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 284,
-			"dropRate": 0.0027173393038253247
+			"dropRate": 0.0027170793310627222
 		}
 	]
 }

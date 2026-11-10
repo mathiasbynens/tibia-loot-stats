@@ -1,66 +1,66 @@
 {
 	"monsterName": "Frost Giant",
-	"timesKilled": 17624,
+	"timesKilled": 17664,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 14432,
-			"dropRate": 0.8188833408987743
+			"timesDropped": 14464,
+			"dropRate": 0.8188405797101449
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 1450,
-			"dropRate": 0.08227417158420336
+			"timesDropped": 1453,
+			"dropRate": 0.08225769927536232
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 879,
-			"dropRate": 0.049875170222423965
+			"timesDropped": 882,
+			"dropRate": 0.049932065217391304
 		},
 		{
 			"itemName": "Frost Giant Pelt",
-			"timesDropped": 867,
-			"dropRate": 0.049194280526554696
+			"timesDropped": 869,
+			"dropRate": 0.04919610507246377
 		},
 		{
 			"itemName": "Ice Cube",
-			"timesDropped": 392,
-			"dropRate": 0.02224239673172946
+			"timesDropped": 393,
+			"dropRate": 0.022248641304347828
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 247,
-			"dropRate": 0.014014979573309124
+			"dropRate": 0.013983242753623188
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 154,
-			"dropRate": 0.008738084430322288
+			"dropRate": 0.008718297101449276
 		},
 		{
 			"itemName": "Halberd",
 			"timesDropped": 102,
-			"dropRate": 0.005787562414888788
+			"dropRate": 0.00577445652173913
 		},
 		{
 			"itemName": "Norse Shield",
 			"timesDropped": 50,
-			"dropRate": 0.002837040399455288
+			"dropRate": 0.0028306159420289855
 		},
 		{
 			"itemName": "Dark Helmet",
 			"timesDropped": 30,
-			"dropRate": 0.001702224239673173
+			"dropRate": 0.0016983695652173913
 		},
 		{
 			"itemName": "Club Ring",
 			"timesDropped": 21,
-			"dropRate": 0.001191556967771221
+			"dropRate": 0.001188858695652174
 		},
 		{
 			"itemName": "Shard",
 			"timesDropped": 12,
-			"dropRate": 0.0006808896958692692
+			"dropRate": 0.0006793478260869565
 		}
 	]
 }

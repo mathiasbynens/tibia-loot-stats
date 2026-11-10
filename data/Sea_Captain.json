@@ -1,66 +1,66 @@
 {
 	"monsterName": "Sea Captain",
-	"timesKilled": 984,
+	"timesKilled": 985,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 984,
+			"timesDropped": 985,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 300,
-			"dropRate": 0.3048780487804878
+			"dropRate": 0.30456852791878175
 		},
 		{
 			"itemName": "Mana Potion",
 			"timesDropped": 274,
-			"dropRate": 0.2784552845528455
+			"dropRate": 0.2781725888324873
 		},
 		{
 			"itemName": "Gold Tooth",
-			"timesDropped": 202,
-			"dropRate": 0.20528455284552846
+			"timesDropped": 203,
+			"dropRate": 0.20609137055837565
 		},
 		{
 			"itemName": "Sabre",
 			"timesDropped": 90,
-			"dropRate": 0.09146341463414634
+			"dropRate": 0.09137055837563451
 		},
 		{
 			"itemName": "Sailor's Burn Cure",
 			"timesDropped": 43,
-			"dropRate": 0.04369918699186992
+			"dropRate": 0.04365482233502538
 		},
 		{
 			"itemName": "Pirate Bag",
 			"timesDropped": 12,
-			"dropRate": 0.012195121951219513
+			"dropRate": 0.012182741116751269
 		},
 		{
 			"itemName": "Pirate Backpack",
 			"timesDropped": 10,
-			"dropRate": 0.01016260162601626
+			"dropRate": 0.01015228426395939
 		},
 		{
 			"itemName": "Pirate Hat",
 			"timesDropped": 7,
-			"dropRate": 0.007113821138211382
+			"dropRate": 0.007106598984771574
 		},
 		{
 			"itemName": "Rum Flask",
 			"timesDropped": 7,
-			"dropRate": 0.007113821138211382
+			"dropRate": 0.007106598984771574
 		},
 		{
 			"itemName": "Pirate Boots",
 			"timesDropped": 4,
-			"dropRate": 0.0040650406504065045
+			"dropRate": 0.0040609137055837565
 		},
 		{
 			"itemName": "Piggy Bank",
 			"timesDropped": 1,
-			"dropRate": 0.0010162601626016261
+			"dropRate": 0.0010152284263959391
 		}
 	]
 }

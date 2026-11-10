@@ -1,76 +1,76 @@
 {
 	"monsterName": "Energy Elemental",
-	"timesKilled": 1712,
+	"timesKilled": 1723,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1672,
-			"dropRate": 0.9766355140186916
+			"timesDropped": 1683,
+			"dropRate": 0.9767846778874056
 		},
 		{
 			"itemName": "Mana Potion",
 			"timesDropped": 232,
-			"dropRate": 0.13551401869158877
+			"dropRate": 0.134648868253047
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 184,
-			"dropRate": 0.10747663551401869
+			"timesDropped": 186,
+			"dropRate": 0.10795124782356355
 		},
 		{
 			"itemName": "Flash Arrow",
-			"timesDropped": 180,
-			"dropRate": 0.10514018691588785
+			"timesDropped": 181,
+			"dropRate": 0.10504933255948927
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 139,
-			"dropRate": 0.08119158878504673
+			"dropRate": 0.08067324434126523
 		},
 		{
 			"itemName": "Crystal Sword",
 			"timesDropped": 111,
-			"dropRate": 0.06483644859813084
+			"dropRate": 0.06442251886244922
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 93,
-			"dropRate": 0.054322429906542055
+			"dropRate": 0.053975623911781775
 		},
 		{
 			"itemName": "Obsidian Lance",
 			"timesDropped": 73,
-			"dropRate": 0.04264018691588785
+			"dropRate": 0.04236796285548462
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 57,
-			"dropRate": 0.03329439252336448
+			"dropRate": 0.0330818340104469
 		},
 		{
 			"itemName": "Crystal Ring",
 			"timesDropped": 37,
-			"dropRate": 0.02161214953271028
+			"dropRate": 0.021474172954149738
 		},
 		{
 			"itemName": "Energy Ring",
 			"timesDropped": 17,
-			"dropRate": 0.009929906542056074
+			"dropRate": 0.009866511897852582
 		},
 		{
 			"itemName": "Silver Amulet",
 			"timesDropped": 14,
-			"dropRate": 0.008177570093457943
+			"dropRate": 0.00812536273940801
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
 			"timesDropped": 13,
-			"dropRate": 0.007593457943925234
+			"dropRate": 0.0075449796865931515
 		},
 		{
 			"itemName": "Guardian Shield",
 			"timesDropped": 1,
-			"dropRate": 0.0005841121495327102
+			"dropRate": 0.0005803830528148578
 		}
 	]
 }

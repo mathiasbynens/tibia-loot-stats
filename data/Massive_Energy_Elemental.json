@@ -1,46 +1,46 @@
 {
 	"monsterName": "Massive Energy Elemental",
-	"timesKilled": 257,
+	"timesKilled": 265,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 255,
-			"dropRate": 0.9922178988326849
+			"timesDropped": 263,
+			"dropRate": 0.9924528301886792
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 42,
-			"dropRate": 0.16342412451361868
+			"timesDropped": 44,
+			"dropRate": 0.1660377358490566
 		},
 		{
 			"itemName": "Rusted Armor",
-			"timesDropped": 25,
-			"dropRate": 0.09727626459143969
+			"timesDropped": 27,
+			"dropRate": 0.1018867924528302
 		},
 		{
 			"itemName": "Flash Arrow",
 			"timesDropped": 20,
-			"dropRate": 0.07782101167315175
+			"dropRate": 0.07547169811320754
 		},
 		{
 			"itemName": "Great Mana Potion",
 			"timesDropped": 16,
-			"dropRate": 0.0622568093385214
+			"dropRate": 0.06037735849056604
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 8,
-			"dropRate": 0.0311284046692607
+			"dropRate": 0.03018867924528302
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 6,
-			"dropRate": 0.023346303501945526
+			"dropRate": 0.022641509433962263
 		},
 		{
 			"itemName": "Wand of Starstorm",
 			"timesDropped": 4,
-			"dropRate": 0.01556420233463035
+			"dropRate": 0.01509433962264151
 		}
 	]
 }

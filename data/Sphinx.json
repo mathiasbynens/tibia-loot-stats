@@ -1,76 +1,76 @@
 {
 	"monsterName": "Sphinx",
-	"timesKilled": 28284,
+	"timesKilled": 28288,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 28284,
+			"timesDropped": 28288,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Sphinx Feather",
 			"timesDropped": 2040,
-			"dropRate": 0.07212558336868902
+			"dropRate": 0.07211538461538461
 		},
 		{
 			"itemName": "Magma Amulet",
 			"timesDropped": 1687,
-			"dropRate": 0.05964502899165606
+			"dropRate": 0.05963659502262444
 		},
 		{
 			"itemName": "Sphinx Tiara",
 			"timesDropped": 1646,
-			"dropRate": 0.0581954461886579
+			"dropRate": 0.05818721719457014
 		},
 		{
 			"itemName": "Green Gem",
 			"timesDropped": 1546,
-			"dropRate": 0.05465987837646726
+			"dropRate": 0.05465214932126697
 		},
 		{
 			"itemName": "Blue Gem",
 			"timesDropped": 1221,
-			"dropRate": 0.04316928298684769
+			"dropRate": 0.043163178733031674
 		},
 		{
 			"itemName": "Magma Boots",
 			"timesDropped": 997,
-			"dropRate": 0.03524961108754066
+			"dropRate": 0.03524462669683258
 		},
 		{
 			"itemName": "White Pearl",
 			"timesDropped": 933,
-			"dropRate": 0.03298684768773865
+			"dropRate": 0.03298218325791855
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 845,
-			"dropRate": 0.02987554801301089
+			"dropRate": 0.029871323529411766
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 675,
-			"dropRate": 0.023865082732286807
+			"timesDropped": 676,
+			"dropRate": 0.02389705882352941
 		},
 		{
 			"itemName": "Wand of Defiance",
 			"timesDropped": 590,
-			"dropRate": 0.020859850091924762
+			"dropRate": 0.020856900452488687
 		},
 		{
 			"itemName": "Wand of Starstorm",
 			"timesDropped": 566,
-			"dropRate": 0.02001131381699901
+			"dropRate": 0.020008484162895926
 		},
 		{
 			"itemName": "Magma Monocle",
 			"timesDropped": 551,
-			"dropRate": 0.019480978645170413
+			"dropRate": 0.019478223981900453
 		},
 		{
 			"itemName": "Magma Legs",
 			"timesDropped": 312,
-			"dropRate": 0.01103097157403479
+			"dropRate": 0.011029411764705883
 		}
 	]
 }

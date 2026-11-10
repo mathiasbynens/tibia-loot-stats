@@ -1,141 +1,141 @@
 {
 	"monsterName": "Broken Shaper",
-	"timesKilled": 11880,
+	"timesKilled": 11974,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 11880,
+			"timesDropped": 11974,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 8919,
-			"dropRate": 0.7507575757575757
+			"timesDropped": 9004,
+			"dropRate": 0.7519625856021379
 		},
 		{
 			"itemName": "Cave Turnip",
-			"timesDropped": 2393,
-			"dropRate": 0.20143097643097643
+			"timesDropped": 2412,
+			"dropRate": 0.20143644563220311
 		},
 		{
 			"itemName": "Cracked Alabaster Vase",
-			"timesDropped": 2390,
-			"dropRate": 0.20117845117845118
+			"timesDropped": 2411,
+			"dropRate": 0.20135293135126106
 		},
 		{
 			"itemName": "Ancient Belt Buckle",
-			"timesDropped": 2131,
-			"dropRate": 0.17937710437710438
+			"timesDropped": 2148,
+			"dropRate": 0.17938867546350426
 		},
 		{
 			"itemName": "Rhino Horn Carving",
-			"timesDropped": 1678,
-			"dropRate": 0.14124579124579126
+			"timesDropped": 1690,
+			"dropRate": 0.14113913479204945
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 1144,
-			"dropRate": 0.0962962962962963
+			"timesDropped": 1153,
+			"dropRate": 0.09629196592617338
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 950,
-			"dropRate": 0.07996632996632996
+			"timesDropped": 957,
+			"dropRate": 0.07992316686153332
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 858,
-			"dropRate": 0.07222222222222222
+			"timesDropped": 865,
+			"dropRate": 0.07223985301486555
 		},
 		{
 			"itemName": "Brown Mushroom",
-			"timesDropped": 730,
-			"dropRate": 0.061447811447811446
+			"timesDropped": 737,
+			"dropRate": 0.06155002505428428
 		},
 		{
 			"itemName": "Orichalcum Pearl",
-			"timesDropped": 594,
-			"dropRate": 0.05
+			"timesDropped": 599,
+			"dropRate": 0.05002505428428261
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 576,
-			"dropRate": 0.048484848484848485
+			"timesDropped": 580,
+			"dropRate": 0.04843828294638383
 		},
 		{
 			"itemName": "Brown Piece of Cloth",
-			"timesDropped": 571,
-			"dropRate": 0.048063973063973066
+			"timesDropped": 573,
+			"dropRate": 0.04785368297978954
 		},
 		{
 			"itemName": "Ancient Coin",
-			"timesDropped": 534,
-			"dropRate": 0.04494949494949495
+			"timesDropped": 539,
+			"dropRate": 0.045014197427760146
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 526,
-			"dropRate": 0.044276094276094274
+			"timesDropped": 527,
+			"dropRate": 0.044012026056455655
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 484,
-			"dropRate": 0.040740740740740744
+			"timesDropped": 488,
+			"dropRate": 0.04075496909971605
 		},
 		{
 			"itemName": "Rusted Armor",
 			"timesDropped": 347,
-			"dropRate": 0.02920875420875421
+			"dropRate": 0.028979455486888257
 		},
 		{
 			"itemName": "Ring of Healing",
-			"timesDropped": 319,
-			"dropRate": 0.026851851851851852
+			"timesDropped": 320,
+			"dropRate": 0.02672456990145315
 		},
 		{
 			"itemName": "Yellow Piece of Cloth",
-			"timesDropped": 242,
-			"dropRate": 0.020370370370370372
+			"timesDropped": 244,
+			"dropRate": 0.020377484549858025
 		},
 		{
 			"itemName": "Coral Brooch",
-			"timesDropped": 185,
-			"dropRate": 0.015572390572390573
+			"timesDropped": 187,
+			"dropRate": 0.015617170536161684
 		},
 		{
 			"itemName": "Ice Rapier",
-			"timesDropped": 137,
-			"dropRate": 0.011531986531986532
-		},
-		{
-			"itemName": "Magic Light Wand",
-			"timesDropped": 123,
-			"dropRate": 0.010353535353535354
+			"timesDropped": 138,
+			"dropRate": 0.01152497077000167
 		},
 		{
 			"itemName": "Blue Piece of Cloth",
-			"timesDropped": 122,
-			"dropRate": 0.01026936026936027
+			"timesDropped": 124,
+			"dropRate": 0.010355770836813095
+		},
+		{
+			"itemName": "Magic Light Wand",
+			"timesDropped": 124,
+			"dropRate": 0.010355770836813095
 		},
 		{
 			"itemName": "White Piece of Cloth",
-			"timesDropped": 117,
-			"dropRate": 0.009848484848484848
+			"timesDropped": 120,
+			"dropRate": 0.01002171371304493
 		},
 		{
 			"itemName": "Green Piece of Cloth",
 			"timesDropped": 81,
-			"dropRate": 0.006818181818181818
+			"dropRate": 0.006764656756305328
 		},
 		{
 			"itemName": "Red Piece of Cloth",
 			"timesDropped": 64,
-			"dropRate": 0.0053872053872053875
+			"dropRate": 0.00534491398029063
 		},
 		{
 			"itemName": "Boots of Haste",
 			"timesDropped": 26,
-			"dropRate": 0.0021885521885521885
+			"dropRate": 0.0021713713044930684
 		}
 	]
 }

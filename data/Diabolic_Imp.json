@@ -1,91 +1,91 @@
 {
 	"monsterName": "Diabolic Imp",
-	"timesKilled": 8200,
+	"timesKilled": 8218,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8151,
-			"dropRate": 0.9940243902439024
+			"timesDropped": 8169,
+			"dropRate": 0.9940374787052811
 		},
 		{
 			"itemName": "Pitchfork",
-			"timesDropped": 4133,
-			"dropRate": 0.5040243902439024
+			"timesDropped": 4147,
+			"dropRate": 0.5046239961061085
 		},
 		{
 			"itemName": "Flask of Demonic Blood",
-			"timesDropped": 2029,
-			"dropRate": 0.2474390243902439
+			"timesDropped": 2034,
+			"dropRate": 0.24750547578486248
 		},
 		{
 			"itemName": "Blank Rune",
-			"timesDropped": 1226,
-			"dropRate": 0.1495121951219512
+			"timesDropped": 1228,
+			"dropRate": 0.1494280846921392
 		},
 		{
 			"itemName": "Cleaver",
-			"timesDropped": 727,
-			"dropRate": 0.08865853658536585
+			"timesDropped": 728,
+			"dropRate": 0.08858603066439523
 		},
 		{
 			"itemName": "Guardian Shield",
-			"timesDropped": 677,
-			"dropRate": 0.0825609756097561
+			"timesDropped": 680,
+			"dropRate": 0.08274519347773181
 		},
 		{
 			"itemName": "Demonic Essence",
-			"timesDropped": 642,
-			"dropRate": 0.07829268292682927
+			"timesDropped": 643,
+			"dropRate": 0.07824288147967876
 		},
 		{
 			"itemName": "Soul Orb",
-			"timesDropped": 560,
-			"dropRate": 0.06829268292682927
+			"timesDropped": 561,
+			"dropRate": 0.06826478461912874
 		},
 		{
 			"itemName": "Scimitar",
 			"timesDropped": 448,
-			"dropRate": 0.054634146341463415
+			"dropRate": 0.054514480408858604
 		},
 		{
 			"itemName": "Platinum Coin",
 			"timesDropped": 278,
-			"dropRate": 0.033902439024390246
+			"dropRate": 0.03382818203942565
 		},
 		{
 			"itemName": "Stealth Ring",
 			"timesDropped": 225,
-			"dropRate": 0.027439024390243903
+			"dropRate": 0.02737892431248479
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 212,
-			"dropRate": 0.025853658536585365
+			"timesDropped": 213,
+			"dropRate": 0.025918715015818935
 		},
 		{
 			"itemName": "Double Axe",
 			"timesDropped": 139,
-			"dropRate": 0.016951219512195123
+			"dropRate": 0.016914091019712824
 		},
 		{
 			"itemName": "Necrotic Rod",
 			"timesDropped": 64,
-			"dropRate": 0.007804878048780488
+			"dropRate": 0.007787782915551229
 		},
 		{
 			"itemName": "Magma Monocle",
 			"timesDropped": 43,
-			"dropRate": 0.0052439024390243906
+			"dropRate": 0.005232416646385982
 		},
 		{
 			"itemName": "Magma Coat",
 			"timesDropped": 25,
-			"dropRate": 0.003048780487804878
+			"dropRate": 0.003042102701387199
 		},
 		{
 			"itemName": "Death Ring",
 			"timesDropped": 10,
-			"dropRate": 0.0012195121951219512
+			"dropRate": 0.0012168410805548796
 		}
 	]
 }

@@ -1,26 +1,26 @@
 {
 	"monsterName": "Cave Rat",
-	"timesKilled": 77542,
+	"timesKilled": 77734,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 66036,
-			"dropRate": 0.8516158984808233
+			"timesDropped": 66203,
+			"dropRate": 0.8516607919314586
 		},
 		{
 			"itemName": "Cheese",
-			"timesDropped": 23337,
-			"dropRate": 0.3009594800237291
+			"timesDropped": 23388,
+			"dropRate": 0.30087220521264824
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 7783,
-			"dropRate": 0.10037141162208868
+			"timesDropped": 7802,
+			"dropRate": 0.10036792137288703
 		},
 		{
 			"itemName": "Cookie",
-			"timesDropped": 730,
-			"dropRate": 0.009414252920997653
+			"timesDropped": 732,
+			"dropRate": 0.009416728844521058
 		}
 	]
 }

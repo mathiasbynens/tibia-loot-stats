@@ -1,41 +1,41 @@
 {
 	"monsterName": "Pirate Ghost",
-	"timesKilled": 668,
+	"timesKilled": 675,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 312,
-			"dropRate": 0.46706586826347307
+			"timesDropped": 315,
+			"dropRate": 0.4666666666666667
 		},
 		{
 			"itemName": "Tattered Piece of Robe",
-			"timesDropped": 48,
-			"dropRate": 0.0718562874251497
+			"timesDropped": 49,
+			"dropRate": 0.0725925925925926
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 13,
-			"dropRate": 0.019461077844311378
+			"dropRate": 0.01925925925925926
 		},
 		{
 			"itemName": "Parchment (Rewritable)",
 			"timesDropped": 10,
-			"dropRate": 0.014970059880239521
+			"dropRate": 0.014814814814814815
 		},
 		{
 			"itemName": "Spike Sword",
 			"timesDropped": 4,
-			"dropRate": 0.005988023952095809
+			"dropRate": 0.005925925925925926
 		},
 		{
 			"itemName": "Stealth Ring",
 			"timesDropped": 2,
-			"dropRate": 0.0029940119760479044
+			"dropRate": 0.002962962962962963
 		},
 		{
 			"itemName": "Red Robe",
 			"timesDropped": 1,
-			"dropRate": 0.0014970059880239522
+			"dropRate": 0.0014814814814814814
 		}
 	]
 }

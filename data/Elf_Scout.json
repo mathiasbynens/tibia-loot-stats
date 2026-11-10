@@ -1,61 +1,61 @@
 {
 	"monsterName": "Elf Scout",
-	"timesKilled": 32290,
+	"timesKilled": 32355,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 24209,
-			"dropRate": 0.7497367606069991
+			"timesDropped": 24254,
+			"dropRate": 0.7496213877298717
 		},
 		{
 			"itemName": "Arrow",
-			"timesDropped": 9775,
-			"dropRate": 0.30272530195106845
+			"timesDropped": 9792,
+			"dropRate": 0.3026425591098748
 		},
 		{
 			"itemName": "Grapes",
-			"timesDropped": 5790,
-			"dropRate": 0.17931248064416228
+			"timesDropped": 5800,
+			"dropRate": 0.17926131973419873
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 4871,
-			"dropRate": 0.1508516568597089
+			"timesDropped": 4876,
+			"dropRate": 0.15070313707309535
 		},
 		{
 			"itemName": "Elven Scouting Glass",
-			"timesDropped": 3257,
-			"dropRate": 0.1008671415298854
+			"timesDropped": 3266,
+			"dropRate": 0.10094266728480915
 		},
 		{
 			"itemName": "Elvish Talisman",
-			"timesDropped": 1640,
-			"dropRate": 0.05078971817900279
+			"timesDropped": 1643,
+			"dropRate": 0.05078040488332561
 		},
 		{
 			"itemName": "Bow",
-			"timesDropped": 1305,
-			"dropRate": 0.04041498916073088
+			"timesDropped": 1308,
+			"dropRate": 0.04042651831247102
 		},
 		{
 			"itemName": "Waterskin",
 			"timesDropped": 424,
-			"dropRate": 0.013131000309693403
+			"dropRate": 0.013104620615051769
 		},
 		{
 			"itemName": "Sandals",
-			"timesDropped": 369,
-			"dropRate": 0.011427686590275626
+			"timesDropped": 370,
+			"dropRate": 0.011435635914078195
 		},
 		{
 			"itemName": "Heaven Blossom",
 			"timesDropped": 356,
-			"dropRate": 0.01102508516568597
+			"dropRate": 0.01100293617678875
 		},
 		{
 			"itemName": "Elvish Bow",
 			"timesDropped": 37,
-			"dropRate": 0.0011458655930628677
+			"dropRate": 0.0011435635914078194
 		}
 	]
 }
