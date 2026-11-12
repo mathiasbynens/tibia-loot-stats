@@ -1,21 +1,21 @@
 {
 	"monsterName": "Penguin",
-	"timesKilled": 34646,
+	"timesKilled": 34649,
 	"items": [
 		{
 			"itemName": "Fish",
-			"timesDropped": 2763,
-			"dropRate": 0.07974946602782428
+			"timesDropped": 2764,
+			"dropRate": 0.07977142197466017
 		},
 		{
 			"itemName": "Green Perch",
 			"timesDropped": 41,
-			"dropRate": 0.001183397794839231
+			"dropRate": 0.0011832953331986492
 		},
 		{
 			"itemName": "Rainbow Trout",
 			"timesDropped": 21,
-			"dropRate": 0.0006061305778444843
+			"dropRate": 0.0006060780974919911
 		}
 	]
 }

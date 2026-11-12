@@ -1,71 +1,71 @@
 {
 	"monsterName": "Golden Servant Replica",
-	"timesKilled": 7618,
+	"timesKilled": 7626,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6728,
-			"dropRate": 0.88317143607246
+			"timesDropped": 6736,
+			"dropRate": 0.8832939942302649
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 906,
-			"dropRate": 0.11892885271724862
+			"timesDropped": 908,
+			"dropRate": 0.11906635195384212
 		},
 		{
 			"itemName": "Mana Potion",
 			"timesDropped": 393,
-			"dropRate": 0.051588343397217115
+			"dropRate": 0.051534225019669554
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 357,
-			"dropRate": 0.0468626936203728
+			"dropRate": 0.04681353265145555
 		},
 		{
 			"itemName": "Halberd",
 			"timesDropped": 194,
-			"dropRate": 0.02546600157521659
+			"dropRate": 0.025439286650931026
 		},
 		{
 			"itemName": "Green Mushroom",
 			"timesDropped": 116,
-			"dropRate": 0.01522709372538724
+			"dropRate": 0.015211119853134015
 		},
 		{
 			"itemName": "Gear Wheel",
 			"timesDropped": 81,
-			"dropRate": 0.010632711997899712
+			"dropRate": 0.010621557828481511
+		},
+		{
+			"itemName": "Stealth Ring",
+			"timesDropped": 35,
+			"dropRate": 0.004589562024652505
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
 			"timesDropped": 34,
-			"dropRate": 0.004463113678130743
-		},
-		{
-			"itemName": "Stealth Ring",
-			"timesDropped": 34,
-			"dropRate": 0.004463113678130743
+			"dropRate": 0.0044584316810910045
 		},
 		{
 			"itemName": "Slime Mould",
 			"timesDropped": 25,
-			"dropRate": 0.003281701233919664
+			"dropRate": 0.0032782585890375033
 		},
 		{
 			"itemName": "Golden Can of Oil",
 			"timesDropped": 2,
-			"dropRate": 0.00026253609871357313
+			"dropRate": 0.00026226068712300026
 		},
 		{
 			"itemName": "Gold Ring",
 			"timesDropped": 1,
-			"dropRate": 0.00013126804935678657
+			"dropRate": 0.00013113034356150013
 		},
 		{
 			"itemName": "Golden Armor",
 			"timesDropped": 1,
-			"dropRate": 0.00013126804935678657
+			"dropRate": 0.00013113034356150013
 		}
 	]
 }

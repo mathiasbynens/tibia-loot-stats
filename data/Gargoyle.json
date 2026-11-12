@@ -1,71 +1,71 @@
 {
 	"monsterName": "Gargoyle",
-	"timesKilled": 35209,
+	"timesKilled": 35265,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 30901,
-			"dropRate": 0.8776449203328694
+			"timesDropped": 30948,
+			"dropRate": 0.8775840068056147
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 5296,
-			"dropRate": 0.15041608679598967
+			"timesDropped": 5304,
+			"dropRate": 0.15040408336877925
 		},
 		{
 			"itemName": "Stone Wing",
-			"timesDropped": 4265,
-			"dropRate": 0.12113380101678548
+			"timesDropped": 4273,
+			"dropRate": 0.12116829717850561
 		},
 		{
 			"itemName": "Potato",
-			"timesDropped": 3475,
-			"dropRate": 0.09869635604532932
+			"timesDropped": 3481,
+			"dropRate": 0.09870976889266979
 		},
 		{
 			"itemName": "Strawberry",
 			"timesDropped": 715,
-			"dropRate": 0.020307307790621718
+			"dropRate": 0.02027506025804622
 		},
 		{
 			"itemName": "Morning Star",
 			"timesDropped": 518,
-			"dropRate": 0.014712147462296573
+			"dropRate": 0.014688784914220899
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 491,
-			"dropRate": 0.013945298077196171
+			"timesDropped": 492,
+			"dropRate": 0.013951509995746491
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
 			"timesDropped": 380,
-			"dropRate": 0.010792695049561192
+			"dropRate": 0.01077555650077981
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 273,
-			"dropRate": 0.007753699338237383
+			"dropRate": 0.007741386643981284
 		},
 		{
 			"itemName": "Piece of Marble Rock",
 			"timesDropped": 170,
-			"dropRate": 0.004828310943224744
+			"dropRate": 0.004820643697717284
 		},
 		{
 			"itemName": "Dark Armor",
-			"timesDropped": 92,
-			"dropRate": 0.00261296827515692
+			"timesDropped": 93,
+			"dropRate": 0.0026371756699276904
 		},
 		{
 			"itemName": "Club Ring",
 			"timesDropped": 75,
-			"dropRate": 0.0021301371808344458
+			"dropRate": 0.002126754572522331
 		},
 		{
 			"itemName": "Shiny Stone",
-			"timesDropped": 72,
-			"dropRate": 0.002044931693601068
+			"timesDropped": 73,
+			"dropRate": 0.002070041117255069
 		}
 	]
 }
