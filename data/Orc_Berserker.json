@@ -1,56 +1,56 @@
 {
 	"monsterName": "Orc Berserker",
-	"timesKilled": 37648,
+	"timesKilled": 37650,
 	"items": [
 		{
 			"itemName": "Gold Coin",
 			"timesDropped": 20604,
-			"dropRate": 0.5472800679983001
+			"dropRate": 0.5472509960159363
 		},
 		{
 			"itemName": "Orcish Gear",
 			"timesDropped": 3821,
-			"dropRate": 0.10149277518062048
+			"dropRate": 0.10148738379814078
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 3709,
-			"dropRate": 0.09851784955376115
+			"timesDropped": 3710,
+			"dropRate": 0.09853917662682603
 		},
 		{
 			"itemName": "Halberd",
 			"timesDropped": 2646,
-			"dropRate": 0.07028261793455164
+			"dropRate": 0.0702788844621514
 		},
 		{
 			"itemName": "Battle Axe",
 			"timesDropped": 2187,
-			"dropRate": 0.05809073523161921
+			"dropRate": 0.05808764940239044
 		},
 		{
 			"itemName": "Hunting Spear",
 			"timesDropped": 1821,
-			"dropRate": 0.04836910327241819
+			"dropRate": 0.04836653386454183
 		},
 		{
 			"itemName": "Orc Leather",
 			"timesDropped": 1551,
-			"dropRate": 0.04119740756481088
+			"dropRate": 0.041195219123505974
 		},
 		{
 			"itemName": "Orc Tooth",
 			"timesDropped": 1064,
-			"dropRate": 0.028261793455163622
+			"dropRate": 0.028260292164674634
 		},
 		{
 			"itemName": "Chain Armor",
 			"timesDropped": 376,
-			"dropRate": 0.00998725031874203
+			"dropRate": 0.0099867197875166
 		},
 		{
 			"itemName": "Lamp",
 			"timesDropped": 324,
-			"dropRate": 0.008606034849128771
+			"dropRate": 0.008605577689243029
 		}
 	]
 }

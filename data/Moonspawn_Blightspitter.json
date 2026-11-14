@@ -1,66 +1,66 @@
 {
 	"monsterName": "Moonspawn Blightspitter",
-	"timesKilled": 642,
+	"timesKilled": 689,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 487,
-			"dropRate": 0.7585669781931464
+			"timesDropped": 525,
+			"dropRate": 0.7619738751814223
 		},
 		{
 			"itemName": "Mushroom Pie",
-			"timesDropped": 57,
-			"dropRate": 0.08878504672897196
+			"timesDropped": 61,
+			"dropRate": 0.08853410740203194
 		},
 		{
 			"itemName": "Moonspawn Headpiece",
-			"timesDropped": 35,
-			"dropRate": 0.05451713395638629
+			"timesDropped": 42,
+			"dropRate": 0.06095791001451379
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 26,
-			"dropRate": 0.040498442367601244
-		},
-		{
-			"itemName": "Terra Amulet",
-			"timesDropped": 19,
-			"dropRate": 0.029595015576323987
+			"timesDropped": 28,
+			"dropRate": 0.040638606676342524
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 18,
-			"dropRate": 0.028037383177570093
+			"timesDropped": 21,
+			"dropRate": 0.030478955007256895
+		},
+		{
+			"itemName": "Terra Amulet",
+			"timesDropped": 20,
+			"dropRate": 0.02902757619738752
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 14,
-			"dropRate": 0.021806853582554516
+			"timesDropped": 15,
+			"dropRate": 0.02177068214804064
 		},
 		{
 			"itemName": "Muck Rod",
-			"timesDropped": 13,
-			"dropRate": 0.020249221183800622
+			"timesDropped": 14,
+			"dropRate": 0.020319303338171262
 		},
 		{
 			"itemName": "Terra Mantle",
 			"timesDropped": 11,
-			"dropRate": 0.017133956386292833
+			"dropRate": 0.015965166908563134
 		},
 		{
 			"itemName": "Terra Boots",
 			"timesDropped": 7,
-			"dropRate": 0.010903426791277258
+			"dropRate": 0.010159651669085631
 		},
 		{
 			"itemName": "Moonstone",
 			"timesDropped": 4,
-			"dropRate": 0.006230529595015576
+			"dropRate": 0.005805515239477504
 		},
 		{
 			"itemName": "Mushroom Backpack",
 			"timesDropped": 1,
-			"dropRate": 0.001557632398753894
+			"dropRate": 0.001451378809869376
 		}
 	]
 }

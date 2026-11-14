@@ -1,56 +1,56 @@
 {
 	"monsterName": "Moonstone Overseer",
-	"timesKilled": 727,
+	"timesKilled": 901,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 466,
-			"dropRate": 0.640990371389271
-		},
-		{
-			"itemName": "Blue Gem",
-			"timesDropped": 35,
-			"dropRate": 0.048143053645116916
+			"timesDropped": 581,
+			"dropRate": 0.6448390677025527
 		},
 		{
 			"itemName": "Red Gem",
-			"timesDropped": 33,
-			"dropRate": 0.0453920220082531
+			"timesDropped": 44,
+			"dropRate": 0.048834628190899
+		},
+		{
+			"itemName": "Blue Gem",
+			"timesDropped": 40,
+			"dropRate": 0.04439511653718091
 		},
 		{
 			"itemName": "Yellow Gem",
-			"timesDropped": 29,
-			"dropRate": 0.039889958734525444
+			"timesDropped": 38,
+			"dropRate": 0.042175360710321866
 		},
 		{
 			"itemName": "Green Gem",
-			"timesDropped": 27,
-			"dropRate": 0.037138927097661624
+			"timesDropped": 33,
+			"dropRate": 0.03662597114317425
 		},
 		{
 			"itemName": "Crystal Sword",
-			"timesDropped": 16,
-			"dropRate": 0.02200825309491059
+			"timesDropped": 20,
+			"dropRate": 0.022197558268590455
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 9,
-			"dropRate": 0.012379642365887207
+			"timesDropped": 10,
+			"dropRate": 0.011098779134295227
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 7,
-			"dropRate": 0.009628610729023384
+			"timesDropped": 9,
+			"dropRate": 0.009988901220865706
 		},
 		{
 			"itemName": "Moonstone",
 			"timesDropped": 5,
-			"dropRate": 0.0068775790921595595
+			"dropRate": 0.005549389567147614
 		},
 		{
 			"itemName": "Diamond",
-			"timesDropped": 3,
-			"dropRate": 0.0041265474552957355
+			"timesDropped": 4,
+			"dropRate": 0.004439511653718091
 		}
 	]
 }

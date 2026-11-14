@@ -1,66 +1,66 @@
 {
 	"monsterName": "Moonstone Excavator",
-	"timesKilled": 1137,
+	"timesKilled": 1394,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 909,
-			"dropRate": 0.7994722955145118
+			"timesDropped": 1109,
+			"dropRate": 0.7955523672883787
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 362,
-			"dropRate": 0.31838170624450307
+			"timesDropped": 450,
+			"dropRate": 0.32281205164992827
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 186,
-			"dropRate": 0.16358839050131926
+			"timesDropped": 227,
+			"dropRate": 0.16284074605451937
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 158,
-			"dropRate": 0.13896218117854
+			"timesDropped": 196,
+			"dropRate": 0.1406025824964132
 		},
 		{
 			"itemName": "Small Ruby",
-			"timesDropped": 150,
-			"dropRate": 0.13192612137203166
-		},
-		{
-			"itemName": "Small Topaz",
-			"timesDropped": 141,
-			"dropRate": 0.12401055408970976
+			"timesDropped": 178,
+			"dropRate": 0.12769010043041606
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 140,
-			"dropRate": 0.12313104661389622
+			"timesDropped": 174,
+			"dropRate": 0.12482065997130559
+		},
+		{
+			"itemName": "Small Topaz",
+			"timesDropped": 169,
+			"dropRate": 0.1212338593974175
 		},
 		{
 			"itemName": "Candlestick",
-			"timesDropped": 44,
-			"dropRate": 0.03869832893579595
+			"timesDropped": 50,
+			"dropRate": 0.035868005738880916
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 27,
-			"dropRate": 0.023746701846965697
+			"timesDropped": 36,
+			"dropRate": 0.02582496413199426
 		},
 		{
 			"itemName": "Moonstone",
-			"timesDropped": 15,
-			"dropRate": 0.013192612137203167
+			"timesDropped": 17,
+			"dropRate": 0.012195121951219513
+		},
+		{
+			"itemName": "Pick",
+			"timesDropped": 12,
+			"dropRate": 0.00860832137733142
 		},
 		{
 			"itemName": "Gold Nugget",
 			"timesDropped": 9,
-			"dropRate": 0.0079155672823219
-		},
-		{
-			"itemName": "Pick",
-			"timesDropped": 8,
-			"dropRate": 0.007036059806508356
+			"dropRate": 0.006456241032998565
 		}
 	]
 }
