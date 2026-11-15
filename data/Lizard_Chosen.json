@@ -1,86 +1,86 @@
 {
 	"monsterName": "Lizard Chosen",
-	"timesKilled": 5608,
+	"timesKilled": 5709,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5486,
-			"dropRate": 0.9782453637660485
+			"timesDropped": 5586,
+			"dropRate": 0.9784550709406201
 		},
 		{
 			"itemName": "Spiked Iron Ball",
-			"timesDropped": 535,
-			"dropRate": 0.09539942938659059
+			"timesDropped": 548,
+			"dropRate": 0.09598878963040813
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 377,
-			"dropRate": 0.06722539229671898
+			"timesDropped": 388,
+			"dropRate": 0.06796286565072693
 		},
 		{
 			"itemName": "Cursed Shoulder Spikes",
-			"timesDropped": 364,
-			"dropRate": 0.06490727532097004
+			"timesDropped": 372,
+			"dropRate": 0.0651602732527588
 		},
 		{
 			"itemName": "Scale of Corruption",
-			"timesDropped": 177,
-			"dropRate": 0.0315620542082739
+			"timesDropped": 182,
+			"dropRate": 0.03187948852688737
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 168,
-			"dropRate": 0.029957203994293864
+			"timesDropped": 169,
+			"dropRate": 0.029602382203538273
 		},
 		{
 			"itemName": "Small Diamond",
-			"timesDropped": 156,
-			"dropRate": 0.02781740370898716
+			"timesDropped": 158,
+			"dropRate": 0.02767559992993519
 		},
 		{
 			"itemName": "Corrupted Flag",
-			"timesDropped": 148,
-			"dropRate": 0.026390870185449358
+			"timesDropped": 150,
+			"dropRate": 0.02627430373095113
 		},
 		{
 			"itemName": "Lizard Leather",
-			"timesDropped": 107,
-			"dropRate": 0.019079885877318115
+			"timesDropped": 109,
+			"dropRate": 0.01909266071115782
+		},
+		{
+			"itemName": "Tower Shield",
+			"timesDropped": 58,
+			"dropRate": 0.010159397442634437
 		},
 		{
 			"itemName": "Zaoan Shoes",
 			"timesDropped": 57,
-			"dropRate": 0.010164051355206847
-		},
-		{
-			"itemName": "Tower Shield",
-			"timesDropped": 55,
-			"dropRate": 0.009807417974322396
+			"dropRate": 0.009984235417761429
 		},
 		{
 			"itemName": "Lizard Scale",
 			"timesDropped": 52,
-			"dropRate": 0.009272467902995721
+			"dropRate": 0.009108425293396392
 		},
 		{
 			"itemName": "Zaoan Armor",
-			"timesDropped": 47,
-			"dropRate": 0.008380884450784594
+			"timesDropped": 49,
+			"dropRate": 0.008582939218777369
 		},
 		{
 			"itemName": "Zaoan Legs",
-			"timesDropped": 43,
-			"dropRate": 0.0076676176890156916
+			"timesDropped": 45,
+			"dropRate": 0.007882291119285338
 		},
 		{
 			"itemName": "Collar of Orange Plasma",
-			"timesDropped": 31,
-			"dropRate": 0.005527817403708987
+			"timesDropped": 32,
+			"dropRate": 0.005605184795936241
 		},
 		{
 			"itemName": "Zaoan Helmet",
 			"timesDropped": 2,
-			"dropRate": 0.0003566333808844508
+			"dropRate": 0.0003503240497460151
 		}
 	]
 }

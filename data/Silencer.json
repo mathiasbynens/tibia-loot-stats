@@ -1,86 +1,86 @@
 {
 	"monsterName": "Silencer",
-	"timesKilled": 14975,
+	"timesKilled": 16121,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 14969,
-			"dropRate": 0.9995993322203672
+			"timesDropped": 16115,
+			"dropRate": 0.9996278146516966
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 14959,
-			"dropRate": 0.9989315525876461
+			"timesDropped": 16104,
+			"dropRate": 0.9989454748464736
 		},
 		{
 			"itemName": "Silencer Claws",
-			"timesDropped": 2449,
-			"dropRate": 0.16353923205342238
+			"timesDropped": 2629,
+			"dropRate": 0.16307921344829726
 		},
 		{
 			"itemName": "Silencer Resonating Chamber",
-			"timesDropped": 1375,
-			"dropRate": 0.09181969949916527
+			"timesDropped": 1482,
+			"dropRate": 0.09192978103095341
 		},
 		{
 			"itemName": "Assassin Star",
-			"timesDropped": 1168,
-			"dropRate": 0.0779966611018364
+			"timesDropped": 1263,
+			"dropRate": 0.0783450158178773
 		},
 		{
 			"itemName": "Glorious Axe",
-			"timesDropped": 366,
-			"dropRate": 0.024440734557595992
+			"timesDropped": 392,
+			"dropRate": 0.0243161094224924
 		},
 		{
 			"itemName": "Titan Axe",
-			"timesDropped": 303,
-			"dropRate": 0.02023372287145242
+			"timesDropped": 328,
+			"dropRate": 0.020346132373922212
 		},
 		{
 			"itemName": "Haunted Blade",
-			"timesDropped": 286,
-			"dropRate": 0.01909849749582638
-		},
-		{
-			"itemName": "Dark Shield",
-			"timesDropped": 220,
-			"dropRate": 0.014691151919866445
+			"timesDropped": 297,
+			"dropRate": 0.01842317474102103
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 220,
-			"dropRate": 0.014691151919866445
+			"timesDropped": 235,
+			"dropRate": 0.014577259475218658
+		},
+		{
+			"itemName": "Dark Shield",
+			"timesDropped": 232,
+			"dropRate": 0.014391166801066932
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 149,
-			"dropRate": 0.00994991652754591
+			"timesDropped": 160,
+			"dropRate": 0.00992494262142547
 		},
 		{
 			"itemName": "Diamond Sceptre",
-			"timesDropped": 147,
-			"dropRate": 0.00981636060100167
+			"timesDropped": 157,
+			"dropRate": 0.009738849947273743
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 129,
-			"dropRate": 0.008614357262103505
+			"timesDropped": 143,
+			"dropRate": 0.008870417467899013
 		},
 		{
 			"itemName": "Shadow Sceptre",
-			"timesDropped": 126,
-			"dropRate": 0.008414023372287145
+			"timesDropped": 138,
+			"dropRate": 0.008560263010979468
 		},
 		{
 			"itemName": "Cluster of Solace",
-			"timesDropped": 90,
-			"dropRate": 0.006010016694490818
+			"timesDropped": 96,
+			"dropRate": 0.005954965572855282
 		},
 		{
 			"itemName": "Boots of Haste",
-			"timesDropped": 76,
-			"dropRate": 0.0050751252086811355
+			"timesDropped": 82,
+			"dropRate": 0.005086533093480553
 		}
 	]
 }

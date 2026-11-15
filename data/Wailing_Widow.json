@@ -1,51 +1,51 @@
 {
 	"monsterName": "Wailing Widow",
-	"timesKilled": 14421,
+	"timesKilled": 14430,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 13966,
-			"dropRate": 0.9684487899590875
+			"timesDropped": 13975,
+			"dropRate": 0.9684684684684685
 		},
 		{
 			"itemName": "Widow's Mandibles",
-			"timesDropped": 2921,
-			"dropRate": 0.2025518341307815
+			"timesDropped": 2923,
+			"dropRate": 0.20256410256410257
 		},
 		{
 			"itemName": "Mana Potion",
 			"timesDropped": 737,
-			"dropRate": 0.05110602593440122
+			"dropRate": 0.05107415107415107
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 717,
-			"dropRate": 0.049719159558976496
+			"dropRate": 0.04968814968814969
 		},
 		{
 			"itemName": "Halberd",
 			"timesDropped": 678,
-			"dropRate": 0.047014770126898274
+			"dropRate": 0.04698544698544699
 		},
 		{
 			"itemName": "Plate Shield",
 			"timesDropped": 449,
-			"dropRate": 0.03113515012828514
+			"dropRate": 0.031115731115731116
 		},
 		{
 			"itemName": "Green Mushroom",
-			"timesDropped": 423,
-			"dropRate": 0.029332223840232992
+			"timesDropped": 424,
+			"dropRate": 0.029383229383229383
 		},
 		{
 			"itemName": "Zaoan Halberd",
 			"timesDropped": 316,
-			"dropRate": 0.0219124887317107
+			"dropRate": 0.021898821898821898
 		},
 		{
 			"itemName": "Wailing Widow's Necklace",
 			"timesDropped": 100,
-			"dropRate": 0.0069343318771236395
+			"dropRate": 0.00693000693000693
 		}
 	]
 }
