@@ -1,56 +1,56 @@
 {
 	"monsterName": "Nomad (Basic)",
-	"timesKilled": 39863,
+	"timesKilled": 39944,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 22360,
-			"dropRate": 0.5609211549557234
+			"timesDropped": 22401,
+			"dropRate": 0.560810134187863
 		},
 		{
 			"itemName": "Rope Belt",
-			"timesDropped": 2539,
-			"dropRate": 0.0636931490354464
+			"timesDropped": 2543,
+			"dropRate": 0.06366412978169438
 		},
 		{
 			"itemName": "Potato",
-			"timesDropped": 1887,
-			"dropRate": 0.047337129669116726
+			"timesDropped": 1894,
+			"dropRate": 0.04741638293611056
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 1134,
-			"dropRate": 0.028447432456162356
+			"timesDropped": 1135,
+			"dropRate": 0.028414780692970158
 		},
 		{
 			"itemName": "Brass Armor",
-			"timesDropped": 1002,
-			"dropRate": 0.025136091112058803
+			"timesDropped": 1003,
+			"dropRate": 0.025110154215902264
 		},
 		{
 			"itemName": "Dirty Turban",
-			"timesDropped": 820,
-			"dropRate": 0.02057045380427966
+			"timesDropped": 824,
+			"dropRate": 0.020628880432605648
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 796,
-			"dropRate": 0.019968391741715375
+			"timesDropped": 798,
+			"dropRate": 0.01997796915681955
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 398,
-			"dropRate": 0.009984195870857688
+			"timesDropped": 400,
+			"dropRate": 0.01001401962747847
 		},
 		{
 			"itemName": "Iron Helmet",
-			"timesDropped": 227,
-			"dropRate": 0.005694503675087174
+			"timesDropped": 229,
+			"dropRate": 0.005733026236731424
 		},
 		{
 			"itemName": "Nomad Parchment",
 			"timesDropped": 80,
-			"dropRate": 0.002006873541880942
+			"dropRate": 0.002002803925495694
 		}
 	]
 }

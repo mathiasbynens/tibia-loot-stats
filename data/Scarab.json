@@ -1,41 +1,41 @@
 {
 	"monsterName": "Scarab",
-	"timesKilled": 101893,
+	"timesKilled": 101905,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 88949,
-			"dropRate": 0.8729647767756372
+			"timesDropped": 88960,
+			"dropRate": 0.8729699229674697
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 40683,
-			"dropRate": 0.39927178510790734
+			"timesDropped": 40686,
+			"dropRate": 0.39925420734998285
 		},
 		{
 			"itemName": "Piece of Scarab Shell",
 			"timesDropped": 5134,
-			"dropRate": 0.050386189434014114
+			"dropRate": 0.050380256120896916
 		},
 		{
 			"itemName": "Scarab Coin",
-			"timesDropped": 1123,
-			"dropRate": 0.011021365550135926
+			"timesDropped": 1124,
+			"dropRate": 0.01102988077130661
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 518,
-			"dropRate": 0.005083764341024408
+			"dropRate": 0.005083165693538099
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 351,
-			"dropRate": 0.0034447901229721373
+			"dropRate": 0.003444384475737206
 		},
 		{
 			"itemName": "Daramian Mace",
 			"timesDropped": 306,
-			"dropRate": 0.0030031503636167352
+			"dropRate": 0.0030027967224375645
 		}
 	]
 }

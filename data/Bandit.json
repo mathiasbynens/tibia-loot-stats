@@ -1,51 +1,51 @@
 {
 	"monsterName": "Bandit",
-	"timesKilled": 25695,
+	"timesKilled": 25703,
 	"items": [
 		{
 			"itemName": "Gold Coin",
 			"timesDropped": 12630,
-			"dropRate": 0.4915353181552831
+			"dropRate": 0.49138232891102207
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 7693,
-			"dropRate": 0.2993967697995719
+			"timesDropped": 7697,
+			"dropRate": 0.2994592070964479
 		},
 		{
 			"itemName": "Brass Shield",
-			"timesDropped": 4318,
-			"dropRate": 0.16804825841603424
+			"timesDropped": 4320,
+			"dropRate": 0.16807376570828308
 		},
 		{
 			"itemName": "Leather Legs",
 			"timesDropped": 3858,
-			"dropRate": 0.15014594279042615
+			"dropRate": 0.15009921020892503
 		},
 		{
 			"itemName": "Mace",
-			"timesDropped": 2636,
-			"dropRate": 0.10258805215022378
+			"timesDropped": 2637,
+			"dropRate": 0.10259502781776446
 		},
 		{
 			"itemName": "Tomato",
 			"timesDropped": 1964,
-			"dropRate": 0.07643510410585717
+			"dropRate": 0.07641131385441388
 		},
 		{
 			"itemName": "Chain Helmet",
 			"timesDropped": 1295,
-			"dropRate": 0.050398910293831485
+			"dropRate": 0.050383223748200597
 		},
 		{
 			"itemName": "Brass Armor",
 			"timesDropped": 615,
-			"dropRate": 0.023934617629889084
+			"dropRate": 0.023927168034859746
 		},
 		{
 			"itemName": "Iron Helmet",
 			"timesDropped": 146,
-			"dropRate": 0.005682039307258221
+			"dropRate": 0.005680270785511419
 		}
 	]
 }

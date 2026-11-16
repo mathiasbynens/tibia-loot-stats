@@ -1,21 +1,21 @@
 {
 	"monsterName": "Polar Bear",
-	"timesKilled": 22283,
+	"timesKilled": 22306,
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 11218,
-			"dropRate": 0.5034331104429386
+			"timesDropped": 11226,
+			"dropRate": 0.5032726620640187
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 11104,
-			"dropRate": 0.4983171027240497
+			"timesDropped": 11115,
+			"dropRate": 0.49829642248722317
 		},
 		{
 			"itemName": "Polar Bear Paw",
 			"timesDropped": 223,
-			"dropRate": 0.010007629134317641
+			"dropRate": 0.0099973101407693
 		}
 	]
 }
