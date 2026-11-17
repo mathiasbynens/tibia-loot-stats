@@ -1,76 +1,76 @@
 {
 	"monsterName": "Iks Ahpututu",
-	"timesKilled": 344,
+	"timesKilled": 345,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 344,
+			"timesDropped": 345,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
 			"timesDropped": 25,
-			"dropRate": 0.07267441860465117
+			"dropRate": 0.07246376811594203
 		},
 		{
 			"itemName": "Tiger Eye",
 			"timesDropped": 20,
-			"dropRate": 0.05813953488372093
+			"dropRate": 0.057971014492753624
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 19,
-			"dropRate": 0.055232558139534885
+			"dropRate": 0.05507246376811594
 		},
 		{
 			"itemName": "Small Sapphire",
 			"timesDropped": 15,
-			"dropRate": 0.0436046511627907
+			"dropRate": 0.043478260869565216
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 13,
-			"dropRate": 0.0377906976744186
+			"dropRate": 0.03768115942028986
 		},
 		{
 			"itemName": "Daedal Chisel",
 			"timesDropped": 8,
-			"dropRate": 0.023255813953488372
+			"dropRate": 0.02318840579710145
 		},
 		{
 			"itemName": "Gold-Brocaded Cloth",
 			"timesDropped": 8,
-			"dropRate": 0.023255813953488372
+			"dropRate": 0.02318840579710145
 		},
 		{
 			"itemName": "Opal",
 			"timesDropped": 4,
-			"dropRate": 0.011627906976744186
+			"dropRate": 0.011594202898550725
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 3,
-			"dropRate": 0.00872093023255814
+			"dropRate": 0.008695652173913044
 		},
 		{
 			"itemName": "Rotten Feather",
-			"timesDropped": 2,
-			"dropRate": 0.005813953488372093
+			"timesDropped": 3,
+			"dropRate": 0.008695652173913044
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
 			"timesDropped": 2,
-			"dropRate": 0.005813953488372093
+			"dropRate": 0.005797101449275362
 		},
 		{
 			"itemName": "Broken Iks Faulds",
 			"timesDropped": 1,
-			"dropRate": 0.0029069767441860465
+			"dropRate": 0.002898550724637681
 		},
 		{
 			"itemName": "Ritual Tooth",
 			"timesDropped": 1,
-			"dropRate": 0.0029069767441860465
+			"dropRate": 0.002898550724637681
 		}
 	]
 }
