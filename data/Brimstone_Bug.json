@@ -1,66 +1,66 @@
 {
 	"monsterName": "Brimstone Bug",
-	"timesKilled": 31677,
+	"timesKilled": 31717,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 31677,
+			"timesDropped": 31717,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 15788,
-			"dropRate": 0.498405783375951
+			"timesDropped": 15807,
+			"dropRate": 0.49837626509442884
 		},
 		{
 			"itemName": "Lump of Earth",
-			"timesDropped": 6250,
-			"dropRate": 0.19730403762982607
+			"timesDropped": 6257,
+			"dropRate": 0.19727590881861462
 		},
 		{
 			"itemName": "Sulphurous Stone",
-			"timesDropped": 4710,
-			"dropRate": 0.14868832275783692
+			"timesDropped": 4718,
+			"dropRate": 0.1487530346501876
 		},
 		{
 			"itemName": "Brimstone Shell",
-			"timesDropped": 3222,
-			"dropRate": 0.10171417747892793
+			"timesDropped": 3227,
+			"dropRate": 0.10174354447141912
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 2902,
-			"dropRate": 0.09161221075228083
+			"timesDropped": 2904,
+			"dropRate": 0.09155973137434184
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 2867,
-			"dropRate": 0.0905073081415538
+			"timesDropped": 2869,
+			"dropRate": 0.09045622221521582
 		},
 		{
 			"itemName": "Brimstone Fangs",
-			"timesDropped": 1885,
-			"dropRate": 0.05950689774915554
+			"timesDropped": 1888,
+			"dropRate": 0.05952643692656935
 		},
 		{
 			"itemName": "Small Emerald",
-			"timesDropped": 887,
-			"dropRate": 0.028001389020424913
+			"timesDropped": 888,
+			"dropRate": 0.02799760380868304
 		},
 		{
 			"itemName": "Magic Sulphur",
 			"timesDropped": 511,
-			"dropRate": 0.01613157811661458
+			"dropRate": 0.016111233723239905
 		},
 		{
 			"itemName": "Stealth Ring",
-			"timesDropped": 290,
-			"dropRate": 0.009154907346023929
+			"timesDropped": 292,
+			"dropRate": 0.009206419270422801
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 27,
-			"dropRate": 0.0008523534425608486
+			"dropRate": 0.0008512784941829303
 		}
 	]
 }

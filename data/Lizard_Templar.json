@@ -1,71 +1,71 @@
 {
 	"monsterName": "Lizard Templar",
-	"timesKilled": 918,
+	"timesKilled": 1016,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 751,
-			"dropRate": 0.818082788671024
+			"timesDropped": 835,
+			"dropRate": 0.8218503937007874
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 76,
-			"dropRate": 0.08278867102396514
+			"timesDropped": 84,
+			"dropRate": 0.08267716535433071
 		},
 		{
 			"itemName": "Sword",
-			"timesDropped": 50,
-			"dropRate": 0.054466230936819175
+			"timesDropped": 51,
+			"dropRate": 0.05019685039370079
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 22,
-			"dropRate": 0.023965141612200435
+			"timesDropped": 23,
+			"dropRate": 0.022637795275590553
 		},
 		{
 			"itemName": "Morning Star",
-			"timesDropped": 18,
-			"dropRate": 0.0196078431372549
+			"timesDropped": 20,
+			"dropRate": 0.01968503937007874
 		},
 		{
 			"itemName": "Lizard Leather",
 			"timesDropped": 13,
-			"dropRate": 0.014161220043572984
+			"dropRate": 0.012795275590551181
 		},
 		{
 			"itemName": "Plate Armor",
 			"timesDropped": 9,
-			"dropRate": 0.00980392156862745
+			"dropRate": 0.008858267716535433
 		},
 		{
 			"itemName": "Lizard Scale",
-			"timesDropped": 6,
-			"dropRate": 0.006535947712418301
+			"timesDropped": 7,
+			"dropRate": 0.006889763779527559
 		},
 		{
 			"itemName": "Templar Scytheblade",
 			"timesDropped": 5,
-			"dropRate": 0.0054466230936819175
+			"dropRate": 0.004921259842519685
 		},
 		{
 			"itemName": "Salamander Shield",
-			"timesDropped": 3,
-			"dropRate": 0.0032679738562091504
+			"timesDropped": 4,
+			"dropRate": 0.003937007874015748
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 2,
-			"dropRate": 0.002178649237472767
+			"timesDropped": 3,
+			"dropRate": 0.002952755905511811
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 2,
-			"dropRate": 0.002178649237472767
+			"dropRate": 0.001968503937007874
 		},
 		{
 			"itemName": "Zaoan Monk Robe",
 			"timesDropped": 2,
-			"dropRate": 0.002178649237472767
+			"dropRate": 0.001968503937007874
 		}
 	]
 }
