@@ -1,66 +1,66 @@
 {
 	"monsterName": "Wardragon",
-	"timesKilled": 2115,
+	"timesKilled": 2416,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1128,
-			"dropRate": 0.5333333333333333
+			"timesDropped": 1289,
+			"dropRate": 0.5335264900662252
 		},
 		{
 			"itemName": "Wardragon Claw",
-			"timesDropped": 275,
-			"dropRate": 0.13002364066193853
+			"timesDropped": 323,
+			"dropRate": 0.13369205298013245
 		},
 		{
 			"itemName": "Nimmersatt's Seal",
-			"timesDropped": 251,
-			"dropRate": 0.11867612293144209
+			"timesDropped": 287,
+			"dropRate": 0.11879139072847682
 		},
 		{
 			"itemName": "Dragon Tongue",
-			"timesDropped": 151,
-			"dropRate": 0.07139479905437353
+			"timesDropped": 175,
+			"dropRate": 0.07243377483443708
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 124,
-			"dropRate": 0.05862884160756501
+			"timesDropped": 147,
+			"dropRate": 0.06084437086092715
 		},
 		{
 			"itemName": "Wardragon Tooth",
-			"timesDropped": 123,
-			"dropRate": 0.05815602836879433
+			"timesDropped": 141,
+			"dropRate": 0.05836092715231788
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 106,
-			"dropRate": 0.050118203309692674
+			"timesDropped": 119,
+			"dropRate": 0.04925496688741722
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 100,
-			"dropRate": 0.04728132387706856
+			"timesDropped": 119,
+			"dropRate": 0.04925496688741722
 		},
 		{
 			"itemName": "Onyx Chip",
-			"timesDropped": 84,
-			"dropRate": 0.03971631205673759
+			"timesDropped": 90,
+			"dropRate": 0.037251655629139076
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
-			"timesDropped": 37,
-			"dropRate": 0.017494089834515367
+			"timesDropped": 45,
+			"dropRate": 0.018625827814569538
+		},
+		{
+			"itemName": "White Gem",
+			"timesDropped": 19,
+			"dropRate": 0.007864238410596027
 		},
 		{
 			"itemName": "Dragonbone Staff",
 			"timesDropped": 18,
-			"dropRate": 0.00851063829787234
-		},
-		{
-			"itemName": "White Gem",
-			"timesDropped": 13,
-			"dropRate": 0.006146572104018913
+			"dropRate": 0.0074503311258278145
 		}
 	]
 }
