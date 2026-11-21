@@ -1,66 +1,66 @@
 {
 	"monsterName": "Crypt Fiend",
-	"timesKilled": 2856,
+	"timesKilled": 4131,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 934,
-			"dropRate": 0.32703081232493
-		},
-		{
-			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 149,
-			"dropRate": 0.05217086834733894
+			"timesDropped": 1343,
+			"dropRate": 0.32510288065843623
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 144,
-			"dropRate": 0.05042016806722689
+			"timesDropped": 208,
+			"dropRate": 0.05035100459937061
+		},
+		{
+			"itemName": "Cyan Crystal Fragment",
+			"timesDropped": 201,
+			"dropRate": 0.048656499636891795
 		},
 		{
 			"itemName": "Giant Tusk",
-			"timesDropped": 137,
-			"dropRate": 0.04796918767507003
+			"timesDropped": 193,
+			"dropRate": 0.046719922536916
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 69,
-			"dropRate": 0.02415966386554622
+			"timesDropped": 99,
+			"dropRate": 0.023965141612200435
 		},
 		{
 			"itemName": "Crystallized Death",
-			"timesDropped": 67,
-			"dropRate": 0.0234593837535014
+			"timesDropped": 94,
+			"dropRate": 0.022754780924715567
 		},
 		{
 			"itemName": "Necromantic Core",
-			"timesDropped": 57,
-			"dropRate": 0.01995798319327731
+			"timesDropped": 86,
+			"dropRate": 0.020818203824739773
 		},
 		{
 			"itemName": "Amber (Item)",
-			"timesDropped": 52,
-			"dropRate": 0.018207282913165267
+			"timesDropped": 80,
+			"dropRate": 0.019365770999757927
 		},
 		{
 			"itemName": "Amber with a Bug",
-			"timesDropped": 32,
-			"dropRate": 0.011204481792717087
+			"timesDropped": 41,
+			"dropRate": 0.009924957637375938
 		},
 		{
 			"itemName": "Cluster of Crystallized Death",
-			"timesDropped": 28,
-			"dropRate": 0.00980392156862745
+			"timesDropped": 38,
+			"dropRate": 0.009198741224885015
 		},
 		{
 			"itemName": "Blue Gem",
-			"timesDropped": 18,
-			"dropRate": 0.0063025210084033615
+			"timesDropped": 28,
+			"dropRate": 0.006778019849915275
 		},
 		{
 			"itemName": "Amber with a Dragonfly",
-			"timesDropped": 7,
-			"dropRate": 0.0024509803921568627
+			"timesDropped": 14,
+			"dropRate": 0.0033890099249576375
 		}
 	]
 }

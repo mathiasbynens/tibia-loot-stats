@@ -1,61 +1,61 @@
 {
 	"monsterName": "Creepy Crawler",
-	"timesKilled": 1664,
+	"timesKilled": 2435,
 	"items": [
 		{
 			"itemName": "Crystal Coin",
-			"timesDropped": 653,
-			"dropRate": 0.39242788461538464
-		},
-		{
-			"itemName": "Giant Tusk",
-			"timesDropped": 83,
-			"dropRate": 0.049879807692307696
-		},
-		{
-			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 78,
-			"dropRate": 0.046875
+			"timesDropped": 945,
+			"dropRate": 0.38809034907597534
 		},
 		{
 			"itemName": "Crystallized Death",
-			"timesDropped": 74,
-			"dropRate": 0.04447115384615385
+			"timesDropped": 120,
+			"dropRate": 0.049281314168377825
+		},
+		{
+			"itemName": "Cyan Crystal Fragment",
+			"timesDropped": 113,
+			"dropRate": 0.046406570841889115
+		},
+		{
+			"itemName": "Giant Tusk",
+			"timesDropped": 112,
+			"dropRate": 0.0459958932238193
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 47,
-			"dropRate": 0.028245192307692308
-		},
-		{
-			"itemName": "Necromantic Core",
-			"timesDropped": 38,
-			"dropRate": 0.02283653846153846
-		},
-		{
-			"itemName": "Blue Gem",
-			"timesDropped": 20,
-			"dropRate": 0.01201923076923077
-		},
-		{
-			"itemName": "Cluster of Crystallized Death",
-			"timesDropped": 16,
-			"dropRate": 0.009615384615384616
-		},
-		{
-			"itemName": "Amber with a Bug",
-			"timesDropped": 13,
-			"dropRate": 0.0078125
+			"timesDropped": 65,
+			"dropRate": 0.026694045174537988
 		},
 		{
 			"itemName": "Amber (Item)",
-			"timesDropped": 47,
-			"dropRate": 0.028245192307692308
+			"timesDropped": 62,
+			"dropRate": 0.02546201232032854
+		},
+		{
+			"itemName": "Necromantic Core",
+			"timesDropped": 58,
+			"dropRate": 0.02381930184804928
+		},
+		{
+			"itemName": "Cluster of Crystallized Death",
+			"timesDropped": 29,
+			"dropRate": 0.01190965092402464
+		},
+		{
+			"itemName": "Blue Gem",
+			"timesDropped": 23,
+			"dropRate": 0.00944558521560575
+		},
+		{
+			"itemName": "Amber with a Bug",
+			"timesDropped": 20,
+			"dropRate": 0.008213552361396304
 		},
 		{
 			"itemName": "Amber with a Dragonfly",
-			"timesDropped": 9,
-			"dropRate": 0.005408653846153846
+			"timesDropped": 16,
+			"dropRate": 0.006570841889117043
 		}
 	]
 }
