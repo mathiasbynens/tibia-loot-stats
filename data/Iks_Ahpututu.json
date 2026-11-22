@@ -1,76 +1,76 @@
 {
 	"monsterName": "Iks Ahpututu",
-	"timesKilled": 345,
+	"timesKilled": 348,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 345,
+			"timesDropped": 348,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
 			"timesDropped": 25,
-			"dropRate": 0.07246376811594203
+			"dropRate": 0.07183908045977011
 		},
 		{
 			"itemName": "Tiger Eye",
 			"timesDropped": 20,
-			"dropRate": 0.057971014492753624
+			"dropRate": 0.05747126436781609
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 19,
-			"dropRate": 0.05507246376811594
+			"dropRate": 0.05459770114942529
 		},
 		{
 			"itemName": "Small Sapphire",
 			"timesDropped": 15,
-			"dropRate": 0.043478260869565216
+			"dropRate": 0.04310344827586207
 		},
 		{
 			"itemName": "Strong Mana Potion",
 			"timesDropped": 13,
-			"dropRate": 0.03768115942028986
+			"dropRate": 0.03735632183908046
 		},
 		{
 			"itemName": "Daedal Chisel",
 			"timesDropped": 8,
-			"dropRate": 0.02318840579710145
+			"dropRate": 0.022988505747126436
 		},
 		{
 			"itemName": "Gold-Brocaded Cloth",
 			"timesDropped": 8,
-			"dropRate": 0.02318840579710145
+			"dropRate": 0.022988505747126436
 		},
 		{
 			"itemName": "Opal",
 			"timesDropped": 4,
-			"dropRate": 0.011594202898550725
+			"dropRate": 0.011494252873563218
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 3,
-			"dropRate": 0.008695652173913044
+			"dropRate": 0.008620689655172414
 		},
 		{
 			"itemName": "Rotten Feather",
 			"timesDropped": 3,
-			"dropRate": 0.008695652173913044
+			"dropRate": 0.008620689655172414
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
 			"timesDropped": 2,
-			"dropRate": 0.005797101449275362
+			"dropRate": 0.005747126436781609
 		},
 		{
 			"itemName": "Broken Iks Faulds",
 			"timesDropped": 1,
-			"dropRate": 0.002898550724637681
+			"dropRate": 0.0028735632183908046
 		},
 		{
 			"itemName": "Ritual Tooth",
 			"timesDropped": 1,
-			"dropRate": 0.002898550724637681
+			"dropRate": 0.0028735632183908046
 		}
 	]
 }

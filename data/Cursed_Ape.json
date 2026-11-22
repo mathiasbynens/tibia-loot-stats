@@ -1,66 +1,66 @@
 {
 	"monsterName": "Cursed Ape",
-	"timesKilled": 3611,
+	"timesKilled": 3626,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 2190,
-			"dropRate": 0.6064801993907505
+			"timesDropped": 2203,
+			"dropRate": 0.6075565361279647
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 1697,
-			"dropRate": 0.4699529216283578
+			"timesDropped": 1708,
+			"dropRate": 0.47104247104247104
 		},
 		{
 			"itemName": "Banana",
-			"timesDropped": 1485,
-			"dropRate": 0.41124342287455
+			"timesDropped": 1492,
+			"dropRate": 0.4114726971869829
 		},
 		{
 			"itemName": "Kongra's Shoulderpad",
-			"timesDropped": 485,
-			"dropRate": 0.13431182497923014
+			"timesDropped": 487,
+			"dropRate": 0.13430777716492
 		},
 		{
 			"itemName": "Small Amethyst",
-			"timesDropped": 288,
-			"dropRate": 0.07975630019385212
+			"timesDropped": 289,
+			"dropRate": 0.07970215113072256
 		},
 		{
 			"itemName": "Protection Amulet",
 			"timesDropped": 68,
-			"dropRate": 0.01883134865688175
+			"dropRate": 0.018753447324875896
 		},
 		{
 			"itemName": "Plate Armor",
-			"timesDropped": 47,
-			"dropRate": 0.013015785101080033
+			"timesDropped": 48,
+			"dropRate": 0.013237727523441808
 		},
 		{
 			"itemName": "Ape Fur",
 			"timesDropped": 39,
-			"dropRate": 0.010800332317917475
+			"dropRate": 0.01075565361279647
 		},
 		{
 			"itemName": "Stone Skin Amulet",
-			"timesDropped": 25,
-			"dropRate": 0.006923289947382997
+			"timesDropped": 26,
+			"dropRate": 0.007170435741864313
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 23,
-			"dropRate": 0.006369426751592357
+			"dropRate": 0.0063430777716492
 		},
 		{
 			"itemName": "Power Ring",
 			"timesDropped": 20,
-			"dropRate": 0.005538631957906397
+			"dropRate": 0.005515719801434087
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 9,
-			"dropRate": 0.0024923843810578787
+			"timesDropped": 10,
+			"dropRate": 0.0027578599007170436
 		}
 	]
 }
