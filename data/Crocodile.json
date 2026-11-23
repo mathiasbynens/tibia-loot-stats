@@ -1,26 +1,26 @@
 {
 	"monsterName": "Crocodile",
-	"timesKilled": 110445,
+	"timesKilled": 110470,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 55065,
-			"dropRate": 0.49857395083525735
+			"timesDropped": 55077,
+			"dropRate": 0.4985697474427446
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 44036,
-			"dropRate": 0.39871429218162885
+			"timesDropped": 44042,
+			"dropRate": 0.39867837421924507
 		},
 		{
 			"itemName": "Piece of Crocodile Leather",
-			"timesDropped": 22174,
-			"dropRate": 0.20076961383494046
+			"timesDropped": 22182,
+			"dropRate": 0.200796596361003
 		},
 		{
 			"itemName": "Crocodile Boots",
 			"timesDropped": 93,
-			"dropRate": 0.0008420480782289827
+			"dropRate": 0.0008418575178781569
 		}
 	]
 }

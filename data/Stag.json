@@ -1,26 +1,26 @@
 {
 	"monsterName": "Stag",
-	"timesKilled": 960,
+	"timesKilled": 965,
 	"items": [
 		{
 			"itemName": "Meat",
-			"timesDropped": 761,
-			"dropRate": 0.7927083333333333
+			"timesDropped": 766,
+			"dropRate": 0.7937823834196891
 		},
 		{
 			"itemName": "Ham",
-			"timesDropped": 452,
-			"dropRate": 0.4708333333333333
+			"timesDropped": 455,
+			"dropRate": 0.47150259067357514
 		},
 		{
 			"itemName": "Tender Venison",
-			"timesDropped": 238,
-			"dropRate": 0.24791666666666667
+			"timesDropped": 239,
+			"dropRate": 0.24766839378238342
 		},
 		{
 			"itemName": "Antlers",
 			"timesDropped": 23,
-			"dropRate": 0.023958333333333335
+			"dropRate": 0.02383419689119171
 		}
 	]
 }

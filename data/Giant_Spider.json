@@ -1,71 +1,71 @@
 {
 	"monsterName": "Giant Spider",
-	"timesKilled": 104549,
+	"timesKilled": 104561,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 104534,
-			"dropRate": 0.9998565266047499
+			"timesDropped": 104546,
+			"dropRate": 0.9998565430705522
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 12474,
-			"dropRate": 0.11931247548996164
+			"timesDropped": 12477,
+			"dropRate": 0.11932747391474832
 		},
 		{
 			"itemName": "Plate Armor",
 			"timesDropped": 10494,
-			"dropRate": 0.10037398731695187
+			"dropRate": 0.10036246784173831
 		},
 		{
 			"itemName": "Plate Legs",
-			"timesDropped": 8247,
-			"dropRate": 0.07888167270849075
+			"timesDropped": 8248,
+			"dropRate": 0.0788821836057421
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 5313,
-			"dropRate": 0.050818276597576255
+			"timesDropped": 5314,
+			"dropRate": 0.05082200820573637
 		},
 		{
 			"itemName": "Steel Helmet",
 			"timesDropped": 5133,
-			"dropRate": 0.04909659585457537
+			"dropRate": 0.04909096125706525
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 3703,
-			"dropRate": 0.03541879884073497
+			"dropRate": 0.035414733983033825
 		},
 		{
 			"itemName": "Spider Silk",
-			"timesDropped": 2072,
-			"dropRate": 0.019818458330543572
+			"timesDropped": 2073,
+			"dropRate": 0.019825747649697308
 		},
 		{
 			"itemName": "Knight Legs",
 			"timesDropped": 852,
-			"dropRate": 0.00814928885020421
+			"dropRate": 0.008148353592639703
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 749,
-			"dropRate": 0.007164104869487035
+			"dropRate": 0.007163282677097579
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 515,
-			"dropRate": 0.004925919903585879
+			"dropRate": 0.004925354577710619
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 285,
-			"dropRate": 0.0027259945097514084
+			"dropRate": 0.00272568165950976
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 284,
-			"dropRate": 0.002716429616734737
+			"dropRate": 0.0027161178642132345
 		}
 	]
 }

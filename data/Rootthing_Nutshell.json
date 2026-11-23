@@ -1,46 +1,46 @@
 {
 	"monsterName": "Rootthing Nutshell",
-	"timesKilled": 354,
+	"timesKilled": 362,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 263,
-			"dropRate": 0.7429378531073446
+			"timesDropped": 266,
+			"dropRate": 0.7348066298342542
+		},
+		{
+			"itemName": "Demon Root",
+			"timesDropped": 20,
+			"dropRate": 0.055248618784530384
 		},
 		{
 			"itemName": "Resin Parasite",
 			"timesDropped": 20,
-			"dropRate": 0.05649717514124294
-		},
-		{
-			"itemName": "Demon Root",
-			"timesDropped": 19,
-			"dropRate": 0.05367231638418079
+			"dropRate": 0.055248618784530384
 		},
 		{
 			"itemName": "Epee",
 			"timesDropped": 6,
-			"dropRate": 0.01694915254237288
+			"dropRate": 0.016574585635359115
 		},
 		{
 			"itemName": "Terra Hood",
 			"timesDropped": 5,
-			"dropRate": 0.014124293785310734
+			"dropRate": 0.013812154696132596
+		},
+		{
+			"itemName": "Green Gem",
+			"timesDropped": 4,
+			"dropRate": 0.011049723756906077
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 4,
-			"dropRate": 0.011299435028248588
-		},
-		{
-			"itemName": "Green Gem",
-			"timesDropped": 3,
-			"dropRate": 0.00847457627118644
+			"dropRate": 0.011049723756906077
 		},
 		{
 			"itemName": "Swamplair Armor",
 			"timesDropped": 3,
-			"dropRate": 0.00847457627118644
+			"dropRate": 0.008287292817679558
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Assassin",
-	"timesKilled": 26470,
+	"timesKilled": 26538,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 21987,
-			"dropRate": 0.830638458632414
+			"timesDropped": 22044,
+			"dropRate": 0.8306579244856432
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 7967,
-			"dropRate": 0.3009822440498678
+			"timesDropped": 7991,
+			"dropRate": 0.3011153817167835
 		},
 		{
 			"itemName": "Knife",
-			"timesDropped": 2609,
-			"dropRate": 0.09856441254250095
+			"timesDropped": 2615,
+			"dropRate": 0.09853794558745949
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 1890,
-			"dropRate": 0.07140158670192671
+			"timesDropped": 1893,
+			"dropRate": 0.07133167533348406
 		},
 		{
 			"itemName": "Viper Star",
-			"timesDropped": 1088,
-			"dropRate": 0.04110313562523612
+			"timesDropped": 1092,
+			"dropRate": 0.04114854171376894
 		},
 		{
 			"itemName": "Combat Knife",
-			"timesDropped": 1061,
-			"dropRate": 0.040083112958065735
+			"timesDropped": 1062,
+			"dropRate": 0.040018087271082976
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 791,
-			"dropRate": 0.029882886286361918
+			"timesDropped": 794,
+			"dropRate": 0.029919360916421736
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 500,
-			"dropRate": 0.018889308651303362
+			"timesDropped": 502,
+			"dropRate": 0.018916271007611726
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 430,
-			"dropRate": 0.016244805440120892
+			"dropRate": 0.01620318034516542
 		},
 		{
 			"itemName": "Steel Shield",
-			"timesDropped": 249,
-			"dropRate": 0.009406875708349074
+			"timesDropped": 251,
+			"dropRate": 0.009458135503805863
 		},
 		{
 			"itemName": "Leopard Armor",
 			"timesDropped": 124,
-			"dropRate": 0.0046845485455232335
+			"dropRate": 0.004672545029768634
 		},
 		{
 			"itemName": "Horseman Helmet",
 			"timesDropped": 59,
-			"dropRate": 0.002228938420853797
+			"dropRate": 0.0022232270706157207
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 56,
-			"dropRate": 0.0021156025689459765
+			"dropRate": 0.002110181626347125
 		}
 	]
 }

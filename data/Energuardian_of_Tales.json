@@ -1,76 +1,76 @@
 {
 	"monsterName": "Energuardian of Tales",
-	"timesKilled": 63,
+	"timesKilled": 64,
 	"items": [
 		{
 			"itemName": "Book Page",
 			"timesDropped": 37,
-			"dropRate": 0.5873015873015873
+			"dropRate": 0.578125
 		},
 		{
 			"itemName": "Small Amethyst",
 			"timesDropped": 35,
-			"dropRate": 0.5555555555555556
+			"dropRate": 0.546875
 		},
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 13,
-			"dropRate": 0.20634920634920634
+			"timesDropped": 14,
+			"dropRate": 0.21875
 		},
 		{
 			"itemName": "Flash Arrow",
 			"timesDropped": 8,
-			"dropRate": 0.12698412698412698
+			"dropRate": 0.125
 		},
 		{
 			"itemName": "Ultimate Health Potion",
 			"timesDropped": 8,
-			"dropRate": 0.12698412698412698
+			"dropRate": 0.125
 		},
 		{
 			"itemName": "Spellbook of Warding",
 			"timesDropped": 6,
-			"dropRate": 0.09523809523809523
+			"dropRate": 0.09375
 		},
 		{
 			"itemName": "Lightning Legs",
 			"timesDropped": 5,
-			"dropRate": 0.07936507936507936
+			"dropRate": 0.078125
 		},
 		{
 			"itemName": "Lightning Pendant",
 			"timesDropped": 4,
-			"dropRate": 0.06349206349206349
+			"dropRate": 0.0625
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
 			"timesDropped": 4,
-			"dropRate": 0.06349206349206349
+			"dropRate": 0.0625
 		},
 		{
 			"itemName": "Might Ring",
 			"timesDropped": 2,
-			"dropRate": 0.031746031746031744
+			"dropRate": 0.03125
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 1,
-			"dropRate": 0.015873015873015872
+			"dropRate": 0.015625
 		},
 		{
 			"itemName": "Spellweaver's Robe",
 			"timesDropped": 1,
-			"dropRate": 0.015873015873015872
+			"dropRate": 0.015625
 		},
 		{
 			"itemName": "Wand of Defiance",
 			"timesDropped": 1,
-			"dropRate": 0.015873015873015872
+			"dropRate": 0.015625
 		},
 		{
 			"itemName": "Wand of Starstorm",
 			"timesDropped": 1,
-			"dropRate": 0.015873015873015872
+			"dropRate": 0.015625
 		}
 	]
 }

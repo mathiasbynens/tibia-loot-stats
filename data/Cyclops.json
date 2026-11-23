@@ -1,76 +1,76 @@
 {
 	"monsterName": "Cyclops",
-	"timesKilled": 13187,
+	"timesKilled": 13233,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10888,
-			"dropRate": 0.8256616364601501
+			"timesDropped": 10931,
+			"dropRate": 0.8260409582105342
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 3906,
-			"dropRate": 0.29620080382194586
+			"timesDropped": 3916,
+			"dropRate": 0.2959268495428096
 		},
 		{
 			"itemName": "Short Sword",
-			"timesDropped": 1051,
-			"dropRate": 0.07969970425418973
+			"timesDropped": 1058,
+			"dropRate": 0.07995163606136174
 		},
 		{
 			"itemName": "Cyclops Toe",
 			"timesDropped": 657,
-			"dropRate": 0.04982179419124896
+			"dropRate": 0.049648605758331445
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 344,
-			"dropRate": 0.02608629711079093
+			"timesDropped": 347,
+			"dropRate": 0.026222322980427717
 		},
 		{
 			"itemName": "Heavy Old Tome",
-			"timesDropped": 276,
-			"dropRate": 0.020929703495867143
+			"timesDropped": 277,
+			"dropRate": 0.020932517191868814
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 208,
-			"dropRate": 0.015773109880943353
+			"dropRate": 0.015718280057432178
 		},
 		{
 			"itemName": "Halberd",
 			"timesDropped": 125,
-			"dropRate": 0.009479032380374612
+			"dropRate": 0.00944608176528376
 		},
 		{
 			"itemName": "Dark Helmet",
-			"timesDropped": 31,
-			"dropRate": 0.0023508000303329034
+			"timesDropped": 32,
+			"dropRate": 0.0024181969319126426
 		},
 		{
 			"itemName": "Wolf Tooth Chain",
 			"timesDropped": 30,
-			"dropRate": 0.0022749677712899066
+			"dropRate": 0.0022670596236681025
 		},
 		{
 			"itemName": "Old Rag",
 			"timesDropped": 22,
-			"dropRate": 0.0016683096989459315
+			"dropRate": 0.0016625103906899418
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 20,
-			"dropRate": 0.0015166451808599378
+			"dropRate": 0.0015113730824454017
 		},
 		{
 			"itemName": "Cyclops Trophy",
 			"timesDropped": 9,
-			"dropRate": 0.000682490331386972
+			"dropRate": 0.0006801178871004307
 		},
 		{
 			"itemName": "Club Ring",
 			"timesDropped": 5,
-			"dropRate": 0.00037916129521498444
+			"dropRate": 0.00037784327061135043
 		}
 	]
 }

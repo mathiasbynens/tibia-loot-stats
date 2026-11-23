@@ -1,61 +1,61 @@
 {
 	"monsterName": "Mad Scientist",
-	"timesKilled": 34405,
+	"timesKilled": 34411,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 20679,
-			"dropRate": 0.6010463595407645
+			"timesDropped": 20681,
+			"dropRate": 0.6009996803347767
 		},
 		{
 			"itemName": "Health Potion",
-			"timesDropped": 6886,
-			"dropRate": 0.20014532771399507
+			"timesDropped": 6888,
+			"dropRate": 0.20016855075411932
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 6734,
-			"dropRate": 0.19572736520854528
+			"timesDropped": 6735,
+			"dropRate": 0.195722298102351
 		},
 		{
 			"itemName": "White Mushroom",
 			"timesDropped": 2771,
-			"dropRate": 0.08054061909606162
+			"dropRate": 0.08052657580424864
 		},
 		{
 			"itemName": "Powder Herb",
 			"timesDropped": 2073,
-			"dropRate": 0.0602528702223514
+			"dropRate": 0.06024236436023365
 		},
 		{
 			"itemName": "Magic Light Wand",
 			"timesDropped": 708,
-			"dropRate": 0.020578404301700333
+			"dropRate": 0.020574816192496584
 		},
 		{
 			"itemName": "Life Crystal",
 			"timesDropped": 685,
-			"dropRate": 0.019909896817323063
+			"dropRate": 0.019906425270988928
 		},
 		{
 			"itemName": "Cookie",
 			"timesDropped": 403,
-			"dropRate": 0.011713413748001745
+			"dropRate": 0.011711371363808084
 		},
 		{
 			"itemName": "Cream Cake",
 			"timesDropped": 278,
-			"dropRate": 0.008080220898125273
+			"dropRate": 0.008078812007788207
 		},
 		{
 			"itemName": "Small Enchanted Amethyst",
 			"timesDropped": 165,
-			"dropRate": 0.004795814561836942
+			"dropRate": 0.004794978349946238
 		},
 		{
 			"itemName": "Mastermind Potion",
 			"timesDropped": 42,
-			"dropRate": 0.0012207527975584944
+			"dropRate": 0.0012205399436226788
 		}
 	]
 }

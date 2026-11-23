@@ -1,86 +1,86 @@
 {
 	"monsterName": "Burning Gladiator",
-	"timesKilled": 13965,
+	"timesKilled": 13967,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 13965,
+			"timesDropped": 13967,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Fafnar Symbol",
 			"timesDropped": 1426,
-			"dropRate": 0.10211242391693519
+			"dropRate": 0.10209780196176703
 		},
 		{
 			"itemName": "Secret Instruction",
-			"timesDropped": 1057,
-			"dropRate": 0.07568922305764411
+			"timesDropped": 1058,
+			"dropRate": 0.07574998210066586
 		},
 		{
 			"itemName": "Dragon Necklace",
 			"timesDropped": 826,
-			"dropRate": 0.05914786967418546
+			"dropRate": 0.059139400014319464
 		},
 		{
 			"itemName": "Strange Talisman",
 			"timesDropped": 722,
-			"dropRate": 0.05170068027210884
+			"dropRate": 0.051693277010095226
 		},
 		{
 			"itemName": "Magma Amulet",
 			"timesDropped": 617,
-			"dropRate": 0.04418188327962764
+			"dropRate": 0.044175556669291904
 		},
 		{
 			"itemName": "Magma Boots",
 			"timesDropped": 604,
-			"dropRate": 0.04325098460436806
+			"dropRate": 0.04324479129376387
 		},
 		{
 			"itemName": "Lightning Pendant",
 			"timesDropped": 582,
-			"dropRate": 0.04167561761546724
+			"dropRate": 0.04166964988902413
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 571,
-			"dropRate": 0.04088793412101683
+			"dropRate": 0.040882079186654256
 		},
 		{
 			"itemName": "Lightning Legs",
 			"timesDropped": 492,
-			"dropRate": 0.03523093447905478
+			"dropRate": 0.03522588959690699
 		},
 		{
 			"itemName": "Empty Honey Glass",
 			"timesDropped": 375,
-			"dropRate": 0.02685284640171858
+			"dropRate": 0.026849001217154722
 		},
 		{
 			"itemName": "Elven Amulet",
-			"timesDropped": 303,
-			"dropRate": 0.021697099892588615
+			"timesDropped": 304,
+			"dropRate": 0.021765590320040093
 		},
 		{
 			"itemName": "Lightning Boots",
 			"timesDropped": 220,
-			"dropRate": 0.015753669889008236
+			"dropRate": 0.01575141404739744
 		},
 		{
 			"itemName": "Spellweaver's Robe",
 			"timesDropped": 171,
-			"dropRate": 0.012244897959183673
+			"dropRate": 0.012243144555022553
 		},
 		{
 			"itemName": "Golden Mask",
 			"timesDropped": 107,
-			"dropRate": 0.007662012173290369
+			"dropRate": 0.00766091501396148
 		},
 		{
 			"itemName": "Sea Horse Figurine",
 			"timesDropped": 85,
-			"dropRate": 0.006086645184389545
+			"dropRate": 0.006085773609221737
 		}
 	]
 }

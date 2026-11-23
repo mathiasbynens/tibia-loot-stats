@@ -1,76 +1,76 @@
 {
 	"monsterName": "Iks Ahpututu",
-	"timesKilled": 348,
+	"timesKilled": 350,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 348,
+			"timesDropped": 350,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Giant Shimmering Pearl (Green)",
 			"timesDropped": 25,
-			"dropRate": 0.07183908045977011
+			"dropRate": 0.07142857142857142
+		},
+		{
+			"itemName": "Stone Skin Amulet",
+			"timesDropped": 20,
+			"dropRate": 0.05714285714285714
 		},
 		{
 			"itemName": "Tiger Eye",
 			"timesDropped": 20,
-			"dropRate": 0.05747126436781609
-		},
-		{
-			"itemName": "Stone Skin Amulet",
-			"timesDropped": 19,
-			"dropRate": 0.05459770114942529
+			"dropRate": 0.05714285714285714
 		},
 		{
 			"itemName": "Small Sapphire",
 			"timesDropped": 15,
-			"dropRate": 0.04310344827586207
+			"dropRate": 0.04285714285714286
 		},
 		{
 			"itemName": "Strong Mana Potion",
-			"timesDropped": 13,
-			"dropRate": 0.03735632183908046
+			"timesDropped": 14,
+			"dropRate": 0.04
 		},
 		{
 			"itemName": "Daedal Chisel",
 			"timesDropped": 8,
-			"dropRate": 0.022988505747126436
+			"dropRate": 0.022857142857142857
 		},
 		{
 			"itemName": "Gold-Brocaded Cloth",
 			"timesDropped": 8,
-			"dropRate": 0.022988505747126436
+			"dropRate": 0.022857142857142857
 		},
 		{
 			"itemName": "Opal",
 			"timesDropped": 4,
-			"dropRate": 0.011494252873563218
+			"dropRate": 0.011428571428571429
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 3,
-			"dropRate": 0.008620689655172414
+			"dropRate": 0.008571428571428572
 		},
 		{
 			"itemName": "Rotten Feather",
 			"timesDropped": 3,
-			"dropRate": 0.008620689655172414
+			"dropRate": 0.008571428571428572
 		},
 		{
 			"itemName": "Spellbook of Enlightenment",
 			"timesDropped": 2,
-			"dropRate": 0.005747126436781609
+			"dropRate": 0.005714285714285714
 		},
 		{
 			"itemName": "Broken Iks Faulds",
 			"timesDropped": 1,
-			"dropRate": 0.0028735632183908046
+			"dropRate": 0.002857142857142857
 		},
 		{
 			"itemName": "Ritual Tooth",
 			"timesDropped": 1,
-			"dropRate": 0.0028735632183908046
+			"dropRate": 0.002857142857142857
 		}
 	]
 }

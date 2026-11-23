@@ -1,51 +1,51 @@
 {
 	"monsterName": "Wyvern",
-	"timesKilled": 74638,
+	"timesKilled": 74657,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 74626,
-			"dropRate": 0.999839223987781
+			"timesDropped": 74645,
+			"dropRate": 0.9998392649048314
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 44977,
-			"dropRate": 0.6026018917977438
+			"timesDropped": 44987,
+			"dropRate": 0.6025824771957083
 		},
 		{
 			"itemName": "Wyvern Talisman",
-			"timesDropped": 8938,
-			"dropRate": 0.11975133310110131
+			"timesDropped": 8944,
+			"dropRate": 0.11980122426564153
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 3690,
-			"dropRate": 0.049438623757335404
+			"timesDropped": 3691,
+			"dropRate": 0.04943943635559961
 		},
 		{
 			"itemName": "Power Bolt",
-			"timesDropped": 2548,
-			"dropRate": 0.0341381065944961
+			"timesDropped": 2549,
+			"dropRate": 0.034142813132057276
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 1877,
-			"dropRate": 0.02514804791125164
+			"dropRate": 0.025141647802617302
 		},
 		{
 			"itemName": "Wand of Inferno",
 			"timesDropped": 588,
-			"dropRate": 0.00787802459872987
+			"dropRate": 0.007876019663259976
 		},
 		{
 			"itemName": "Emerald Bangle",
 			"timesDropped": 436,
-			"dropRate": 0.005841528443956162
+			"dropRate": 0.005840041791124744
 		},
 		{
 			"itemName": "Wyvern Fang",
-			"timesDropped": 336,
-			"dropRate": 0.004501728342131354
+			"timesDropped": 337,
+			"dropRate": 0.004513977255984034
 		}
 	]
 }

@@ -1,76 +1,76 @@
 {
 	"monsterName": "Energetic Book",
-	"timesKilled": 196,
+	"timesKilled": 200,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 155,
-			"dropRate": 0.7908163265306123
+			"timesDropped": 158,
+			"dropRate": 0.79
 		},
 		{
 			"itemName": "Glowing Rune",
-			"timesDropped": 132,
-			"dropRate": 0.673469387755102
+			"timesDropped": 135,
+			"dropRate": 0.675
 		},
 		{
 			"itemName": "Book Page",
-			"timesDropped": 97,
-			"dropRate": 0.49489795918367346
+			"timesDropped": 98,
+			"dropRate": 0.49
 		},
 		{
 			"itemName": "Ultimate Mana Potion",
 			"timesDropped": 31,
-			"dropRate": 0.15816326530612246
+			"dropRate": 0.155
 		},
 		{
 			"itemName": "Silken Bookmark",
-			"timesDropped": 27,
-			"dropRate": 0.1377551020408163
+			"timesDropped": 28,
+			"dropRate": 0.14
 		},
 		{
 			"itemName": "Ultimate Health Potion",
-			"timesDropped": 23,
-			"dropRate": 0.11734693877551021
+			"timesDropped": 24,
+			"dropRate": 0.12
 		},
 		{
 			"itemName": "Energy Ball",
 			"timesDropped": 21,
-			"dropRate": 0.10714285714285714
+			"dropRate": 0.105
 		},
 		{
 			"itemName": "Lightning Pendant",
-			"timesDropped": 7,
-			"dropRate": 0.03571428571428571
+			"timesDropped": 8,
+			"dropRate": 0.04
 		},
 		{
 			"itemName": "Wand of Defiance",
 			"timesDropped": 5,
-			"dropRate": 0.025510204081632654
+			"dropRate": 0.025
 		},
 		{
 			"itemName": "Lightning Boots",
 			"timesDropped": 3,
-			"dropRate": 0.015306122448979591
+			"dropRate": 0.015
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 3,
-			"dropRate": 0.015306122448979591
+			"dropRate": 0.015
 		},
 		{
 			"itemName": "Lightning Legs",
 			"timesDropped": 2,
-			"dropRate": 0.01020408163265306
+			"dropRate": 0.01
 		},
 		{
 			"itemName": "Spellweaver's Robe",
 			"timesDropped": 2,
-			"dropRate": 0.01020408163265306
+			"dropRate": 0.01
 		},
 		{
 			"itemName": "Haunted Blade",
 			"timesDropped": 1,
-			"dropRate": 0.00510204081632653
+			"dropRate": 0.005
 		}
 	]
 }
