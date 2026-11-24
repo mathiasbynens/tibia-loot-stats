@@ -1,76 +1,76 @@
 {
 	"monsterName": "Cyclops Smith",
-	"timesKilled": 34417,
+	"timesKilled": 34596,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 28480,
-			"dropRate": 0.8274980387599151
+			"timesDropped": 28627,
+			"dropRate": 0.8274656029598798
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 17305,
-			"dropRate": 0.5028038469361071
+			"timesDropped": 17404,
+			"dropRate": 0.5030639380275176
 		},
 		{
 			"itemName": "Cyclops Toe",
-			"timesDropped": 3448,
-			"dropRate": 0.10018304907458524
+			"timesDropped": 3464,
+			"dropRate": 0.10012718233321771
 		},
 		{
 			"itemName": "Battle Shield",
-			"timesDropped": 2141,
-			"dropRate": 0.06220762995031525
+			"timesDropped": 2153,
+			"dropRate": 0.06223262804948549
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 1755,
-			"dropRate": 0.05099224220588663
+			"timesDropped": 1766,
+			"dropRate": 0.051046363741473005
 		},
 		{
 			"itemName": "Battle Hammer",
-			"timesDropped": 1747,
-			"dropRate": 0.050759798936572044
+			"timesDropped": 1757,
+			"dropRate": 0.050786218059891315
 		},
 		{
 			"itemName": "Plate Shield",
-			"timesDropped": 724,
-			"dropRate": 0.021036115872969753
+			"timesDropped": 726,
+			"dropRate": 0.02098508498092265
 		},
 		{
 			"itemName": "Heavy Machete",
-			"timesDropped": 705,
-			"dropRate": 0.02048406310834762
+			"timesDropped": 712,
+			"dropRate": 0.020580413920684472
 		},
 		{
 			"itemName": "Double Axe",
-			"timesDropped": 325,
-			"dropRate": 0.00944300781590493
+			"timesDropped": 328,
+			"dropRate": 0.00948086483986588
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 182,
-			"dropRate": 0.005288084376906761
+			"timesDropped": 183,
+			"dropRate": 0.00528962885882761
 		},
 		{
 			"itemName": "Dark Helmet",
-			"timesDropped": 71,
-			"dropRate": 0.0020629340151669235
+			"timesDropped": 72,
+			"dropRate": 0.002081165452653486
 		},
 		{
 			"itemName": "Spiked Squelcher",
-			"timesDropped": 49,
-			"dropRate": 0.0014237150245518203
+			"timesDropped": 50,
+			"dropRate": 0.0014452537865649207
 		},
 		{
 			"itemName": "Cyclops Trophy",
 			"timesDropped": 43,
-			"dropRate": 0.0012493825725658832
+			"dropRate": 0.001242918256445832
 		},
 		{
 			"itemName": "Club Ring",
-			"timesDropped": 32,
-			"dropRate": 0.0009297730772583316
+			"timesDropped": 33,
+			"dropRate": 0.0009538674991328477
 		}
 	]
 }

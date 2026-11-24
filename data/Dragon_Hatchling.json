@@ -1,26 +1,26 @@
 {
 	"monsterName": "Dragon Hatchling",
-	"timesKilled": 17194,
+	"timesKilled": 17196,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 14240,
-			"dropRate": 0.8281958822845179
+			"timesDropped": 14242,
+			"dropRate": 0.8282158641544545
 		},
 		{
 			"itemName": "Dragon Ham",
-			"timesDropped": 12965,
-			"dropRate": 0.7540421077119925
+			"timesDropped": 12966,
+			"dropRate": 0.7540125610607118
 		},
 		{
 			"itemName": "Dragon's Tail",
 			"timesDropped": 818,
-			"dropRate": 0.04757473537280447
+			"dropRate": 0.04756920214003257
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 87,
-			"dropRate": 0.005059904617889962
+			"dropRate": 0.005059316120027913
 		}
 	]
 }

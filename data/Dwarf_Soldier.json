@@ -1,66 +1,66 @@
 {
 	"monsterName": "Dwarf Soldier",
-	"timesKilled": 59639,
+	"timesKilled": 59716,
 	"items": [
 		{
 			"itemName": "White Mushroom",
-			"timesDropped": 23814,
-			"dropRate": 0.3993024698603263
+			"timesDropped": 23848,
+			"dropRate": 0.3993569562596289
 		},
 		{
 			"itemName": "Bolt",
-			"timesDropped": 22582,
-			"dropRate": 0.3786448464930666
+			"timesDropped": 22614,
+			"dropRate": 0.3786924777279121
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 16948,
-			"dropRate": 0.2841764617112963
+			"timesDropped": 16967,
+			"dropRate": 0.2841282068457365
 		},
 		{
 			"itemName": "Soldier Helmet",
-			"timesDropped": 7076,
-			"dropRate": 0.11864719395026745
+			"timesDropped": 7083,
+			"dropRate": 0.11861142742313618
 		},
 		{
 			"itemName": "Shovel",
-			"timesDropped": 6021,
-			"dropRate": 0.1009574271869079
+			"timesDropped": 6030,
+			"dropRate": 0.1009779623551477
 		},
 		{
 			"itemName": "Chain Armor",
-			"timesDropped": 4433,
-			"dropRate": 0.07433055550897902
+			"timesDropped": 4438,
+			"dropRate": 0.0743184406189296
 		},
 		{
 			"itemName": "Piercing Bolt",
-			"timesDropped": 2277,
-			"dropRate": 0.03817971461627458
+			"timesDropped": 2282,
+			"dropRate": 0.03821421394601112
 		},
 		{
 			"itemName": "Dwarven Shield",
-			"timesDropped": 1837,
-			"dropRate": 0.030801991985110414
+			"timesDropped": 1838,
+			"dropRate": 0.030779020697970394
 		},
 		{
 			"itemName": "Crossbow",
-			"timesDropped": 1819,
-			"dropRate": 0.030500176059290063
+			"timesDropped": 1821,
+			"dropRate": 0.030494339875410274
 		},
 		{
 			"itemName": "Battle Axe",
-			"timesDropped": 1471,
-			"dropRate": 0.02466506816009658
+			"timesDropped": 1472,
+			"dropRate": 0.024650010047558443
 		},
 		{
 			"itemName": "Iron Ore",
-			"timesDropped": 182,
-			"dropRate": 0.0030516943610724525
+			"timesDropped": 183,
+			"dropRate": 0.003064505325205975
 		},
 		{
 			"itemName": "Axe Ring",
-			"timesDropped": 68,
-			"dropRate": 0.0011401934975435537
+			"timesDropped": 69,
+			"dropRate": 0.001155469220979302
 		}
 	]
 }
