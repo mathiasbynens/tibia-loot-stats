@@ -1,91 +1,91 @@
 {
 	"monsterName": "Pirate Buccaneer",
-	"timesKilled": 26016,
+	"timesKilled": 26050,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 17608,
-			"dropRate": 0.6768142681426814
+			"timesDropped": 17630,
+			"dropRate": 0.6767754318618042
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 2607,
-			"dropRate": 0.10020756457564575
+			"timesDropped": 2612,
+			"dropRate": 0.10026871401151631
 		},
 		{
 			"itemName": "Sabre",
-			"timesDropped": 2601,
-			"dropRate": 0.09997693726937269
+			"timesDropped": 2605,
+			"dropRate": 0.1
 		},
 		{
 			"itemName": "Worn Leather Boots",
-			"timesDropped": 2584,
-			"dropRate": 0.09932349323493235
+			"timesDropped": 2588,
+			"dropRate": 0.09934740882917466
 		},
 		{
 			"itemName": "Compass",
-			"timesDropped": 2563,
-			"dropRate": 0.09851629766297663
+			"timesDropped": 2566,
+			"dropRate": 0.09850287907869482
 		},
 		{
 			"itemName": "Throwing Knife",
-			"timesDropped": 2323,
-			"dropRate": 0.08929120541205413
+			"timesDropped": 2325,
+			"dropRate": 0.0892514395393474
 		},
 		{
 			"itemName": "Battle Shield",
 			"timesDropped": 1061,
-			"dropRate": 0.04078259532595326
+			"dropRate": 0.04072936660268714
 		},
 		{
 			"itemName": "Pirate Shirt",
-			"timesDropped": 294,
-			"dropRate": 0.011300738007380073
+			"timesDropped": 295,
+			"dropRate": 0.011324376199616123
+		},
+		{
+			"itemName": "Plate Armor",
+			"timesDropped": 265,
+			"dropRate": 0.01017274472168906
 		},
 		{
 			"itemName": "Treasure Map (Pirate)",
 			"timesDropped": 265,
-			"dropRate": 0.010186039360393605
-		},
-		{
-			"itemName": "Plate Armor",
-			"timesDropped": 264,
-			"dropRate": 0.01014760147601476
+			"dropRate": 0.01017274472168906
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 179,
-			"dropRate": 0.006880381303813038
+			"dropRate": 0.006871401151631478
 		},
 		{
 			"itemName": "Peg Leg",
 			"timesDropped": 127,
-			"dropRate": 0.004881611316113161
+			"dropRate": 0.004875239923224568
 		},
 		{
 			"itemName": "Pirate Backpack",
 			"timesDropped": 127,
-			"dropRate": 0.004881611316113161
+			"dropRate": 0.004875239923224568
 		},
 		{
 			"itemName": "Eye Patch",
 			"timesDropped": 119,
-			"dropRate": 0.0045741082410824105
+			"dropRate": 0.004568138195777351
 		},
 		{
 			"itemName": "Hook",
 			"timesDropped": 118,
-			"dropRate": 0.004535670356703567
+			"dropRate": 0.004529750479846449
 		},
 		{
 			"itemName": "Rum Flask",
 			"timesDropped": 32,
-			"dropRate": 0.0012300123001230013
+			"dropRate": 0.0012284069097888675
 		},
 		{
 			"itemName": "Die",
 			"timesDropped": 13,
-			"dropRate": 0.0004996924969249692
+			"dropRate": 0.0004990403071017275
 		}
 	]
 }

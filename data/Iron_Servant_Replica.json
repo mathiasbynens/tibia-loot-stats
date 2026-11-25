@@ -1,36 +1,36 @@
 {
 	"monsterName": "Iron Servant Replica",
-	"timesKilled": 12287,
+	"timesKilled": 12326,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 10694,
-			"dropRate": 0.8703507772442419
+			"timesDropped": 10733,
+			"dropRate": 0.8707609930228785
 		},
 		{
 			"itemName": "Gear Wheel",
-			"timesDropped": 649,
-			"dropRate": 0.052820053715308866
+			"timesDropped": 652,
+			"dropRate": 0.052896316728865814
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 264,
-			"dropRate": 0.021486123545210387
+			"dropRate": 0.021418140515982478
 		},
 		{
 			"itemName": "Halberd",
-			"timesDropped": 128,
-			"dropRate": 0.010417514446162611
+			"timesDropped": 129,
+			"dropRate": 0.010465682297582346
 		},
 		{
 			"itemName": "Heavily Rusted Armor",
 			"timesDropped": 66,
-			"dropRate": 0.005371530886302597
+			"dropRate": 0.005354535128995619
 		},
 		{
 			"itemName": "Slime Mould",
 			"timesDropped": 39,
-			"dropRate": 0.0031740864328151704
+			"dropRate": 0.003164043485315593
 		}
 	]
 }

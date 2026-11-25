@@ -1,71 +1,71 @@
 {
 	"monsterName": "Ink Splash",
-	"timesKilled": 3235,
+	"timesKilled": 3255,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2078,
-			"dropRate": 0.6423493044822256
+			"timesDropped": 2088,
+			"dropRate": 0.6414746543778802
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1926,
-			"dropRate": 0.5953632148377125
+			"timesDropped": 1938,
+			"dropRate": 0.5953917050691244
 		},
 		{
 			"itemName": "Star Ink",
-			"timesDropped": 209,
-			"dropRate": 0.06460587326120557
+			"timesDropped": 211,
+			"dropRate": 0.06482334869431644
 		},
 		{
 			"itemName": "Poisonous Slime",
 			"timesDropped": 140,
-			"dropRate": 0.04327666151468315
+			"dropRate": 0.043010752688172046
 		},
 		{
 			"itemName": "Inkwell",
-			"timesDropped": 111,
-			"dropRate": 0.034312210200927354
+			"timesDropped": 112,
+			"dropRate": 0.034408602150537634
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 85,
-			"dropRate": 0.02627511591962906
+			"timesDropped": 86,
+			"dropRate": 0.02642089093701997
 		},
 		{
 			"itemName": "Black Pearl",
 			"timesDropped": 29,
-			"dropRate": 0.008964451313755796
+			"dropRate": 0.008909370199692781
 		},
 		{
 			"itemName": "Candlestick",
 			"timesDropped": 23,
-			"dropRate": 0.0071097372488408035
+			"dropRate": 0.00706605222734255
 		},
 		{
 			"itemName": "Terra Hood",
 			"timesDropped": 12,
-			"dropRate": 0.0037094281298299847
+			"dropRate": 0.003686635944700461
 		},
 		{
 			"itemName": "Terra Legs",
 			"timesDropped": 11,
-			"dropRate": 0.0034003091190108192
+			"dropRate": 0.003379416282642089
 		},
 		{
 			"itemName": "Terra Boots",
 			"timesDropped": 10,
-			"dropRate": 0.0030911901081916537
+			"dropRate": 0.0030721966205837174
 		},
 		{
 			"itemName": "Terra Mantle",
 			"timesDropped": 9,
-			"dropRate": 0.0027820710973724882
+			"dropRate": 0.0027649769585253456
 		},
 		{
 			"itemName": "Terra Amulet",
 			"timesDropped": 6,
-			"dropRate": 0.0018547140649149924
+			"dropRate": 0.0018433179723502304
 		}
 	]
 }
