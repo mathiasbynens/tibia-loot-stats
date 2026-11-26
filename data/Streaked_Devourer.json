@@ -1,41 +1,46 @@
 {
 	"monsterName": "Streaked Devourer",
-	"timesKilled": 19,
+	"timesKilled": 24,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 19,
+			"timesDropped": 24,
 			"dropRate": 1
+		},
+		{
+			"itemName": "Streaked Devourer Maw",
+			"timesDropped": 5,
+			"dropRate": 0.20833333333333334
 		},
 		{
 			"itemName": "Streaked Devourer Eyes",
 			"timesDropped": 3,
-			"dropRate": 0.15789473684210525
+			"dropRate": 0.125
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 2,
-			"dropRate": 0.10526315789473684
-		},
-		{
-			"itemName": "Streaked Devourer Maw",
-			"timesDropped": 2,
-			"dropRate": 0.10526315789473684
+			"dropRate": 0.08333333333333333
 		},
 		{
 			"itemName": "Mercenary Sword",
+			"timesDropped": 2,
+			"dropRate": 0.08333333333333333
+		},
+		{
+			"itemName": "Streaked Devourer Legs",
+			"timesDropped": 2,
+			"dropRate": 0.08333333333333333
+		},
+		{
+			"itemName": "Guardian Halberd",
 			"timesDropped": 1,
-			"dropRate": 0.05263157894736842
+			"dropRate": 0.041666666666666664
 		},
 		{
 			"itemName": "Red Gem",
 			"timesDropped": 1,
-			"dropRate": 0.05263157894736842
-		},
-		{
-			"itemName": "Streaked Devourer Legs",
-			"timesDropped": 1,
-			"dropRate": 0.05263157894736842
+			"dropRate": 0.041666666666666664
 		}
 	]
 }

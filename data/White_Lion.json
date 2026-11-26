@@ -1,71 +1,71 @@
 {
 	"monsterName": "White Lion",
-	"timesKilled": 10456,
+	"timesKilled": 10470,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 10456,
+			"timesDropped": 10470,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Great Spirit Potion",
-			"timesDropped": 2538,
-			"dropRate": 0.24273144605967864
+			"timesDropped": 2541,
+			"dropRate": 0.24269340974212034
 		},
 		{
 			"itemName": "Lion's Mane",
-			"timesDropped": 1993,
-			"dropRate": 0.19060826319816374
+			"timesDropped": 1996,
+			"dropRate": 0.19063992359121298
 		},
 		{
 			"itemName": "Axe",
-			"timesDropped": 1581,
-			"dropRate": 0.15120504973221116
+			"timesDropped": 1583,
+			"dropRate": 0.15119388729703917
 		},
 		{
 			"itemName": "Terra Boots",
-			"timesDropped": 1562,
-			"dropRate": 0.14938791124713083
+			"timesDropped": 1564,
+			"dropRate": 0.14937917860553965
 		},
 		{
 			"itemName": "Leather Boots",
-			"timesDropped": 1520,
-			"dropRate": 0.14537107880642694
+			"timesDropped": 1524,
+			"dropRate": 0.14555873925501434
 		},
 		{
 			"itemName": "Twin Hooks",
-			"timesDropped": 1335,
-			"dropRate": 0.1276778882938026
+			"timesDropped": 1336,
+			"dropRate": 0.12760267430754538
 		},
 		{
 			"itemName": "Green Crystal Shard",
 			"timesDropped": 591,
-			"dropRate": 0.05652257077276205
+			"dropRate": 0.05644699140401146
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
 			"timesDropped": 466,
-			"dropRate": 0.04456771231828615
+			"dropRate": 0.04450811843361987
 		},
 		{
 			"itemName": "War Hammer",
 			"timesDropped": 366,
-			"dropRate": 0.03500382555470543
+			"dropRate": 0.03495702005730659
 		},
 		{
 			"itemName": "Yellow Gem",
 			"timesDropped": 283,
-			"dropRate": 0.027065799540933435
+			"dropRate": 0.02702960840496657
 		},
 		{
 			"itemName": "Green Crystal Fragment",
 			"timesDropped": 205,
-			"dropRate": 0.019605967865340475
+			"dropRate": 0.019579751671442217
 		},
 		{
 			"itemName": "Combat Knife",
 			"timesDropped": 203,
-			"dropRate": 0.01941469013006886
+			"dropRate": 0.01938872970391595
 		}
 	]
 }

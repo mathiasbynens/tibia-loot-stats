@@ -1,51 +1,56 @@
 {
 	"monsterName": "Lavaworm",
-	"timesKilled": 17,
+	"timesKilled": 25,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 17,
+			"timesDropped": 25,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Gold Ingot",
-			"timesDropped": 5,
-			"dropRate": 0.29411764705882354
+			"timesDropped": 8,
+			"dropRate": 0.32
 		},
 		{
 			"itemName": "Violet Crystal Shard",
 			"timesDropped": 4,
-			"dropRate": 0.23529411764705882
+			"dropRate": 0.16
 		},
 		{
 			"itemName": "Lavaworm Spike Roots",
 			"timesDropped": 3,
-			"dropRate": 0.17647058823529413
+			"dropRate": 0.12
+		},
+		{
+			"itemName": "Lavaworm Spikes",
+			"timesDropped": 3,
+			"dropRate": 0.12
+		},
+		{
+			"itemName": "Green Gem",
+			"timesDropped": 2,
+			"dropRate": 0.08
+		},
+		{
+			"itemName": "Wand of Voodoo",
+			"timesDropped": 2,
+			"dropRate": 0.08
 		},
 		{
 			"itemName": "Blue Crystal Shard",
 			"timesDropped": 1,
-			"dropRate": 0.058823529411764705
-		},
-		{
-			"itemName": "Green Gem",
-			"timesDropped": 1,
-			"dropRate": 0.058823529411764705
+			"dropRate": 0.04
 		},
 		{
 			"itemName": "Lavaworm Jaws",
 			"timesDropped": 1,
-			"dropRate": 0.058823529411764705
+			"dropRate": 0.04
 		},
 		{
-			"itemName": "Lavaworm Spikes",
+			"itemName": "Violet Gem",
 			"timesDropped": 1,
-			"dropRate": 0.058823529411764705
-		},
-		{
-			"itemName": "Wand of Voodoo",
-			"timesDropped": 1,
-			"dropRate": 0.058823529411764705
+			"dropRate": 0.04
 		}
 	]
 }
