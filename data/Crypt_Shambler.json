@@ -1,66 +1,66 @@
 {
 	"monsterName": "Crypt Shambler",
-	"timesKilled": 3151,
+	"timesKilled": 3205,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1825,
-			"dropRate": 0.5791812123135512
+			"timesDropped": 1857,
+			"dropRate": 0.5794071762870515
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 316,
-			"dropRate": 0.10028562361155188
+			"timesDropped": 322,
+			"dropRate": 0.10046801872074883
 		},
 		{
 			"itemName": "Half-Digested Piece of Meat",
-			"timesDropped": 160,
-			"dropRate": 0.050777530942557915
+			"timesDropped": 164,
+			"dropRate": 0.05117004680187207
 		},
 		{
 			"itemName": "Bone",
-			"timesDropped": 139,
-			"dropRate": 0.04411298000634719
+			"timesDropped": 146,
+			"dropRate": 0.045553822152886114
 		},
 		{
 			"itemName": "Rotten Meat",
-			"timesDropped": 60,
-			"dropRate": 0.01904157410345922
+			"timesDropped": 63,
+			"dropRate": 0.019656786271450857
 		},
 		{
 			"itemName": "Iron Helmet",
 			"timesDropped": 57,
-			"dropRate": 0.01808949539828626
+			"dropRate": 0.017784711388455537
 		},
 		{
 			"itemName": "Two Handed Sword",
-			"timesDropped": 52,
-			"dropRate": 0.016502697556331325
+			"timesDropped": 53,
+			"dropRate": 0.016536661466458658
 		},
 		{
 			"itemName": "Throwing Star",
-			"timesDropped": 35,
-			"dropRate": 0.011107584893684545
+			"timesDropped": 36,
+			"dropRate": 0.011232449297971918
+		},
+		{
+			"itemName": "Bone Shield",
+			"timesDropped": 30,
+			"dropRate": 0.0093603744149766
 		},
 		{
 			"itemName": "Bone Sword",
 			"timesDropped": 29,
-			"dropRate": 0.009203427483338623
-		},
-		{
-			"itemName": "Bone Shield",
-			"timesDropped": 28,
-			"dropRate": 0.008886067914947636
+			"dropRate": 0.009048361934477379
 		},
 		{
 			"itemName": "Small Diamond",
 			"timesDropped": 21,
-			"dropRate": 0.006664550936210727
+			"dropRate": 0.006552262090483619
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 2,
-			"dropRate": 0.0006347191367819739
+			"dropRate": 0.0006240249609984399
 		}
 	]
 }

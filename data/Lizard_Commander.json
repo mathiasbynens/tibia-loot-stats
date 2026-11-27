@@ -1,51 +1,51 @@
 {
 	"monsterName": "Lizard Commander",
-	"timesKilled": 439,
+	"timesKilled": 441,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 334,
-			"dropRate": 0.7608200455580866
+			"timesDropped": 335,
+			"dropRate": 0.7596371882086168
 		},
 		{
 			"itemName": "Dragon Necklace",
-			"timesDropped": 227,
-			"dropRate": 0.5170842824601367
+			"timesDropped": 228,
+			"dropRate": 0.5170068027210885
 		},
 		{
 			"itemName": "Health Potion",
 			"timesDropped": 135,
-			"dropRate": 0.30751708428246016
+			"dropRate": 0.30612244897959184
 		},
 		{
 			"itemName": "Mana Potion",
-			"timesDropped": 124,
-			"dropRate": 0.2824601366742597
+			"timesDropped": 125,
+			"dropRate": 0.2834467120181406
 		},
 		{
 			"itemName": "Lizard Tail",
-			"timesDropped": 80,
-			"dropRate": 0.18223234624145787
+			"timesDropped": 81,
+			"dropRate": 0.1836734693877551
 		},
 		{
 			"itemName": "Scale Armor",
 			"timesDropped": 31,
-			"dropRate": 0.07061503416856492
+			"dropRate": 0.07029478458049887
 		},
 		{
 			"itemName": "Small Emerald",
 			"timesDropped": 18,
-			"dropRate": 0.04100227790432802
+			"dropRate": 0.04081632653061224
 		},
 		{
 			"itemName": "Lizard Scale",
 			"timesDropped": 4,
-			"dropRate": 0.009111617312072893
+			"dropRate": 0.009070294784580499
 		},
 		{
 			"itemName": "Lizard Leather",
 			"timesDropped": 2,
-			"dropRate": 0.004555808656036446
+			"dropRate": 0.0045351473922902496
 		}
 	]
 }

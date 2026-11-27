@@ -1,86 +1,86 @@
 {
 	"monsterName": "Instable Sparkion",
-	"timesKilled": 9433,
+	"timesKilled": 9512,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9353,
-			"dropRate": 0.9915191349517651
+			"timesDropped": 9425,
+			"dropRate": 0.9908536585365854
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 8400,
-			"dropRate": 0.8904908300646666
+			"timesDropped": 8466,
+			"dropRate": 0.8900336417157275
 		},
 		{
 			"itemName": "Blue Crystal Splinter",
-			"timesDropped": 794,
-			"dropRate": 0.08417258560373159
+			"timesDropped": 796,
+			"dropRate": 0.08368376787216147
 		},
 		{
 			"itemName": "Sparkion Tail",
-			"timesDropped": 692,
-			"dropRate": 0.07335948266723205
+			"timesDropped": 696,
+			"dropRate": 0.07317073170731707
 		},
 		{
 			"itemName": "Sparkion Claw",
-			"timesDropped": 689,
-			"dropRate": 0.07304145022792324
+			"timesDropped": 692,
+			"dropRate": 0.0727502102607233
 		},
 		{
 			"itemName": "Sparkion Legs",
-			"timesDropped": 659,
-			"dropRate": 0.06986112583483516
+			"timesDropped": 662,
+			"dropRate": 0.06959629941126998
 		},
 		{
 			"itemName": "Sparkion Stings",
-			"timesDropped": 653,
-			"dropRate": 0.06922506095621754
+			"timesDropped": 656,
+			"dropRate": 0.06896551724137931
 		},
 		{
 			"itemName": "Cyan Crystal Fragment",
-			"timesDropped": 535,
-			"dropRate": 0.056715785010071025
+			"timesDropped": 539,
+			"dropRate": 0.05666526492851135
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 497,
-			"dropRate": 0.052687374112159444
+			"timesDropped": 498,
+			"dropRate": 0.05235492010092515
 		},
 		{
 			"itemName": "Energy Drink",
-			"timesDropped": 487,
-			"dropRate": 0.05162726598113008
-		},
-		{
-			"itemName": "Great Spirit Potion",
-			"timesDropped": 459,
-			"dropRate": 0.048658963214247855
+			"timesDropped": 488,
+			"dropRate": 0.051303616484440706
 		},
 		{
 			"itemName": "Great Mana Potion",
-			"timesDropped": 456,
-			"dropRate": 0.04834093077493904
+			"timesDropped": 462,
+			"dropRate": 0.04857022708158116
+		},
+		{
+			"itemName": "Great Spirit Potion",
+			"timesDropped": 462,
+			"dropRate": 0.04857022708158116
 		},
 		{
 			"itemName": "Energy Bar",
-			"timesDropped": 440,
-			"dropRate": 0.04664475776529206
+			"timesDropped": 443,
+			"dropRate": 0.04657275021026072
 		},
 		{
 			"itemName": "Great Health Potion",
-			"timesDropped": 440,
-			"dropRate": 0.04664475776529206
+			"timesDropped": 442,
+			"dropRate": 0.04646761984861228
 		},
 		{
 			"itemName": "Blue Crystal Shard",
-			"timesDropped": 409,
-			"dropRate": 0.04335842255910103
+			"timesDropped": 410,
+			"dropRate": 0.04310344827586207
 		},
 		{
 			"itemName": "Wand of Cosmic Energy",
 			"timesDropped": 47,
-			"dropRate": 0.004982508215838015
+			"dropRate": 0.004941126997476872
 		}
 	]
 }

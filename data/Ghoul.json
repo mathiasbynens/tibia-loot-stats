@@ -1,76 +1,76 @@
 {
 	"monsterName": "Ghoul",
-	"timesKilled": 11644,
+	"timesKilled": 11806,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 8092,
-			"dropRate": 0.6949501889385091
+			"timesDropped": 8210,
+			"dropRate": 0.6954091140098255
 		},
 		{
 			"itemName": "Rotten Piece of Cloth",
-			"timesDropped": 1729,
-			"dropRate": 0.14848849192717278
+			"timesDropped": 1749,
+			"dropRate": 0.14814501101135016
 		},
 		{
 			"itemName": "Worm",
-			"timesDropped": 1176,
-			"dropRate": 0.10099622122981793
+			"timesDropped": 1188,
+			"dropRate": 0.10062679993223785
 		},
 		{
 			"itemName": "Ghoul Snack",
-			"timesDropped": 584,
-			"dropRate": 0.05015458605290278
+			"timesDropped": 591,
+			"dropRate": 0.05005929188548196
 		},
 		{
 			"itemName": "Torch",
-			"timesDropped": 543,
-			"dropRate": 0.046633459292339405
+			"timesDropped": 549,
+			"dropRate": 0.04650177875656446
 		},
 		{
 			"itemName": "Heavy Old Tome",
-			"timesDropped": 261,
-			"dropRate": 0.02241497767090347
+			"timesDropped": 264,
+			"dropRate": 0.022361511096052854
 		},
 		{
 			"itemName": "Pile of Grave Earth",
-			"timesDropped": 123,
-			"dropRate": 0.01056338028169014
+			"timesDropped": 124,
+			"dropRate": 0.010503133999661188
 		},
 		{
 			"itemName": "Scale Armor",
-			"timesDropped": 120,
-			"dropRate": 0.010305736860185504
+			"timesDropped": 123,
+			"dropRate": 0.010418431306115535
 		},
 		{
 			"itemName": "Viking Helmet",
 			"timesDropped": 106,
-			"dropRate": 0.009103400893163862
+			"dropRate": 0.008978485515839404
 		},
 		{
 			"itemName": "Brown Piece of Cloth",
 			"timesDropped": 102,
-			"dropRate": 0.008759876331157677
+			"dropRate": 0.008639674741656785
 		},
 		{
 			"itemName": "Life Ring",
 			"timesDropped": 34,
-			"dropRate": 0.0029199587770525593
+			"dropRate": 0.0028798915805522615
 		},
 		{
 			"itemName": "Skull",
 			"timesDropped": 32,
-			"dropRate": 0.0027481964960494676
+			"dropRate": 0.002710486193460952
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 3,
-			"dropRate": 0.00025764342150463756
+			"dropRate": 0.00025410808063696424
 		},
 		{
 			"itemName": "Lesser Spiritualist Gem",
 			"timesDropped": 1,
-			"dropRate": 0.00008588114050154586
+			"dropRate": 0.00008470269354565475
 		}
 	]
 }
