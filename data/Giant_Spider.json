@@ -1,71 +1,71 @@
 {
 	"monsterName": "Giant Spider",
-	"timesKilled": 104561,
+	"timesKilled": 104567,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 104546,
-			"dropRate": 0.9998565430705522
+			"timesDropped": 104552,
+			"dropRate": 0.999856551302036
 		},
 		{
 			"itemName": "Poison Arrow",
-			"timesDropped": 12477,
-			"dropRate": 0.11932747391474832
+			"timesDropped": 12478,
+			"dropRate": 0.1193301902129735
 		},
 		{
 			"itemName": "Plate Armor",
 			"timesDropped": 10494,
-			"dropRate": 0.10036246784173831
+			"dropRate": 0.10035670909560378
 		},
 		{
 			"itemName": "Plate Legs",
 			"timesDropped": 8248,
-			"dropRate": 0.0788821836057421
+			"dropRate": 0.07887765738712978
 		},
 		{
 			"itemName": "Two Handed Sword",
 			"timesDropped": 5314,
-			"dropRate": 0.05082200820573637
+			"dropRate": 0.050819092065374355
 		},
 		{
 			"itemName": "Steel Helmet",
-			"timesDropped": 5133,
-			"dropRate": 0.04909096125706525
+			"timesDropped": 5136,
+			"dropRate": 0.0491168341828684
 		},
 		{
 			"itemName": "Strong Health Potion",
 			"timesDropped": 3703,
-			"dropRate": 0.035414733983033825
+			"dropRate": 0.03541270190404239
 		},
 		{
 			"itemName": "Spider Silk",
 			"timesDropped": 2073,
-			"dropRate": 0.019825747649697308
+			"dropRate": 0.0198246100586227
 		},
 		{
 			"itemName": "Knight Legs",
-			"timesDropped": 852,
-			"dropRate": 0.008148353592639703
+			"timesDropped": 853,
+			"dropRate": 0.00815744929088527
 		},
 		{
 			"itemName": "Time Ring",
 			"timesDropped": 749,
-			"dropRate": 0.007163282677097579
+			"dropRate": 0.007162871651668308
 		},
 		{
 			"itemName": "Knight Armor",
 			"timesDropped": 515,
-			"dropRate": 0.004925354577710619
+			"dropRate": 0.004925071963430145
 		},
 		{
 			"itemName": "Lightning Headband",
 			"timesDropped": 285,
-			"dropRate": 0.00272568165950976
+			"dropRate": 0.0027255252613157116
 		},
 		{
 			"itemName": "Platinum Amulet",
 			"timesDropped": 284,
-			"dropRate": 0.0027161178642132345
+			"dropRate": 0.002715962014784779
 		}
 	]
 }

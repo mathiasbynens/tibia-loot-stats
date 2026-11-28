@@ -1,46 +1,46 @@
 {
 	"monsterName": "Orc Cult Minion",
-	"timesKilled": 9671,
+	"timesKilled": 9758,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9671,
+			"timesDropped": 9758,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Cultish Robe",
-			"timesDropped": 1951,
-			"dropRate": 0.20173715231103298
+			"timesDropped": 1970,
+			"dropRate": 0.20188563230170117
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 1556,
-			"dropRate": 0.16089339261710267
+			"timesDropped": 1564,
+			"dropRate": 0.1602787456445993
 		},
 		{
 			"itemName": "Small Topaz",
-			"timesDropped": 1327,
-			"dropRate": 0.1372143521869507
+			"timesDropped": 1336,
+			"dropRate": 0.1369133019061283
 		},
 		{
 			"itemName": "Orcish Axe",
-			"timesDropped": 808,
-			"dropRate": 0.08354875400682453
+			"timesDropped": 811,
+			"dropRate": 0.08311129329780692
 		},
 		{
 			"itemName": "Red Mushroom",
-			"timesDropped": 774,
-			"dropRate": 0.08003308861544825
+			"timesDropped": 782,
+			"dropRate": 0.08013937282229965
 		},
 		{
 			"itemName": "Meat",
-			"timesDropped": 505,
-			"dropRate": 0.052217971254265326
+			"timesDropped": 507,
+			"dropRate": 0.05195736831317893
 		},
 		{
 			"itemName": "Berserk Potion",
 			"timesDropped": 106,
-			"dropRate": 0.01096060386723193
+			"dropRate": 0.010862881738061079
 		}
 	]
 }

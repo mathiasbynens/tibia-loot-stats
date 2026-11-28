@@ -1,71 +1,71 @@
 {
 	"monsterName": "Ink Splash",
-	"timesKilled": 3291,
+	"timesKilled": 3315,
 	"items": [
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2110,
-			"dropRate": 0.6411425098754178
+			"timesDropped": 2129,
+			"dropRate": 0.6422322775263952
 		},
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 1956,
-			"dropRate": 0.5943482224247949
+			"timesDropped": 1977,
+			"dropRate": 0.5963800904977375
 		},
 		{
 			"itemName": "Star Ink",
-			"timesDropped": 212,
-			"dropRate": 0.0644181099969614
+			"timesDropped": 214,
+			"dropRate": 0.06455505279034691
 		},
 		{
 			"itemName": "Poisonous Slime",
-			"timesDropped": 141,
-			"dropRate": 0.04284412032816773
+			"timesDropped": 142,
+			"dropRate": 0.04283559577677225
 		},
 		{
 			"itemName": "Inkwell",
 			"timesDropped": 113,
-			"dropRate": 0.03433606806441811
+			"dropRate": 0.03408748114630467
 		},
 		{
 			"itemName": "Giant Shimmering Pearl",
-			"timesDropped": 86,
-			"dropRate": 0.026131874810088117
+			"timesDropped": 87,
+			"dropRate": 0.026244343891402715
 		},
 		{
 			"itemName": "Black Pearl",
-			"timesDropped": 30,
-			"dropRate": 0.009115770282588878
+			"timesDropped": 31,
+			"dropRate": 0.009351432880844645
 		},
 		{
 			"itemName": "Candlestick",
 			"timesDropped": 23,
-			"dropRate": 0.006988757216651474
+			"dropRate": 0.0069381598793363496
 		},
 		{
 			"itemName": "Terra Hood",
 			"timesDropped": 12,
-			"dropRate": 0.0036463081130355514
+			"dropRate": 0.0036199095022624436
 		},
 		{
 			"itemName": "Terra Legs",
-			"timesDropped": 11,
-			"dropRate": 0.003342449103615922
+			"timesDropped": 12,
+			"dropRate": 0.0036199095022624436
 		},
 		{
 			"itemName": "Terra Boots",
 			"timesDropped": 10,
-			"dropRate": 0.003038590094196293
+			"dropRate": 0.0030165912518853697
 		},
 		{
 			"itemName": "Terra Mantle",
 			"timesDropped": 9,
-			"dropRate": 0.0027347310847766638
+			"dropRate": 0.0027149321266968325
 		},
 		{
 			"itemName": "Terra Amulet",
 			"timesDropped": 7,
-			"dropRate": 0.002127013065937405
+			"dropRate": 0.0021116138763197585
 		}
 	]
 }

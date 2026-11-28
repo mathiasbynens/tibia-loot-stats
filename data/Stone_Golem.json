@@ -1,66 +1,66 @@
 {
 	"monsterName": "Stone Golem",
-	"timesKilled": 40521,
+	"timesKilled": 40526,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 38904,
-			"dropRate": 0.9600947656770563
+			"timesDropped": 38908,
+			"dropRate": 0.9600750135715344
 		},
 		{
 			"itemName": "Small Stone",
-			"timesDropped": 5234,
-			"dropRate": 0.12916759211273168
+			"timesDropped": 5235,
+			"dropRate": 0.12917633124413958
 		},
 		{
 			"itemName": "Sulphurous Stone",
-			"timesDropped": 4063,
-			"dropRate": 0.10026899632289431
+			"timesDropped": 4064,
+			"dropRate": 0.10028130089325371
 		},
 		{
 			"itemName": "Power Ring",
 			"timesDropped": 2071,
-			"dropRate": 0.05110930134991733
+			"dropRate": 0.05110299560775798
 		},
 		{
 			"itemName": "Carlin Sword",
 			"timesDropped": 1036,
-			"dropRate": 0.025566989955825375
+			"dropRate": 0.02556383556235503
 		},
 		{
 			"itemName": "Iron Ore",
 			"timesDropped": 800,
-			"dropRate": 0.019742849386737742
+			"dropRate": 0.019740413561664116
 		},
 		{
 			"itemName": "Ancient Stone",
 			"timesDropped": 415,
-			"dropRate": 0.010241603119370203
+			"dropRate": 0.01024033953511326
 		},
 		{
 			"itemName": "Shiny Stone",
 			"timesDropped": 315,
-			"dropRate": 0.007773746946027986
+			"dropRate": 0.007772787839905246
 		},
 		{
 			"itemName": "Coal",
 			"timesDropped": 221,
-			"dropRate": 0.005453962143086301
+			"dropRate": 0.005453289246409712
 		},
 		{
 			"itemName": "Piece of Marble Rock",
 			"timesDropped": 175,
-			"dropRate": 0.004318748303348881
+			"dropRate": 0.0043182154666140254
 		},
 		{
 			"itemName": "Crystal Ring",
 			"timesDropped": 73,
-			"dropRate": 0.0018015350065398188
+			"dropRate": 0.0018013127375018506
 		},
 		{
 			"itemName": "Red Gem",
 			"timesDropped": 19,
-			"dropRate": 0.00046889267293502134
+			"dropRate": 0.00046883482208952276
 		}
 	]
 }

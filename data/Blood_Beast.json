@@ -1,71 +1,71 @@
 {
 	"monsterName": "Blood Beast",
-	"timesKilled": 9277,
+	"timesKilled": 9295,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 9277,
+			"timesDropped": 9295,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Slime Heart",
-			"timesDropped": 1865,
-			"dropRate": 0.20103481729007222
+			"timesDropped": 1867,
+			"dropRate": 0.20086067778375472
 		},
 		{
 			"itemName": "Poisoned Fang",
-			"timesDropped": 1460,
-			"dropRate": 0.15737846286515036
+			"timesDropped": 1463,
+			"dropRate": 0.15739644970414202
 		},
 		{
 			"itemName": "Viper Star",
-			"timesDropped": 731,
-			"dropRate": 0.07879702490029104
+			"timesDropped": 735,
+			"dropRate": 0.07907477138246369
 		},
 		{
 			"itemName": "Strong Health Potion",
-			"timesDropped": 666,
-			"dropRate": 0.07179044949876037
+			"timesDropped": 668,
+			"dropRate": 0.07186659494351802
 		},
 		{
 			"itemName": "Poisonous Slime",
 			"timesDropped": 434,
-			"dropRate": 0.046782364988681685
+			"dropRate": 0.046691769768692847
 		},
 		{
 			"itemName": "Glooth Steak",
 			"timesDropped": 326,
-			"dropRate": 0.035140670475369194
+			"dropRate": 0.035072619688004306
 		},
 		{
 			"itemName": "Glooth Spear",
 			"timesDropped": 94,
-			"dropRate": 0.010132585965290503
+			"dropRate": 0.010112963959117805
+		},
+		{
+			"itemName": "Glooth Blade",
+			"timesDropped": 66,
+			"dropRate": 0.007100591715976331
 		},
 		{
 			"itemName": "Glooth Club",
 			"timesDropped": 66,
-			"dropRate": 0.007114368869246524
-		},
-		{
-			"itemName": "Glooth Blade",
-			"timesDropped": 65,
-			"dropRate": 0.007006575401530667
+			"dropRate": 0.007100591715976331
 		},
 		{
 			"itemName": "Glooth Amulet",
 			"timesDropped": 63,
-			"dropRate": 0.006790988466098954
+			"dropRate": 0.006777837547068316
 		},
 		{
 			"itemName": "Glooth Axe",
 			"timesDropped": 61,
-			"dropRate": 0.006575401530667242
+			"dropRate": 0.006562668101129639
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 9,
-			"dropRate": 0.0009701412094427077
+			"dropRate": 0.0009682625067240452
 		}
 	]
 }

@@ -1,71 +1,71 @@
 {
 	"monsterName": "Iks Chuka",
-	"timesKilled": 6425,
+	"timesKilled": 6471,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 5553,
-			"dropRate": 0.8642801556420233
+			"timesDropped": 5593,
+			"dropRate": 0.8643177252356669
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 2591,
-			"dropRate": 0.40326848249027236
+			"timesDropped": 2608,
+			"dropRate": 0.4030288981610261
 		},
 		{
 			"itemName": "Violet Crystal Shard",
-			"timesDropped": 947,
-			"dropRate": 0.1473929961089494
+			"timesDropped": 949,
+			"dropRate": 0.14665430381702982
 		},
 		{
 			"itemName": "Green Crystal Splinter",
-			"timesDropped": 773,
-			"dropRate": 0.12031128404669261
+			"timesDropped": 780,
+			"dropRate": 0.1205377839592026
 		},
 		{
 			"itemName": "Small Sapphire",
-			"timesDropped": 675,
-			"dropRate": 0.10505836575875487
+			"timesDropped": 681,
+			"dropRate": 0.10523875753361149
 		},
 		{
 			"itemName": "Royal Spear",
-			"timesDropped": 259,
-			"dropRate": 0.040311284046692604
+			"timesDropped": 260,
+			"dropRate": 0.0401792613197342
 		},
 		{
 			"itemName": "Crystal Ring",
 			"timesDropped": 123,
-			"dropRate": 0.01914396887159533
+			"dropRate": 0.019007881316643487
 		},
 		{
 			"itemName": "Rotten Feather",
 			"timesDropped": 117,
-			"dropRate": 0.018210116731517508
+			"dropRate": 0.01808066759388039
 		},
 		{
 			"itemName": "Gold Ingot",
 			"timesDropped": 95,
-			"dropRate": 0.014785992217898832
+			"dropRate": 0.014680883943749034
 		},
 		{
 			"itemName": "Gold-Brocaded Cloth",
 			"timesDropped": 84,
-			"dropRate": 0.013073929961089494
+			"dropRate": 0.012980992118683357
 		},
 		{
 			"itemName": "Ritual Tooth",
-			"timesDropped": 61,
-			"dropRate": 0.009494163424124513
+			"timesDropped": 62,
+			"dropRate": 0.009581208468552002
 		},
 		{
 			"itemName": "Stone Skin Amulet",
 			"timesDropped": 31,
-			"dropRate": 0.004824902723735408
+			"dropRate": 0.004790604234276001
 		},
 		{
 			"itemName": "Broken Iks Spear",
 			"timesDropped": 2,
-			"dropRate": 0.000311284046692607
+			"dropRate": 0.0003090712409210323
 		}
 	]
 }

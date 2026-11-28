@@ -1,126 +1,126 @@
 {
 	"monsterName": "Goggle Cake",
-	"timesKilled": 6823,
+	"timesKilled": 6828,
 	"items": [
 		{
 			"itemName": "Gold Coin",
-			"timesDropped": 6823,
+			"timesDropped": 6828,
 			"dropRate": 1
 		},
 		{
 			"itemName": "Platinum Coin",
-			"timesDropped": 5441,
-			"dropRate": 0.7974498021398212
+			"timesDropped": 5446,
+			"dropRate": 0.7975981253661394
 		},
 		{
 			"itemName": "Small Enchanted Sapphire",
 			"timesDropped": 467,
-			"dropRate": 0.06844496555767257
+			"dropRate": 0.06839484475688343
+		},
+		{
+			"itemName": "Combat Knife",
+			"timesDropped": 392,
+			"dropRate": 0.05741066198008202
 		},
 		{
 			"itemName": "Great Mana Potion",
 			"timesDropped": 392,
-			"dropRate": 0.05745273340172945
-		},
-		{
-			"itemName": "Combat Knife",
-			"timesDropped": 391,
-			"dropRate": 0.05730617030631687
+			"dropRate": 0.05741066198008202
 		},
 		{
 			"itemName": "Rainbow Quartz",
-			"timesDropped": 265,
-			"dropRate": 0.038839220284332406
+			"timesDropped": 266,
+			"dropRate": 0.03895723491505566
 		},
 		{
 			"itemName": "Small Sapphire",
 			"timesDropped": 251,
-			"dropRate": 0.036787336948556355
+			"dropRate": 0.03676039835969537
 		},
 		{
 			"itemName": "Red Gem",
 			"timesDropped": 168,
-			"dropRate": 0.02462260002931262
+			"dropRate": 0.02460456942003515
 		},
 		{
 			"itemName": "Spirit Cloak",
 			"timesDropped": 122,
-			"dropRate": 0.017880697640334165
+			"dropRate": 0.017867603983596953
 		},
 		{
 			"itemName": "Gummy Rotworm",
 			"timesDropped": 104,
-			"dropRate": 0.015242561922907813
+			"dropRate": 0.015231400117164616
 		},
 		{
 			"itemName": "Churro Heart",
 			"timesDropped": 100,
-			"dropRate": 0.014656309541257512
+			"dropRate": 0.014645577035735208
 		},
 		{
 			"itemName": "Egg",
-			"timesDropped": 70,
-			"dropRate": 0.010259416678880258
+			"timesDropped": 71,
+			"dropRate": 0.010398359695371997
 		},
 		{
 			"itemName": "Glacier Amulet",
 			"timesDropped": 58,
-			"dropRate": 0.008500659533929356
+			"dropRate": 0.00849443468072642
 		},
 		{
 			"itemName": "Flour",
 			"timesDropped": 50,
-			"dropRate": 0.007328154770628756
+			"dropRate": 0.007322788517867604
 		},
 		{
 			"itemName": "Milk Chocolate Coin",
 			"timesDropped": 43,
-			"dropRate": 0.00630221310274073
+			"dropRate": 0.006297598125366139
 		},
 		{
 			"itemName": "Cookie",
 			"timesDropped": 42,
-			"dropRate": 0.006155650007328155
+			"dropRate": 0.006151142355008787
 		},
 		{
 			"itemName": "Glacier Robe",
 			"timesDropped": 39,
-			"dropRate": 0.0057159607210904295
+			"dropRate": 0.0057117750439367315
 		},
 		{
 			"itemName": "Epee",
 			"timesDropped": 30,
-			"dropRate": 0.004396892862377253
+			"dropRate": 0.004393673110720563
 		},
 		{
 			"itemName": "Ice Rapier",
 			"timesDropped": 16,
-			"dropRate": 0.0023450095266012018
+			"dropRate": 0.0023432923257176333
 		},
 		{
 			"itemName": "Cream Cake",
 			"timesDropped": 11,
-			"dropRate": 0.0016121940495383263
+			"dropRate": 0.001611013473930873
 		},
 		{
 			"itemName": "Gold Coins (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 3,
-			"dropRate": 0.00043968928623772536
+			"dropRate": 0.0004393673110720562
 		},
 		{
 			"itemName": "Platinum Coins (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 3,
-			"dropRate": 0.00043968928623772536
+			"dropRate": 0.0004393673110720562
 		},
 		{
 			"itemName": "Combat Knife (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.0001465630954125751
+			"dropRate": 0.00014645577035735208
 		},
 		{
 			"itemName": "Small Enchanted Sapphires (Bounty Talisman Effect: More Loot)",
 			"timesDropped": 1,
-			"dropRate": 0.0001465630954125751
+			"dropRate": 0.00014645577035735208
 		}
 	]
 }
